@@ -6,11 +6,11 @@ This repository contains raw data about European elections (public domain unless
 
 ## Countries covered
 
-| country | years     |                                                                             |
-|---------|-----------|-----------------------------------------------------------------------------|
-| poland  | 0000-2025 | parliamentary elections, presidential elections, local-government elections |
-| .       | .         | .                                                                           |
-| .       | .         | .                                                                           |
+| country | years     | election types                                |
+|---------|---------- |-----------------------------------------------|
+| poland  | 1998-2025 | parliamentary, presidential, local-government |
+|         |           |                                               |
+|         |           |                                               |
 
 ## License
 
