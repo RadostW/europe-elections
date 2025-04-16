@@ -1,5 +1,11 @@
 # Data sources
 
+## NUTS 3 codes and names
+
+Names and numeric codes are easiest found on Wikipedia.
+
+[Wikipedia: NUTS regions of Poland.](https://en.wikipedia.org/wiki/NUTS_statistical_regions_of_Poland)
+
 ## Teritorial and NUTS coding data
 
 Baza Danych Lokalnych (BDL) - *eng. Local Statistics Database* - service ran by Polish Statistical Office offering various socio-economic data (and administrative data).
@@ -9,4 +15,5 @@ BDL offers good JSON api which was used.
 
 ## Election data
 Krajowe Biuro Wyborcze (KBW) - *eng. National Election Office* - government agency responsible for election data
+
 [KBW electoral data sheets.](https://danewyborcze.kbw.gov.pl/indexc4fa.html?title=Strona_g%C5%82%C3%B3wna)
