@@ -12,7 +12,7 @@ harmonised_dir = os.path.join(
 )
 graphics_dir = os.path.join(os.path.dirname(__file__), "../../data/poland/graphics")
 
-shapefile_name = "nuts3_poland.geojson"
+shapefile_name = "poland__nuts3.geojson"
 shapefile_path = os.path.join(raw_dir, shapefile_name)
 
 # Load the shapefile
