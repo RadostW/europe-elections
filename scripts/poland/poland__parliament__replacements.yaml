@@ -1,11 +1,12 @@
 "poland__parliament_2001":
   "delimiter": ","
+  "teryt_column": "TERYT"
   "candidates_replacements":
     "1 - SLD-UP": "SLD_UP"
     "2 - AWSP": "AWSP"
     "3 - UW": "UW"
     "4 - Samoobrona": "SAMOOBRONA"
-    "5 - PiS": "PIS"
+    "5 - \"PiS\"": "PIS"
     "6 - PSL": "PSL"
     "7 - PO": "PO"
     "8 - ARS": "ARS"
@@ -22,6 +23,7 @@
 
 "poland__parliament_2005":
   "delimiter": ","
+  "teryt_column": "TERYT"
   "candidates_replacements":
     "1 - Ruch Patriotyczny": "RP"
     "2 - Polska Partia Pracy": "PPS"
@@ -52,6 +54,7 @@
 
 "poland__parliament_2007":
   "delimiter": ","
+  "teryt_column": "Kod pow."
   "candidates_replacements":
     "2 - Polska Partia Pracy" : "PPP"
     "3 - Liga Polskich Rodzin": "LPR"
@@ -70,6 +73,7 @@
 
 "poland__parliament_2011":
   "delimiter": ","
+  "teryt_column": "TERYT"
   "candidates_replacements":
     "Komitet Wyborczy Nasz Dom Polska-Samoobrona Andrzeja Leppera": "SAMOOBRONA"
     "Komitet Wyborczy Nowa Prawica - Janusza Korwin-Mikke": "NP"
@@ -89,6 +93,7 @@
 
 "poland__parliament_2015":
   "delimiter": ","
+  "teryt_column": "TERYT"
   "candidates_replacements":
     "1 - Komitet Wyborczy Prawo i Sprawiedliwość": "PIS"
     "2 - Komitet Wyborczy Platforma Obywatelska RP": "PO"
@@ -114,6 +119,7 @@
 
 "poland__parliament_2019":
   "delimiter": ","
+  "teryt_column": "Kod TERYT"
   "candidates_replacements":
     "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI - ZPOW-601-6/19": "PO"
     "KOMITET WYBORCZY AKCJA ZAWIEDZIONYCH EMERYTÓW RENCISTÓW - ZPOW-601-21/19": "ZER"
@@ -132,6 +138,7 @@
 
 "poland__parliament_2023":
   "delimiter": ","
+  "teryt_column": "TERYT Powiatu"
   "candidates_replacements":
     "KOMITET WYBORCZY BEZPARTYJNI SAMORZĄDOWCY": "BS"
     "KOALICYJNY KOMITET WYBORCZY TRZECIA DROGA POLSKA 2050 SZYMONA HOŁOWNI - POLSKIE STRONNICTWO LUDOWE": "TD"
@@ -144,7 +151,7 @@
     "KOMITET WYBORCZY NORMALNY KRAJ": "NK"
     "KOMITET WYBORCZY ANTYPARTIA": "ANTYPARTIA"
     "KOMITET WYBORCZY RUCH NAPRAWY POLSKI": "RNP"
-    "KOMITET WYBORCZY WYBORCÓW MNIEJSZOŚĆ NIEMIECK": "MN"
+    "KOMITET WYBORCZY WYBORCÓW MNIEJSZOŚĆ NIEMIECKA": "MN"
   "other_replacements":
     "Liczba wyborców uprawnionych do głosowania": "eligible_voters"
     "Liczba wyborców, którym wydano karty do głosowania": "issued_ballots"

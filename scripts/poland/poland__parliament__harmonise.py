@@ -10,7 +10,11 @@ intermediate_dir = os.path.join(
 )
 base_dir = os.path.join(os.path.dirname(__file__), "../../data/poland/raw_datasets")
 
-with open('poland__parliament__replacements.yaml', 'r') as file:
+replacements_path = os.path.join(
+    os.path.dirname(__file__), "poland__parliament__replacements.yaml"
+)
+
+with open(replacements_path, 'r') as file:
     config = yaml.safe_load(file)
 
 print("Using config:")
@@ -45,17 +49,34 @@ def get_replacements(standard_name):
     return config[standard_name]["candidates_replacements"], config[standard_name]["other_replacements"]
 
 def get_delimiter(standard_name):
-    return config[standard_name]["standard"]
+    return config[standard_name]["delimiter"]
+
+def get_teryt_column(standard_name):
+    return config[standard_name]["teryt_column"]
+
+def standardize_teryt(df):
+    max = df["teryt_code"].max()
+    if 999 < max and max < 10_000:        
+        df["teryt_code"] = "T_" + df["teryt_code"].astype(int).astype(str).str.zfill(4)
+    elif 99999 < max and max < 1_000_000:
+        df["teryt_code"] = "T_" + df["teryt_code"].astype(int).astype(str).str.zfill(6).str[:4]
+    else:
+        raise NotImplementedError
 
 # Function to process and clean election data
 def process_election_data(file_path, regions_df, output_path, standard_name):
     delimiter = get_delimiter(standard_name)
     election_df = pd.read_csv(file_path, delimiter=delimiter)
 
-    if standard_name == "poland__parilament__2001":
-        raise NotImplementedError
-    else:
-        raise NotImplementedError
+    election_df["teryt_code"] = election_df[get_teryt_column(standard_name)].copy()
+    standardize_teryt(election_df)
+
+    renamed_powiats = {
+        "T_1431": "T_1465",  # warszawski -> m. Warszawa
+        "T_0263": "T_0265",  # Wałbrzych -> Wałbrzych
+    }
+    election_df["teryt_code"].replace(renamed_powiats, inplace=True)
+
 
     candidates_replacements, other_replacements = get_replacements(standard_name)
 
@@ -66,7 +87,20 @@ def process_election_data(file_path, regions_df, output_path, standard_name):
     # Rename columns and fill missing values
     export_df.rename(columns=candidates_replacements, inplace=True)
     export_df.rename(columns=other_replacements, inplace=True)
-    export_df.fillna(-1, inplace=True)
+
+    # no data -> zero votes
+    cols = list(candidates_replacements.values())
+    export_df[cols] = export_df[cols].fillna(0.0)
+    export_df[cols] = export_df[cols].astype(float)
+
+    
+
+    if "invalid_balots" not in export_df.columns:
+        # best guess on number of invalid ballots
+        export_df["valid_ballots"] = export_df[list(candidates_replacements.values())].sum(axis = 1)
+        export_df["invalid_ballots"] = export_df["issued_ballots"] - export_df["valid_ballots"]
+    
+    export_df.fillna(-1, inplace=True) # no data -> invalid
 
     # Define the order of columns and export the cleaned data
     prefix_columns = [
@@ -78,7 +112,7 @@ def process_election_data(file_path, regions_df, output_path, standard_name):
         "eligible_voters",
         "issued_ballots",
         "invalid_ballots",
-    ]
+    ]    
     suffix_columns = [
         "voivodship_name",
         "voivodship_name_extra",
@@ -97,7 +131,7 @@ def process_election_data(file_path, regions_df, output_path, standard_name):
 
 
 # Main code execution
-file_pattern = os.path.join(base_dir, "poland__president*.csv")
+file_pattern = os.path.join(base_dir, "poland__parliament*.csv")
 csv_files = glob(file_pattern)
 
 regions_file = os.path.join(base_dir, "../intermediate_datasets/poland__region_id.csv")
@@ -109,7 +143,7 @@ if not csv_files:
 for file_path in sorted(csv_files):
     print(f"Loading file: {os.path.basename(file_path)}")
     try:
-        standard_name = os.path.basename(file_path)[: len("poland__president_2000_a")]
+        standard_name = os.path.basename(file_path)[: len("poland__parilament_2000")]
         output_path = os.path.join(intermediate_dir, f"{standard_name}.csv")
 
         process_election_data(file_path, regions_df, output_path, standard_name)
