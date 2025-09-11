@@ -2,7 +2,7 @@
   "delimiter": ","
   "teryt_column": "TERYT"
   "candidates_replacements":
-    "1 - SLD-UP": "SLD_UP"
+    "1 - SLD-UP": "SLDUP"
     "2 - AWSP": "AWSP"
     "3 - UW": "UW"
     "4 - Samoobrona": "SAMOOBRONA"
@@ -15,7 +15,7 @@
     "11 - MnN": "MNW"
     "13 - PUG": "PUG"
     "14 - PPS": "PPS"
-    "15 - NMnGŚl": "NMNGŚL"    
+    "15 - NMnGŚl": "NMNGSL"    
   "other_replacements":
     "L. upr.": "eligible_voters"
     "Frekw.": "issued_ballots"
@@ -46,7 +46,7 @@
     "19 - Stronnictwo Pracy": "SP"
     "19 - Społeczni Ratownicy": "SR"
     "19 - Mniejszość Niemiecka": "MN"
-    "19 - Mniejszość Niemiecka Śląska": "MNŚ"
+    "19 - Mniejszość Niemiecka Śląska": "MNS"
   "other_replacements":
     "Uprawnieni do głosowania": "eligible_voters"
     "Karty wydane (frekwencja)": "issued_ballots"
@@ -106,7 +106,7 @@
     "9 - Komitet Wyborczy Wyborców JOW Bezpartyjni": "BEZPARTYJNI"
     "10 - Komitet Wyborczy Wyborców Zbigniewa Stonogi":  "STONOGA"
     "11 - Komitet Wyborczy Wyborców  Ruch Społeczny Rzeczypospolitej Polskiej": "RSRP"
-    "12 - Komitet Wyborczy Wyborców Zjednoczeni dla Śląska": "ZDŚ"
+    "12 - Komitet Wyborczy Wyborców Zjednoczeni dla Śląska": "ZDS"
     "13 - Komitet Wyborczy Samoobrona": "SAMOOBRONA"
     "14 - Komitet Wyborczy Wyborców Grzegorza Brauna „Szczęść Boże!”": "BRAUN"
     "15 - Komitet Wyborczy Kongres Nowej Prawicy": "PRAWICA"

@@ -2,16 +2,13 @@
 
 ## Abstract
 
-This repository contains raw data about European elections (public domain unless specified otherwise), 
-and aggregates it into NUTS regions to be used with, for example, Eurostat datasets.
+This repository contains raw data about elections (public domain unless specified otherwise), and aggregates it into NUTS regions to be used with, for example, Eurostat datasets.
 
 ## Countries covered
 
 | country | years     | election types                                |
 |---------|---------- |-----------------------------------------------|
-| poland  | 1998-2025 | parliamentary, presidential, local-government |
-|         |           |                                               |
-|         |           |                                               |
+| poland  | 2000-2025 | WORK IN PROGRESS                              |
 
 ## License
 
