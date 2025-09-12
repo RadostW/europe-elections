@@ -8,7 +8,7 @@ This repository contains raw data about elections (public domain unless specifie
 
 | country | years     | election types                                |
 |---------|---------- |-----------------------------------------------|
-| poland  | 2000-2025 | WORK IN PROGRESS                              |
+| poland  | 2000-2025 | sejm, president                               |
 
 ## License
 
