@@ -15,10 +15,6 @@ import traceback
 here = pathlib.Path(__file__).resolve().parent
 config_path = here / "../data/poland/raw_datasets/metadata/replacement_rules_powiaty.yaml"
 
-administrative_units = (
-    here / "../data/poland/raw_datasets/metadata/administrative_units.csv"
-)
-
 files_to_parse = (
     (here / "../data/poland/raw_datasets/powiaty").resolve().glob("poland__*.csv")
 )
