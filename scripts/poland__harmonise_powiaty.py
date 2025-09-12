@@ -13,7 +13,7 @@ import traceback
 #
 
 here = pathlib.Path(__file__).resolve().parent
-config_path = here / "../data/poland/raw_datasets/metadata/replacement_rules.yaml"
+config_path = here / "../data/poland/raw_datasets/metadata/replacement_rules_powiaty.yaml"
 
 administrative_units = (
     here / "../data/poland/raw_datasets/metadata/administrative_units.csv"
@@ -138,12 +138,11 @@ for file_path in files_to_parse:
         total_votes = totals.sum()
         percentages = totals / total_votes * 100
         major_parties = percentages[percentages >= 2].sort_values(ascending=False)
-
-        continue
+                
         print(f"Check results: {date_str}")
         # Print results
         for party, pct in major_parties.items():
-            print(f"{party[:10]:10} {pct:6.2f}%")
+            print(f"{party[:10]:10} {pct:6.2f}%")        
 
         winner_name, winner_score = list(major_parties.items())[0]
         results_check = config["results_checks"][date_str]
@@ -157,6 +156,9 @@ for file_path in files_to_parse:
             raise ValueError(
                 f"Expected {winner_name_check} {winner_score_check}, got: {winner_name} {winner_score}"
             )
+
+        output_path = here / (f"../data/poland/harmonised/powiaty/{file_path.name}")
+        df_take.to_csv(output_path)
 
     except Exception as exc:
         print("\n" * 3)

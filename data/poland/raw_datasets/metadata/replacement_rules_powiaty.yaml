@@ -45,6 +45,41 @@
     "winner": "PIS"
     "result": 35.38
 
+  "2000_10_08":
+    "winner": "Kwasniewski"
+    "result": 53.90
+  "2005_10_09":
+    "winner": "Tusk"
+    "result": 36.33
+  "2005_10_23":
+    "winner": "Kaczynski"
+    "result": 54.04
+  "2010_06_20":
+    "winner": "Komorowski"
+    "result": 41.54
+  "2010_07_04":
+    "winner": "Komorowski"
+    "result": 53.01
+  "2015_05_10":
+    "winner": "Duda"
+    "result": 34.76    
+  "2015_05_24":
+    "winner": "Duda"
+    "result": 51.55
+  "2020_06_28":
+    "winner": "Duda"
+    "result": 43.50
+  "2020_07_12":
+    "winner": "Duda"
+    "result": 51.03
+  "2025_05_18":
+    "winner": "Trzaskowski"
+    "result": 31.36
+  "2025_06_01":
+    "winner": "Nawrocki"
+    "result": 50.89
+
+
 "choices_names":
   "Dariusz Maciej GRABOWSKI": "Grabowski"
   "Piotr IKONOWICZ": "Ikonowicz"
@@ -58,6 +93,78 @@
   "Bogdan PAWŁOWSKI": "Pawlowski"
   "Lech WAŁĘSA": "Walesa"
   "Tadeusz Adam WILECKI": "Wilecki"
+
+  "Bochniarz Henryka Teodora": "Bochniarz"
+  "Borowski Marek Stefan": "Borowski"
+  "Bubel Leszek Henryk": "Bubel"
+  "Ilasz Liwiusz Marian": "Ilasz"
+  "Kaczyński Lech Aleksander": "Kaczynski"
+  "Kalinowski Jarosław": "Kalinowski"
+  "Korwin-Mikke Janusz Ryszard": "KorwinMikke"
+  "Lepper Andrzej Zbigniew": "Lepper"
+  "Pyszko Jan": "Pyszko"
+  "Słomka Adam Andrzej": "Slomka"
+  "Tusk Donald Franciszek": "Tusk"
+  "Tymiński Stanisław": "Tyminski"
+
+  "Lech Aleksander Kaczyński": "Kaczynski"
+  "Donald Franciszek Tusk": "Tusk"
+
+  "Duda Andrzej Sebastian": "Duda"
+  "Komorowski Bronisław Maria": "Komorowski"
+
+  "Braun Grzegorz Michał": "Braun"
+  "Duda Andrzej Sebastian": "Duda"
+  "Jarubas Adam Sebastian": "Jarubas"
+  "Komorowski Bronisław Maria": "Komorowski"
+  "Korwin-Mikke Janusz Ryszard": "KorwinMikke"
+  "Kowalski Marian Janusz": "Kowalski"
+  "Kukiz Paweł Piotr": "Kukiz"
+  "Ogórek Magdalena Agnieszka": "Ogorek"
+  "Palikot Janusz Marian": "Palikot"
+  "Tanajno Paweł Jan": "Tanajno"
+  "Wilk Jacek": "Wilk"
+
+  "Andrzej Sebastian DUDA": "Duda"
+  "Rafał Kazimierz TRZASKOWSKI": "Trzaskowski"
+
+  "BARTOSZEWICZ Artur": "Bartoszewicz"
+  "BIEJAT Magdalena Agnieszka": "Biejat"
+  "BRAUN Grzegorz Michał": "Braun"
+  "HOŁOWNIA Szymon Franciszek": "Holownia"
+  "JAKUBIAK Marek": "Jakubiak"
+  "MACIAK Maciej": "Maciak"
+  "MENTZEN Sławomir Jerzy": "Mentzen"
+  "NAWROCKI Karol Tadeusz": "Nawrocki"
+  "SENYSZYN Joanna": "Senyszyn"
+  "STANOWSKI Krzysztof Jakub": "Stanowski"
+  "TRZASKOWSKI Rafał Kazimierz": "Trzaskowski"
+  "WOCH Marek Marian": "Woch"
+  "ZANDBERG Adrian Tadeusz": "Zandberg"
+
+  "JUREK Marek": "Jurek"
+  "KACZYŃSKI Jarosław Aleksander": "Kaczynski"
+  "KOMOROWSKI Bronisław Maria": "Komorowski"
+  "KORWIN-MIKKE Janusz Ryszard": "KorwinMikke"
+  "LEPPER Andrzej Zbigniew": "Lepper"
+  "MORAWIECKI Kornel Andrzej": "Morawiecki"
+  "NAPIERALSKI Grzegorz Bernard": "Napieralski"
+  "OLECHOWSKI Andrzej Marian": "Olechowski"
+  "PAWLAK Waldemar": "Pawlak"
+  "ZIĘTEK Bogusław Zbigniew": "Zietek"
+
+  "Robert BIEDROŃ": "Biedron"
+  "Krzysztof BOSAK": "Bosak"
+  "Andrzej Sebastian DUDA": "Duda"
+  "Szymon Franciszek HOŁOWNIA": "Holownia"
+  "Marek JAKUBIAK": "Jakubiak"
+  "Władysław Marcin KOSINIAK-KAMYSZ": "KosiniakKamysz"
+  "Mirosław Mariusz PIOTROWSKI": "Piotrowski"
+  "Paweł Jan TANAJNO": "Tanajno"
+  "Rafał Kazimierz TRZASKOWSKI": "Trzaskowski"
+  "Waldemar Włodzimierz WITKOWSKI": "Witkowski"
+  "Stanisław Józef ŻÓŁTEK": "Zoltek"
+
 
   "1 - SLD-UP": "SLDUP"
   "2 - AWSP": "AWSP"
