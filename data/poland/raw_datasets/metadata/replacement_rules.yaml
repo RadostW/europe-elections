@@ -6,12 +6,16 @@
     - "Liczba wyborców"
     - "Liczba wyborców uprawnionych do głosowania"    
     - "Uprawnieni do głosowania"
+    - "Uprawnieni"    
   "issued_ballots":
     - "Frekw."
     - "Liczba kart wydanych"    
     - "Liczba wyborców, którym wydano karty do głosowania"
     - "Karty wydane (frekwencja)"
     - "Wydane karty"
+    - "Karty wydane"
+    - "Wydane karty do głosowania"    
+    - "Liczba wyborców, którym wydano karty do głosowania w lokalu wyborczym"
   "teryt_code":
     - "Kod pow."
     - "TERYT"
@@ -41,7 +45,20 @@
     "winner": "PIS"
     "result": 35.38
 
-"party_names":
+"choices_names":
+  "Dariusz Maciej GRABOWSKI": "Grabowski"
+  "Piotr IKONOWICZ": "Ikonowicz"
+  "Jarosław KALINOWSKI": "Kalinowski"
+  "Janusz KORWIN-MIKKE": "KorwinMikke"
+  "Marian KRZAKLEWSKI": "Krzaklewski"
+  "Aleksander KWAŚNIEWSKI": "Kwasniewski"
+  "Andrzej LEPPER": "Lepper"
+  "Jan ŁOPUSZAŃSKI": "Lopuszanski"
+  "Andrzej Marian OLECHOWSKI": "Olechowski"
+  "Bogdan PAWŁOWSKI": "Pawlowski"
+  "Lech WAŁĘSA": "Walesa"
+  "Tadeusz Adam WILECKI": "Wilecki"
+
   "1 - SLD-UP": "SLDUP"
   "2 - AWSP": "AWSP"
   "3 - UW": "UW"
