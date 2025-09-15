@@ -134,12 +134,15 @@ for file_path in files_to_parse:
         total_votes = totals.sum()
         percentages = totals / total_votes * 100
         major_parties = percentages[percentages >= 2].sort_values(ascending=False)
+
+        if len(major_parties) == 0:
+            print(df.columns)
                 
         print(f"Check results: {date_str}")
         # Print results
         for party, pct in major_parties.items():
             print(f"{party[:10]:10} {pct:6.2f}%")        
-
+        
         winner_name, winner_score = list(major_parties.items())[0]
         results_check = config["results_checks"][date_str]
         winner_name_check, winner_score_check = (

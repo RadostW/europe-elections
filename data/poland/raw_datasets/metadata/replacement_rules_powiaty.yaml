@@ -6,7 +6,7 @@
     - "Liczba wyborców"
     - "Liczba wyborców uprawnionych do głosowania"    
     - "Uprawnieni do głosowania"
-    - "Uprawnieni"    
+    - "Uprawnieni"        
   "issued_ballots":
     - "Frekw."
     - "Liczba kart wydanych"    
@@ -16,6 +16,7 @@
     - "Karty wydane"
     - "Wydane karty do głosowania"    
     - "Liczba wyborców, którym wydano karty do głosowania w lokalu wyborczym"
+    - "Wydane\nkarty"
   "teryt_code":
     - "Kod pow."
     - "TERYT"
@@ -23,6 +24,22 @@
     - "TERYT Powiatu"
 
 "results_checks":
+  "2004_06_13":
+    "winner": "PO"
+    "result": 24.10
+  "2009_06_07":
+    "winner": "PO"
+    "result": 44.43
+  "2014_05_25":
+    "winner": "PO"
+    "result": 32.13
+  "2019_05_26":
+    "winner": "PIS"
+    "result": 45.38
+  "2024_06_09":
+    "winner": "PO"
+    "result": 37.06
+
   "2001_09_23":
     "winner": "SLDUP"
     "result": 41.04
@@ -81,6 +98,77 @@
 
 
 "choices_names":
+  "Komitet Wyborczy Platforma Obywatelska Rzeczypospolitej Polskiej": "PO"
+  "Komitet Wyborczy Polska Partia Pracy": "PPP"
+  "Komitet Wyborczy Samoobrona Rzeczpospolitej Polskiej": "SAMOOBRONA"
+  "Koalicyjny Komitet Wyborczy Sojusz Lewicy Demokratycznej - Unia Pracy": "SLDUP"
+  "Komitet Wyborczy Unii Polityki Realnej": "UPR"
+  "Narodowy Komitet Wyborczy Wyborców": "NKWW"
+  "Komitet Wyborczy Inicjatywa dla Polski": "IDP"
+  "Komitet Wyborczy Wyborców Socjaldemokracji Polskiej": "WSP"
+  "Komitet Wyborczy Prawo i Sprawiedliwość": "PIS"
+  "Komitet Wyborczy Liga Polskich Rodzin": "LPR"
+  "Komitet Wyborczy Wyborców - Ogólnopolski Komitet Obywatelski \"OKO\"": "OKO"
+  "Komitet Wyborczy Unii Wolności": "UW"
+  "Komitet Wyborczy Polskiego Stronnictwa Ludowego": "PSL"
+  "Koalicyjny Komitet Wyborczy KPEiR-PLD": "KPEIRPLD"
+  "Komitet Wyborczy Antyklerykalnej Partii Postępu \"Racja\"": "RACJA"
+  "Komitet Wyborczy Polskiej Partii Narodowej": "PPN"
+  "Komitet Wyborczy Wyborców Konfederacja Ruch Obrony Bezrobotnych": "ROB"
+  "Komitet Wyborczy Wyborców Zieloni 2004": "ZIELONI"
+  "Komitet Wyborczy Narodowego Odrodzenia Polski": "NOP"
+  "Komitet Wyborczy Wyborców \"Razem dla Przyszłości\"": "RDP"
+  "Komitet Wyborczy Demokratycznej Partii Lewicy": "DPL"
+
+  "1 - Komitet Wyborczy Unia Polityki Realnej": "UPR"
+  "2 - Komitet Wyborczy Polskie Stronnictwo Ludowe": "PSL"
+  "3 - Komitet Wyborczy Samoobrona Rzeczpospolitej Polskiej": "SAMOOBRONA"
+  "4 - Komitet Wyborczy Polska Partia Pracy": "PPP"
+  "5 - Komitet Wyborczy Libertas": "LIBERTAS"
+  "6 - Koalicyjny Komitet Wyborczy Sojusz Lewicy Demokratycznej - Unia Pracy": "SLDUP"
+  "7 - Koalicyjny Komitet Wyborczy Porozumienie dla Przyszłości - CentroLewica (PD+SDPL+Zieloni 2004)": "ZIELONI"
+  "8 - Komitet Wyborczy Prawica Rzeczypospolitej": "PRAWICA"
+  "9 - Komitet Wyborczy Platforma Obywatelska RP": "PO"
+  "10 - Komitet Wyborczy Prawo i Sprawiedliwość": "PIS"
+  "11 - Komitet Wyborczy Polska Partia Socjalistyczna": "PPS"
+  "12 - Koalicyjny Komitet Wyborczy Naprzód Polsko - Piast" : "PIAST"
+
+  "KOALICYJNY KOMITET WYBORCZY KOALICJA EUROPEJSKA PO PSL SLD .N ZIELONI - ZPOW-603-7/19": "KE"
+  "KOALICYJNY KOMITET WYBORCZY LEWICA RAZEM - PARTIA RAZEM, UNIA PRACY, RSS - ZPOW-603-4/19": "LEWICA"
+  "KOALICYJNY KOMITET WYBORCZY POLEXIT - KOALICJA - ZPOW-603-14/19": "POLEXIT"
+  "KOMITET WYBORCZY JEDNOŚĆ NARODU - ZPOW-603-11/19": "JEDNOSC"
+  "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ - ZPOW-603-5/19": "PIS"
+  "KOMITET WYBORCZY RUCH PRAWDZIWA EUROPA - EUROPA CHRISTI - ZPOW-603-9/19": "EC"
+  "KOMITET WYBORCZY WIOSNA ROBERTA BIEDRONIA - ZPOW-603-8/19": "WIOSNA"
+  "KOMITET WYBORCZY WYBORCÓW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY - ZPOW-603-3/19": "KONFEDERACJA"
+  "KOMITET WYBORCZY WYBORCÓW KUKIZ'15 - ZPOW-603-1/19": "KUKIZ15"
+  "KOMITET WYBORCZY WYBORCÓW POLSKA FAIR PLAY BEZPARTYJNI GWIAZDOWSKI - ZPOW-603-6/19": "GWIAZDOWSKI"
+
+  "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA": "PO"
+  "KOALICYJNY KOMITET WYBORCZY LEWICA": "LEWICA"
+  "KOALICYJNY KOMITET WYBORCZY TRZECIA DROGA POLSKA 2050 SZYMONA HOŁOWNI - POLSKIE STRONNICTWO LUDOWE": "TD"
+  "KOMITET WYBORCZY KONFEDERACJA WOLNOŚĆ I NIEPODLEGŁOŚĆ": "KONFEDERACJA"
+  "KOMITET WYBORCZY NORMALNY KRAJ": "NK"
+  "KOMITET WYBORCZY POLEXIT": "POLEXIT"
+  "KOMITET WYBORCZY POLSKA LIBERALNA STRAJK PRZEDSIĘBIORCÓW": "PLSP"
+  "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ": "PIS"
+  "KOMITET WYBORCZY RUCH NAPRAWY POLSKI": "RNP"
+  "KOMITET WYBORCZY WYBORCÓW BEZPARTYJNI SAMORZĄDOWCY-NORMALNA POLSKA W NORMALNEJ EUROPIE": "BSNPWNE"
+  "KOMITET WYBORCZY WYBORCÓW GŁOS SILNEJ POLSKI": "GSP"
+
+  "1 - Komitet Wyborczy Solidarna Polska Zbigniewa Ziobro": "SOLIDARNA"
+  "2 - Komitet Wyborczy Wyborców Ruch Narodowy": "RN"
+  "3 - Koalicyjny Komitet Wyborczy Sojusz Lewicy Demokratycznej-Unia Pracy": "SLDUP"
+  "4 - Komitet Wyborczy Prawo i Sprawiedliwość":  "PIS"
+  "5 - Koalicyjny Komitet Wyborczy Europa Plus Twój Ruch": "EPTR"
+  "6 - Komitet Wyborczy Polska Razem Jarosława Gowina": "GOWIN"
+  "7 - Komitet Wyborczy Nowa Prawica – Janusza Korwin-Mikke": "NP"
+  "8 - Komitet Wyborczy Platforma Obywatelska RP": "PO"
+  "9 - Komitet Wyborczy Polskie Stronnictwo Ludowe": "PSL"
+  "10 - Komitet Wyborczy Demokracja Bezpośrednia": "DB"
+  "11 - Komitet Wyborczy Samoobrona": "SAMOOBRONA"
+  "12 - Komitet Wyborczy Partia Zieloni": "ZIELONI"
+
   "Dariusz Maciej GRABOWSKI": "Grabowski"
   "Piotr IKONOWICZ": "Ikonowicz"
   "Jarosław KALINOWSKI": "Kalinowski"
