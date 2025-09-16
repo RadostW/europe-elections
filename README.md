@@ -2,13 +2,17 @@
 
 ## Abstract
 
-This repository contains raw data about elections (public domain unless specified otherwise), and aggregates it into NUTS regions to be used with, for example, Eurostat datasets.
+This repository contains raw data about elections (public domain unless specified otherwise), and provides metadata to aggregate into NUTS regions to be used with, for example, Eurostat datasets.
 
 ## Countries covered
 
-| country | years     | election types                                |
-|---------|---------- |-----------------------------------------------|
-| poland  | 2000-2025 | sejm, president                               |
+| country | years     | election types               | resolution                     | references |
+|---------|---------- |------------------------------|--------------------------------|------------|
+| Poland  | 2000-2025 | sejm, president, european    | powiat (380 units, 75k perons) |            |
+| Germany | TODO      |                              |                                | TODO       |
+
+references:
+[1] - gerda dataset
 
 ## License
 
