@@ -6,13 +6,41 @@ This repository contains raw data about elections (public domain unless specifie
 
 ## Countries covered
 
-| country | years     | election types               | resolution                     | references |
-|---------|---------- |------------------------------|--------------------------------|------------|
-| Poland  | 2000-2025 | sejm, president, european    | powiat (380 units, 75k perons) |            |
-| Germany | TODO      |                              |                                | TODO       |
+| country | years     | election types               | resolution                      | data source |
+|---------|---------- |------------------------------|---------------------------------|-------------|
+| Poland  | 2000-2025 | sejm, president, european    | powiat (380 units, 75k perons)  | [1]         |
+| Germany | TODO      | bundestag, president         | kreis (400 units, 200k persons) | [2]         |
 
 references:
-[1] - gerda dataset
+[1] - Own work based on [Dane Wyborcze KBW](https://danewyborcze.kbw.gov.pl).
+[2] - Recoding of [GERDA](https://github.com/awiedem/german_election_data) project.
+
+## How to cite
+
+*Harmonised results of some European elections* Radost Waszkiewicz; (2025)
+```bibtex
+@other{Waszkiewicz_2025
+  title={Harmonised results of some European elections},
+  author={Waszkiewicz, Radost},
+  year={2025}
+}
+```
+
+AND
+
+*GERDA: The German Election Database.* V. Heddesheimer, H. Hilbig, F. Sichart, & A. Wiedemann; Sci. Data, 12(1), 618. (2025)
+
+```bibtex
+@article{Heddesheimer_2025,
+  title={GERDA: The German Election Database},
+  author={Heddesheimer, Vincent and Hilbig, Hanno and Sichart, Florian and Wiedemann, Andreas},
+  journal={Scientific Data},
+  volume={12},
+  number={1},
+  pages={618},
+  year={2025},  
+}
+```
 
 ## License
 
@@ -24,4 +52,4 @@ as published by the Free Software Foundation, either version 3 of the License, o
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. 
 
-Raw datasets are public domain. Derived datasets are licensed under CC-BY-SA 4.0, or CC-BY-SA 3.0, or GPL v 3.0 or later, at the users choice.
+Raw datasets are public domain unless stated otherwise. Derived datasets are licensed under CC-BY-SA 4.0, or CC-BY-SA 3.0, or GPL v 3.0 or later, at the users choice.
