@@ -1,9 +1,14 @@
 # Data sources
 
-## Kreisen election results
+## Kreisen election results -- Bundestag
 
 Taken from harmonised GERDA dataset.
 [GERDA dataset to GitHub](https://github.com/awiedem/german_election_data)
+
+## Kreisen election results -- European elections
+
+Taken from die Bundeswahlleiterin datasets.
+[Die Bundeswahlleiterin](https://www.bundeswahlleiterin.de/europawahlen/2024/publikationen.html)
 
 ## NUTS 3 codes and names
 
