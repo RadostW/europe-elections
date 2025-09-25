@@ -127,9 +127,12 @@ for file_path in files_to_parse:
                 ]  # drop cells describing bundesland results
                 df_take["teryt_code"] = "A_" + df_take["teryt_code"].astype(int).astype(
                     str
-                )
+                ).str.zfill(5)
             else:
                 raise NotImplementedError
+
+            df_take["original_teryt_code"] = df_take["teryt_code"].copy()
+            df_take["teryt_code"] = df_take["teryt_code"].rename(config["teryt_codes_crosswalk"])
 
             df_take = df_take.rename(columns=config["choices_names"])
 
@@ -188,7 +191,7 @@ for file_path in files_to_parse:
                     f"Expected {winner_name_check} {winner_score_check}, got: {winner_name} {winner_score}"
                 )
             else:
-                print("results check OK")                
+                print("results check OK")                            
 
             output_path = here / (
                 f"../data/germany/harmonised/kreisen/germany__european__{date_str}.csv"
