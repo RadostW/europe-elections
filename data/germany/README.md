@@ -17,6 +17,13 @@ There were three significant reforms in the time period under consideration. The
 [2007 Sachsen-Anhalt](https://de.wikipedia.org/wiki/Kreisreform_Sachsen-Anhalt_2007)
 [2008 Sachsen](https://de.wikipedia.org/wiki/Kreisreform_Sachsen_2008)
 
+Complete cross tables
+[BBSR cross tables](https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/umstiegsschluessel/umsteigeschluessel.html)
+
+Cross tables (not used)
+[2008 Sachsen](https://www.riwis.de/online_test/info.php3?cityid=&info_topic=kreisreform_sx)
+[2007 Sachsen-Anhalt](https://statistik.arbeitsagentur.de/DE/Statischer-Content/Grundlagen/Klassifikationen/Regionale-Gliederungen/Politische-Gebietsstruktur/Gebietsreform-Sachsen-Anhalt.xls?__blob=publicationFile)
+
 ## NUTS 3 codes and names
 
 ### Names of intermediate NUTS levels 

@@ -18,6 +18,11 @@ config_path = (
     / "../data/germany/raw_datasets/metadata/replacement_rules_kreisen_european.yaml"
 )
 
+crosswalk_path = (
+    here
+    / "../data/germany/raw_datasets/metadata/teritorial_reforms.yaml"
+)
+
 files_to_parse = (
     (here / "../data/germany/raw_datasets/kreisen").resolve().glob("ew*_kerg*.csv")
 )
@@ -31,6 +36,29 @@ with open(config_path.resolve(), "r", encoding="utf-8") as in_file:
         config = yaml.safe_load(in_file)
     except yaml.YAMLError as exc:
         print(exc)
+
+with open(crosswalk_path.resolve(), "r", encoding="utf-8") as in_file:
+    try:
+        teritorial_crosswalk = yaml.safe_load(in_file)
+    except yaml.YAMLError as exc:
+        print(exc)
+
+# renames and mergers only
+teritorial_crosswalk_sachsen_2008 = dict()
+for record in teritorial_crosswalk["sachsen_2008"]:
+    old_code = "A_" + str(record["GKCode_Alt"])[:5]
+    new_code = "A_" + str(record["GKCode_Neu"])[:5]
+    teritorial_crosswalk_sachsen_2008[old_code] = new_code
+
+# renames and mergers only, splits ignored
+teritorial_crosswalk_sachsen_anhalt_2007 = dict()
+for record in teritorial_crosswalk["sachsen_anhalt_2007"]:
+    if len(record["GKCode_Neu"]) > 1:
+        continue
+    old_code = "A_" + str(record["GKCode_Alt"])[:5]
+    new_code = "A_" + str(record["GKCode_Neu"][0])[:5]
+    teritorial_crosswalk_sachsen_anhalt_2007[old_code] = new_code
+
 
 print("")
 print("Parsing raw datasets")
@@ -132,7 +160,8 @@ for file_path in files_to_parse:
                 raise NotImplementedError
 
             df_take["original_teryt_code"] = df_take["teryt_code"].copy()
-            df_take["teryt_code"] = df_take["teryt_code"].rename(config["teryt_codes_crosswalk"])
+            df_take["teryt_code"] = df_take["teryt_code"].replace(teritorial_crosswalk_sachsen_2008)
+            df_take["teryt_code"] = df_take["teryt_code"].replace(teritorial_crosswalk_sachsen_anhalt_2007)
 
             df_take = df_take.rename(columns=config["choices_names"])
 
@@ -144,6 +173,8 @@ for file_path in files_to_parse:
 
             for col in df_take.columns:
                 if col == "teryt_code":
+                    continue
+                if col == "original_teryt_code":
                     continue
 
                 series = df_take[col]
