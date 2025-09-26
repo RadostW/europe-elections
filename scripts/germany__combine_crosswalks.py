@@ -40,7 +40,7 @@ for file in file_paths:
         src_year = min(years)
         tgt_year = max(years)
 
-        # if(src_year) > 1995: # for debugging
+        # if(src_year) > 1992: # for debugging
         #     continue
 
         # Names
@@ -129,7 +129,7 @@ def map_to_latest_with_splits(crosswalks, code_start, year_start, prop_start=1.0
             else:
                 for _, row in matches.iterrows():
                     new_code = row['code_to']
-                    new_name_chain = name_chain + [(row['name_from'], row['name_to'])]
+                    new_name_chain = name_chain + [(row['name_from'], row['name_to'])]                    
                     new_prop = prop * row['proportion']
                     next_active.append((new_code, new_name_chain, new_prop))
         active = next_active
