@@ -5,15 +5,17 @@
 This repository contains raw data about elections (public domain unless specified otherwise), and provides metadata to aggregate into NUTS regions to be used with, for example, Eurostat datasets.
 
 ## Countries covered
+| Country | Years      | Election Types            | Resolution                      | Data Source | Download | Metadata |
+|---------|------------|---------------------------|---------------------------------|-------------|----------|----------|
+| Poland  | 2000-2025  | sejm, president, european | powiat (380 units, 75k persons) | [1]         | [CSV](./data/downloads/poland.csv)  | [Metadata](./data/poland_metadata.md)  |
+| Germany | 1990-2025  | bundestag, european       | kreis (400 units, 200k persons) | [2,3]       | [CSV](./data/downloads/germany.csv) | [Metadata](./data/germany_metadata.md) |
 
-| country | years     | election types               | resolution                      | data source |
-|---------|---------- |------------------------------|---------------------------------|-------------|
-| Poland  | 2000-2025 | sejm, president, european    | powiat (380 units, 75k perons)  | [1]         |
-| Germany | TODO      | bundestag, president         | kreis (400 units, 200k persons) | [2]         |
+You can use metadata files to aggregate election results at the desired level.
 
 references:
 [1] - Own work based on [Dane Wyborcze KBW](https://danewyborcze.kbw.gov.pl).
-[2] - Recoding of [GERDA](https://github.com/awiedem/german_election_data) project.
+[2] - Own work based on [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/europawahlen/2024/publikationen.html) european results and [BBSR cross tables](https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/umstiegsschluessel/umsteigeschluessel.html)
+[3] - Recoding of [GERDA](https://github.com/awiedem/german_election_data) project.
 
 ## How to cite
 
