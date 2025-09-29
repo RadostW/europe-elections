@@ -7,8 +7,8 @@ This repository contains raw data about elections (public domain unless specifie
 ## Countries covered
 | Country | Years      | Election Types            | Resolution                      | Data Source | Download | Metadata |
 |---------|------------|---------------------------|---------------------------------|-------------|----------|----------|
-| Poland  | 2000-2025  | sejm, president, european | powiat (380 units, 75k persons) | [1]         | [CSV](./data/downloads/poland.csv)  | [Metadata](./data/poland_metadata.md)  |
-| Germany | 1990-2025  | bundestag, european       | kreis (400 units, 200k persons) | [2,3]       | [CSV](./data/downloads/germany.csv) | [Metadata](./data/germany_metadata.md) |
+| Poland  | 2000-2025  | sejm, president, european | powiat (380 units, 75k persons) | [1]         | [CSV](./data/downloads/poland.csv)  | [Metadata](./data/downloads/poland_metadata.csv)  |
+| Germany | 1990-2025  | bundestag, european       | kreis (400 units, 200k persons) | [2,3]       | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/germany_metadata.csv) |
 
 You can use metadata files to aggregate election results at the desired level.
 
