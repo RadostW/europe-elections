@@ -14,6 +14,7 @@ Polish statistical office gives csv files with administrative division informati
 TERYT codes that can cause problems:
 3299, 2299 - ships registered in respective voivodships.
 1499 - voters in foreign lands, counted as part of Warsaw.
+1498 - ships, taken together, counted as part of Warsaw.
 1431 - old code for Warsaw.
 0263 - old code for Wałbrzych.
 
