@@ -13,9 +13,9 @@ This repository contains raw data about elections (public domain unless specifie
 You can use metadata files to aggregate election results at the desired level.
 
 references:
-[1] - Own work based on [Dane Wyborcze KBW](https://danewyborcze.kbw.gov.pl).
-[2] - Own work based on [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/europawahlen/2024/publikationen.html) european results and [BBSR cross tables](https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/umstiegsschluessel/umsteigeschluessel.html)
-[3] - Recoding of [GERDA](https://github.com/awiedem/german_election_data) project.
+ - [1] - Own work based on [Dane Wyborcze KBW](https://danewyborcze.kbw.gov.pl).
+ - [2] - Own work based on [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/europawahlen/2024/publikationen.html) european results and [BBSR cross tables](https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/umstiegsschluessel/umsteigeschluessel.html)
+ - [3] - Recoding of [GERDA](https://github.com/awiedem/german_election_data) project.
 
 ## How to cite
 
