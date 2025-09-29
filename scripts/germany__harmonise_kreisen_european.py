@@ -159,9 +159,10 @@ for file_path in files_to_parse:
             else:
                 raise NotImplementedError
 
-            df_take["original_teryt_code"] = df_take["teryt_code"].copy()
-            df_take["teryt_code"] = df_take["teryt_code"].replace(teritorial_crosswalk_sachsen_2008)
-            df_take["teryt_code"] = df_take["teryt_code"].replace(teritorial_crosswalk_sachsen_anhalt_2007)
+            # Old, croswalk prototype, now defunct
+            # df_take["original_teryt_code"] = df_take["teryt_code"].copy()
+            # df_take["teryt_code"] = df_take["teryt_code"].replace(teritorial_crosswalk_sachsen_2008)
+            # df_take["teryt_code"] = df_take["teryt_code"].replace(teritorial_crosswalk_sachsen_anhalt_2007)
 
             df_take = df_take.rename(columns=config["choices_names"])
 
