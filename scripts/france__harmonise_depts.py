@@ -1,6 +1,7 @@
 import pandas as pd
 import pathlib
 import yaml
+import unicodedata
 
 # ---------------------------------------------------------------------
 # Setup
@@ -8,7 +9,8 @@ import yaml
 here = pathlib.Path(__file__).resolve().parent
 
 election_file = here / "../data/france/raw_datasets/departament/france__departament.csv"
-output_file = election_file.parent / "france__long.csv"
+eligible_file = here / "../data/france/raw_datasets/departament/france__departament_eligible.csv"
+output_file = here / "../data/france/harmonised/departament/france__long.csv"
 
 config_path = here / "../data/france/raw_datasets/metadata/replacement_rules.yaml"
 
@@ -16,7 +18,8 @@ config_path = here / "../data/france/raw_datasets/metadata/replacement_rules.yam
 # Load
 # ---------------------------------------------------------------------
 print(f"Loading data from {election_file}")
-df = pd.read_csv(election_file, low_memory=False)
+df_votes = pd.read_csv(election_file, low_memory=False)
+df_eligible = pd.read_csv(eligible_file, low_memory=False)
 
 with open(config_path.resolve(), "r", encoding="utf-8") as in_file:
     try:
@@ -25,12 +28,33 @@ with open(config_path.resolve(), "r", encoding="utf-8") as in_file:
         print(exc)
         raise
 
+import pandas as pd
+
+
+# ---------------------------------------------------------------------
+# Construct name dictionary, taking the first name for each code
+# ---------------------------------------------------------------------
+
+df_names = df_eligible[["department_code", "department_name"]].copy()
+df_names = df_names[df_names["department_name"] != "missing"]
+
+# Optional: normalize to ASCII for consistency (not strictly needed if just taking first)
+def normalize_name(name):
+    ascii_name = unicodedata.normalize("NFKD", name).encode("ASCII", "ignore").decode("ASCII")
+    return ascii_name
+
+# Construct dictionary by taking the first occurrence of each department_code
+code_to_name = df_names.drop_duplicates(subset="department_code").set_index("department_code")["department_name"].to_dict()
+
+print("Mapping constructed. Example entries:")
+print(list(code_to_name.items())[:5])
+
 # ---------------------------------------------------------------------
 # Identify election types (example: extract from election_id)
 # ---------------------------------------------------------------------
-df["election_type"] = df["election_id"].str.extract(r"_(\D+)_", expand=False)
-df["election_year"] = df["election_id"].str.extract(r"(\d{4})", expand=False)
-df["round_string"] = df["election_id"].str.extract(r"_(t\d+)$", expand=False)
+df_votes["election_type"] = df_votes["election_id"].str.extract(r"_(\D+)_", expand=False)
+df_votes["election_year"] = df_votes["election_id"].str.extract(r"(\d{4})", expand=False)
+df_votes["round_string"] = df_votes["election_id"].str.extract(r"_(t\d+)$", expand=False)
 
 # ---------------------------------------------------------------------
 # Prepare accumulator for processed data
@@ -40,7 +64,7 @@ processed_chunks = []
 # ---------------------------------------------------------------------
 # Loop over election types
 # ---------------------------------------------------------------------
-for (election_type_short, election_year), subset in df.groupby(["election_type", "election_year"]):
+for (election_type_short, election_year), subset in df_votes.groupby(["election_type", "election_year"]):
     print(f"Processing election type: {election_type_short} ({len(subset)} rows)")
 
     # Example: handle only presidential elections
@@ -56,19 +80,47 @@ for (election_type_short, election_year), subset in df.groupby(["election_type",
         election_type = "president" + "_" + ("a" if round_string == "t1" else "b")
 
         def get_department_name(code):
-            return config["department_code_to_name"][code]            
+            return code_to_name[code]            
 
-        harmonised = pd.DataFrame({
+        subset_eligible = df_eligible[(df_eligible["election_id"] == election_id)]
+
+        if len(subset_eligible) == 0:
+            raise ValueError("Empty eligible voters dataset")
+
+        harmonised_eligible = pd.DataFrame({
+            "election_date": election_date,
+            "election_type": election_type,
+            "harmonised_code": "M_" + subset_eligible["department_code"].astype(str),
+            "harmonised_name": (subset_eligible["department_code"]).apply(get_department_name),
+            "type": 0,  # 0 = eligible voters
+            "name": "eligible_voters",
+            "votes": subset_eligible["eligible_voters"]
+        })
+
+        harmonised_issued = pd.DataFrame({
+            "election_date": election_date,
+            "election_type": election_type,
+            "harmonised_code": "M_" + subset_eligible["department_code"].astype(str),
+            "harmonised_name": (subset_eligible["department_code"]).apply(get_department_name),
+            "type": 1,  # 1 = issued ballots
+            "name": "issued_ballots",
+            "votes": subset_eligible["voters"]
+        })
+
+        harmonised_votes = pd.DataFrame({
             "election_date": election_date,
             "election_type": election_type,
             "harmonised_code": "M_" + subset["department_code"].astype(str),
-            "harmonised_name": ("M_"+subset["department_code"]).apply(get_department_name),
+            "harmonised_name": (subset["department_code"]).apply(get_department_name),
             "type": 2,  # 2 = votes for candidates
             "name": subset["last_name"].fillna("").str.title().str.replace(" ", "", regex=False),
             "votes": subset["votes"]
         })
 
-        processed_chunks.append(harmonised)
+        # Combine the three into a single DataFrame first
+        chunk_df = pd.concat([harmonised_eligible, harmonised_issued, harmonised_votes], ignore_index=True)
+        chunk_df = chunk_df.sort_values(by="harmonised_code")        
+        processed_chunks.append(chunk_df)
 
     else:
         continue
@@ -78,8 +130,10 @@ for (election_type_short, election_year), subset in df.groupby(["election_type",
 # ---------------------------------------------------------------------
 if processed_chunks:
     output_df = pd.concat(processed_chunks, ignore_index=True)
+    output_df = output_df.sort_values(by=["election_date","harmonised_code","type"]).reset_index(drop=True)
+
     print(f"Saving harmonised dataset to {output_file}")
-    output_df.to_csv(output_file, index=False)
+    output_df.to_csv(output_file)
 else:
     print("No processed data to save.")
 
