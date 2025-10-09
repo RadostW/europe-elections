@@ -11,6 +11,7 @@ election_id_to_date:
   "2022_pres_t2": "2022_04_24"
 
 results_checks:
+  # president
   "2002_04_21":
     "winner": "Chirac"
     "result": 19.88
@@ -41,3 +42,23 @@ results_checks:
   "2022_04_24":    
     "winner": "Macron"
     "result": 58.55
+
+  #euro
+  "1999_06_13":
+    "winner": "LPS" # probably wrong
+    "result": 21.95
+  "2004_06_13":
+    "winner": "LPS"
+    "result": 28.90
+  "2009_06_07":
+    "winner": "LPS" # probably wrong
+    "result": 27.88    
+  "2014_05_24":
+    "winner": "LFN"
+    "result": 24.86  
+  "2019_05_26":
+    "winner": "LFN"
+    "result": 23.34
+  "2024_06_09":
+    "winner": "LFN"
+    "result": 31.37
