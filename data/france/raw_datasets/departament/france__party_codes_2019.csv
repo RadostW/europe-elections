@@ -1,0 +1,73 @@
+election_id,list_label_short,list_label_long,list_head_name,political_orientation,votes,important,row_count
+2024_euro_t1,La France Revient,La France Revient ! Avec Jordan Bardella Et Marine Le Pen,missing,LRN,86768,1,588
+2019_euro_t1,Prenez Le Pouvoir,"Prenez Le Pouvoir, Liste Soutenue Par Marine Le Pen",BARDELLA Jordan,ADDED: LRN,48406,1,584
+2019_euro_t1,Renaissance,"Renaissance Soutenue Par La République En Marche, Le Modem Et Ses Partenaires",LOISEAU Nathalie,ADDED: LREM,44525,1,584
+2024_euro_t1,Besoin D'Europe,Besoin D'Europe,missing,LENS,34617,1,588
+2024_euro_t1,Reveil Eur,Réveiller L'Europe,missing,LUG,27559,1,588
+2019_euro_t1,Europe Écologie,Europe Écologie,JADOT Yannick,ADDED: LVEC,27494,1,584
+2019_euro_t1,Union Droite-Centre,Union De La Droite Et Du Centre,BELLAMY François-Xavier,ADDED: LLR,21179,1,584
+2024_euro_t1,La Droite Pour Faire Entendre La Voix De La France En Europe,La Droite Pour Faire Entendre La Voix De La France En Europe,missing,LLR,17975,1,588
+2024_euro_t1,Lfi - Up,La France Insoumise - Union Populaire,missing,LFI,17757,1,588
+2024_euro_t1,"La France Fiere, Menee Par Marion Marechal Et Soutenue Par Éric Zemmour","La France Fiere, Menee Par Marion Marechal Et Soutenue Par Éric Zemmour",missing,LREC,14201,1,588
+2024_euro_t1,Europe Écologie,Europe Écologie,missing,LVEC,11658,1,588
+2019_euro_t1,Envie D'Europe,Envie D'Europe Écologique Et Sociale,GLUCKSMANN Raphaël,ADDED: LUG,10199,1,584
+2019_euro_t1,La France Insoumise,La France Insoumise,AUBRY Manon,ADDED: LFI,9586,1,584
+2019_euro_t1,Debout La France,Le Courage De Défendre Les Français Avec Nicolas Dupont-Aignan. Debout La France ! - Cnip,DUPONT-AIGNAN Nicolas,ADDED: LDLF,8483,1,584
+2019_euro_t1,Les Européens,Les Européens,LAGARDE Jean-Christophe,ADDED: LCEN,5570,1,584
+2019_euro_t1,Liste Citoyenne,Liste Citoyenne Du Printemps Européen Avec Benoît Hamon Soutenue Par Génération.S Et Dème-Diem 25,HAMON Benoît,ADDED: LGENS,5236,1,584
+2024_euro_t1,Ar,Alliance Rurale,missing,LDVD,5027,1,588
+2024_euro_t1,Parti Animaliste,"Parti Animaliste - Les Animaux Comptent, Votre Voix Aussi",missing,LDIV,4445,1,588
+2019_euro_t1,Parti Animaliste,Parti Animaliste,THOUY Hélène,ADDED: LDIV,4075,1,584
+2024_euro_t1,Gauche Unie,Gauche Unie Pour Le Monde Du Travail Soutenue Par Fabien Roussel,missing,LCOM,3947,1,588
+2019_euro_t1,Urgence Écologie,Urgence Écologie,BOURG Dominique,ADDED: LDIV,3779,0,584
+2024_euro_t1,Eac,Écologie Au Centre,missing,LECO,3509,0,588
+2019_euro_t1,Pour L'Europe Des Gens,Pour L'Europe Des Gens Contre L'Europe De L'Argent,BROSSAT Ian,ADDED: LDIV,3208,0,584
+2024_euro_t1,Liste Asselineau-Frexit,"Liste Asselineau-Frexit, Pour Le Pouvoir D'Achat Et Pour La Paix",missing,LDIV,2598,0,588
+2024_euro_t1,L'Europe Ca Suffit !,L'Europe Ca Suffit !,missing,LEXD,2335,0,588
+2019_euro_t1,Ensemble Pour Le Frexit,Ensemble Pour Le Frexit,ASSELINEAU François,ADDED: LDIV,2306,0,584
+2019_euro_t1,Ensemble Patriotes,"Ensemble Patriotes Et Gilets Jaunes : Pour La France, Sortons De L'Union Européenne !",PHILIPPOT Florian,ADDED: LDIV,1548,0,584
+2024_euro_t1,Europe Territoires Écologie,Europe Territoires Écologie,missing,LDVG,1497,0,588
+2019_euro_t1,Lutte Ouvrière,"Lutte Ouvrière - Contre Le Grand Capital, Le Camp Des Travailleurs",ARTHAUD Nathalie,ADDED: LDIV,1182,0,584
+2019_euro_t1,Alliance Jaune,"Alliance Jaune, La Révolte Par Le Vote",LALANNE Francis,ADDED: LDIV,965,0,584
+2024_euro_t1,Lutte Ouvriere,Lutte Ouvriere - Le Camp Des Travailleurs,missing,LEXG,944,0,588
+2024_euro_t1,Ecologie Positive,Ecologie Positive Et Territoires,missing,LECO,886,0,588
+2024_euro_t1,Équinoxe,Équinoxe : Écologie Pratique Et Renouveau Démocratique,missing,LECO,791,0,588
+2019_euro_t1,Les Oublies De L'Europe,"Les Oubliés De L'Europe - Artisans, Commerçants, Professions Libérales Et Indépendants - Acpli -",BIDOU Olivier,ADDED: LDIV,462,0,584
+2024_euro_t1,Urgence Revolution !,"Pour Un Monde Sans Frontieres Ni Patrons, Urgence Revolution !",missing,LEXG,295,0,588
+2019_euro_t1,Europe Au Service Peuples,Une Europe Au Service Des Peuples,AZERGUI Nagib,ADDED: LDIV,273,0,584
+2019_euro_t1,Esperanto,Espéranto - Langue Commune Équitable Pour L'Europe,DIEUMEGARD Pierre,ADDED: LDIV,152,0,584
+2024_euro_t1,Parti Pirate,Parti Pirate,missing,LDIV,140,0,588
+2019_euro_t1,Parti Pirate,Parti Pirate,MARIE Florie,ADDED: LDIV,138,0,584
+2024_euro_t1,Free Palestine,Free Palestine,missing,LDIV,121,0,588
+2024_euro_t1,Esperanto,Esperanto Langue Commune,missing,LDIV,81,0,588
+2019_euro_t1,Décroissance 2019,Décroissance 2019,DELFEL Thérèse,ADDED: LDIV,78,0,584
+2019_euro_t1,Initiative Citoyenne,Mouvement Pour L'Initiative Citoyenne,HELGEN Gilles,ADDED: LDIV,74,0,584
+2024_euro_t1,Ppl,"""Pour Le Pain, La Paix, La Liberté !"" Présentée Par Le Parti Des Travailleurs",missing,LEXG,72,0,588
+2019_euro_t1,Pace,Pace - Parti Des Citoyens Européens,ALEXANDRE Audric,ADDED: LDIV,60,0,584
+2024_euro_t1,Paix Et Decroissance,Paix Et Decroissance,missing,LEXG,59,0,588
+2024_euro_t1,Defendre Les Enfants,Defendre Les Enfants,missing,LDIV,52,0,588
+2019_euro_t1,Allons Enfants,Allons Enfants,CAILLAUD Sophie,ADDED: LDIV,51,0,584
+2024_euro_t1,France Libre,France Libre,missing,LDIV,40,0,588
+2024_euro_t1,Nlp,Nous Le Peuple,missing,LDIV,35,0,588
+2019_euro_t1,Liste De La Reconquête,Liste De La Reconquête,VAUCLIN Vincent,ADDED: LDIV,28,0,584
+2024_euro_t1,Forteresse Europe,Forteresse Europe - Liste D'Unite Nationaliste,missing,LEXD,25,0,588
+2024_euro_t1,Pour Une Autre Europe,Pour Une Autre Europe,missing,LDIV,22,0,588
+2019_euro_t1,Parti Fed. Européen,Parti Fédéraliste Européen - Pour Une Europe Qui Protège Ses Citoyens,GERNIGON Yves,ADDED: LDIV,20,0,584
+2024_euro_t1,Changer L'Europe,Changer L'Europe,missing,LDVG,16,0,588
+2024_euro_t1,Pace,"Pace - Parti Des Citoyens Européens, Pour L'Armée Européenne, Pour L'Europe Sociale , Pour La Planète !",missing,LDIV,15,0,588
+2019_euro_t1,Une France Royale,Une France Royale Au Coeur De L'Europe,DE PREVOISIN Robert,ADDED: LDIV,14,0,584
+2024_euro_t1,La Ruche Citoyenne,La Ruche Citoyenne,missing,LDIV,12,0,588
+2019_euro_t1,À Voix Égales,À Voix Égales,TOMASINI Nathalie,ADDED: LDIV,10,0,584
+2024_euro_t1,Pour Une Democratie Reelle : Decidons Nous-Memes !,Pour Une Democratie Reelle : Decidons Nous-Memes !,missing,LDIV,8,0,588
+2019_euro_t1,Udlef,Udlef (Union Démocratique Pour La Liberté Égalité Fraternité),PERSON Christian Luc,ADDED: LDIV,8,0,584
+2024_euro_t1,Prenons-Nous En Main,Non ! Prenons-Nous En Mains,missing,LDIV,7,0,588
+2019_euro_t1,Évolution Citoyenne,Évolution Citoyenne,CHALENÇON Christophe,ADDED: LDIV,7,0,584
+2019_euro_t1,Neutre Et Actif,Neutre Et Actif,CORBET Cathy Denise Ginette,ADDED: LDIV,5,0,584
+2024_euro_t1,Liberté Démocratique Française,Liberté Démocratique Française,missing,LDIV,4,0,588
+2024_euro_t1,"Non À L'Ue Et À L'Otan, Communistes Pour La Paix Et Le Progrès Social","Non À L'Ue Et À L'Otan, Communistes Pour La Paix Et Le Progrès Social",missing,LEXG,4,0,588
+2019_euro_t1,Démocratie Représentative,Démocratie Représentative,TRAORÉ Hamada,ADDED: LDIV,2,0,584
+2024_euro_t1,Humanite Souveraine,Pour Une Humanite Souveraine,missing,LDIV,1,0,588
+2019_euro_t1,La Ligne Claire,La Ligne Claire,CAMUS Renaud,ADDED: LDIV,1,0,584
+2019_euro_t1,Révolutionnaire,Parti Révolutionnaire Communistes,SANCHEZ Antonio,ADDED: LDIV,1,0,584
+2024_euro_t1,Democratie Representative,Democratie Representative,missing,LDIV,0,0,588
+2024_euro_t1,Parti Revolutionnaire Communistes,Parti Revolutionnaire Communistes,missing,LEXG,0,0,588

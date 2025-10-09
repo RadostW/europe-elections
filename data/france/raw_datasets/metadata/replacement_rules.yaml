@@ -11,7 +11,33 @@ election_id_to_date:
   "2022_pres_t2": "2022_04_24"
 
 results_checks:
-  "1990_12_02":
-    "winner": "cdu"
-    "result": 36.71
-  
+  "2002_04_21":
+    "winner": "Chirac"
+    "result": 19.88
+  "2002_05_05":
+    "winner": "Chirac"
+    "result": 82.21
+  "2007_04_22":
+    "winner": "Sarkozy"
+    "result": 31.18
+  "2007_05_06":
+    "winner": "Sarkozy"
+    "result": 53.06
+  "2012_04_22":
+    "winner": "Hollande"  
+    "result": 28.63
+  "2012_05_06":
+    "winner": "Hollande"
+    "result": 51.64
+  "2017_04_23":
+    "winner": "Macron" 
+    "result": 24.01
+  "2017_05_07":
+    "winner": "Macron"
+    "result": 66.10
+  "2022_04_10":
+    "winner": "Macron"
+    "result": 27.85
+  "2022_04_24":    
+    "winner": "Macron"
+    "result": 58.55

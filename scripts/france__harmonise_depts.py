@@ -2,6 +2,7 @@ import pandas as pd
 import pathlib
 import yaml
 import unicodedata
+import numpy as np
 
 # ---------------------------------------------------------------------
 # Setup
@@ -46,9 +47,6 @@ def normalize_name(name):
 # Construct dictionary by taking the first occurrence of each department_code
 code_to_name = df_names.drop_duplicates(subset="department_code").set_index("department_code")["department_name"].to_dict()
 
-print("Mapping constructed. Example entries:")
-print(list(code_to_name.items())[:5])
-
 # ---------------------------------------------------------------------
 # Identify election types (example: extract from election_id)
 # ---------------------------------------------------------------------
@@ -64,19 +62,22 @@ processed_chunks = []
 # ---------------------------------------------------------------------
 # Loop over election types
 # ---------------------------------------------------------------------
-for (election_type_short, election_year), subset in df_votes.groupby(["election_type", "election_year"]):
-    print(f"Processing election type: {election_type_short} ({len(subset)} rows)")
+for election_id, subset in df_votes.groupby("election_id"):
 
+    election_type_short = subset["election_type"].iloc[0]
+    election_year = subset["election_year"].iloc[0]
+    election_id = subset["election_id"].iloc[0]
+    round_string = subset["round_string"].iloc[0]
+
+    print(f"Processing election type: {election_type_short} ({len(subset)} rows)")
     # Example: handle only presidential elections
-    if election_type_short == "pres":
-        # Get first election_id in this subset (assuming consistent per election)
-        election_id = subset["election_id"].iloc[0]
-        round_string = subset["round_string"].iloc[0]
+    if election_type_short == "pres":                
 
         # Lookup date from config
         election_date = config["election_id_to_date"].get(election_id, "unknown_date")
 
         # Determine full election type (add suffix for round)
+        print(round_string)
         election_type = "president" + "_" + ("a" if round_string == "t1" else "b")
 
         def get_department_name(code):
@@ -122,19 +123,79 @@ for (election_type_short, election_year), subset in df_votes.groupby(["election_
         chunk_df = chunk_df.sort_values(by="harmonised_code")        
         processed_chunks.append(chunk_df)
 
-    else:
-        continue
+    elif election_type_short == "cant":
+        pass
+    else:        
+        pass
+        # print("AAAA!")
 
 # ---------------------------------------------------------------------
-# Combine and save
+# Combine, validate and save
 # ---------------------------------------------------------------------
-if processed_chunks:
-    output_df = pd.concat(processed_chunks, ignore_index=True)
-    output_df = output_df.sort_values(by=["election_date","harmonised_code","type"]).reset_index(drop=True)
-
-    print(f"Saving harmonised dataset to {output_file}")
-    output_df.to_csv(output_file)
-else:
+if not processed_chunks:
     print("No processed data to save.")
+    raise ValueError("No data")
 
-print("Done.")
+output_df = pd.concat(processed_chunks, ignore_index=True)
+output_df = output_df.sort_values(by=["election_date","harmonised_code","type"]).reset_index(drop=True)
+
+# Step 1: Aggregate votes by election and candidate
+agg = (
+    output_df[output_df["type"] == 2]
+    .groupby(["election_date", "election_type", "name"], as_index=False)["votes"]
+    .sum()
+)
+
+# Step 2: Compute total votes and candidate percentages
+agg["total_votes"] = agg.groupby(["election_date", "election_type"])["votes"].transform("sum")
+agg["pct"] = agg["votes"] / agg["total_votes"] * 100
+
+# Step 3: Determine the winner per election
+winners = (
+    agg.sort_values(["election_date", "election_type", "pct"], ascending=[True, True, False])
+    .groupby(["election_date", "election_type"])
+    .first()
+    .reset_index()
+)
+
+# Step 4: Compare to expected results in config
+for _, row in winners.iterrows():
+    date = row["election_date"]
+    election_type = row["election_type"]
+    date_string = f"{date}"
+
+    if date_string not in config["results_checks"]:
+        raise KeyError(f"No config entry found for {date_string}")
+
+    expected = config["results_checks"][date_string]
+    expected_winner = expected["winner"]
+    expected_result = expected["result"]
+
+    actual_winner = row["name"]
+    actual_pct = row["pct"]
+
+    # Check if results match expected
+    if (actual_winner != expected_winner) or not np.isclose(actual_pct, expected_result, rtol=1e-03, atol=0.25):
+        # Recompute detailed results for this election
+        election_results = (
+            agg[(agg["election_date"] == date) & (agg["election_type"] == election_type)]
+            .sort_values("pct", ascending=False)
+            .loc[:, ["name", "votes", "pct"]]
+        )
+
+        # Build debug info string
+        details = "\n".join(
+            f"    {n:<20} {v:>10,d}  ({p:6.2f}%)"
+            for n, v, p in election_results.itertuples(index=False)
+        )
+
+        raise AssertionError(
+            f"\nResult mismatch for {date_string} ({election_type}):\n"
+            f"  Expected: {expected_winner} ({expected_result:.2f}%)\n"
+            f"  Got     : {actual_winner} ({actual_pct:.2f}%)\n"
+            f"  Full results:\n{details}"
+        )
+
+print(f"Saving harmonised dataset to {output_file}")
+output_df.to_csv(output_file)
+
