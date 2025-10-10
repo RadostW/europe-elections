@@ -10,6 +10,51 @@ election_id_to_date:
   "2022_pres_t1": "2022_04_10"
   "2022_pres_t2": "2022_04_24"
 
+  "1999_euro_t1": "1999_06_13"
+  "2004_euro_t1": "2004_06_13"
+  "2009_euro_t1": "2009_06_07"
+  "2014_euro_t1": "2014_05_24"
+  "2019_euro_t1": "2019_05_26"
+  "2024_euro_t1": "2024_06_09"
+
+# standardizing 2019 euro
+list_label_short_to_political_orientation:
+  "Europe Écologie": "LVEC"
+  "Envie D'Europe": "LUG"
+  "Prenez Le Pouvoir": "LRN"
+  "Renaissance": "LREM"
+  "Union Droite-Centre": "LLR"
+  "Liste Citoyenne": "LGENS"
+  "La France Insoumise": "LFI"
+  "Debout La France": "LDLF"
+  "Parti Animaliste": "LDIV"
+  "Urgence Écologie": "LDIV"
+  "Pour L'Europe Des Gens": "LDIV"
+  "Ensemble Pour Le Frexit": "LDIV"
+  "Ensemble Patriotes": "LDIV"
+  "Lutte Ouvrière": "LDIV"
+  "Alliance Jaune": "LDIV"
+  "Les Oublies De L'Europe": "LDIV"
+  "Europe Au Service Peuples": "LDIV"
+  "Esperanto": "LDIV"
+  "Parti Pirate": "LDIV"
+  "Décroissance 2019": "LDIV"
+  "Initiative Citoyenne": "LDIV"
+  "Pace": "LDIV"
+  "Allons Enfants": "LDIV"
+  "Liste De La Reconquête": "LDIV"
+  "Parti Fed. Européen": "LDIV"
+  "Une France Royale": "LDIV"
+  "À Voix Égales": "LDIV"
+  "Udlef": "LDIV"
+  "Évolution Citoyenne": "LDIV"
+  "Neutre Et Actif": "LDIV"
+  "Démocratie Représentative": "LDIV"
+  "La Ligne Claire": "LDIV"
+  "Révolutionnaire": "LDIV"
+  "Les Européens": "LCEN"
+
+
 results_checks:
   # president
   "2002_04_21":
@@ -45,20 +90,20 @@ results_checks:
 
   #euro
   "1999_06_13":
-    "winner": "LPS" # probably wrong
+    "winner": "GAU" # probably wrong
     "result": 21.95
   "2004_06_13":
     "winner": "LPS"
     "result": 28.90
   "2009_06_07":
-    "winner": "LPS" # probably wrong
+    "winner": "LMAJ"
     "result": 27.88    
   "2014_05_24":
     "winner": "LFN"
     "result": 24.86  
   "2019_05_26":
-    "winner": "LFN"
+    "winner": "LRN"
     "result": 23.34
   "2024_06_09":
-    "winner": "LFN"
+    "winner": "LRN"
     "result": 31.37

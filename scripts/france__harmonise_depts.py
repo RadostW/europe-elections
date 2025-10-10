@@ -10,7 +10,9 @@ import numpy as np
 here = pathlib.Path(__file__).resolve().parent
 
 election_file = here / "../data/france/raw_datasets/departament/france__departament.csv"
-eligible_file = here / "../data/france/raw_datasets/departament/france__departament_eligible.csv"
+eligible_file = (
+    here / "../data/france/raw_datasets/departament/france__departament_eligible.csv"
+)
 output_file = here / "../data/france/harmonised/departament/france__long.csv"
 
 config_path = here / "../data/france/raw_datasets/metadata/replacement_rules.yaml"
@@ -39,20 +41,39 @@ import pandas as pd
 df_names = df_eligible[["department_code", "department_name"]].copy()
 df_names = df_names[df_names["department_name"] != "missing"]
 
-# Optional: normalize to ASCII for consistency (not strictly needed if just taking first)
-def normalize_name(name):
-    ascii_name = unicodedata.normalize("NFKD", name).encode("ASCII", "ignore").decode("ASCII")
-    return ascii_name
+
+# # Optional: normalize to ASCII for consistency (not strictly needed if just taking first)
+# def normalize_name(name):
+#     ascii_name = (
+#         unicodedata.normalize("NFKD", name).encode("ASCII", "ignore").decode("ASCII")
+#     )
+#     return ascii_name
+
 
 # Construct dictionary by taking the first occurrence of each department_code
-code_to_name = df_names.drop_duplicates(subset="department_code").set_index("department_code")["department_name"].to_dict()
+code_to_name = (
+    df_names.drop_duplicates(subset="department_code")
+    .set_index("department_code")["department_name"]
+    .to_dict()
+)
+
+code_to_name["ZT"] = "Special"
+code_to_name["ZY"] = "Special"
+code_to_name["977"] = "Saint-Barthélemy"
+code_to_name["99"] = "Special"
 
 # ---------------------------------------------------------------------
 # Identify election types (example: extract from election_id)
 # ---------------------------------------------------------------------
-df_votes["election_type"] = df_votes["election_id"].str.extract(r"_(\D+)_", expand=False)
-df_votes["election_year"] = df_votes["election_id"].str.extract(r"(\d{4})", expand=False)
-df_votes["round_string"] = df_votes["election_id"].str.extract(r"_(t\d+)$", expand=False)
+df_votes["election_type"] = df_votes["election_id"].str.extract(
+    r"_(\D+)_", expand=False
+)
+df_votes["election_year"] = df_votes["election_id"].str.extract(
+    r"(\d{4})", expand=False
+)
+df_votes["round_string"] = df_votes["election_id"].str.extract(
+    r"_(t\d+)$", expand=False
+)
 
 # ---------------------------------------------------------------------
 # Prepare accumulator for processed data
@@ -71,61 +92,105 @@ for election_id, subset in df_votes.groupby("election_id"):
 
     print(f"Processing election type: {election_type_short} ({len(subset)} rows)")
     # Example: handle only presidential elections
-    if election_type_short == "pres":                
+    if election_type_short in ["pres", "euro"]:
 
         # Lookup date from config
-        election_date = config["election_id_to_date"].get(election_id, "unknown_date")
+        election_date = config["election_id_to_date"][election_id]
 
         # Determine full election type (add suffix for round)
-        print(round_string)
-        election_type = "president" + "_" + ("a" if round_string == "t1" else "b")
+        if election_type_short == "pres":
+            election_type = "president" + "_" + ("a" if round_string == "t1" else "b")
+        elif election_type_short == "euro":
+            election_type = "european"
 
         def get_department_name(code):
-            return code_to_name[code]            
+            return code_to_name[code]
 
         subset_eligible = df_eligible[(df_eligible["election_id"] == election_id)]
 
         if len(subset_eligible) == 0:
             raise ValueError("Empty eligible voters dataset")
 
-        harmonised_eligible = pd.DataFrame({
-            "election_date": election_date,
-            "election_type": election_type,
-            "harmonised_code": "M_" + subset_eligible["department_code"].astype(str),
-            "harmonised_name": (subset_eligible["department_code"]).apply(get_department_name),
-            "type": 0,  # 0 = eligible voters
-            "name": "eligible_voters",
-            "votes": subset_eligible["eligible_voters"]
-        })
+        harmonised_eligible = pd.DataFrame(
+            {
+                "election_date": election_date,
+                "election_type": election_type,
+                "harmonised_code": "M_"
+                + subset_eligible["department_code"].astype(str),
+                "harmonised_name": (subset_eligible["department_code"]).apply(
+                    get_department_name
+                ),
+                "type": 0,  # 0 = eligible voters
+                "name": "eligible_voters",
+                "votes": subset_eligible["eligible_voters"],
+            }
+        )
 
-        harmonised_issued = pd.DataFrame({
-            "election_date": election_date,
-            "election_type": election_type,
-            "harmonised_code": "M_" + subset_eligible["department_code"].astype(str),
-            "harmonised_name": (subset_eligible["department_code"]).apply(get_department_name),
-            "type": 1,  # 1 = issued ballots
-            "name": "issued_ballots",
-            "votes": subset_eligible["voters"]
-        })
+        harmonised_issued = pd.DataFrame(
+            {
+                "election_date": election_date,
+                "election_type": election_type,
+                "harmonised_code": "M_"
+                + subset_eligible["department_code"].astype(str),
+                "harmonised_name": (subset_eligible["department_code"]).apply(
+                    get_department_name
+                ),
+                "type": 1,  # 1 = issued ballots
+                "name": "issued_ballots",
+                "votes": subset_eligible["voters"],
+            }
+        )
 
-        harmonised_votes = pd.DataFrame({
-            "election_date": election_date,
-            "election_type": election_type,
-            "harmonised_code": "M_" + subset["department_code"].astype(str),
-            "harmonised_name": (subset["department_code"]).apply(get_department_name),
-            "type": 2,  # 2 = votes for candidates
-            "name": subset["last_name"].fillna("").str.title().str.replace(" ", "", regex=False),
-            "votes": subset["votes"]
-        })
+        if election_type_short == "pres":
+            harmonised_votes = pd.DataFrame(
+                {
+                    "election_date": election_date,
+                    "election_type": election_type,
+                    "harmonised_code": "M_" + subset["department_code"].astype(str),
+                    "harmonised_name": (subset["department_code"]).apply(
+                        get_department_name
+                    ),
+                    "type": 2,  # 2 = votes for candidates
+                    "name": subset["last_name"]
+                    .fillna("")
+                    .str.title()
+                    .str.replace(" ", "", regex=False),
+                    "votes": subset["votes"],
+                }
+            )
+        elif election_type_short == "euro":
+
+            # fix missing
+            if election_id == "2019_euro_t1":
+                subset["political_orientation"] = subset["list_label_short"].map(
+                    config["list_label_short_to_political_orientation"]
+                )
+
+            harmonised_votes = pd.DataFrame(
+                {
+                    "election_date": election_date,
+                    "election_type": election_type,
+                    "harmonised_code": "M_" + subset["department_code"].astype(str),
+                    "harmonised_name": (subset["department_code"]).apply(
+                        get_department_name
+                    ),
+                    "type": 2,  # 2 = votes for candidates
+                    "name": subset["political_orientation"],
+                    "votes": subset["votes"],
+                }
+            )
 
         # Combine the three into a single DataFrame first
-        chunk_df = pd.concat([harmonised_eligible, harmonised_issued, harmonised_votes], ignore_index=True)
-        chunk_df = chunk_df.sort_values(by="harmonised_code")        
+        chunk_df = pd.concat(
+            [harmonised_eligible, harmonised_issued, harmonised_votes],
+            ignore_index=True,
+        )
+        chunk_df = chunk_df.sort_values(by="harmonised_code")
         processed_chunks.append(chunk_df)
 
     elif election_type_short == "cant":
         pass
-    else:        
+    else:
         pass
         # print("AAAA!")
 
@@ -137,7 +202,9 @@ if not processed_chunks:
     raise ValueError("No data")
 
 output_df = pd.concat(processed_chunks, ignore_index=True)
-output_df = output_df.sort_values(by=["election_date","harmonised_code","type"]).reset_index(drop=True)
+output_df = output_df.sort_values(
+    by=["election_date", "harmonised_code", "type"]
+).reset_index(drop=True)
 
 # Step 1: Aggregate votes by election and candidate
 agg = (
@@ -147,12 +214,16 @@ agg = (
 )
 
 # Step 2: Compute total votes and candidate percentages
-agg["total_votes"] = agg.groupby(["election_date", "election_type"])["votes"].transform("sum")
+agg["total_votes"] = agg.groupby(["election_date", "election_type"])["votes"].transform(
+    "sum"
+)
 agg["pct"] = agg["votes"] / agg["total_votes"] * 100
 
 # Step 3: Determine the winner per election
 winners = (
-    agg.sort_values(["election_date", "election_type", "pct"], ascending=[True, True, False])
+    agg.sort_values(
+        ["election_date", "election_type", "pct"], ascending=[True, True, False]
+    )
     .groupby(["election_date", "election_type"])
     .first()
     .reset_index()
@@ -175,10 +246,14 @@ for _, row in winners.iterrows():
     actual_pct = row["pct"]
 
     # Check if results match expected
-    if (actual_winner != expected_winner) or not np.isclose(actual_pct, expected_result, rtol=1e-03, atol=0.25):
+    if (actual_winner != expected_winner) or not np.isclose(
+        actual_pct, expected_result, rtol=1e-03, atol=0.25
+    ):
         # Recompute detailed results for this election
         election_results = (
-            agg[(agg["election_date"] == date) & (agg["election_type"] == election_type)]
+            agg[
+                (agg["election_date"] == date) & (agg["election_type"] == election_type)
+            ]
             .sort_values("pct", ascending=False)
             .loc[:, ["name", "votes", "pct"]]
         )
@@ -196,6 +271,12 @@ for _, row in winners.iterrows():
             f"  Full results:\n{details}"
         )
 
+print(f"Sorting")
+output_df = output_df.sort_values(
+    by=["election_date", "harmonised_code", "type", "votes"],
+    ascending=[True, True, True, False],  # example: votes descending
+)
+
+
 print(f"Saving harmonised dataset to {output_file}")
 output_df.to_csv(output_file)
-
