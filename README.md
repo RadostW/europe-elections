@@ -13,7 +13,7 @@ This repository contains raw data about elections (public domain unless specifie
 |---------|------------|----------------------------------|---------------------------------------|-------------|----------|----------|
 | Poland  | 2000-2025  | sejm, president, european        | powiat (380 units, 75k persons)       | [1]         | [CSV](./data/downloads/poland.csv)  | [Metadata](./data/downloads/poland_metadata.csv)  |
 | Germany | 1990-2025  | bundestag, european              | kreis (400 units, 200k persons)       | [2,3]       | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/germany_metadata.csv) |
-| France  | 1999-2025  | legislative, president, european | departament (100 units, 680k persons) | .           | .        | .        |
+| France  | 1999-2025  | president, european              | departament (100 units, 680k persons) | [4]         | [CSV](./data/downloads/germany.csv) | .        |
 
 You can use metadata files to aggregate election results at the desired level.
 
@@ -21,6 +21,7 @@ references:
  - [1] - Own work based on [Dane Wyborcze KBW](https://danewyborcze.kbw.gov.pl).
  - [2] - Own work based on [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/europawahlen/2024/publikationen.html) european results and [BBSR cross tables](https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/umstiegsschluessel/umsteigeschluessel.html)
  - [3] - Recoding of [GERDA](https://github.com/awiedem/german_election_data) project.
+ - [4] - Aggregation of data available via French public repository www.data.gouv.fr [Results by departement](https://www.data.gouv.fr/datasets/donnees-des-elections-agregees/)
 
 ## How to cite
 

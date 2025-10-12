@@ -11,6 +11,10 @@ files = {
     "poland": {
         "csv": "../data/downloads/poland.csv",
         "topo": "../data/downloads/poland_powiaty.topojson"
+    },
+    "france": {
+        "csv": "../data/downloads/france.csv",
+        "topo": "../data/downloads/france_departement.topojson"
     }
 }
 
@@ -42,6 +46,9 @@ for country, paths in files.items():
         gdf = gdf.merge(pivot, left_on='ags', right_on='harmonised_code', how='left')
     elif country == "poland":
         gdf = gdf.merge(pivot, left_on='teryt', right_on='harmonised_code', how='left')
+    elif country == "france":
+        gdf["code"] = "M_"+gdf["code"].astype(str)
+        gdf = gdf.merge(pivot, left_on='code', right_on='harmonised_code', how='left')        
     
     gdf['country'] = country
     gdfs.append(gdf)
