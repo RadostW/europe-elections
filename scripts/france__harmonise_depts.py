@@ -274,8 +274,8 @@ for _, row in winners.iterrows():
 print(f"Sorting")
 output_df = output_df.sort_values(
     by=["election_date", "harmonised_code", "type", "votes"],
-    ascending=[True, True, True, False],  # example: votes descending
-)
+    ascending=[True, True, True, False],  # example: votes descending    
+).reset_index(drop=True)
 
 
 print(f"Saving harmonised dataset to {output_file}")

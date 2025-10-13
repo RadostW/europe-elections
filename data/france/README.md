@@ -2,7 +2,7 @@
 
 ## NUTS 3 codes and names
 
-TODO
+Based on [Wikipedia](https://en.wikipedia.org/wiki/NUTS_statistical_regions_of_France)
 
 ## Election data
 

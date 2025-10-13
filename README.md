@@ -13,7 +13,7 @@ This repository contains raw data about elections (public domain unless specifie
 |---------|------------|----------------------------------|---------------------------------------|-------------|----------|----------|
 | Poland  | 2000-2025  | sejm, president, european        | powiat (380 units, 75k persons)       | [1]         | [CSV](./data/downloads/poland.csv)  | [Metadata](./data/downloads/poland_metadata.csv)  |
 | Germany | 1990-2025  | bundestag, european              | kreis (400 units, 200k persons)       | [2,3]       | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/germany_metadata.csv) |
-| France  | 1999-2025  | president, european              | departament (100 units, 680k persons) | [4]         | [CSV](./data/downloads/germany.csv) | .        |
+| France  | 1999-2025  | president, european              | departament (100 units, 680k persons) | [4]         | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/france_metadata.csv)  |
 
 You can use metadata files to aggregate election results at the desired level.
 
@@ -21,23 +21,25 @@ references:
  - [1] - Own work based on [Dane Wyborcze KBW](https://danewyborcze.kbw.gov.pl).
  - [2] - Own work based on [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/europawahlen/2024/publikationen.html) european results and [BBSR cross tables](https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/umstiegsschluessel/umsteigeschluessel.html)
  - [3] - Recoding of [GERDA](https://github.com/awiedem/german_election_data) project.
- - [4] - Aggregation of data available via French public repository www.data.gouv.fr [Results by departement](https://www.data.gouv.fr/datasets/donnees-des-elections-agregees/)
+ - [4] - Aggregation of data available via French public repository [Results by departement](https://www.data.gouv.fr/datasets/donnees-des-elections-agregees/)
 
 ## How to cite
 
 *Harmonised results of some European elections* Radost Waszkiewicz; (2025)
 ```bibtex
-@other{Waszkiewicz_2025
-  title={Harmonised results of some European elections},
-  author={Waszkiewicz, Radost},
-  year={2025}
+@misc{Waszkiewicz_2025,
+  author       = {Waszkiewicz, Radost},
+  title        = {Harmonised results of some European elections},
+  year         = {2025},
+  howpublished = {\url{https://github.com/RadostW/europe-elections}},
+  note         = {GitHub repository},
+  version      = {v1.2.0}
 }
 ```
 
 AND
 
 *GERDA: The German Election Database.* V. Heddesheimer, H. Hilbig, F. Sichart, & A. Wiedemann; Sci. Data, 12(1), 618. (2025)
-
 ```bibtex
 @article{Heddesheimer_2025,
   title={GERDA: The German Election Database},

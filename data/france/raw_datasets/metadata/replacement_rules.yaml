@@ -90,7 +90,7 @@ results_checks:
 
   #euro
   "1999_06_13":
-    "winner": "GAU" # probably wrong
+    "winner": "GAU" 
     "result": 21.95
   "2004_06_13":
     "winner": "LPS"
