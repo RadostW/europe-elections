@@ -2,7 +2,10 @@
 
 ## Kreisen election results -- Bundestag
 
-Taken from harmonised GERDA dataset.
+[1998 Bundestagswahl](https://www.bundeswahlleiterin.de/bundestagswahlen/1998/weitere-ergebnisse.html)
+
+# See also
+GERDA dataset. Different because of special treatment of postal votes
 [GERDA dataset to GitHub](https://github.com/awiedem/german_election_data)
 
 ## Kreisen election results -- European elections
