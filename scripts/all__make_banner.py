@@ -43,12 +43,12 @@ for country, paths in files.items():
     
     # Merge with turnout data using correct key
     if country == "germany":
-        gdf = gdf.merge(pivot, left_on='ags', right_on='harmonised_code', how='left')
+        gdf = gdf.merge(pivot, left_on='harmonised_code', right_on='harmonised_code', how='left')
     elif country == "poland":
-        gdf = gdf.merge(pivot, left_on='teryt', right_on='harmonised_code', how='left')
+        gdf = gdf.merge(pivot, left_on='harmonised_code', right_on='harmonised_code', how='left')
     elif country == "france":
-        gdf["code"] = "M_"+gdf["code"].astype(str)
-        gdf = gdf.merge(pivot, left_on='code', right_on='harmonised_code', how='left')        
+        # gdf["code"] = "M_"+gdf["code"].astype(str)
+        gdf = gdf.merge(pivot, left_on='harmonised_code', right_on='harmonised_code', how='left')        
     
     gdf['country'] = country
     gdfs.append(gdf)
