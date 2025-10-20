@@ -1,0 +1,23 @@
+"column_names":
+  "eligible_voters":
+    - "ELETTORI"
+
+  "issued_ballots":
+    - "VOTANTI"    
+    
+  "votes":
+    - "VOTI_LISTA"
+
+  "teryt_code":
+    - "PROVINCIA"    
+
+  "list_name":
+    - "LISTA"
+
+  "comune":
+    - "COMUNE"
+
+results_checks:  
+  "2014_05_25":
+    winner: "Partido Democratico"
+    result: 40.81
