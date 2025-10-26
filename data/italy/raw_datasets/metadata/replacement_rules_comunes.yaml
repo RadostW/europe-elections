@@ -14,19 +14,42 @@
     - "VOTILISTA"
     - "NUMVOTI"
 
-  "teryt_code":
+  "provincia":
     - "PROVINCIA"    
     - "DESCRPROV"
     - "DESCPROVINCIA"
-
-  "list_name":
-    - "LISTA"
-    - "DESCLISTA"
 
   "comune":
     - "COMUNE"
     - "DESCRCOMUNE"
     - "DESCCOMUNE"
+
+  "circoscrizione":
+    - "CIRCOSCRIZIONE"
+    - "DESCCIRCEUROPEA"
+    - "DESCRCIRC"    
+
+  "regione":
+    - "REGIONE"
+    - "DESCRREG"
+    - "CIRC-REG"
+
+  "collegio":
+    - "COLLEGIO"
+
+  "collegio_plurinominale":
+    - "COLLEGIOPLURINOMINALE"
+    - "COLLPLURI"
+
+  "collegio_uninominale":
+    - "COLLEGIOUNINOMINALE"    
+    - "COLLUNINOM"
+
+  "list_name":
+    - "LISTA"
+    - "DESCLISTA"
+
+
 
 choices_names:
 
