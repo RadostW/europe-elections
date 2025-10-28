@@ -9,12 +9,12 @@
 This repository contains raw data about elections (public domain unless specified otherwise), and provides metadata to aggregate into NUTS regions to be used with, for example, Eurostat datasets.
 
 ## Countries covered
-| Country | Years      | Election Types            | Resolution                            | Data Source | Download                            | Metadata                                          |
-|---------|------------|---------------------------|---------------------------------------|-------------|-------------------------------------|---------------------------------------------------|
-| Poland  | 2000-2025  | sejm, president, european | powiat (380 units, 75k persons)       | [1]         | [CSV](./data/downloads/poland.csv)  | [Metadata](./data/downloads/poland_metadata.csv)  |
-| Germany | 1990-2025  | bundestag, european       | kreis (400 units, 200k persons)       | [2]         | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/germany_metadata.csv) |
-| France  | 1999-2025  | president, european       | departament (100 units, 680k persons) | [3]         | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/france_metadata.csv)  |
-| Italy   | WIP        | camera, european          | province (100 units, 500k persons)    | [4]         | .                                   | .                                                 |
+| Country | Years      | Election Types            | Resolution                                        | Data Source | Download                            | Metadata                                          |
+|---------|------------|---------------------------|---------------------------------------------------|-------------|-------------------------------------|---------------------------------------------------|
+| Poland  | 2000-2025  | sejm, president, european | powiat (380 units, 75k persons)                   | [1]         | [CSV](./data/downloads/poland.csv)  | [Metadata](./data/downloads/poland_metadata.csv)  |
+| Germany | 1990-2025  | bundestag, european       | kreis (400 units, 200k persons)                   | [2]         | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/germany_metadata.csv) |
+| France  | 1999-2025  | president, european       | departament (100 units, 680k persons)             | [3]         | [CSV](./data/downloads/france.csv)  | [Metadata](./data/downloads/france_metadata.csv)  |
+| Italy   | 1996-2025  | camera, european          | NUTS3 (approx. province, 100 units, 500k persons) | [4]         | [CSV](./data/downloads/italy.csv)   | [Metadata](./data/downloads/italy_metadata.csv)   |
 
 You can use metadata files to aggregate election results at the desired level.
 

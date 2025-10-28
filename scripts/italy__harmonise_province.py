@@ -72,6 +72,8 @@ with open(config_path.resolve(), "r", encoding="utf-8") as in_file:
     except yaml.YAMLError as exc:
         print(exc)
 
+long_dfs = []
+
 for file_path in files_to_parse:
     print(f"Parsing file: {file_path.name}")
 
@@ -391,3 +393,11 @@ for file_path in files_to_parse:
             f"../data/italy/harmonised/province/italy__{election_type}__{date_string}.csv"
         )
         df_long.to_csv(output_path)
+
+        long_dfs.append(df_long.copy())
+
+very_long_df = pd.concat(long_dfs, ignore_index=True)        
+very_long_output_path = here / (
+            f"../data/italy/harmonised/province/italy.csv"
+        )
+very_long_df.to_csv(very_long_output_path)

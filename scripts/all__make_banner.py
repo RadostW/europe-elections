@@ -15,6 +15,10 @@ files = {
     "france": {
         "csv": "../data/downloads/france.csv",
         "topo": "../data/downloads/france_departement.topojson"
+    },
+    "italy": {
+        "csv": "../data/downloads/italy.csv",
+        "topo": "../data/downloads/italy_province.topojson"
     }
 }
 
@@ -41,17 +45,11 @@ for country, paths in files.items():
     # Load TopoJSON
     gdf = gpd.read_file(paths["topo"])
     
-    # Merge with turnout data using correct key
-    if country == "germany":
-        gdf = gdf.merge(pivot, left_on='harmonised_code', right_on='harmonised_code', how='left')
-    elif country == "poland":
-        gdf = gdf.merge(pivot, left_on='harmonised_code', right_on='harmonised_code', how='left')
-    elif country == "france":
-        # gdf["code"] = "M_"+gdf["code"].astype(str)
-        gdf = gdf.merge(pivot, left_on='harmonised_code', right_on='harmonised_code', how='left')        
-    
+    # Merge with turnout data using correct key    
+    gdf = gdf.merge(pivot, left_on='harmonised_code', right_on='harmonised_code', how='outer')        
+
     gdf['country'] = country
-    gdfs.append(gdf)
+    gdfs.append(gdf.copy())
 
 # Combine Germany and Poland
 gdf_all = pd.concat(gdfs, ignore_index=True)
@@ -66,12 +64,13 @@ gdf_all = gdf_all.to_crs("EPSG:4326")
 
 # --- PLOT MAP ---
 fig, ax = plt.subplots(1, 1, figsize=(14, 12))
+gdf_all['turnout_clip'] = gdf_all['turnout'].clip(0.25,0.75)
 gdf_all.plot(
-    column='turnout',
+    column='turnout_clip',
     ax=ax,
     cmap='cividis',
     legend=False,           # no color bar
-    missing_kwds={"color": "lightgrey"},
+    missing_kwds={"color": "red"},
     edgecolor='black',
     linewidth=0.2
 )
