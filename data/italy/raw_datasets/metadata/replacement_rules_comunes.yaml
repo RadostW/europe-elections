@@ -48,10 +48,138 @@
   "list_name":
     - "LISTA"
     - "DESCLISTA"
-
-
+    - "DESCRLISTA"
 
 choices_names:
+
+  "GR.INDIP.LIBERTA'": "gil"
+  "UNIONE NORD EST": "une"
+  "SOCIALISTA": "ps"
+  "PATTO PER L'AGRO": "ppa"
+  "NUOVA DEMOCRAZIA": "nd"
+  "RIFONDAZIONE COMUNISTA": "rc"
+  "PDS": "pds"
+  "PANNELLA-SGARBI": "psg"
+  "RINNOVAMENTO": "rin"
+  "SVILUPPO-LEGALITA'": "sl"
+  "LEGA NORD": "lega"
+  "LEGA D'AZIONE MERIDIONALE": "lam"
+  "PS D'AZ.": "psdaz"
+  "RISORGIMENTO DEL SUD": "rds"
+  "PART.FEDERAL.": "pf"
+  "VERDI-VERDI": "verdi"
+  "MOV.SOC.TRICOLORE": "mst"
+  "FEDERAZIONE DEI VERDI": "verdi2"
+  "PART.LEGGE NATURALE": "pln"
+  "DEMOCRAZIA SOCIALE": "dsoc"
+  "ALLEANZA NAZIONALE": "an"
+  "UNION FUR SUD TIROL": "ufst"
+  "NUOVE ENERGIE": "ne"
+  "NOI SICILIANI-FNS": "nsfns"
+  "MANI PULITE": "mp"
+  "CCD-CDU": "ccd_cdu"
+  "AMBIENTALISTI": "amb"
+  "NORD LIBERO AUT.": "nla"
+  "MOV.RIN.IT.": "mri"
+  "FORZA ITALIA": "fi"
+  "SARDIGNA NATZIONE": "sn"
+  "PER LE MARCHE": "plm"
+  "PART.UMANISTA": "pu"
+  "RINNOVAMENTO IT-DINI": "rid"
+  "POP-SVP-PRI-UD-PRODI": "pop"
+  "MOV.AUT.TOSCANO": "mat"
+  "FEDERALISTI LIBERALI": "fl"
+
+  "FORZA NUOVA": "fn"
+  "ALLEANZA NAZIONALE": "an"
+  "RIFONDAZIONE COMUNISTA": "rc"
+  "LA MARGHERITA": "margherita"
+  "NOI SICILIANI": "ns"
+  "LEGA D'AZIONE MERIDIONALE": "lam"
+  "PAESE NUOVO": "pn"
+  "CCD-CDU": "ccd_cdu"
+  "ABOLIZIONE SCORPORO": "as"
+  "PANNELLA-BONINO": "pb"
+  "PS D'AZ-SARD.NATZ.": "psdaz_sn"
+  "SOCIAL.AUTON.": "sa"
+  "LIGA FRONTE VENETO": "lfv"
+  "SVP": "svp"
+  "DEMOCRAZIA EUROPEA": "de"
+  "LISTA DI PIETRO": "idv"
+  "TERZO POLO AUTONOMIA": "tpa"
+  "LIBDEM.BASTA": "libdem"
+  "DEMOCRATICI SINISTRA": "ds"
+  "LEGA NORD": "lega"
+  "IL GIRASOLE": "girasole"
+  "FRONTE NAZIONALE": "fnaz"
+  "FORZA ITALIA": "fi"
+  "COMUNISMO": "com"
+  "PARTITO PENSIONATI": "pp"
+  "NUOVO PSI": "npsi"
+  "LIBERI E FORTI": "lef"
+  "VERDI-VERDI": "verdi"
+  "LISTA AMADU": "amadu"
+  "COMUNISTI ITALIANI": "ci"
+  "REPUBBLICANI EUROPEI": "re"
+  "FIAMMA TRICOLORE": "ft"
+  "MOVIMENTO DELLE LIBERTA'": "mdl"
+
+  "IL POPOLO DELLA FAMIGLIA": "pdf"
+  "POUR TOUS PER TUTTI PE TCHEUT": "ptpt"
+  "LEGA": "lega"
+  "RISPOSTA CIVICA": "rciv"
+  "SIAMO": "siamo"
+  "+EUROPA": "piueuropa"
+  "GRANDE NORD": "gn"
+  "POTERE AL POPOLO!": "pap"
+  "CIVICA POPOLARE LORENZIN": "cpl"
+  "CASAPOUND ITALIA": "cpi"
+  "NOI CON L'ITALIA - UDC": "nci_udc"
+  "SVP - PATT": "svp_patt"
+  "ITALIA EUROPA INSIEME": "iei"
+  "LIBERI E UGUALI": "leu"
+  "PER UNA SINISTRA RIVOLUZIONARIA": "psr"
+  "MOVIMENTO 5 STELLE": "m5s"
+  "AUTODETERMINATZIONE": "auto"
+  "RINASCIMENTO MIR": "mir"
+  "LISTA DEL POPOLO PER LA COSTITUZIONE": "lp"
+  "BLOCCO NAZIONALE PER LE LIBERTA'": "bnl"
+  "PARTITO DEMOCRATICO": "pd"
+  "PD-UV-UVP-EPAV": "pd_uv_uvp_epav"
+  "PATTO PER L'AUTONOMIA": "ppa"
+  "PARTITO VALORE UMANO": "pvu"
+  "PARTITO COMUNISTA": "pc"
+  "FI -FRAT. D'IT. -MOV.NUOVA VALLE D'AOSTA": "fi_fdi_mnva"
+  "10 VOLTE MEGLIO": "10vm"
+  "FRATELLI D'ITALIA CON GIORGIA MELONI": "fdi"
+  "ITALIA AGLI ITALIANI": "iai"
+  "FORZA ITALIA": "fi"
+  "PARTITO REPUBBLICANO ITALIANO - ALA": "pri_ala"
+  "ITALIA NEL CUORE": "inc"
+
+  "ITALEXIT PER L'ITALIA": "italexit"
+  "+EUROPA": "piueuropa"
+  "FREE": "free"
+  "PARTITO DELLA FOLLIA CREATIVA": "pfc"
+  "SUD CHIAMA NORD": "scn"
+  "FRATELLI D'ITALIA CON GIORGIA MELONI": "fdi"
+  "ITALIA SOVRANA E POPOLARE": "isp"
+  "LEGA PER SALVINI PREMIER": "lega"
+  "UNIONE POPOLARE CON DE MAGISTRIS": "up"
+  "VITA": "vita"
+  "MOVIMENTO 5 STELLE": "m5s"
+  "IMPEGNO CIVICO LUIGI DI MAIO - CENTRO DEMOCRATICO": "ic_cd"
+  "ALLEANZA VERDI E SINISTRA": "avs"
+  "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA": "pd_idp"
+  "PARTITO COMUNISTA ITALIANO": "pci"
+  "FORZA ITALIA": "fi"
+  "FORZA DEL POPOLO": "fdp"
+  "NOI MODERATI/LUPI - TOTI - BRUGNARO - UDC": "nm"
+  "MASTELLA NOI DI CENTRO EUROPEISTI": "ndc"
+  "PARTITO ANIMALISTA - UCDL - 10 VOLTE MEGLIO": "pa_ucdl_10vm"
+  "SUDTIROLER VOLKSPARTEI (SVP) - PATT": "svp_patt"
+  "ALTERNATIVA PER L'ITALIA - NO GREEN PASS": "api"
+  "AZIONE - ITALIA VIVA - CALENDA": "a_iv"
 
   "ASS.DIFESA DELLA VITA ABORTO?NO,GRAZIE": "adv"
   "DI PIETRO ITALIA DEI VALORI": "idv"
@@ -309,9 +437,17 @@ choices_names:
   "VOTO DI PROTESTA": "vdp"  
 
 results_checks:
+  "1996_04_21":
+    "winner": "pds"
+    result: 21.06
+
   "1999_06_13":
     winner: "fi" 
     result: 25.16
+
+  "2001_05_13":
+    winner: "fi"
+    result: 29.43
 
   "2004_06_12":
     winner: "ulivo"
@@ -335,9 +471,19 @@ results_checks:
   "2014_05_25":
     winner: "pd"
     result: 40.81
+
+  "2018_03_04":
+    winner: "m5s"
+    result: 32.68
+
   "2019_05_26":
     winner: "lega"
     result: 34.26
+
+  "2022_09_25":
+    winner: "fdi"
+    result: 25.98
+
   "2024_06_09":
     winner: "fdi"
     result: 28.76

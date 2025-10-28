@@ -8,25 +8,63 @@ import numpy as np
 import re
 import traceback
 import unidecode
+import tqdm
 
-#
-# Script configuration
-#
+tqdm.tqdm.pandas()
 
 here = pathlib.Path(__file__).resolve().parent
+
 config_path = (
-    here / "../data/italy/raw_datasets/metadata/replacement_rules_province.yaml"
+    here / "../data/italy/raw_datasets/metadata/replacement_rules_comunes.yaml"
 )
 
-metadata = here / "../data/italy/raw_datasets/metadata/Elenco-comuni-italiani.csv"
-
-files_to_parse = list(
-    (here / "../data/italy/raw_datasets/province").resolve().glob("*.csv")
+files_to_parse = sorted(
+    list((here / "../data/italy/raw_datasets/province").resolve().glob("*.csv"))
 )
 
-#
-# Processing
-#
+nuts_2024_path = here / "../data/italy/raw_datasets/metadata/nuts_2024_official.csv"
+comune_to_nuts_2024_path = (
+    here / "../data/italy/raw_datasets/metadata/Italy-LAU-2024-NUTS-2024.csv"
+)
+
+df_nuts_raw = pd.read_csv(
+    nuts_2024_path,
+)
+
+df_comune_to_nuts_2024 = pd.read_csv(
+    comune_to_nuts_2024_path,
+)
+
+variazioni_path = (
+    here / "../data/italy/raw_datasets/metadata/variazioni_amministrative.csv"
+)
+df_variazioni = pd.read_csv(
+    variazioni_path,
+)
+
+
+@pd.api.extensions.register_series_accessor("normalize_string")
+class NormalizeStringAccessor:
+    def __init__(self, s):
+        self._obj = s
+
+    def __call__(self):
+        return (
+            self._obj.astype(str)
+            .map(unidecode.unidecode)
+            .str.lower()
+            .str.replace(r"[^a-z ]", "", regex=True)
+            .str.strip()
+        )
+
+
+df_nuts_raw["nuts_clean"] = df_nuts_raw["NUTS label"].normalize_string()
+
+df_nuts = pd.merge(
+    df_comune_to_nuts_2024, df_nuts_raw, left_on="NUTS 3 CODE", right_on="NUTS Code"
+)
+
+df_nuts["comune_clean"] = df_nuts["LAU NAME LATIN"].normalize_string()
 
 with open(config_path.resolve(), "r", encoding="utf-8") as in_file:
     try:
@@ -34,309 +72,322 @@ with open(config_path.resolve(), "r", encoding="utf-8") as in_file:
     except yaml.YAMLError as exc:
         print(exc)
 
-print("")
-print("Parsing raw datasets")
-print("")
-print([file_path.name for file_path in files_to_parse])
-
-recognised_column_names = (
-    config["column_names"]["eligible_voters"]
-    + config["column_names"]["issued_ballots"]
-    + config["column_names"]["teryt_code"]
-    + config["column_names"]["votes"]
-    + config["column_names"]["list_name"]
-    + config["column_names"]["comune"]
-)
-
-df_metadata = pd.read_csv(
-    metadata, sep=";", encoding="cp1252"  # or "cp1252" (Windows Western European ANSI)
-)
-
-rename_dict = {
-    "Denominazione dell'Unità territoriale sovracomunale \n(valida a fini statistici)": "province_name",
-    "Codice dell'Unità territoriale sovracomunale \n(valida a fini statistici)": "istat_code",
-}
-
-# Rename columns
-df_metadata = df_metadata.rename(columns=rename_dict)
-df_provinces = df_metadata[["province_name", "istat_code"]].copy()
-df_provinces = df_provinces.drop_duplicates(subset="province_name")
-
-province_to_istat = {}
-norm_name_to_name = {}
-for name, code in zip(df_provinces["province_name"], df_provinces["istat_code"]):
-    clean_name = name.split("/")[0].strip()
-    clean_name = unidecode.unidecode(clean_name)
-    clean_code = f"I_{int(code):03d}"
-    province_to_istat[clean_name] = clean_code
-
-    norm_name = re.sub(r"[^A-Za-z]", "", clean_name).lower()
-    norm_name_to_name[norm_name] = clean_name
-
-norm_name_to_name["mediocampidano"] = "Medio Campidano"
-province_to_istat["Medio Campidano"] = "I_106"
-norm_name_to_name["carboniaiglesias"] = "Carbonia-Iglesias"
-province_to_istat["Carbonia-Iglesias"] = "I_107"
-norm_name_to_name["ogliastra"] = "Ogliastra"
-province_to_istat["Ogliastra"] = "I_105"
-norm_name_to_name["olbiatempio"] = "Olbia-Tempio"
-province_to_istat["Olbia-Tempio"] = "I_104"
-norm_name_to_name["reggioemilia"] = "Reggio Emilia"
-province_to_istat["Reggio Emilia"] = "I_035"
-norm_name_to_name["monzaedellabrianza"] = "Monza e della Brianza"
-province_to_istat["Monza e della Brianza"] = "I_108"
-
-norm_name_to_name["carboniaiglesias"] = "Carbonia-Iglesias"
-province_to_istat["Carbonia-Iglesias"] = "I_107"
-
-# aliases
-norm_name_to_name["aosta"] = "Valle d'Aosta"
-norm_name_to_name["monza"] = "Monza e della Brianza"
-norm_name_to_name["carboniaigles"] = "Carbonia-Iglesias"
-
-comune_names_dfs = []
-
 for file_path in files_to_parse:
-    try:
-        print(f"Parsing file: {file_path.name}")
+    print(f"Parsing file: {file_path.name}")
 
-        pattern = r"^(\d{8})__"
-        match = re.search(pattern, file_path.name)
-        if match:
-            date_str = match.group(1)
-        else:
-            raise ValueError(f"No date found in filename: {file_path}")
+    pattern = r"^(\d{8})__"
+    match = re.search(pattern, file_path.name)
+    if match:
+        date_str = match.group(1)
+    else:
+        raise ValueError(f"No date found in filename: {file_path}")
 
-        # print(f"{date_str=}")
-        if date_str in [
-            "19990613",
-            "20080413",
-            "20090607",
-            "20130224",
-            "20140525",
-        ]:
-            df = pd.read_csv(
-                file_path,
-                sep=";",
-            )
-        elif date_str in [
-            "20040612",
-            "20060409",
-            "20190526",
-            "20240609",
-        ]:
-            df = pd.read_csv(
-                file_path,
-                sep=";",
-                encoding="cp1252",
-            )
-        elif date_str in [
-            "19960421",
-            "20010513",
-            "20180304",
-            "20220925",
-        ]:
-            continue  # province data missing - fix pending
-        else:
-            raise ValueError(f"Unrecognised date {date_str}")
-
-        if "vaosta" in file_path.name:
-            # vaosta is a single province
-            df["PROVINCIA"] = "Valle d'Aosta"
-
-        columns = df.columns
-        take_column = [[c, (c in recognised_column_names)] for c in columns]
-
-        for c, v in take_column:
-            print(f"{'+' if v else ' '} {c[:20] + ('...' if len(c) > 20 else '')}")
-
-        df_take = df[[c for [c, v] in take_column if v]]
-
-        # extract important columns (eg. eligible_voters)
-        for special in config["column_names"].keys():
-            t_cols = [
-                c for c in df_take.columns if c in config["column_names"][special]
-            ]
-            if len(t_cols) != 1:
-                raise ValueError(f"Expected one {special} column, got: {t_cols}")
-            df_take = df_take.rename(columns={t_cols[0]: special})
-
-        df_take["teryt_name"] = df_take["teryt_code"].copy()
-
-        def normalize_name(name: str) -> str:
-            name = unidecode.unidecode(str(name))
-            name = re.sub(r"[^A-Za-z]", "", name).lower()
-            return name
-
-        df_take["teryt_name_norm"] = df_take["teryt_name"].apply(normalize_name)
-
-        missing_keys = set(df_take["teryt_name_norm"].unique()) - set(
-            norm_name_to_name.keys()
+    # print(f"{date_str=}")
+    if date_str in [
+        "19960421",
+        "19990613",
+        "20010513",
+        "20080413",
+        "20090607",
+        "20130224",
+        "20140525",
+        "20220925",
+    ]:
+        df = pd.read_csv(
+            file_path,
+            sep=";",
         )
-        if missing_keys:
-            raise KeyError(
-                f"The following normalized names are missing in norm_name_to_name: {missing_keys}"
-            )
+    elif date_str in [
+        "20040612",
+        "20060409",
+        "20180304",
+        "20190526",
+        "20240609",
+    ]:
+        df = pd.read_csv(
+            file_path,
+            sep=";",
+            encoding="cp1252",
+        )
+    elif date_str in []:
+        continue  # province data missing - fix pending
+    else:
+        raise ValueError(f"Unrecognised date {date_str}")
 
-        df_take["teryt_name"] = df_take["teryt_name_norm"].map(norm_name_to_name)
-        df_take["teryt_code"] = df_take["teryt_name"].map(province_to_istat)
-        df_take = df_take.drop(columns=["teryt_name_norm"])
+    if date_str in ["20010513"]:
+        # special treatment of 'comunes' which are parts of comunes
+        mask = df["COMUNE"].str.contains(" - ", na=False)
+        df.loc[mask, "COMUNE"] = df.loc[mask, "COMUNE"].str.partition(" - ")[0]
 
-        comune_names_dfs.append(
-            df_take[["comune", "teryt_name", "teryt_code"]]
-            .drop_duplicates()
-            .copy()
-            .reset_index(drop=True)
+        df["COMUNE"] = df["COMUNE"].replace(
+            {
+                "Roma centro": "Roma",
+                "Verona Est": "Verona",
+                "Messina centro storico": "Messina",
+                "Perugia centro": "Perugia",
+                "Foggia centro": "Foggia",
+                "Verona Ovest": "Verona",
+                "Trieste centro": "Trieste",
+            }
         )
 
-        # Aggregate votes by list_name and teryt_code
-        df_votes = df_take.groupby(
-            ["teryt_code", "teryt_name", "list_name"], as_index=False
-        )["votes"].sum()
+    if "vaosta" in str(file_path.name).lower():
+        continue
 
-        # Deduplicate per comune within each province
-        df_comune = df_take.groupby(["teryt_code", "comune"], as_index=False).first()[
-            ["teryt_code", "comune", "eligible_voters", "issued_ballots"]
+    if date_str in ["20140525", "20180304", "20190526", "20220925"]:
+        # special treatment of 'comunes' which are named bilingually
+        mask = df["COMUNE"].str.contains("/", na=False)
+        df.loc[mask, "COMUNE"] = df.loc[mask, "COMUNE"].str.partition("/")[0]
+
+    if date_str in ["20240609"]:
+        # special treatment of 'comunes' which are named bilingually
+        mask = df["DESCCOMUNE"].str.contains("/", na=False)
+        df.loc[mask, "DESCCOMUNE"] = df.loc[mask, "DESCCOMUNE"].str.partition("/")[0]
+
+    columns = df.columns
+
+    for c in columns:
+        is_target = False
+        target_name = ""
+        for key, targets in config["column_names"].items():
+            if c in targets:
+                is_target = True
+                target_name = key
+                df = df.rename(columns={c: target_name})
+
+        print(
+            f"{'+' if is_target else ' '} {c[:20].ljust(20) + ('...' if len(c) > 20 else '   ')} -> {target_name}"
+        )
+
+    df["comune_clean"] = df["comune"].normalize_string()
+
+    nuts_comunes = set(df_nuts["comune_clean"])
+    nuts_comunes_no_spaces = set(re.sub(r" ", "", c) for c in nuts_comunes)
+
+    if not "provincia" in df.columns:
+        df["provincia"] = "unknown"
+
+    # Step 1. Strict match on comune_clean + provincia
+    df["provincia"] = df["provincia"].normalize_string()
+
+    for col in ["comune_clean", "provincia"]:
+        df[col] = df[col].astype("category")
+
+    for col in ["comune_clean", "nuts_clean"]:
+        df_nuts[col] = df_nuts[col].astype("category")
+
+    df_with_nuts = pd.merge(
+        df,
+        df_nuts,
+        left_on=["comune_clean", "provincia"],
+        right_on=["comune_clean", "nuts_clean"],
+        how="left",
+        # suffixes=("", "_nuts")
+    )
+    df_with_nuts.loc[df_with_nuts["NUTS Code"].notna(), "match_type"] = "strict"
+
+    # Step 2. Match remaining rows only on comune_clean
+    unmatched = df[df_with_nuts["NUTS Code"].isna()].copy()
+    matched_name = pd.merge(
+        unmatched,
+        df_nuts,
+        on="comune_clean",
+        how="left",
+        # suffixes=("", "_nuts")
+    )
+    matched_name.loc[matched_name["nuts_clean"].notna(), "match_type"] = "name"
+
+    # Combine results carefully — only update where matches were found
+    df_with_nuts.update(matched_name[matched_name["nuts_clean"].notna()])
+
+    # Step 3. Fill remaining unmatched rows by "neighbour" (most common nuts_clean per group)
+    possible_group_cols = [
+        "provincia",
+        "circoscrizione",
+        "regione",
+        "collegio",
+        "collegio_plurinominale",
+        "collegio_uninominale",
+    ]
+    group_cols = [c for c in df.columns if c in possible_group_cols]
+
+    # Build a compact key string for grouping and mapping
+    df_with_nuts["_group_key"] = (
+        df_with_nuts[group_cols].astype(str).agg("|".join, axis=1)
+    )
+
+    # Compute most common nuts_clean per group (from already matched rows)
+    most_common_nuts = (
+        df_with_nuts.dropna(subset=["nuts_clean"])
+        .groupby("_group_key")["nuts_clean"]
+        .agg(lambda x: x.mode().iloc[0] if not x.mode().empty else None)
+        .to_dict()
+    )
+
+    # Fill missing nuts_clean for unmatched rows using the mapping
+    mask = df_with_nuts["nuts_clean"].isna()
+    df_with_nuts.loc[mask, "nuts_clean"] = df_with_nuts.loc[mask, "_group_key"].map(
+        most_common_nuts
+    )
+
+    # Mark as 'neighbour' only the rows that were previously unmatched but now filled
+    df_with_nuts.loc[
+        df_with_nuts["match_type"].isna() & df_with_nuts["nuts_clean"].notna(),
+        "match_type",
+    ] = "neighbour"
+
+    # Clean up helper column
+    df_with_nuts.drop(columns="_group_key", inplace=True)
+
+    # Step 4. Everything else = fail
+    df_with_nuts["match_type"] = df_with_nuts["match_type"].fillna("fail")
+
+    # Step 5. Print proportions of each match type
+    print("")
+    print("Matched with NUTS:")
+    vote_proportions = (
+        df_with_nuts.groupby("match_type")["votes"].sum() / df_with_nuts["votes"].sum()
+    )
+    print(vote_proportions)
+    print("")
+
+    if "fail" in vote_proportions.keys() and vote_proportions["fail"] > 0.001:
+        print("Too many failed matches")
+        raise ValueError
+
+    # Reshape to long format and clena names
+    df_with_nuts = df_with_nuts.rename(
+        columns={"NUTS Code": "harmonised_code", "nuts_clean": "harmonised_name"}
+    )
+
+    df_list_votes = df_with_nuts.groupby(
+        ["harmonised_code", "harmonised_name", "list_name"], as_index=False
+    )["votes"].sum()
+    df_list_votes = df_list_votes.rename(columns={"list_name": "name"})
+    df_list_votes["type"] = 2
+
+    df_eligible_voters = df_with_nuts.groupby(
+        group_cols
+        + ["harmonised_code", "harmonised_name", "comune", "eligible_voters"],
+        as_index=False,
+    ).first()
+    df_eligible_voters = df_eligible_voters[
+        ["harmonised_code", "harmonised_name", "eligible_voters"]
+    ]
+    df_eligible_voters = df_eligible_voters.rename(columns={"eligible_voters": "votes"})
+    df_eligible_voters = df_eligible_voters.groupby(
+        ["harmonised_code", "harmonised_name"], as_index=False
+    ).sum()
+    df_eligible_voters["name"] = "eligible_voters"
+    df_eligible_voters["type"] = 0
+
+    df_issued_ballots = df_with_nuts.groupby(
+        group_cols + ["harmonised_code", "harmonised_name", "comune", "issued_ballots"],
+        as_index=False,
+    ).first()
+    df_issued_ballots = df_issued_ballots[
+        ["harmonised_code", "harmonised_name", "issued_ballots"]
+    ]
+    df_issued_ballots = df_issued_ballots.rename(columns={"issued_ballots": "votes"})
+    df_issued_ballots = df_issued_ballots.groupby(
+        ["harmonised_code", "harmonised_name"], as_index=False
+    ).sum()
+    df_issued_ballots["name"] = "issued_ballots"
+    df_issued_ballots["type"] = 1
+
+    # Concatenate all three DataFrames
+    df_long = pd.concat(
+        [df_list_votes, df_eligible_voters, df_issued_ballots],
+        axis=0,
+        ignore_index=True,  # optional, resets the index
+    )
+
+    df_long["election_date"] = f"{date_str[:4]}_{date_str[4:6]}_{date_str[6:]}"
+
+    if "camera" in file_path.name.lower():
+        election_type = "camera"
+    elif "europee" in file_path.name.lower():
+        election_type = "european"
+    else:
+        ValueError(f"Unable to guess eleciton type from {file_path.name}")
+
+    df_long["election_type"] = election_type
+
+    # Reorder columns and rows
+    df_long = df_long[
+        [
+            "election_date",
+            "election_type",
+            "harmonised_code",
+            "harmonised_name",
+            "type",
+            "name",
+            "votes",
         ]
+    ]
+    df_long = df_long.sort_values(
+        by=["election_date", "election_type", "harmonised_code", "type"],
+        ascending=[True, True, True, True],
+    ).reset_index(drop=True)
 
-        # Step 2: sum eligible_voters and issued_ballots at province level
-        df_meta = df_comune.groupby("teryt_code", as_index=False).agg(
-            {"eligible_voters": "sum", "issued_ballots": "sum"}
-        )
+    # party names to abbreviations
+    recognised_party_names = set(config["choices_names"].keys())
+    present_names = set(df_long["name"])
 
-        # Optional: add teryt_name (take first name per province)
-        df_meta["teryt_name"] = (
-            df_take.groupby("teryt_code")["teryt_name"].first().values
-        )
+    missing_names = present_names - (
+        recognised_party_names | set(["issued_ballots", "eligible_voters"])
+    )
 
-        # Step 3: melt into long format
-        df_meta_long = pd.melt(
-            df_meta,
-            id_vars=["teryt_code", "teryt_name"],
-            value_vars=["eligible_voters", "issued_ballots"],
-            var_name="name",
-            value_name="votes",
-        )
+    if missing_names:
+        print("missing names:")
+        print(missing_names)
+        print("")
+        print("all names:")
+        print(present_names - set(["issued_ballots", "eligible_voters"]))
+        raise ValueError
 
-        # Assign type codes for eligible_voters (0) and issued_ballots (1)
-        df_meta_long["type"] = df_meta_long["name"].map(
-            {"eligible_voters": 0, "issued_ballots": 1}
-        )
+    df_long["name"] = df_long["name"].replace(config["choices_names"])
 
-        # Prepare votes for lists, type=2
-        df_votes["type"] = 2
-        df_votes = df_votes.rename(columns={"list_name": "name"})
+    df_parties = df_long[df_long["type"] == 2].copy()
+    party_totals = df_parties.groupby("name")["votes"].sum()
+    total_votes = party_totals.sum()
+    party_pct = (party_totals / total_votes * 100).sort_values(ascending=False)
 
-        # Combine meta and votes
-        df_long = pd.concat(
-            [
-                df_meta_long,
-                df_votes[["teryt_code", "teryt_name", "type", "name", "votes"]],
-            ],
-            ignore_index=True,
-        )
+    major_parties = party_pct.head(10).to_dict()
 
-        # Add extra columns (fill with placeholders or constants)
-        df_long["election_date"] = f"{date_str[:4]}_{date_str[4:6]}_{date_str[6:]}"
+    date_string = df_long["election_date"].iloc[0]
+    election_type = df_long["election_type"].iloc[0]
+    print(f"Check results: {date_string}")
+    for party, pct in major_parties.items():
+        print(f"{party[:10]:10} {pct:6.2f}%")
 
-        if "camera" in file_path.name:
-            election_type = "camera"
-        elif "europee" in file_path.name:
-            election_type = "european"
-        else:
-            ValueError(f"Unable to guess eleciton type from {file_path.name}")
+    winner_name, winner_score = list(major_parties.items())[0]
 
-        df_long["election_type"] = election_type
-        df_long["harmonised_code"] = df_long["teryt_code"]  # or use a mapping if needed
-        df_long["harmonised_name"] = df_long["teryt_name"]
+    results_check = config["results_checks"][date_string]
+    winner_name_check, winner_score_check = (
+        results_check["winner"],
+        results_check["result"],
+    )
 
-        # Reorder columns and rows
-        df_long = df_long[
-            [
-                "election_date",
-                "election_type",
-                "harmonised_code",
-                "harmonised_name",
-                "type",
-                "name",
-                "votes",
-            ]
-        ]
+    tolerance = 1.0  # (= 1 percentage point) aosta results missing
 
-        choices_map = config["choices_names"]
-        mask = df_long["type"] == 2
-        names_to_check = df_long["name"][mask].unique()
-        missing = set(names_to_check) - set(choices_map.keys())
-        if missing:
-            print("Missing values in choices_names:")
-            print(sorted(list(missing)))
-
-            print("All values in choices_names:")
-            print(sorted(set(names_to_check)))
-
-            raise KeyError(f"Missing values in choices_names.")
-
-        mapped = df_long["name"].map(choices_map)
-        df_long["name"] = df_long["name"].where(~mask, mapped)
-
-        df_long = df_long.sort_values(
-            by=["election_date", "election_type", "harmonised_code", "type"],
-            ascending=[True, True, True, True],
-        ).reset_index(drop=True)
-
-        # sanity check
-
-        df_parties = df_long[df_long["type"] == 2].copy()
-        party_totals = df_parties.groupby("name")["votes"].sum()
-        total_votes = party_totals.sum()
-        party_pct = (party_totals / total_votes * 100).sort_values(ascending=False)
-
-        major_parties = party_pct.head(10).to_dict()
-
-        date_string = df_long["election_date"].iloc[0]
-        election_type = df_long["election_type"].iloc[0]
-        print(f"Check results: {date_string}")
-        for party, pct in major_parties.items():
-            print(f"{party[:10]:10} {pct:6.2f}%")
-
-        winner_name, winner_score = list(major_parties.items())[0]
-
-        results_check = config["results_checks"][date_string]
-        winner_name_check, winner_score_check = (
-            results_check["winner"],
-            results_check["result"],
-        )
-
-        if "aosta" not in file_path.name:
-            if winner_name_check != winner_name or not np.isclose(
-                winner_score_check, winner_score, atol=0.1
-            ):
+    if "aosta" not in file_path.name:
+        if winner_name_check != winner_name or not np.isclose(
+            winner_score_check, winner_score, atol=tolerance
+        ):
+            if date_string == "2013_02_24" and np.isclose(
+                winner_score_check, winner_score, atol=tolerance
+            ) and winner_name in ["pd", "m5s"]:
+                # almost tied election pd-m5s
+                print("results check OK")
+            else:
                 raise ValueError(
                     f"Expected {winner_name_check} {winner_score_check}, got: {winner_name} {winner_score}"
                 )
-            else:
-                print("results check OK")
+        else:
+            print("results check OK")
 
         output_path = here / (
             f"../data/italy/harmonised/province/italy__{election_type}__{date_string}.csv"
         )
         df_long.to_csv(output_path)
-
-    except Exception as exc:
-        print("\n" * 3)
-        print(f"Error while parsing: {file_path}")
-        print(f"Exception: {type(exc).__name__}: {exc}")
-        traceback.print_exc()
-        print("\n" * 3)
-
-        raise ValueError("Parsing error")
-
-df_comune_names = pd.concat(
-            comune_names_dfs,
-            ignore_index=True,
-        )
-
-df_comune_names["comune"] = df_comune_names["comune"].str.strip()
-df_comune_names = df_comune_names.drop_duplicates().sort_values(by="comune").reset_index(drop=True)
-
-df_comune_names.to_csv("comune_names.csv")
