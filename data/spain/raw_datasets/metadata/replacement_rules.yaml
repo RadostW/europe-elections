@@ -1,0 +1,197 @@
+"column_names":  
+  "Código de Provincia": "harmonised_code"
+  "Nombre de Provincia": "harmonised_name"
+  "Total censo electoral": "eligible_voters"
+  "Total votantes": "issued_ballots"
+
+year_to_date:
+  "2009": "2009_06_07" # European Parliament     
+  "2004": "2004_06_13" # European Parliament    
+  "1999": "1999_06_13" # European Parliament    
+
+
+year_month_to_date:
+  "1993_06": "1993_06_06"  # Congreso
+  "1996_03": "1996_03_03"  # Congreso
+  "2000_03": "2000_03_12"  # Congreso
+  "2004_03": "2004_03_14"  # Congreso
+  "2008_03": "2008_03_09"  # Congreso
+  "2011_11": "2011_11_20"  # Congreso
+  "2014_05": "2014_05_25"  # European Parliament
+  "2015_12": "2015_12_20"  # Congreso
+  "2016_06": "2016_06_26"  # Congreso (repeat election)
+  "2019_04": "2019_04_28"  # Congreso
+  "2019_05": "2019_05_26"  # European Parliament
+  "2019_11": "2019_11_10"  # Congreso (repeat election)
+  "2023_07": "2023_07_23"  # Congreso
+  "2024_06": "2024_06_09"  # European Parliament
+
+code_to_name:
+  I_01: "Alava"
+  I_02: "Albacete"
+  I_03: "Alicante"
+  I_04: "Almeria"
+  I_05: "Avila"
+  I_06: "Badajoz"
+  I_07: "Illes Balears"
+  I_08: "Barcelona"
+  I_09: "Burgos"
+  I_10: "Caceres"
+  I_11: "Cadiz"
+  I_12: "Castellon"
+  I_13: "Ciudad Real"
+  I_14: "Cordoba"
+  I_15: "A Coruna"
+  I_16: "Cuenca"
+  I_17: "Girona"
+  I_18: "Granada"
+  I_19: "Guadalajara"
+  I_20: "Gipuzkoa"
+  I_21: "Huelva"
+  I_22: "Huesca"
+  I_23: "Jaen"
+  I_24: "Leon"
+  I_25: "Lleida"
+  I_26: "La Rioja"
+  I_27: "Lugo"
+  I_28: "Madrid"
+  I_29: "Malaga"
+  I_30: "Murcia"
+  I_31: "Navarra"
+  I_32: "Ourense"
+  I_33: "Asturias"
+  I_34: "Palencia"
+  I_35: "Las Palmas"
+  I_36: "Pontevedra"
+  I_37: "Salamanca"
+  I_38: "Canarias"
+  I_39: "Cantabria"
+  I_40: "Segovia"
+  I_41: "Sevilla"
+  I_42: "Soria"
+  I_43: "Tarragona"
+  I_44: "Teruel"
+  I_45: "Toledo"
+  I_46: "Valencia"
+  I_47: "Valladolid"
+  I_48: "Bizkaia"
+  I_49: "Zamora"
+  I_50: "Zaragoza"
+  I_51: "Ceuta"
+  I_52: "Melilla"
+
+nuts2016_to_harmonised_code:  
+  ES111: "I_15"
+  ES112: "I_27"
+  ES113: "I_32"
+  ES114: "I_36"
+  ES120: "I_33"
+  ES130: "I_39"
+  ES211: "I_01"
+  ES212: "I_20"
+  ES213: "I_48"
+  ES220: "I_31"
+  ES230: "I_26"
+  ES241: "I_22"
+  ES242: "I_44"
+  ES243: "I_50"
+  ES300: "I_28"
+  ES411: "I_05"
+  ES412: "I_09"
+  ES413: "I_24"
+  ES414: "I_34"
+  ES415: "I_37"
+  ES416: "I_40"
+  ES417: "I_42"
+  ES418: "I_47"
+  ES419: "I_49"
+  ES421: "I_02"
+  ES422: "I_13"
+  ES423: "I_16"
+  ES424: "I_19"
+  ES425: "I_45"
+  ES431: "I_06"
+  ES432: "I_10"
+  ES511: "I_08"
+  ES512: "I_17"
+  ES513: "I_25"
+  ES514: "I_43"
+  ES521: "I_03"
+  ES522: "I_12"
+  ES523: "I_46"
+  ES530: "I_07"
+  ES531: "I_07"
+  ES532: "I_07"
+  ES533: "I_07"
+  ES611: "I_04"
+  ES612: "I_11"
+  ES613: "I_14"
+  ES614: "I_18"
+  ES615: "I_21"
+  ES616: "I_23"
+  ES617: "I_29"
+  ES618: "I_41"
+  ES620: "I_30"
+  ES630: "I_51"
+  ES640: "I_52"
+  ES700: "I_38"
+  ES703: "I_38"
+  ES704: "I_35"
+  ES705: "I_35"
+  ES706: "I_38"
+  ES707: "I_38"
+  ES708: "I_38"
+  ES709: "I_38"
+
+results_checks:
+  "1993_06_06":
+    winner: "psoe"
+    result: 38.8
+  "1996_03_03":
+    winner: "pp"
+    result: 38.8
+  "1999_06_13":
+    winner: "pp"
+    result: 39.74
+  "2000_03_12":
+    winner: "pp"
+    result: 44.5
+  "2004_06_13":
+    winner: "psoe"
+    result: 43.5
+  "2004_03_14":
+    winner: "psoe"
+    result: 42.6
+  "2008_03_09":
+    winner: "psoe"
+    result: 43.9
+  "2009_06_07":
+    winner: "pp"
+    result: 42.1
+  "2011_11_20":
+    winner: "pp"
+    result: 44.6
+  "2014_05_25":
+    winner: "pp"
+    result: 26.1
+  "2015_12_20":
+    winner: "pp"
+    result: 28.7
+  "2016_06_26":
+    winner: "pp"
+    result: 33.0
+  "2019_04_28":
+    winner: "psoe"
+    result: 28.7
+  "2019_05_26":
+    winner: "psoe"
+    result: 32.9
+  "2019_11_10":
+    winner: "psoe"
+    result: 28.0
+  "2023_07_23":
+    winner: "pp"
+    result: 33.1
+  "2024_06_09":
+    winner: "pp"
+    result: 34.21

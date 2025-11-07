@@ -1,381 +1,381 @@
-,teryt,teryt_woj,teryt_pow,nuts,nuts_0,nuts_1,nuts_2,nuts_3,pow_name,pow_prefix,woj_name,woj_prefix,nuts_1_name,nuts_1_prefix,nuts_2_name,nuts_2_prefix,nuts_3_name,nuts_3_prefix
-0,T_0201,2,1,PL515,PL,5,1,5,bolesławiecki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
-1,T_0205,2,5,PL515,PL,5,1,5,jaworski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
-2,T_0206,2,6,PL515,PL,5,1,5,karkonoski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
-3,T_0207,2,7,PL515,PL,5,1,5,kamiennogórski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
-4,T_0210,2,10,PL515,PL,5,1,5,lubański,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
-5,T_0212,2,12,PL515,PL,5,1,5,lwówecki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
-6,T_0225,2,25,PL515,PL,5,1,5,zgorzelecki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
-7,T_0226,2,26,PL515,PL,5,1,5,złotoryjski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
-8,T_0261,2,61,PL515,PL,5,1,5,Jelenia Góra,powiat m.,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
-9,T_0202,2,2,PL517,PL,5,1,7,dzierżoniowski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
-10,T_0208,2,8,PL517,PL,5,1,7,kłodzki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
-11,T_0219,2,19,PL517,PL,5,1,7,świdnicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
-12,T_0221,2,21,PL517,PL,5,1,7,wałbrzyski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
-13,T_0224,2,24,PL517,PL,5,1,7,ząbkowicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
-14,T_0265,2,65,PL517,PL,5,1,7,Wałbrzych,powiat m.,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
-15,T_0203,2,3,PL516,PL,5,1,6,głogowski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
-16,T_0204,2,4,PL516,PL,5,1,6,górowski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
-17,T_0209,2,9,PL516,PL,5,1,6,legnicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
-18,T_0211,2,11,PL516,PL,5,1,6,lubiński,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
-19,T_0216,2,16,PL516,PL,5,1,6,polkowicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
-20,T_0262,2,62,PL516,PL,5,1,6,Legnica,powiat m.,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
-21,T_0213,2,13,PL518,PL,5,1,8,milicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
-22,T_0214,2,14,PL518,PL,5,1,8,oleśnicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
-23,T_0215,2,15,PL518,PL,5,1,8,oławski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
-24,T_0217,2,17,PL518,PL,5,1,8,strzeliński,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
-25,T_0218,2,18,PL518,PL,5,1,8,średzki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
-26,T_0220,2,20,PL518,PL,5,1,8,trzebnicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
-27,T_0222,2,22,PL518,PL,5,1,8,wołowski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
-28,T_0223,2,23,PL518,PL,5,1,8,wrocławski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
-29,T_0264,2,64,PL514,PL,5,1,4,Wrocław,powiat m.,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,miasto wrocław,podregion
-30,T_0401,4,1,PL619,PL,6,1,9,aleksandrowski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
-31,T_0408,4,8,PL619,PL,6,1,9,lipnowski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
-32,T_0411,4,11,PL619,PL,6,1,9,radziejowski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
-33,T_0418,4,18,PL619,PL,6,1,9,włocławski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
-34,T_0464,4,64,PL619,PL,6,1,9,Włocławek,powiat m.,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
-35,T_0402,4,2,PL616,PL,6,1,6,brodnicki,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
-36,T_0404,4,4,PL616,PL,6,1,6,chełmiński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
-37,T_0405,4,5,PL616,PL,6,1,6,golubsko-dobrzyński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
-38,T_0406,4,6,PL616,PL,6,1,6,grudziądzki,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
-39,T_0412,4,12,PL616,PL,6,1,6,rypiński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
-40,T_0417,4,17,PL616,PL,6,1,6,wąbrzeski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
-41,T_0462,4,62,PL616,PL,6,1,6,Grudziądz,powiat m.,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
-42,T_0403,4,3,PL613,PL,6,1,3,bydgoski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,bydgosko-toruński,podregion
-43,T_0415,4,15,PL613,PL,6,1,3,toruński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,bydgosko-toruński,podregion
-44,T_0461,4,61,PL613,PL,6,1,3,Bydgoszcz,powiat m.,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,bydgosko-toruński,podregion
-45,T_0463,4,63,PL613,PL,6,1,3,Toruń,powiat m.,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,bydgosko-toruński,podregion
-46,T_0407,4,7,PL617,PL,6,1,7,inowrocławski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,inowrocławski,podregion
-47,T_0409,4,9,PL617,PL,6,1,7,mogileński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,inowrocławski,podregion
-48,T_0410,4,10,PL617,PL,6,1,7,nakielski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,inowrocławski,podregion
-49,T_0419,4,19,PL617,PL,6,1,7,żniński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,inowrocławski,podregion
-50,T_0413,4,13,PL618,PL,6,1,8,sępoleński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,świecki,podregion
-51,T_0414,4,14,PL618,PL,6,1,8,świecki,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,świecki,podregion
-52,T_0416,4,16,PL618,PL,6,1,8,tucholski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,świecki,podregion
-53,T_0601,6,1,PL811,PL,8,1,1,bialski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
-54,T_0613,6,13,PL811,PL,8,1,1,parczewski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
-55,T_0615,6,15,PL811,PL,8,1,1,radzyński,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
-56,T_0619,6,19,PL811,PL,8,1,1,włodawski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
-57,T_0661,6,61,PL811,PL,8,1,1,Biała Podlaska,powiat m.,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
-58,T_0602,6,2,PL812,PL,8,1,2,biłgorajski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
-59,T_0603,6,3,PL812,PL,8,1,2,chełmski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
-60,T_0604,6,4,PL812,PL,8,1,2,hrubieszowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
-61,T_0606,6,6,PL812,PL,8,1,2,krasnostawski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
-62,T_0618,6,18,PL812,PL,8,1,2,tomaszowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
-63,T_0620,6,20,PL812,PL,8,1,2,zamojski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
-64,T_0662,6,62,PL812,PL,8,1,2,Chełm,powiat m.,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
-65,T_0664,6,64,PL812,PL,8,1,2,Zamość,powiat m.,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
-66,T_0605,6,5,PL815,PL,8,1,5,janowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
-67,T_0607,6,7,PL815,PL,8,1,5,kraśnicki,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
-68,T_0611,6,11,PL815,PL,8,1,5,łukowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
-69,T_0612,6,12,PL815,PL,8,1,5,opolski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
-70,T_0614,6,14,PL815,PL,8,1,5,puławski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
-71,T_0616,6,16,PL815,PL,8,1,5,rycki,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
-72,T_0608,6,8,PL814,PL,8,1,4,lubartowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
-73,T_0609,6,9,PL814,PL,8,1,4,lubelski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
-74,T_0610,6,10,PL814,PL,8,1,4,łęczyński,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
-75,T_0617,6,17,PL814,PL,8,1,4,świdnicki,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
-76,T_0663,6,63,PL814,PL,8,1,4,Lublin,powiat m.,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
-77,T_0801,8,1,PL431,PL,4,3,1,gorzowski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
-78,T_0803,8,3,PL431,PL,4,3,1,międzyrzecki,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
-79,T_0805,8,5,PL431,PL,4,3,1,słubicki,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
-80,T_0806,8,6,PL431,PL,4,3,1,strzelecko-drezdenecki,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
-81,T_0807,8,7,PL431,PL,4,3,1,sulęciński,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
-82,T_0861,8,61,PL431,PL,4,3,1,Gorzów Wielkopolski,powiat m.,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
-83,T_0802,8,2,PL432,PL,4,3,2,krośnieński,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
-84,T_0804,8,4,PL432,PL,4,3,2,nowosolski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
-85,T_0808,8,8,PL432,PL,4,3,2,świebodziński,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
-86,T_0809,8,9,PL432,PL,4,3,2,zielonogórski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
-87,T_0810,8,10,PL432,PL,4,3,2,żagański,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
-88,T_0811,8,11,PL432,PL,4,3,2,żarski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
-89,T_0812,8,12,PL432,PL,4,3,2,wschowski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
-90,T_0862,8,62,PL432,PL,4,3,2,Zielona Góra,powiat m.,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
-91,T_1001,10,1,PL713,PL,7,1,3,bełchatowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
-92,T_1007,10,7,PL713,PL,7,1,3,opoczyński,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
-93,T_1010,10,10,PL713,PL,7,1,3,piotrkowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
-94,T_1012,10,12,PL713,PL,7,1,3,radomszczański,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
-95,T_1016,10,16,PL713,PL,7,1,3,tomaszowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
-96,T_1062,10,62,PL713,PL,7,1,3,Piotrków Trybunalski,powiat m.,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
-97,T_1002,10,2,PL715,PL,7,1,5,kutnowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
-98,T_1004,10,4,PL715,PL,7,1,5,łęczycki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
-99,T_1005,10,5,PL715,PL,7,1,5,łowicki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
-100,T_1013,10,13,PL715,PL,7,1,5,rawski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
-101,T_1015,10,15,PL715,PL,7,1,5,skierniewicki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
-102,T_1063,10,63,PL715,PL,7,1,5,Skierniewice,powiat m.,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
-103,T_1003,10,3,PL714,PL,7,1,4,łaski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
-104,T_1009,10,9,PL714,PL,7,1,4,pajęczański,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
-105,T_1011,10,11,PL714,PL,7,1,4,poddębicki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
-106,T_1014,10,14,PL714,PL,7,1,4,sieradzki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
-107,T_1017,10,17,PL714,PL,7,1,4,wieluński,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
-108,T_1018,10,18,PL714,PL,7,1,4,wieruszowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
-109,T_1019,10,19,PL714,PL,7,1,4,zduńskowolski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
-110,T_1006,10,6,PL712,PL,7,1,2,łódzki wschodni,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,łódzki,podregion
-111,T_1008,10,8,PL712,PL,7,1,2,pabianicki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,łódzki,podregion
-112,T_1020,10,20,PL712,PL,7,1,2,zgierski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,łódzki,podregion
-113,T_1021,10,21,PL712,PL,7,1,2,brzeziński,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,łódzki,podregion
-114,T_1061,10,61,PL711,PL,7,1,1,Łódź,powiat m.,łódzkie,województwo,centralny,makroregion,łódzkie,region,miasto łódź,podregion
-115,T_1201,12,1,PL214,PL,2,1,4,bocheński,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
-116,T_1206,12,6,PL214,PL,2,1,4,krakowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
-117,T_1208,12,8,PL214,PL,2,1,4,miechowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
-118,T_1209,12,9,PL214,PL,2,1,4,myślenicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
-119,T_1214,12,14,PL214,PL,2,1,4,proszowicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
-120,T_1219,12,19,PL214,PL,2,1,4,wielicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
-121,T_1202,12,2,PL217,PL,2,1,7,brzeski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,tarnowski,podregion
-122,T_1204,12,4,PL217,PL,2,1,7,dąbrowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,tarnowski,podregion
-123,T_1216,12,16,PL217,PL,2,1,7,tarnowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,tarnowski,podregion
-124,T_1263,12,63,PL217,PL,2,1,7,Tarnów,powiat m.,małopolskie,województwo,południowy,makroregion,małopolskie,region,tarnowski,podregion
-125,T_1203,12,3,PL21A,PL,2,1,A,chrzanowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,oświęcimski,podregion
-126,T_1212,12,12,PL21A,PL,2,1,A,olkuski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,oświęcimski,podregion
-127,T_1213,12,13,PL21A,PL,2,1,A,oświęcimski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,oświęcimski,podregion
-128,T_1218,12,18,PL21A,PL,2,1,A,wadowicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,oświęcimski,podregion
-129,T_1205,12,5,PL218,PL,2,1,8,gorlicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowosądecki,podregion
-130,T_1207,12,7,PL218,PL,2,1,8,limanowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowosądecki,podregion
-131,T_1210,12,10,PL218,PL,2,1,8,nowosądecki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowosądecki,podregion
-132,T_1262,12,62,PL218,PL,2,1,8,Nowy Sącz,powiat m.,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowosądecki,podregion
-133,T_1211,12,11,PL219,PL,2,1,9,nowotarski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowotarski,podregion
-134,T_1215,12,15,PL219,PL,2,1,9,suski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowotarski,podregion
-135,T_1217,12,17,PL219,PL,2,1,9,tatrzański,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowotarski,podregion
-136,T_1261,12,61,PL213,PL,2,1,3,Kraków,powiat m.,małopolskie,województwo,południowy,makroregion,małopolskie,region,miasto kraków,podregion
-137,T_1401,14,1,PL921,PL,9,2,1,białobrzeski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
-138,T_1407,14,7,PL921,PL,9,2,1,kozienicki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
-139,T_1409,14,9,PL921,PL,9,2,1,lipski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
-140,T_1423,14,23,PL921,PL,9,2,1,przysuski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
-141,T_1425,14,25,PL921,PL,9,2,1,radomski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
-142,T_1430,14,30,PL921,PL,9,2,1,szydłowiecki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
-143,T_1436,14,36,PL921,PL,9,2,1,zwoleński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
-144,T_1463,14,63,PL921,PL,9,2,1,Radom,powiat m.,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
-145,T_1402,14,2,PL922,PL,9,2,2,ciechanowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
-146,T_1413,14,13,PL922,PL,9,2,2,mławski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
-147,T_1420,14,20,PL922,PL,9,2,2,płoński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
-148,T_1424,14,24,PL922,PL,9,2,2,pułtuski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
-149,T_1437,14,37,PL922,PL,9,2,2,żuromiński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
-150,T_1403,14,3,PL925,PL,9,2,5,garwoliński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
-151,T_1410,14,10,PL925,PL,9,2,5,łosicki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
-152,T_1426,14,26,PL925,PL,9,2,5,siedlecki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
-153,T_1429,14,29,PL925,PL,9,2,5,sokołowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
-154,T_1433,14,33,PL925,PL,9,2,5,węgrowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
-155,T_1464,14,64,PL925,PL,9,2,5,Siedlce,powiat m.,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
-156,T_1404,14,4,PL923,PL,9,2,3,gostyniński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,płocki,podregion
-157,T_1419,14,19,PL923,PL,9,2,3,płocki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,płocki,podregion
-158,T_1427,14,27,PL923,PL,9,2,3,sierpecki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,płocki,podregion
-159,T_1462,14,62,PL923,PL,9,2,3,Płock,powiat m.,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,płocki,podregion
-160,T_1405,14,5,PL913,PL,9,1,3,grodziski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
-161,T_1414,14,14,PL913,PL,9,1,3,nowodworski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
-162,T_1418,14,18,PL913,PL,9,1,3,piaseczyński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
-163,T_1421,14,21,PL913,PL,9,1,3,pruszkowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
-164,T_1432,14,32,PL913,PL,9,1,3,warszawski zachodni,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
-165,T_1406,14,6,PL926,PL,9,2,6,grójecki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,żyrardowski,podregion
-166,T_1428,14,28,PL926,PL,9,2,6,sochaczewski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,żyrardowski,podregion
-167,T_1438,14,38,PL926,PL,9,2,6,żyrardowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,żyrardowski,podregion
-168,T_1408,14,8,PL912,PL,9,1,2,legionowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski wschodni,podregion
-169,T_1412,14,12,PL912,PL,9,1,2,miński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski wschodni,podregion
-170,T_1417,14,17,PL912,PL,9,1,2,otwocki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski wschodni,podregion
-171,T_1434,14,34,PL912,PL,9,1,2,wołomiński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski wschodni,podregion
-172,T_1411,14,11,PL924,PL,9,2,4,makowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
-173,T_1415,14,15,PL924,PL,9,2,4,ostrołęcki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
-174,T_1416,14,16,PL924,PL,9,2,4,ostrowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
-175,T_1422,14,22,PL924,PL,9,2,4,przasnyski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
-176,T_1435,14,35,PL924,PL,9,2,4,wyszkowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
-177,T_1461,14,61,PL924,PL,9,2,4,Ostrołęka,powiat m.,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
-178,T_1465,14,65,PL911,PL,9,1,1,Warszawa,powiat m. st.,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,miasto warszawa,podregion
-179,T_1601,16,1,PL523,PL,5,2,3,brzeski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
-180,T_1602,16,2,PL523,PL,5,2,3,głubczycki,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
-181,T_1606,16,6,PL523,PL,5,2,3,namysłowski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
-182,T_1607,16,7,PL523,PL,5,2,3,nyski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
-183,T_1610,16,10,PL523,PL,5,2,3,prudnicki,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
-184,T_1603,16,3,PL524,PL,5,2,4,kędzierzyńsko-kozielski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
-185,T_1604,16,4,PL524,PL,5,2,4,kluczborski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
-186,T_1605,16,5,PL524,PL,5,2,4,krapkowicki,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
-187,T_1608,16,8,PL524,PL,5,2,4,oleski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
-188,T_1609,16,9,PL524,PL,5,2,4,opolski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
-189,T_1611,16,11,PL524,PL,5,2,4,strzelecki,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
-190,T_1661,16,61,PL524,PL,5,2,4,Opole,powiat m.,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
-191,T_1801,18,1,PL821,PL,8,2,1,bieszczadzki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
-192,T_1802,18,2,PL821,PL,8,2,1,brzozowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
-193,T_1805,18,5,PL821,PL,8,2,1,jasielski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
-194,T_1807,18,7,PL821,PL,8,2,1,krośnieński,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
-195,T_1817,18,17,PL821,PL,8,2,1,sanocki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
-196,T_1821,18,21,PL821,PL,8,2,1,leski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
-197,T_1861,18,61,PL821,PL,8,2,1,Krosno,powiat m.,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
-198,T_1803,18,3,PL824,PL,8,2,4,dębicki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
-199,T_1808,18,8,PL824,PL,8,2,4,leżajski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
-200,T_1811,18,11,PL824,PL,8,2,4,mielecki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
-201,T_1812,18,12,PL824,PL,8,2,4,niżański,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
-202,T_1818,18,18,PL824,PL,8,2,4,stalowowolski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
-203,T_1820,18,20,PL824,PL,8,2,4,tarnobrzeski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
-204,T_1864,18,64,PL824,PL,8,2,4,Tarnobrzeg,powiat m.,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
-205,T_1804,18,4,PL822,PL,8,2,2,jarosławski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
-206,T_1809,18,9,PL822,PL,8,2,2,lubaczowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
-207,T_1813,18,13,PL822,PL,8,2,2,przemyski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
-208,T_1814,18,14,PL822,PL,8,2,2,przeworski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
-209,T_1862,18,62,PL822,PL,8,2,2,Przemyśl,powiat m.,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
-210,T_1806,18,6,PL823,PL,8,2,3,kolbuszowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
-211,T_1810,18,10,PL823,PL,8,2,3,łańcucki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
-212,T_1815,18,15,PL823,PL,8,2,3,ropczycko-sędziszowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
-213,T_1816,18,16,PL823,PL,8,2,3,rzeszowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
-214,T_1819,18,19,PL823,PL,8,2,3,strzyżowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
-215,T_1863,18,63,PL823,PL,8,2,3,Rzeszów,powiat m.,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
-216,T_2001,20,1,PL843,PL,8,4,3,augustowski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
-217,T_2004,20,4,PL843,PL,8,4,3,grajewski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
-218,T_2008,20,8,PL843,PL,8,4,3,moniecki,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
-219,T_2009,20,9,PL843,PL,8,4,3,sejneński,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
-220,T_2012,20,12,PL843,PL,8,4,3,suwalski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
-221,T_2063,20,63,PL843,PL,8,4,3,Suwałki,powiat m.,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
-222,T_2002,20,2,PL841,PL,8,4,1,białostocki,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,białostocki,podregion
-223,T_2011,20,11,PL841,PL,8,4,1,sokólski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,białostocki,podregion
-224,T_2061,20,61,PL841,PL,8,4,1,Białystok,powiat m.,podlaskie,województwo,wschodni,makroregion,podlaskie,region,białostocki,podregion
-225,T_2003,20,3,PL842,PL,8,4,2,bielski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
-226,T_2005,20,5,PL842,PL,8,4,2,hajnowski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
-227,T_2006,20,6,PL842,PL,8,4,2,kolneński,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
-228,T_2007,20,7,PL842,PL,8,4,2,łomżyński,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
-229,T_2010,20,10,PL842,PL,8,4,2,siemiatycki,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
-230,T_2013,20,13,PL842,PL,8,4,2,wysokomazowiecki,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
-231,T_2014,20,14,PL842,PL,8,4,2,zambrowski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
-232,T_2062,20,62,PL842,PL,8,4,2,Łomża,powiat m.,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
-233,T_2201,22,1,PL636,PL,6,3,6,bytowski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,słupski,podregion
-234,T_2208,22,8,PL636,PL,6,3,6,lęborski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,słupski,podregion
-235,T_2212,22,12,PL636,PL,6,3,6,słupski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,słupski,podregion
-236,T_2263,22,63,PL636,PL,6,3,6,Słupsk,powiat m.,pomorskie,województwo,północny,makroregion,pomorskie,region,słupski,podregion
-237,T_2202,22,2,PL637,PL,6,3,7,chojnicki,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,chojnicki,podregion
-238,T_2203,22,3,PL637,PL,6,3,7,człuchowski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,chojnicki,podregion
-239,T_2206,22,6,PL637,PL,6,3,7,kościerski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,chojnicki,podregion
-240,T_2204,22,4,PL634,PL,6,3,4,gdański,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
-241,T_2205,22,5,PL634,PL,6,3,4,kartuski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
-242,T_2210,22,10,PL634,PL,6,3,4,nowodworski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
-243,T_2211,22,11,PL634,PL,6,3,4,pucki,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
-244,T_2215,22,15,PL634,PL,6,3,4,wejherowski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
-245,T_2207,22,7,PL638,PL,6,3,8,kwidzyński,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
-246,T_2209,22,9,PL638,PL,6,3,8,malborski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
-247,T_2213,22,13,PL638,PL,6,3,8,starogardzki,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
-248,T_2214,22,14,PL638,PL,6,3,8,tczewski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
-249,T_2216,22,16,PL638,PL,6,3,8,sztumski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
-250,T_2261,22,61,PL633,PL,6,3,3,Gdańsk,powiat m.,pomorskie,województwo,północny,makroregion,pomorskie,region,trójmiejski,podregion
-251,T_2262,22,62,PL633,PL,6,3,3,Gdynia,powiat m.,pomorskie,województwo,północny,makroregion,pomorskie,region,trójmiejski,podregion
-252,T_2264,22,64,PL633,PL,6,3,3,Sopot,powiat m.,pomorskie,województwo,północny,makroregion,pomorskie,region,trójmiejski,podregion
-253,T_2401,24,1,PL22B,PL,2,2,B,będziński,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
-254,T_2416,24,16,PL22B,PL,2,2,B,zawierciański,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
-255,T_2465,24,65,PL22B,PL,2,2,B,Dąbrowa Górnicza,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
-256,T_2468,24,68,PL22B,PL,2,2,B,Jaworzno,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
-257,T_2475,24,75,PL22B,PL,2,2,B,Sosnowiec,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
-258,T_2402,24,2,PL225,PL,2,2,5,bielski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bielski,podregion
-259,T_2403,24,3,PL225,PL,2,2,5,cieszyński,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bielski,podregion
-260,T_2417,24,17,PL225,PL,2,2,5,żywiecki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bielski,podregion
-261,T_2461,24,61,PL225,PL,2,2,5,Bielsko-Biała,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,bielski,podregion
-262,T_2404,24,4,PL224,PL,2,2,4,częstochowski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,częstochowski,podregion
-263,T_2406,24,6,PL224,PL,2,2,4,kłobucki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,częstochowski,podregion
-264,T_2409,24,9,PL224,PL,2,2,4,myszkowski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,częstochowski,podregion
-265,T_2464,24,64,PL224,PL,2,2,4,Częstochowa,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,częstochowski,podregion
-266,T_2405,24,5,PL229,PL,2,2,9,gliwicki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,gliwicki,podregion
-267,T_2466,24,66,PL229,PL,2,2,9,Gliwice,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,gliwicki,podregion
-268,T_2478,24,78,PL229,PL,2,2,9,Zabrze,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,gliwicki,podregion
-269,T_2407,24,7,PL228,PL,2,2,8,lubliniecki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bytomski,podregion
-270,T_2413,24,13,PL228,PL,2,2,8,tarnogórski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bytomski,podregion
-271,T_2462,24,62,PL228,PL,2,2,8,Bytom,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,bytomski,podregion
-272,T_2471,24,71,PL228,PL,2,2,8,Piekary Śląskie,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,bytomski,podregion
-273,T_2408,24,8,PL22C,PL,2,2,C,mikołowski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,tyski,podregion
-274,T_2410,24,10,PL22C,PL,2,2,C,pszczyński,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,tyski,podregion
-275,T_2414,24,14,PL22C,PL,2,2,C,bieruńsko-lędziński,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,tyski,podregion
-276,T_2477,24,77,PL22C,PL,2,2,C,Tychy,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,tyski,podregion
-277,T_2411,24,11,PL227,PL,2,2,7,raciborski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
-278,T_2412,24,12,PL227,PL,2,2,7,rybnicki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
-279,T_2415,24,15,PL227,PL,2,2,7,wodzisławski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
-280,T_2467,24,67,PL227,PL,2,2,7,Jastrzębie-Zdrój,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
-281,T_2473,24,73,PL227,PL,2,2,7,Rybnik,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
-282,T_2479,24,79,PL227,PL,2,2,7,Żory,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
-283,T_2463,24,63,PL22A,PL,2,2,A,Chorzów,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
-284,T_2469,24,69,PL22A,PL,2,2,A,Katowice,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
-285,T_2470,24,70,PL22A,PL,2,2,A,Mysłowice,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
-286,T_2472,24,72,PL22A,PL,2,2,A,Ruda Śląska,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
-287,T_2474,24,74,PL22A,PL,2,2,A,Siemianowice Śląskie,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
-288,T_2476,24,76,PL22A,PL,2,2,A,Świętochłowice,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
-289,T_2601,26,1,PL722,PL,7,2,2,buski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
-290,T_2602,26,2,PL722,PL,7,2,2,jędrzejowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
-291,T_2603,26,3,PL722,PL,7,2,2,kazimierski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
-292,T_2606,26,6,PL722,PL,7,2,2,opatowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
-293,T_2608,26,8,PL722,PL,7,2,2,pińczowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
-294,T_2609,26,9,PL722,PL,7,2,2,sandomierski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
-295,T_2612,26,12,PL722,PL,7,2,2,staszowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
-296,T_2613,26,13,PL722,PL,7,2,2,włoszczowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
-297,T_2604,26,4,PL721,PL,7,2,1,kielecki,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
-298,T_2605,26,5,PL721,PL,7,2,1,konecki,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
-299,T_2607,26,7,PL721,PL,7,2,1,ostrowiecki,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
-300,T_2610,26,10,PL721,PL,7,2,1,skarżyski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
-301,T_2611,26,11,PL721,PL,7,2,1,starachowicki,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
-302,T_2661,26,61,PL721,PL,7,2,1,Kielce,powiat m.,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
-303,T_2801,28,1,PL622,PL,6,2,2,bartoszycki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
-304,T_2808,28,8,PL622,PL,6,2,2,kętrzyński,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
-305,T_2809,28,9,PL622,PL,6,2,2,lidzbarski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
-306,T_2810,28,10,PL622,PL,6,2,2,mrągowski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
-307,T_2811,28,11,PL622,PL,6,2,2,nidzicki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
-308,T_2814,28,14,PL622,PL,6,2,2,olsztyński,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
-309,T_2817,28,17,PL622,PL,6,2,2,szczycieński,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
-310,T_2862,28,62,PL622,PL,6,2,2,Olsztyn,powiat m.,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
-311,T_2802,28,2,PL621,PL,6,2,1,braniewski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
-312,T_2803,28,3,PL621,PL,6,2,1,działdowski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
-313,T_2804,28,4,PL621,PL,6,2,1,elbląski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
-314,T_2807,28,7,PL621,PL,6,2,1,iławski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
-315,T_2812,28,12,PL621,PL,6,2,1,nowomiejski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
-316,T_2815,28,15,PL621,PL,6,2,1,ostródzki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
-317,T_2861,28,61,PL621,PL,6,2,1,Elbląg,powiat m.,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
-318,T_2805,28,5,PL623,PL,6,2,3,ełcki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
-319,T_2806,28,6,PL623,PL,6,2,3,giżycki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
-320,T_2813,28,13,PL623,PL,6,2,3,olecki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
-321,T_2816,28,16,PL623,PL,6,2,3,piski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
-322,T_2818,28,18,PL623,PL,6,2,3,gołdapski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
-323,T_2819,28,19,PL623,PL,6,2,3,węgorzewski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
-324,T_3001,30,1,PL411,PL,4,1,1,chodzieski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
-325,T_3002,30,2,PL411,PL,4,1,1,czarnkowsko-trzcianecki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
-326,T_3019,30,19,PL411,PL,4,1,1,pilski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
-327,T_3028,30,28,PL411,PL,4,1,1,wągrowiecki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
-328,T_3031,30,31,PL411,PL,4,1,1,złotowski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
-329,T_3003,30,3,PL414,PL,4,1,4,gnieźnieński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
-330,T_3009,30,9,PL414,PL,4,1,4,kolski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
-331,T_3010,30,10,PL414,PL,4,1,4,koniński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
-332,T_3023,30,23,PL414,PL,4,1,4,słupecki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
-333,T_3027,30,27,PL414,PL,4,1,4,turecki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
-334,T_3030,30,30,PL414,PL,4,1,4,wrzesiński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
-335,T_3062,30,62,PL414,PL,4,1,4,Konin,powiat m.,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
-336,T_3004,30,4,PL417,PL,4,1,7,gostyński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
-337,T_3005,30,5,PL417,PL,4,1,7,grodziski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
-338,T_3011,30,11,PL417,PL,4,1,7,kościański,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
-339,T_3013,30,13,PL417,PL,4,1,7,leszczyński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
-340,T_3014,30,14,PL417,PL,4,1,7,międzychodzki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
-341,T_3015,30,15,PL417,PL,4,1,7,nowotomyski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
-342,T_3022,30,22,PL417,PL,4,1,7,rawicki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
-343,T_3029,30,29,PL417,PL,4,1,7,wolsztyński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
-344,T_3063,30,63,PL417,PL,4,1,7,Leszno,powiat m.,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
-345,T_3006,30,6,PL416,PL,4,1,6,jarociński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
-346,T_3007,30,7,PL416,PL,4,1,6,kaliski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
-347,T_3008,30,8,PL416,PL,4,1,6,kępiński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
-348,T_3012,30,12,PL416,PL,4,1,6,krotoszyński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
-349,T_3017,30,17,PL416,PL,4,1,6,ostrowski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
-350,T_3018,30,18,PL416,PL,4,1,6,ostrzeszowski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
-351,T_3020,30,20,PL416,PL,4,1,6,pleszewski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
-352,T_3061,30,61,PL416,PL,4,1,6,Kalisz,powiat m.,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
-353,T_3016,30,16,PL418,PL,4,1,8,obornicki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
-354,T_3021,30,21,PL418,PL,4,1,8,poznański,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
-355,T_3024,30,24,PL418,PL,4,1,8,szamotulski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
-356,T_3025,30,25,PL418,PL,4,1,8,średzki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
-357,T_3026,30,26,PL418,PL,4,1,8,śremski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
-358,T_3064,30,64,PL415,PL,4,1,5,Poznań,powiat m.,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,miasto poznań,podregion
-359,T_3201,32,1,PL426,PL,4,2,6,białogardzki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
-360,T_3208,32,8,PL426,PL,4,2,6,kołobrzeski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
-361,T_3209,32,9,PL426,PL,4,2,6,koszaliński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
-362,T_3213,32,13,PL426,PL,4,2,6,sławieński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
-363,T_3261,32,61,PL426,PL,4,2,6,Koszalin,powiat m.,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
-364,T_3202,32,2,PL427,PL,4,2,7,choszczeński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
-365,T_3203,32,3,PL427,PL,4,2,7,drawski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
-366,T_3210,32,10,PL427,PL,4,2,7,myśliborski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
-367,T_3212,32,12,PL427,PL,4,2,7,pyrzycki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
-368,T_3215,32,15,PL427,PL,4,2,7,szczecinecki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
-369,T_3216,32,16,PL427,PL,4,2,7,świdwiński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
-370,T_3217,32,17,PL427,PL,4,2,7,wałecki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
-371,T_3218,32,18,PL427,PL,4,2,7,łobeski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
-372,T_3204,32,4,PL428,PL,4,2,8,goleniowski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
-373,T_3205,32,5,PL428,PL,4,2,8,gryficki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
-374,T_3206,32,6,PL428,PL,4,2,8,gryfiński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
-375,T_3207,32,7,PL428,PL,4,2,8,kamieński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
-376,T_3211,32,11,PL428,PL,4,2,8,policki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
-377,T_3214,32,14,PL428,PL,4,2,8,stargardzki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
-378,T_3263,32,63,PL428,PL,4,2,8,Świnoujście,powiat m.,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
-379,T_3262,32,62,PL424,PL,4,2,4,Szczecin,powiat m.,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,miasto szczecin,podregion
+,harmonised_code,teryt,teryt_woj,teryt_pow,nuts3_code,nuts_0,nuts_1,nuts_2,nuts_3,pow_name,pow_prefix,woj_name,woj_prefix,nuts_1_name,nuts_1_prefix,nuts_2_name,nuts_2_prefix,nuts3_name,nuts_3_prefix
+0,T_0201,T_0201,2,1,PL515,PL,5,1,5,bolesławiecki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
+1,T_0205,T_0205,2,5,PL515,PL,5,1,5,jaworski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
+2,T_0206,T_0206,2,6,PL515,PL,5,1,5,karkonoski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
+3,T_0207,T_0207,2,7,PL515,PL,5,1,5,kamiennogórski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
+4,T_0210,T_0210,2,10,PL515,PL,5,1,5,lubański,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
+5,T_0212,T_0212,2,12,PL515,PL,5,1,5,lwówecki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
+6,T_0225,T_0225,2,25,PL515,PL,5,1,5,zgorzelecki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
+7,T_0226,T_0226,2,26,PL515,PL,5,1,5,złotoryjski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
+8,T_0261,T_0261,2,61,PL515,PL,5,1,5,Jelenia Góra,powiat m.,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,jeleniogórski,podregion
+9,T_0202,T_0202,2,2,PL517,PL,5,1,7,dzierżoniowski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
+10,T_0208,T_0208,2,8,PL517,PL,5,1,7,kłodzki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
+11,T_0219,T_0219,2,19,PL517,PL,5,1,7,świdnicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
+12,T_0221,T_0221,2,21,PL517,PL,5,1,7,wałbrzyski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
+13,T_0224,T_0224,2,24,PL517,PL,5,1,7,ząbkowicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
+14,T_0265,T_0265,2,65,PL517,PL,5,1,7,Wałbrzych,powiat m.,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wałbrzyski,podregion
+15,T_0203,T_0203,2,3,PL516,PL,5,1,6,głogowski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
+16,T_0204,T_0204,2,4,PL516,PL,5,1,6,górowski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
+17,T_0209,T_0209,2,9,PL516,PL,5,1,6,legnicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
+18,T_0211,T_0211,2,11,PL516,PL,5,1,6,lubiński,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
+19,T_0216,T_0216,2,16,PL516,PL,5,1,6,polkowicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
+20,T_0262,T_0262,2,62,PL516,PL,5,1,6,Legnica,powiat m.,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,legnicko-głogowski,podregion
+21,T_0213,T_0213,2,13,PL518,PL,5,1,8,milicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
+22,T_0214,T_0214,2,14,PL518,PL,5,1,8,oleśnicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
+23,T_0215,T_0215,2,15,PL518,PL,5,1,8,oławski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
+24,T_0217,T_0217,2,17,PL518,PL,5,1,8,strzeliński,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
+25,T_0218,T_0218,2,18,PL518,PL,5,1,8,średzki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
+26,T_0220,T_0220,2,20,PL518,PL,5,1,8,trzebnicki,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
+27,T_0222,T_0222,2,22,PL518,PL,5,1,8,wołowski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
+28,T_0223,T_0223,2,23,PL518,PL,5,1,8,wrocławski,powiat,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,wrocławski,podregion
+29,T_0264,T_0264,2,64,PL514,PL,5,1,4,Wrocław,powiat m.,dolnośląskie,województwo,południowo-zachodni,makroregion,dolnośląskie,region,miasto wrocław,podregion
+30,T_0401,T_0401,4,1,PL619,PL,6,1,9,aleksandrowski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
+31,T_0408,T_0408,4,8,PL619,PL,6,1,9,lipnowski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
+32,T_0411,T_0411,4,11,PL619,PL,6,1,9,radziejowski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
+33,T_0418,T_0418,4,18,PL619,PL,6,1,9,włocławski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
+34,T_0464,T_0464,4,64,PL619,PL,6,1,9,Włocławek,powiat m.,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,włocławski,podregion
+35,T_0402,T_0402,4,2,PL616,PL,6,1,6,brodnicki,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
+36,T_0404,T_0404,4,4,PL616,PL,6,1,6,chełmiński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
+37,T_0405,T_0405,4,5,PL616,PL,6,1,6,golubsko-dobrzyński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
+38,T_0406,T_0406,4,6,PL616,PL,6,1,6,grudziądzki,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
+39,T_0412,T_0412,4,12,PL616,PL,6,1,6,rypiński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
+40,T_0417,T_0417,4,17,PL616,PL,6,1,6,wąbrzeski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
+41,T_0462,T_0462,4,62,PL616,PL,6,1,6,Grudziądz,powiat m.,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,grudziądzki,podregion
+42,T_0403,T_0403,4,3,PL613,PL,6,1,3,bydgoski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,bydgosko-toruński,podregion
+43,T_0415,T_0415,4,15,PL613,PL,6,1,3,toruński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,bydgosko-toruński,podregion
+44,T_0461,T_0461,4,61,PL613,PL,6,1,3,Bydgoszcz,powiat m.,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,bydgosko-toruński,podregion
+45,T_0463,T_0463,4,63,PL613,PL,6,1,3,Toruń,powiat m.,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,bydgosko-toruński,podregion
+46,T_0407,T_0407,4,7,PL617,PL,6,1,7,inowrocławski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,inowrocławski,podregion
+47,T_0409,T_0409,4,9,PL617,PL,6,1,7,mogileński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,inowrocławski,podregion
+48,T_0410,T_0410,4,10,PL617,PL,6,1,7,nakielski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,inowrocławski,podregion
+49,T_0419,T_0419,4,19,PL617,PL,6,1,7,żniński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,inowrocławski,podregion
+50,T_0413,T_0413,4,13,PL618,PL,6,1,8,sępoleński,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,świecki,podregion
+51,T_0414,T_0414,4,14,PL618,PL,6,1,8,świecki,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,świecki,podregion
+52,T_0416,T_0416,4,16,PL618,PL,6,1,8,tucholski,powiat,kujawsko-pomorskie,województwo,północny,makroregion,kujawsko-pomorskie,region,świecki,podregion
+53,T_0601,T_0601,6,1,PL811,PL,8,1,1,bialski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
+54,T_0613,T_0613,6,13,PL811,PL,8,1,1,parczewski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
+55,T_0615,T_0615,6,15,PL811,PL,8,1,1,radzyński,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
+56,T_0619,T_0619,6,19,PL811,PL,8,1,1,włodawski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
+57,T_0661,T_0661,6,61,PL811,PL,8,1,1,Biała Podlaska,powiat m.,lubelskie,województwo,wschodni,makroregion,lubelskie,region,bialski,podregion
+58,T_0602,T_0602,6,2,PL812,PL,8,1,2,biłgorajski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
+59,T_0603,T_0603,6,3,PL812,PL,8,1,2,chełmski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
+60,T_0604,T_0604,6,4,PL812,PL,8,1,2,hrubieszowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
+61,T_0606,T_0606,6,6,PL812,PL,8,1,2,krasnostawski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
+62,T_0618,T_0618,6,18,PL812,PL,8,1,2,tomaszowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
+63,T_0620,T_0620,6,20,PL812,PL,8,1,2,zamojski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
+64,T_0662,T_0662,6,62,PL812,PL,8,1,2,Chełm,powiat m.,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
+65,T_0664,T_0664,6,64,PL812,PL,8,1,2,Zamość,powiat m.,lubelskie,województwo,wschodni,makroregion,lubelskie,region,chełmsko-zamojski,podregion
+66,T_0605,T_0605,6,5,PL815,PL,8,1,5,janowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
+67,T_0607,T_0607,6,7,PL815,PL,8,1,5,kraśnicki,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
+68,T_0611,T_0611,6,11,PL815,PL,8,1,5,łukowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
+69,T_0612,T_0612,6,12,PL815,PL,8,1,5,opolski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
+70,T_0614,T_0614,6,14,PL815,PL,8,1,5,puławski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
+71,T_0616,T_0616,6,16,PL815,PL,8,1,5,rycki,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,puławski,podregion
+72,T_0608,T_0608,6,8,PL814,PL,8,1,4,lubartowski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
+73,T_0609,T_0609,6,9,PL814,PL,8,1,4,lubelski,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
+74,T_0610,T_0610,6,10,PL814,PL,8,1,4,łęczyński,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
+75,T_0617,T_0617,6,17,PL814,PL,8,1,4,świdnicki,powiat,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
+76,T_0663,T_0663,6,63,PL814,PL,8,1,4,Lublin,powiat m.,lubelskie,województwo,wschodni,makroregion,lubelskie,region,lubelski,podregion
+77,T_0801,T_0801,8,1,PL431,PL,4,3,1,gorzowski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
+78,T_0803,T_0803,8,3,PL431,PL,4,3,1,międzyrzecki,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
+79,T_0805,T_0805,8,5,PL431,PL,4,3,1,słubicki,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
+80,T_0806,T_0806,8,6,PL431,PL,4,3,1,strzelecko-drezdenecki,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
+81,T_0807,T_0807,8,7,PL431,PL,4,3,1,sulęciński,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
+82,T_0861,T_0861,8,61,PL431,PL,4,3,1,Gorzów Wielkopolski,powiat m.,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,gorzowski,podregion
+83,T_0802,T_0802,8,2,PL432,PL,4,3,2,krośnieński,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
+84,T_0804,T_0804,8,4,PL432,PL,4,3,2,nowosolski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
+85,T_0808,T_0808,8,8,PL432,PL,4,3,2,świebodziński,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
+86,T_0809,T_0809,8,9,PL432,PL,4,3,2,zielonogórski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
+87,T_0810,T_0810,8,10,PL432,PL,4,3,2,żagański,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
+88,T_0811,T_0811,8,11,PL432,PL,4,3,2,żarski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
+89,T_0812,T_0812,8,12,PL432,PL,4,3,2,wschowski,powiat,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
+90,T_0862,T_0862,8,62,PL432,PL,4,3,2,Zielona Góra,powiat m.,lubuskie,województwo,północno-zachodni,makroregion,lubuskie,region,zielonogórski,podregion
+91,T_1001,T_1001,10,1,PL713,PL,7,1,3,bełchatowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
+92,T_1007,T_1007,10,7,PL713,PL,7,1,3,opoczyński,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
+93,T_1010,T_1010,10,10,PL713,PL,7,1,3,piotrkowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
+94,T_1012,T_1012,10,12,PL713,PL,7,1,3,radomszczański,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
+95,T_1016,T_1016,10,16,PL713,PL,7,1,3,tomaszowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
+96,T_1062,T_1062,10,62,PL713,PL,7,1,3,Piotrków Trybunalski,powiat m.,łódzkie,województwo,centralny,makroregion,łódzkie,region,piotrkowski,podregion
+97,T_1002,T_1002,10,2,PL715,PL,7,1,5,kutnowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
+98,T_1004,T_1004,10,4,PL715,PL,7,1,5,łęczycki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
+99,T_1005,T_1005,10,5,PL715,PL,7,1,5,łowicki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
+100,T_1013,T_1013,10,13,PL715,PL,7,1,5,rawski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
+101,T_1015,T_1015,10,15,PL715,PL,7,1,5,skierniewicki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
+102,T_1063,T_1063,10,63,PL715,PL,7,1,5,Skierniewice,powiat m.,łódzkie,województwo,centralny,makroregion,łódzkie,region,skierniewicki,podregion
+103,T_1003,T_1003,10,3,PL714,PL,7,1,4,łaski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
+104,T_1009,T_1009,10,9,PL714,PL,7,1,4,pajęczański,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
+105,T_1011,T_1011,10,11,PL714,PL,7,1,4,poddębicki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
+106,T_1014,T_1014,10,14,PL714,PL,7,1,4,sieradzki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
+107,T_1017,T_1017,10,17,PL714,PL,7,1,4,wieluński,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
+108,T_1018,T_1018,10,18,PL714,PL,7,1,4,wieruszowski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
+109,T_1019,T_1019,10,19,PL714,PL,7,1,4,zduńskowolski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,sieradzki,podregion
+110,T_1006,T_1006,10,6,PL712,PL,7,1,2,łódzki wschodni,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,łódzki,podregion
+111,T_1008,T_1008,10,8,PL712,PL,7,1,2,pabianicki,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,łódzki,podregion
+112,T_1020,T_1020,10,20,PL712,PL,7,1,2,zgierski,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,łódzki,podregion
+113,T_1021,T_1021,10,21,PL712,PL,7,1,2,brzeziński,powiat,łódzkie,województwo,centralny,makroregion,łódzkie,region,łódzki,podregion
+114,T_1061,T_1061,10,61,PL711,PL,7,1,1,Łódź,powiat m.,łódzkie,województwo,centralny,makroregion,łódzkie,region,miasto łódź,podregion
+115,T_1201,T_1201,12,1,PL214,PL,2,1,4,bocheński,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
+116,T_1206,T_1206,12,6,PL214,PL,2,1,4,krakowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
+117,T_1208,T_1208,12,8,PL214,PL,2,1,4,miechowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
+118,T_1209,T_1209,12,9,PL214,PL,2,1,4,myślenicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
+119,T_1214,T_1214,12,14,PL214,PL,2,1,4,proszowicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
+120,T_1219,T_1219,12,19,PL214,PL,2,1,4,wielicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,krakowski,podregion
+121,T_1202,T_1202,12,2,PL217,PL,2,1,7,brzeski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,tarnowski,podregion
+122,T_1204,T_1204,12,4,PL217,PL,2,1,7,dąbrowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,tarnowski,podregion
+123,T_1216,T_1216,12,16,PL217,PL,2,1,7,tarnowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,tarnowski,podregion
+124,T_1263,T_1263,12,63,PL217,PL,2,1,7,Tarnów,powiat m.,małopolskie,województwo,południowy,makroregion,małopolskie,region,tarnowski,podregion
+125,T_1203,T_1203,12,3,PL21A,PL,2,1,A,chrzanowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,oświęcimski,podregion
+126,T_1212,T_1212,12,12,PL21A,PL,2,1,A,olkuski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,oświęcimski,podregion
+127,T_1213,T_1213,12,13,PL21A,PL,2,1,A,oświęcimski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,oświęcimski,podregion
+128,T_1218,T_1218,12,18,PL21A,PL,2,1,A,wadowicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,oświęcimski,podregion
+129,T_1205,T_1205,12,5,PL218,PL,2,1,8,gorlicki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowosądecki,podregion
+130,T_1207,T_1207,12,7,PL218,PL,2,1,8,limanowski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowosądecki,podregion
+131,T_1210,T_1210,12,10,PL218,PL,2,1,8,nowosądecki,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowosądecki,podregion
+132,T_1262,T_1262,12,62,PL218,PL,2,1,8,Nowy Sącz,powiat m.,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowosądecki,podregion
+133,T_1211,T_1211,12,11,PL219,PL,2,1,9,nowotarski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowotarski,podregion
+134,T_1215,T_1215,12,15,PL219,PL,2,1,9,suski,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowotarski,podregion
+135,T_1217,T_1217,12,17,PL219,PL,2,1,9,tatrzański,powiat,małopolskie,województwo,południowy,makroregion,małopolskie,region,nowotarski,podregion
+136,T_1261,T_1261,12,61,PL213,PL,2,1,3,Kraków,powiat m.,małopolskie,województwo,południowy,makroregion,małopolskie,region,miasto kraków,podregion
+137,T_1401,T_1401,14,1,PL921,PL,9,2,1,białobrzeski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
+138,T_1407,T_1407,14,7,PL921,PL,9,2,1,kozienicki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
+139,T_1409,T_1409,14,9,PL921,PL,9,2,1,lipski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
+140,T_1423,T_1423,14,23,PL921,PL,9,2,1,przysuski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
+141,T_1425,T_1425,14,25,PL921,PL,9,2,1,radomski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
+142,T_1430,T_1430,14,30,PL921,PL,9,2,1,szydłowiecki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
+143,T_1436,T_1436,14,36,PL921,PL,9,2,1,zwoleński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
+144,T_1463,T_1463,14,63,PL921,PL,9,2,1,Radom,powiat m.,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,radomski,podregion
+145,T_1402,T_1402,14,2,PL922,PL,9,2,2,ciechanowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
+146,T_1413,T_1413,14,13,PL922,PL,9,2,2,mławski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
+147,T_1420,T_1420,14,20,PL922,PL,9,2,2,płoński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
+148,T_1424,T_1424,14,24,PL922,PL,9,2,2,pułtuski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
+149,T_1437,T_1437,14,37,PL922,PL,9,2,2,żuromiński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ciechanowski,podregion
+150,T_1403,T_1403,14,3,PL925,PL,9,2,5,garwoliński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
+151,T_1410,T_1410,14,10,PL925,PL,9,2,5,łosicki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
+152,T_1426,T_1426,14,26,PL925,PL,9,2,5,siedlecki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
+153,T_1429,T_1429,14,29,PL925,PL,9,2,5,sokołowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
+154,T_1433,T_1433,14,33,PL925,PL,9,2,5,węgrowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
+155,T_1464,T_1464,14,64,PL925,PL,9,2,5,Siedlce,powiat m.,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,siedlecki,podregion
+156,T_1404,T_1404,14,4,PL923,PL,9,2,3,gostyniński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,płocki,podregion
+157,T_1419,T_1419,14,19,PL923,PL,9,2,3,płocki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,płocki,podregion
+158,T_1427,T_1427,14,27,PL923,PL,9,2,3,sierpecki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,płocki,podregion
+159,T_1462,T_1462,14,62,PL923,PL,9,2,3,Płock,powiat m.,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,płocki,podregion
+160,T_1405,T_1405,14,5,PL913,PL,9,1,3,grodziski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
+161,T_1414,T_1414,14,14,PL913,PL,9,1,3,nowodworski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
+162,T_1418,T_1418,14,18,PL913,PL,9,1,3,piaseczyński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
+163,T_1421,T_1421,14,21,PL913,PL,9,1,3,pruszkowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
+164,T_1432,T_1432,14,32,PL913,PL,9,1,3,warszawski zachodni,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski zachodni,podregion
+165,T_1406,T_1406,14,6,PL926,PL,9,2,6,grójecki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,żyrardowski,podregion
+166,T_1428,T_1428,14,28,PL926,PL,9,2,6,sochaczewski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,żyrardowski,podregion
+167,T_1438,T_1438,14,38,PL926,PL,9,2,6,żyrardowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,żyrardowski,podregion
+168,T_1408,T_1408,14,8,PL912,PL,9,1,2,legionowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski wschodni,podregion
+169,T_1412,T_1412,14,12,PL912,PL,9,1,2,miński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski wschodni,podregion
+170,T_1417,T_1417,14,17,PL912,PL,9,1,2,otwocki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski wschodni,podregion
+171,T_1434,T_1434,14,34,PL912,PL,9,1,2,wołomiński,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,warszawski wschodni,podregion
+172,T_1411,T_1411,14,11,PL924,PL,9,2,4,makowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
+173,T_1415,T_1415,14,15,PL924,PL,9,2,4,ostrołęcki,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
+174,T_1416,T_1416,14,16,PL924,PL,9,2,4,ostrowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
+175,T_1422,T_1422,14,22,PL924,PL,9,2,4,przasnyski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
+176,T_1435,T_1435,14,35,PL924,PL,9,2,4,wyszkowski,powiat,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
+177,T_1461,T_1461,14,61,PL924,PL,9,2,4,Ostrołęka,powiat m.,mazowieckie,województwo,województwo mazowieckie,makroregion,mazowiecki regionalny,region,ostrołęcki,podregion
+178,T_1465,T_1465,14,65,PL911,PL,9,1,1,Warszawa,powiat m. st.,mazowieckie,województwo,województwo mazowieckie,makroregion,warszawski stołeczny,region,miasto warszawa,podregion
+179,T_1601,T_1601,16,1,PL523,PL,5,2,3,brzeski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
+180,T_1602,T_1602,16,2,PL523,PL,5,2,3,głubczycki,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
+181,T_1606,T_1606,16,6,PL523,PL,5,2,3,namysłowski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
+182,T_1607,T_1607,16,7,PL523,PL,5,2,3,nyski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
+183,T_1610,T_1610,16,10,PL523,PL,5,2,3,prudnicki,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,nyski,podregion
+184,T_1603,T_1603,16,3,PL524,PL,5,2,4,kędzierzyńsko-kozielski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
+185,T_1604,T_1604,16,4,PL524,PL,5,2,4,kluczborski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
+186,T_1605,T_1605,16,5,PL524,PL,5,2,4,krapkowicki,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
+187,T_1608,T_1608,16,8,PL524,PL,5,2,4,oleski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
+188,T_1609,T_1609,16,9,PL524,PL,5,2,4,opolski,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
+189,T_1611,T_1611,16,11,PL524,PL,5,2,4,strzelecki,powiat,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
+190,T_1661,T_1661,16,61,PL524,PL,5,2,4,Opole,powiat m.,opolskie,województwo,południowo-zachodni,makroregion,opolskie,region,opolski,podregion
+191,T_1801,T_1801,18,1,PL821,PL,8,2,1,bieszczadzki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
+192,T_1802,T_1802,18,2,PL821,PL,8,2,1,brzozowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
+193,T_1805,T_1805,18,5,PL821,PL,8,2,1,jasielski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
+194,T_1807,T_1807,18,7,PL821,PL,8,2,1,krośnieński,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
+195,T_1817,T_1817,18,17,PL821,PL,8,2,1,sanocki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
+196,T_1821,T_1821,18,21,PL821,PL,8,2,1,leski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
+197,T_1861,T_1861,18,61,PL821,PL,8,2,1,Krosno,powiat m.,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,krośnieński,podregion
+198,T_1803,T_1803,18,3,PL824,PL,8,2,4,dębicki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
+199,T_1808,T_1808,18,8,PL824,PL,8,2,4,leżajski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
+200,T_1811,T_1811,18,11,PL824,PL,8,2,4,mielecki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
+201,T_1812,T_1812,18,12,PL824,PL,8,2,4,niżański,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
+202,T_1818,T_1818,18,18,PL824,PL,8,2,4,stalowowolski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
+203,T_1820,T_1820,18,20,PL824,PL,8,2,4,tarnobrzeski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
+204,T_1864,T_1864,18,64,PL824,PL,8,2,4,Tarnobrzeg,powiat m.,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,tarnobrzeski,podregion
+205,T_1804,T_1804,18,4,PL822,PL,8,2,2,jarosławski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
+206,T_1809,T_1809,18,9,PL822,PL,8,2,2,lubaczowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
+207,T_1813,T_1813,18,13,PL822,PL,8,2,2,przemyski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
+208,T_1814,T_1814,18,14,PL822,PL,8,2,2,przeworski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
+209,T_1862,T_1862,18,62,PL822,PL,8,2,2,Przemyśl,powiat m.,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,przemyski,podregion
+210,T_1806,T_1806,18,6,PL823,PL,8,2,3,kolbuszowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
+211,T_1810,T_1810,18,10,PL823,PL,8,2,3,łańcucki,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
+212,T_1815,T_1815,18,15,PL823,PL,8,2,3,ropczycko-sędziszowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
+213,T_1816,T_1816,18,16,PL823,PL,8,2,3,rzeszowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
+214,T_1819,T_1819,18,19,PL823,PL,8,2,3,strzyżowski,powiat,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
+215,T_1863,T_1863,18,63,PL823,PL,8,2,3,Rzeszów,powiat m.,podkarpackie,województwo,wschodni,makroregion,podkarpackie,region,rzeszowski,podregion
+216,T_2001,T_2001,20,1,PL843,PL,8,4,3,augustowski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
+217,T_2004,T_2004,20,4,PL843,PL,8,4,3,grajewski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
+218,T_2008,T_2008,20,8,PL843,PL,8,4,3,moniecki,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
+219,T_2009,T_2009,20,9,PL843,PL,8,4,3,sejneński,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
+220,T_2012,T_2012,20,12,PL843,PL,8,4,3,suwalski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
+221,T_2063,T_2063,20,63,PL843,PL,8,4,3,Suwałki,powiat m.,podlaskie,województwo,wschodni,makroregion,podlaskie,region,suwalski,podregion
+222,T_2002,T_2002,20,2,PL841,PL,8,4,1,białostocki,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,białostocki,podregion
+223,T_2011,T_2011,20,11,PL841,PL,8,4,1,sokólski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,białostocki,podregion
+224,T_2061,T_2061,20,61,PL841,PL,8,4,1,Białystok,powiat m.,podlaskie,województwo,wschodni,makroregion,podlaskie,region,białostocki,podregion
+225,T_2003,T_2003,20,3,PL842,PL,8,4,2,bielski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
+226,T_2005,T_2005,20,5,PL842,PL,8,4,2,hajnowski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
+227,T_2006,T_2006,20,6,PL842,PL,8,4,2,kolneński,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
+228,T_2007,T_2007,20,7,PL842,PL,8,4,2,łomżyński,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
+229,T_2010,T_2010,20,10,PL842,PL,8,4,2,siemiatycki,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
+230,T_2013,T_2013,20,13,PL842,PL,8,4,2,wysokomazowiecki,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
+231,T_2014,T_2014,20,14,PL842,PL,8,4,2,zambrowski,powiat,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
+232,T_2062,T_2062,20,62,PL842,PL,8,4,2,Łomża,powiat m.,podlaskie,województwo,wschodni,makroregion,podlaskie,region,łomżyński,podregion
+233,T_2201,T_2201,22,1,PL636,PL,6,3,6,bytowski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,słupski,podregion
+234,T_2208,T_2208,22,8,PL636,PL,6,3,6,lęborski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,słupski,podregion
+235,T_2212,T_2212,22,12,PL636,PL,6,3,6,słupski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,słupski,podregion
+236,T_2263,T_2263,22,63,PL636,PL,6,3,6,Słupsk,powiat m.,pomorskie,województwo,północny,makroregion,pomorskie,region,słupski,podregion
+237,T_2202,T_2202,22,2,PL637,PL,6,3,7,chojnicki,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,chojnicki,podregion
+238,T_2203,T_2203,22,3,PL637,PL,6,3,7,człuchowski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,chojnicki,podregion
+239,T_2206,T_2206,22,6,PL637,PL,6,3,7,kościerski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,chojnicki,podregion
+240,T_2204,T_2204,22,4,PL634,PL,6,3,4,gdański,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
+241,T_2205,T_2205,22,5,PL634,PL,6,3,4,kartuski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
+242,T_2210,T_2210,22,10,PL634,PL,6,3,4,nowodworski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
+243,T_2211,T_2211,22,11,PL634,PL,6,3,4,pucki,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
+244,T_2215,T_2215,22,15,PL634,PL,6,3,4,wejherowski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,gdański,podregion
+245,T_2207,T_2207,22,7,PL638,PL,6,3,8,kwidzyński,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
+246,T_2209,T_2209,22,9,PL638,PL,6,3,8,malborski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
+247,T_2213,T_2213,22,13,PL638,PL,6,3,8,starogardzki,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
+248,T_2214,T_2214,22,14,PL638,PL,6,3,8,tczewski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
+249,T_2216,T_2216,22,16,PL638,PL,6,3,8,sztumski,powiat,pomorskie,województwo,północny,makroregion,pomorskie,region,starogardzki,podregion
+250,T_2261,T_2261,22,61,PL633,PL,6,3,3,Gdańsk,powiat m.,pomorskie,województwo,północny,makroregion,pomorskie,region,trójmiejski,podregion
+251,T_2262,T_2262,22,62,PL633,PL,6,3,3,Gdynia,powiat m.,pomorskie,województwo,północny,makroregion,pomorskie,region,trójmiejski,podregion
+252,T_2264,T_2264,22,64,PL633,PL,6,3,3,Sopot,powiat m.,pomorskie,województwo,północny,makroregion,pomorskie,region,trójmiejski,podregion
+253,T_2401,T_2401,24,1,PL22B,PL,2,2,B,będziński,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
+254,T_2416,T_2416,24,16,PL22B,PL,2,2,B,zawierciański,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
+255,T_2465,T_2465,24,65,PL22B,PL,2,2,B,Dąbrowa Górnicza,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
+256,T_2468,T_2468,24,68,PL22B,PL,2,2,B,Jaworzno,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
+257,T_2475,T_2475,24,75,PL22B,PL,2,2,B,Sosnowiec,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,sosnowiecki,podregion
+258,T_2402,T_2402,24,2,PL225,PL,2,2,5,bielski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bielski,podregion
+259,T_2403,T_2403,24,3,PL225,PL,2,2,5,cieszyński,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bielski,podregion
+260,T_2417,T_2417,24,17,PL225,PL,2,2,5,żywiecki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bielski,podregion
+261,T_2461,T_2461,24,61,PL225,PL,2,2,5,Bielsko-Biała,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,bielski,podregion
+262,T_2404,T_2404,24,4,PL224,PL,2,2,4,częstochowski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,częstochowski,podregion
+263,T_2406,T_2406,24,6,PL224,PL,2,2,4,kłobucki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,częstochowski,podregion
+264,T_2409,T_2409,24,9,PL224,PL,2,2,4,myszkowski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,częstochowski,podregion
+265,T_2464,T_2464,24,64,PL224,PL,2,2,4,Częstochowa,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,częstochowski,podregion
+266,T_2405,T_2405,24,5,PL229,PL,2,2,9,gliwicki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,gliwicki,podregion
+267,T_2466,T_2466,24,66,PL229,PL,2,2,9,Gliwice,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,gliwicki,podregion
+268,T_2478,T_2478,24,78,PL229,PL,2,2,9,Zabrze,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,gliwicki,podregion
+269,T_2407,T_2407,24,7,PL228,PL,2,2,8,lubliniecki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bytomski,podregion
+270,T_2413,T_2413,24,13,PL228,PL,2,2,8,tarnogórski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,bytomski,podregion
+271,T_2462,T_2462,24,62,PL228,PL,2,2,8,Bytom,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,bytomski,podregion
+272,T_2471,T_2471,24,71,PL228,PL,2,2,8,Piekary Śląskie,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,bytomski,podregion
+273,T_2408,T_2408,24,8,PL22C,PL,2,2,C,mikołowski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,tyski,podregion
+274,T_2410,T_2410,24,10,PL22C,PL,2,2,C,pszczyński,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,tyski,podregion
+275,T_2414,T_2414,24,14,PL22C,PL,2,2,C,bieruńsko-lędziński,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,tyski,podregion
+276,T_2477,T_2477,24,77,PL22C,PL,2,2,C,Tychy,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,tyski,podregion
+277,T_2411,T_2411,24,11,PL227,PL,2,2,7,raciborski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
+278,T_2412,T_2412,24,12,PL227,PL,2,2,7,rybnicki,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
+279,T_2415,T_2415,24,15,PL227,PL,2,2,7,wodzisławski,powiat,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
+280,T_2467,T_2467,24,67,PL227,PL,2,2,7,Jastrzębie-Zdrój,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
+281,T_2473,T_2473,24,73,PL227,PL,2,2,7,Rybnik,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
+282,T_2479,T_2479,24,79,PL227,PL,2,2,7,Żory,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,rybnicki,podregion
+283,T_2463,T_2463,24,63,PL22A,PL,2,2,A,Chorzów,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
+284,T_2469,T_2469,24,69,PL22A,PL,2,2,A,Katowice,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
+285,T_2470,T_2470,24,70,PL22A,PL,2,2,A,Mysłowice,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
+286,T_2472,T_2472,24,72,PL22A,PL,2,2,A,Ruda Śląska,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
+287,T_2474,T_2474,24,74,PL22A,PL,2,2,A,Siemianowice Śląskie,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
+288,T_2476,T_2476,24,76,PL22A,PL,2,2,A,Świętochłowice,powiat m.,śląskie,województwo,południowy,makroregion,śląskie,region,katowicki,podregion
+289,T_2601,T_2601,26,1,PL722,PL,7,2,2,buski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
+290,T_2602,T_2602,26,2,PL722,PL,7,2,2,jędrzejowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
+291,T_2603,T_2603,26,3,PL722,PL,7,2,2,kazimierski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
+292,T_2606,T_2606,26,6,PL722,PL,7,2,2,opatowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
+293,T_2608,T_2608,26,8,PL722,PL,7,2,2,pińczowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
+294,T_2609,T_2609,26,9,PL722,PL,7,2,2,sandomierski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
+295,T_2612,T_2612,26,12,PL722,PL,7,2,2,staszowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
+296,T_2613,T_2613,26,13,PL722,PL,7,2,2,włoszczowski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,sandomiersko-jędrzejowski,podregion
+297,T_2604,T_2604,26,4,PL721,PL,7,2,1,kielecki,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
+298,T_2605,T_2605,26,5,PL721,PL,7,2,1,konecki,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
+299,T_2607,T_2607,26,7,PL721,PL,7,2,1,ostrowiecki,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
+300,T_2610,T_2610,26,10,PL721,PL,7,2,1,skarżyski,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
+301,T_2611,T_2611,26,11,PL721,PL,7,2,1,starachowicki,powiat,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
+302,T_2661,T_2661,26,61,PL721,PL,7,2,1,Kielce,powiat m.,świętokrzyskie,województwo,centralny,makroregion,świętokrzyskie,region,kielecki,podregion
+303,T_2801,T_2801,28,1,PL622,PL,6,2,2,bartoszycki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
+304,T_2808,T_2808,28,8,PL622,PL,6,2,2,kętrzyński,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
+305,T_2809,T_2809,28,9,PL622,PL,6,2,2,lidzbarski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
+306,T_2810,T_2810,28,10,PL622,PL,6,2,2,mrągowski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
+307,T_2811,T_2811,28,11,PL622,PL,6,2,2,nidzicki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
+308,T_2814,T_2814,28,14,PL622,PL,6,2,2,olsztyński,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
+309,T_2817,T_2817,28,17,PL622,PL,6,2,2,szczycieński,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
+310,T_2862,T_2862,28,62,PL622,PL,6,2,2,Olsztyn,powiat m.,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,olsztyński,podregion
+311,T_2802,T_2802,28,2,PL621,PL,6,2,1,braniewski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
+312,T_2803,T_2803,28,3,PL621,PL,6,2,1,działdowski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
+313,T_2804,T_2804,28,4,PL621,PL,6,2,1,elbląski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
+314,T_2807,T_2807,28,7,PL621,PL,6,2,1,iławski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
+315,T_2812,T_2812,28,12,PL621,PL,6,2,1,nowomiejski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
+316,T_2815,T_2815,28,15,PL621,PL,6,2,1,ostródzki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
+317,T_2861,T_2861,28,61,PL621,PL,6,2,1,Elbląg,powiat m.,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,elbląski,podregion
+318,T_2805,T_2805,28,5,PL623,PL,6,2,3,ełcki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
+319,T_2806,T_2806,28,6,PL623,PL,6,2,3,giżycki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
+320,T_2813,T_2813,28,13,PL623,PL,6,2,3,olecki,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
+321,T_2816,T_2816,28,16,PL623,PL,6,2,3,piski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
+322,T_2818,T_2818,28,18,PL623,PL,6,2,3,gołdapski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
+323,T_2819,T_2819,28,19,PL623,PL,6,2,3,węgorzewski,powiat,warmińsko-mazurskie,województwo,północny,makroregion,warmińsko-mazurskie,region,ełcki,podregion
+324,T_3001,T_3001,30,1,PL411,PL,4,1,1,chodzieski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
+325,T_3002,T_3002,30,2,PL411,PL,4,1,1,czarnkowsko-trzcianecki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
+326,T_3019,T_3019,30,19,PL411,PL,4,1,1,pilski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
+327,T_3028,T_3028,30,28,PL411,PL,4,1,1,wągrowiecki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
+328,T_3031,T_3031,30,31,PL411,PL,4,1,1,złotowski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,pilski,podregion
+329,T_3003,T_3003,30,3,PL414,PL,4,1,4,gnieźnieński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
+330,T_3009,T_3009,30,9,PL414,PL,4,1,4,kolski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
+331,T_3010,T_3010,30,10,PL414,PL,4,1,4,koniński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
+332,T_3023,T_3023,30,23,PL414,PL,4,1,4,słupecki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
+333,T_3027,T_3027,30,27,PL414,PL,4,1,4,turecki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
+334,T_3030,T_3030,30,30,PL414,PL,4,1,4,wrzesiński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
+335,T_3062,T_3062,30,62,PL414,PL,4,1,4,Konin,powiat m.,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,koniński,podregion
+336,T_3004,T_3004,30,4,PL417,PL,4,1,7,gostyński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
+337,T_3005,T_3005,30,5,PL417,PL,4,1,7,grodziski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
+338,T_3011,T_3011,30,11,PL417,PL,4,1,7,kościański,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
+339,T_3013,T_3013,30,13,PL417,PL,4,1,7,leszczyński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
+340,T_3014,T_3014,30,14,PL417,PL,4,1,7,międzychodzki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
+341,T_3015,T_3015,30,15,PL417,PL,4,1,7,nowotomyski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
+342,T_3022,T_3022,30,22,PL417,PL,4,1,7,rawicki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
+343,T_3029,T_3029,30,29,PL417,PL,4,1,7,wolsztyński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
+344,T_3063,T_3063,30,63,PL417,PL,4,1,7,Leszno,powiat m.,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,leszczyński,podregion
+345,T_3006,T_3006,30,6,PL416,PL,4,1,6,jarociński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
+346,T_3007,T_3007,30,7,PL416,PL,4,1,6,kaliski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
+347,T_3008,T_3008,30,8,PL416,PL,4,1,6,kępiński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
+348,T_3012,T_3012,30,12,PL416,PL,4,1,6,krotoszyński,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
+349,T_3017,T_3017,30,17,PL416,PL,4,1,6,ostrowski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
+350,T_3018,T_3018,30,18,PL416,PL,4,1,6,ostrzeszowski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
+351,T_3020,T_3020,30,20,PL416,PL,4,1,6,pleszewski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
+352,T_3061,T_3061,30,61,PL416,PL,4,1,6,Kalisz,powiat m.,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,kaliski,podregion
+353,T_3016,T_3016,30,16,PL418,PL,4,1,8,obornicki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
+354,T_3021,T_3021,30,21,PL418,PL,4,1,8,poznański,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
+355,T_3024,T_3024,30,24,PL418,PL,4,1,8,szamotulski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
+356,T_3025,T_3025,30,25,PL418,PL,4,1,8,średzki,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
+357,T_3026,T_3026,30,26,PL418,PL,4,1,8,śremski,powiat,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,poznański,podregion
+358,T_3064,T_3064,30,64,PL415,PL,4,1,5,Poznań,powiat m.,wielkopolskie,województwo,północno-zachodni,makroregion,wielkopolskie,region,miasto poznań,podregion
+359,T_3201,T_3201,32,1,PL426,PL,4,2,6,białogardzki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
+360,T_3208,T_3208,32,8,PL426,PL,4,2,6,kołobrzeski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
+361,T_3209,T_3209,32,9,PL426,PL,4,2,6,koszaliński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
+362,T_3213,T_3213,32,13,PL426,PL,4,2,6,sławieński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
+363,T_3261,T_3261,32,61,PL426,PL,4,2,6,Koszalin,powiat m.,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,koszaliński,podregion
+364,T_3202,T_3202,32,2,PL427,PL,4,2,7,choszczeński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
+365,T_3203,T_3203,32,3,PL427,PL,4,2,7,drawski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
+366,T_3210,T_3210,32,10,PL427,PL,4,2,7,myśliborski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
+367,T_3212,T_3212,32,12,PL427,PL,4,2,7,pyrzycki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
+368,T_3215,T_3215,32,15,PL427,PL,4,2,7,szczecinecki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
+369,T_3216,T_3216,32,16,PL427,PL,4,2,7,świdwiński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
+370,T_3217,T_3217,32,17,PL427,PL,4,2,7,wałecki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
+371,T_3218,T_3218,32,18,PL427,PL,4,2,7,łobeski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczecinecko-pyrzycki,podregion
+372,T_3204,T_3204,32,4,PL428,PL,4,2,8,goleniowski,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
+373,T_3205,T_3205,32,5,PL428,PL,4,2,8,gryficki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
+374,T_3206,T_3206,32,6,PL428,PL,4,2,8,gryfiński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
+375,T_3207,T_3207,32,7,PL428,PL,4,2,8,kamieński,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
+376,T_3211,T_3211,32,11,PL428,PL,4,2,8,policki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
+377,T_3214,T_3214,32,14,PL428,PL,4,2,8,stargardzki,powiat,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
+378,T_3263,T_3263,32,63,PL428,PL,4,2,8,Świnoujście,powiat m.,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,szczeciński,podregion
+379,T_3262,T_3262,32,62,PL424,PL,4,2,4,Szczecin,powiat m.,zachodniopomorskie,województwo,północno-zachodni,makroregion,zachodniopomorskie,region,miasto szczecin,podregion

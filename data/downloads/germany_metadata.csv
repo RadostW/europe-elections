@@ -1,401 +1,401 @@
-,ags,ags_bundesland,ags_bezirke,ags_kreis,nuts,nuts_0,nuts_1,nuts_2,nuts_3,kreis_name,kreis_name_extra,bezirke_name,bundesland_name,nuts_1_name,nuts_2_name,nuts_3_name
-0,A_08111,08,1,11,DE111,DE,1,1,1,Stuttgart,Stadtkreis,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,"Stuttgart, Stadtkreis"
-1,A_08115,08,1,15,DE112,DE,1,1,2,Böblingen,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Böblingen
-2,A_08116,08,1,16,DE113,DE,1,1,3,Esslingen,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Esslingen
-3,A_08117,08,1,17,DE114,DE,1,1,4,Göppingen,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Göppingen
-4,A_08118,08,1,18,DE115,DE,1,1,5,Ludwigsburg,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Ludwigsburg
-5,A_05120,05,1,20,DE116,DE,1,1,6,Remscheid,Stadt,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Rems-Murr-Kreis
-6,A_08121,08,1,21,DE117,DE,1,1,7,Heilbronn,Stadtkreis,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,"Heilbronn, Stadtkreis"
-7,A_08125,08,1,25,DE118,DE,1,1,8,Heilbronn,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,"Heilbronn, Landkreis"
-8,A_08126,08,1,26,DE119,DE,1,1,9,Hohenlohekreis,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Hohenlohekreis
-9,A_08127,08,1,27,DE11A,DE,1,1,A,Schwäbisch Hall,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Schwäbisch Hall
-10,A_08128,08,1,28,DE11B,DE,1,1,B,Main-Tauber-Kreis,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Main-Tauber-Kreis
-11,A_08135,08,1,35,DE11C,DE,1,1,C,Heidenheim,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Heidenheim
-12,A_08136,08,1,36,DE11D,DE,1,1,D,Ostalbkreis,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Ostalbkreis
-13,A_08211,08,2,11,DE121,DE,1,2,1,Baden-Baden,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Baden-Baden, Stadtkreis"
-14,A_08212,08,2,12,DE122,DE,1,2,2,Karlsruhe,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Karlsruhe, Stadtkreis"
-15,A_08215,08,2,15,DE123,DE,1,2,3,Karlsruhe,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Karlsruhe, Landkreis"
-16,A_08216,08,2,16,DE124,DE,1,2,4,Rastatt,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Rastatt
-17,A_08221,08,2,21,DE125,DE,1,2,5,Heidelberg,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Heidelberg, Stadtkreis"
-18,A_08222,08,2,22,DE126,DE,1,2,6,Mannheim,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Mannheim, Stadtkreis"
-19,A_08225,08,2,25,DE127,DE,1,2,7,Neckar-Odenwald-Kreis,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Neckar-Odenwald-Kreis
-20,A_05162,05,1,62,DE128,DE,1,2,8,Rhein-Kreis Neuss,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Rhein-Neckar-Kreis
-21,A_08231,08,2,31,DE129,DE,1,2,9,Pforzheim,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Pforzheim, Stadtkreis"
-22,A_08235,08,2,35,DE12A,DE,1,2,A,Calw,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Calw
-23,A_08236,08,2,36,DE12B,DE,1,2,B,Enzkreis,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Enzkreis
-24,A_08237,08,2,37,DE12C,DE,1,2,C,Freudenstadt,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Freudenstadt
-25,A_08311,08,3,11,DE131,DE,1,3,1,Freiburg im Breisgau,Stadtkreis,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,"Freiburg im Breisgau, Stadtkreis"
-26,A_08315,08,3,15,DE132,DE,1,3,2,Breisgau-Hochschwarzwald,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Breisgau-Hochschwarzwald
-27,A_08316,08,3,16,DE133,DE,1,3,3,Emmendingen,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Emmendingen
-28,A_08317,08,3,17,DE134,DE,1,3,4,Ortenaukreis,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Ortenaukreis
-29,A_08325,08,3,25,DE135,DE,1,3,5,Rottweil,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Rottweil
-30,A_08326,08,3,26,DE136,DE,1,3,6,Schwarzwald-Baar-Kreis,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Schwarzwald-Baar-Kreis
-31,A_08327,08,3,27,DE137,DE,1,3,7,Tuttlingen,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Tuttlingen
-32,A_08335,08,3,35,DE138,DE,1,3,8,Konstanz,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Konstanz
-33,A_08336,08,3,36,DE139,DE,1,3,9,Lörrach,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Lörrach
-34,A_08337,08,3,37,DE13A,DE,1,3,A,Waldshut,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Waldshut
-35,A_08415,08,4,15,DE141,DE,1,4,1,Reutlingen,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Reutlingen
-36,A_08416,08,4,16,DE142,DE,1,4,2,Tübingen,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,"Tübingen, Landkreis"
-37,A_08417,08,4,17,DE143,DE,1,4,3,Zollernalbkreis,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Zollernalbkreis
-38,A_08421,08,4,21,DE144,DE,1,4,4,Ulm,Stadtkreis,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,"Ulm, Stadtkreis"
-39,A_08425,08,4,25,DE145,DE,1,4,5,Alb-Donau-Kreis,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Alb-Donau-Kreis
-40,A_08426,08,4,26,DE146,DE,1,4,6,Biberach,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Biberach
-41,A_08435,08,4,35,DE147,DE,1,4,7,Bodenseekreis,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Bodenseekreis
-42,A_08436,08,4,36,DE148,DE,1,4,8,Ravensburg,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Ravensburg
-43,A_08437,08,4,37,DE149,DE,1,4,9,Sigmaringen,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Sigmaringen
-44,A_09161,09,1,61,DE211,DE,2,1,1,Ingolstadt,,Oberbayern,Bavaria,Bavaria,Oberbayern,"Ingolstadt, Kreisfreie Stadt"
-45,A_09162,09,1,62,DE212,DE,2,1,2,München,Landeshauptstadt,Oberbayern,Bavaria,Bavaria,Oberbayern,"München, Kreisfreie Stadt"
-46,A_09163,09,1,63,DE213,DE,2,1,3,Rosenheim,,Oberbayern,Bavaria,Bavaria,Oberbayern,"Rosenheim, Kreisfreie Stadt"
-47,A_09171,09,1,71,DE214,DE,2,1,4,Altötting,,Oberbayern,Bavaria,Bavaria,Oberbayern,Altötting
-48,A_09172,09,1,72,DE215,DE,2,1,5,Berchtesgadener Land,,Oberbayern,Bavaria,Bavaria,Oberbayern,Berchtesgadener Land
-49,A_09173,09,1,73,DE216,DE,2,1,6,Bad Tölz-Wolfratshausen,,Oberbayern,Bavaria,Bavaria,Oberbayern,Bad Tölz-Wolfratshausen
-50,A_09174,09,1,74,DE217,DE,2,1,7,Dachau,,Oberbayern,Bavaria,Bavaria,Oberbayern,Dachau
-51,A_09175,09,1,75,DE218,DE,2,1,8,Ebersberg,,Oberbayern,Bavaria,Bavaria,Oberbayern,Ebersberg
-52,A_09176,09,1,76,DE219,DE,2,1,9,Eichstätt,,Oberbayern,Bavaria,Bavaria,Oberbayern,Eichstätt
-53,A_09177,09,1,77,DE21A,DE,2,1,A,Erding,,Oberbayern,Bavaria,Bavaria,Oberbayern,Erding
-54,A_09178,09,1,78,DE21B,DE,2,1,B,Freising,,Oberbayern,Bavaria,Bavaria,Oberbayern,Freising
-55,A_09179,09,1,79,DE21C,DE,2,1,C,Fürstenfeldbruck,,Oberbayern,Bavaria,Bavaria,Oberbayern,Fürstenfeldbruck
-56,A_09180,09,1,80,DE21D,DE,2,1,D,Garmisch-Partenkirchen,,Oberbayern,Bavaria,Bavaria,Oberbayern,Garmisch-Partenkirchen
-57,A_09181,09,1,81,DE21E,DE,2,1,E,Landsberg am Lech,,Oberbayern,Bavaria,Bavaria,Oberbayern,Landsberg am Lech
-58,A_09182,09,1,82,DE21F,DE,2,1,F,Miesbach,,Oberbayern,Bavaria,Bavaria,Oberbayern,Miesbach
-59,A_09183,09,1,83,DE21G,DE,2,1,G,Mühldorf a.Inn,,Oberbayern,Bavaria,Bavaria,Oberbayern,Mühldorf a. Inn
-60,A_09184,09,1,84,DE21H,DE,2,1,H,München,,Oberbayern,Bavaria,Bavaria,Oberbayern,"München, Landkreis"
-61,A_09373,09,3,73,DE21I,DE,2,1,I,Neumarkt i.d.OPf.,,Oberbayern,Bavaria,Bavaria,Oberbayern,Neuburg-Schrobenhausen
-62,A_09186,09,1,86,DE21J,DE,2,1,J,Pfaffenhofen a.d.Ilm,,Oberbayern,Bavaria,Bavaria,Oberbayern,Pfaffenhofen a. d. Ilm
-63,A_09187,09,1,87,DE21K,DE,2,1,K,Rosenheim,,Oberbayern,Bavaria,Bavaria,Oberbayern,"Rosenheim, Landkreis"
-64,A_09188,09,1,88,DE21L,DE,2,1,L,Starnberg,,Oberbayern,Bavaria,Bavaria,Oberbayern,Starnberg
-65,A_09189,09,1,89,DE21M,DE,2,1,M,Traunstein,,Oberbayern,Bavaria,Bavaria,Oberbayern,Traunstein
-66,A_09190,09,1,90,DE21N,DE,2,1,N,Weilheim-Schongau,,Oberbayern,Bavaria,Bavaria,Oberbayern,Weilheim-Schongau
-67,A_09261,09,2,61,DE221,DE,2,2,1,Landshut,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Landshut, Kreisfreie Stadt"
-68,A_09262,09,2,62,DE222,DE,2,2,2,Passau,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Passau, Kreisfreie Stadt"
-69,A_09278,09,2,78,DE223,DE,2,2,3,Straubing-Bogen,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Straubing, Kreisfreie Stadt"
-70,A_09271,09,2,71,DE224,DE,2,2,4,Deggendorf,,Niederbayern,Bavaria,Bavaria,Niederbayern,Deggendorf
-71,A_09272,09,2,72,DE225,DE,2,2,5,Freyung-Grafenau,,Niederbayern,Bavaria,Bavaria,Niederbayern,Freyung-Grafenau
-72,A_09273,09,2,73,DE226,DE,2,2,6,Kelheim,,Niederbayern,Bavaria,Bavaria,Niederbayern,Kelheim
-73,A_09274,09,2,74,DE227,DE,2,2,7,Landshut,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Landshut, Landkreis"
-74,A_09275,09,2,75,DE228,DE,2,2,8,Passau,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Passau, Landkreis"
-75,A_09276,09,2,76,DE229,DE,2,2,9,Regen,,Niederbayern,Bavaria,Bavaria,Niederbayern,Regen
-76,A_09277,09,2,77,DE22A,DE,2,2,A,Rottal-Inn,,Niederbayern,Bavaria,Bavaria,Niederbayern,Rottal-Inn
-77,A_09263,09,2,63,DE22B,DE,2,2,B,Straubing,,Niederbayern,Bavaria,Bavaria,Niederbayern,Straubing-Bogen
-78,A_09279,09,2,79,DE22C,DE,2,2,C,Dingolfing-Landau,,Niederbayern,Bavaria,Bavaria,Niederbayern,Dingolfing-Landau
-79,A_09361,09,3,61,DE231,DE,2,3,1,Amberg,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,"Amberg, Kreisfreie Stadt"
-80,A_09362,09,3,62,DE232,DE,2,3,2,Regensburg,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,"Regensburg, Kreisfreie Stadt"
-81,A_09363,09,3,63,DE233,DE,2,3,3,Weiden i.d.OPf.,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,"Weiden i. d. Opf, Kreisfreie Stadt"
-82,A_09371,09,3,71,DE234,DE,2,3,4,Amberg-Sulzbach,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Amberg-Sulzbach
-83,A_09372,09,3,72,DE235,DE,2,3,5,Cham,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Cham
-84,A_01004,01,0,04,DE236,DE,2,3,6,Neumünster,Stadt,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Neumarkt i. d. OPf.
-85,A_07316,07,3,16,DE237,DE,2,3,7,Neustadt an der Weinstraße,kreisfreie Stadt,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Neustadt a.d.Waldnaab
-86,A_09375,09,3,75,DE238,DE,2,3,8,Regensburg,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,"Regensburg, Landkreis"
-87,A_09376,09,3,76,DE239,DE,2,3,9,Schwandorf,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Schwandorf
-88,A_09377,09,3,77,DE23A,DE,2,3,A,Tirschenreuth,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Tirschenreuth
-89,A_09461,09,4,61,DE241,DE,2,4,1,Bamberg,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Bamberg, Kreisfreie Stadt"
-90,A_09462,09,4,62,DE242,DE,2,4,2,Bayreuth,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Bayreuth, Kreisfreie Stadt"
-91,A_09463,09,4,63,DE243,DE,2,4,3,Coburg,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Coburg, Kreisfreie Stadt"
-92,A_09464,09,4,64,DE244,DE,2,4,4,Hof,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Hof, Kreisfreie Stadt"
-93,A_09471,09,4,71,DE245,DE,2,4,5,Bamberg,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Bamberg, Landkreis"
-94,A_09472,09,4,72,DE246,DE,2,4,6,Bayreuth,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Bayreuth, Landkreis"
-95,A_09473,09,4,73,DE247,DE,2,4,7,Coburg,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Coburg, Landkreis"
-96,A_09474,09,4,74,DE248,DE,2,4,8,Forchheim,,Oberfranken,Bavaria,Bavaria,Oberfranken,Forchheim
-97,A_09475,09,4,75,DE249,DE,2,4,9,Hof,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Hof, Landkreis"
-98,A_09476,09,4,76,DE24A,DE,2,4,A,Kronach,,Oberfranken,Bavaria,Bavaria,Oberfranken,Kronach
-99,A_09477,09,4,77,DE24B,DE,2,4,B,Kulmbach,,Oberfranken,Bavaria,Bavaria,Oberfranken,Kulmbach
-100,A_09478,09,4,78,DE24C,DE,2,4,C,Lichtenfels,,Oberfranken,Bavaria,Bavaria,Oberfranken,Lichtenfels
-101,A_09479,09,4,79,DE24D,DE,2,4,D,Wunsiedel i.Fichtelgebirge,,Oberfranken,Bavaria,Bavaria,Oberfranken,Wunsiedel i. Fichtelgebirge
-102,A_09561,09,5,61,DE251,DE,2,5,1,Ansbach,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Ansbach, Kreisfreie Stadt"
-103,A_09562,09,5,62,DE252,DE,2,5,2,Erlangen,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Erlangen, Kreisfreie Stadt"
-104,A_09563,09,5,63,DE253,DE,2,5,3,Fürth,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Fürth, Kreisfreie Stadt"
-105,A_09564,09,5,64,DE254,DE,2,5,4,Nürnberg,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Nürnberg, Kreisfreie Stadt"
-106,A_09565,09,5,65,DE255,DE,2,5,5,Schwabach,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Schwabach, Kreisfreie Stadt"
-107,A_09571,09,5,71,DE256,DE,2,5,6,Ansbach,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Ansbach, Landkreis"
-108,A_09572,09,5,72,DE257,DE,2,5,7,Erlangen-Höchstadt,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Erlangen-Höchstadt
-109,A_09573,09,5,73,DE258,DE,2,5,8,Fürth,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Fürth, Landkreis"
-110,A_09574,09,5,74,DE259,DE,2,5,9,Nürnberger Land,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Nürnberger Land
-111,A_09374,09,3,74,DE25A,DE,2,5,A,Neustadt a.d.Waldnaab,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Neustadt a. d. Aisch-Bad Windsheim
-112,A_09576,09,5,76,DE25B,DE,2,5,B,Roth,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Roth
-113,A_09577,09,5,77,DE25C,DE,2,5,C,Weißenburg-Gunzenhausen,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Weißenburg-Gunzenhausen
-114,A_09661,09,6,61,DE261,DE,2,6,1,Aschaffenburg,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Aschaffenburg, Kreisfreie Stadt"
-115,A_09662,09,6,62,DE262,DE,2,6,2,Schweinfurt,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Schweinfurt, Kreisfreie Stadt"
-116,A_09663,09,6,63,DE263,DE,2,6,3,Würzburg,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Würzburg, Kreisfreie Stadt"
-117,A_09671,09,6,71,DE264,DE,2,6,4,Aschaffenburg,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Aschaffenburg, Landkreis"
-118,A_09672,09,6,72,DE265,DE,2,6,5,Bad Kissingen,,Unterfranken,Bavaria,Bavaria,Unterfranken,Bad Kissingen
-119,A_09673,09,6,73,DE266,DE,2,6,6,Rhön-Grabfeld,,Unterfranken,Bavaria,Bavaria,Unterfranken,Rhön-Grabfeld
-120,A_09674,09,6,74,DE267,DE,2,6,7,Haßberge,,Unterfranken,Bavaria,Bavaria,Unterfranken,Haßberge
-121,A_09675,09,6,75,DE268,DE,2,6,8,Kitzingen,,Unterfranken,Bavaria,Bavaria,Unterfranken,Kitzingen
-122,A_09676,09,6,76,DE269,DE,2,6,9,Miltenberg,,Unterfranken,Bavaria,Bavaria,Unterfranken,Miltenberg
-123,A_09677,09,6,77,DE26A,DE,2,6,A,Main-Spessart,,Unterfranken,Bavaria,Bavaria,Unterfranken,Main-Spessart
-124,A_09678,09,6,78,DE26B,DE,2,6,B,Schweinfurt,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Schweinfurt, Landkreis"
-125,A_09679,09,6,79,DE26C,DE,2,6,C,Würzburg,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Würzburg, Landkreis"
-126,A_09761,09,7,61,DE271,DE,2,7,1,Augsburg,,Schwaben,Bavaria,Bavaria,Schwaben,"Augsburg, Kreisfreie Stadt"
-127,A_09762,09,7,62,DE272,DE,2,7,2,Kaufbeuren,,Schwaben,Bavaria,Bavaria,Schwaben,"Kaufbeuren, Kreisfreie Stadt"
-128,A_09763,09,7,63,DE273,DE,2,7,3,Kempten (Allgäu),,Schwaben,Bavaria,Bavaria,Schwaben,"Kempten (Allgäu), Kreisfreie Stadt"
-129,A_09764,09,7,64,DE274,DE,2,7,4,Memmingen,,Schwaben,Bavaria,Bavaria,Schwaben,"Memmingen, Kreisfreie Stadt"
-130,A_09771,09,7,71,DE275,DE,2,7,5,Aichach-Friedberg,,Schwaben,Bavaria,Bavaria,Schwaben,Aichach-Friedberg
-131,A_09772,09,7,72,DE276,DE,2,7,6,Augsburg,,Schwaben,Bavaria,Bavaria,Schwaben,"Augsburg, Landkreis"
-132,A_09773,09,7,73,DE277,DE,2,7,7,Dillingen a.d.Donau,,Schwaben,Bavaria,Bavaria,Schwaben,Dillingen a.d. Donau
-133,A_09774,09,7,74,DE278,DE,2,7,8,Günzburg,,Schwaben,Bavaria,Bavaria,Schwaben,Günzburg
-134,A_09185,09,1,85,DE279,DE,2,7,9,Neuburg-Schrobenhausen,,Schwaben,Bavaria,Bavaria,Schwaben,Neu-Ulm
-135,A_09776,09,7,76,DE27A,DE,2,7,A,Lindau (Bodensee),,Schwaben,Bavaria,Bavaria,Schwaben,Lindau Bodensee)
-136,A_09777,09,7,77,DE27B,DE,2,7,B,Ostallgäu,,Schwaben,Bavaria,Bavaria,Schwaben,Ostallgäu
-137,A_09778,09,7,78,DE27C,DE,2,7,C,Unterallgäu,,Schwaben,Bavaria,Bavaria,Schwaben,Unterallgäu
-138,A_09779,09,7,79,DE27D,DE,2,7,D,Donau-Ries,,Schwaben,Bavaria,Bavaria,Schwaben,Donau-Ries
-139,A_09780,09,7,80,DE27E,DE,2,7,E,Oberallgäu,,Schwaben,Bavaria,Bavaria,Schwaben,Oberallgäu
-140,A_11000,11,0,00,DE300,DE,3,0,0,Berlin,Stadt,Berlin,Berlin,Berlin,Berlin,Berlin
-141,A_12051,12,0,51,DE401,DE,4,0,1,Brandenburg an der Havel,Stadt,Brandenburg,Brandenburg,Brandenburg,Brandenburg,"Brandenburg an der Havel, Kreisfreie Stadt"
-142,A_12052,12,0,52,DE402,DE,4,0,2,Cottbus,Stadt,Brandenburg,Brandenburg,Brandenburg,Brandenburg,"Cottbus, Kreisfreie Stadt"
-143,A_12053,12,0,53,DE403,DE,4,0,3,Frankfurt (Oder),Stadt,Brandenburg,Brandenburg,Brandenburg,Brandenburg,"Frankfurt (Oder), Kreisfreie Stadt"
-144,A_12069,12,0,69,DE404,DE,4,0,4,Potsdam-Mittelmark,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,"Potsdam, Kreisfreie Stadt"
-145,A_12060,12,0,60,DE405,DE,4,0,5,Barnim,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Barnim
-146,A_12061,12,0,61,DE406,DE,4,0,6,Dahme-Spreewald,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Dahme-Spreewald
-147,A_12062,12,0,62,DE407,DE,4,0,7,Elbe-Elster,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Elbe-Elster
-148,A_12063,12,0,63,DE408,DE,4,0,8,Havelland,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Havelland
-149,A_05962,05,9,62,DE409,DE,4,0,9,Märkischer Kreis,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Märkisch-Oderland
-150,A_12065,12,0,65,DE40A,DE,4,0,A,Oberhavel,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Oberhavel
-151,A_12066,12,0,66,DE40B,DE,4,0,B,Oberspreewald-Lausitz,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Oberspreewald-Lausitz
-152,A_12067,12,0,67,DE40C,DE,4,0,C,Oder-Spree,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Oder-Spree
-153,A_12068,12,0,68,DE40D,DE,4,0,D,Ostprignitz-Ruppin,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Ostprignitz-Ruppin
-154,A_12054,12,0,54,DE40E,DE,4,0,E,Potsdam,Stadt,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Potsdam-Mittelmark
-155,A_12070,12,0,70,DE40F,DE,4,0,F,Prignitz,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Prignitz
-156,A_12071,12,0,71,DE40G,DE,4,0,G,Spree-Neiße,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Spree-Neiße
-157,A_12072,12,0,72,DE40H,DE,4,0,H,Teltow-Fläming,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Teltow-Fläming
-158,A_12073,12,0,73,DE40I,DE,4,0,I,Uckermark,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Uckermark
-159,A_04011,04,0,11,DE501,DE,5,0,1,Bremen,Stadt,Bremen,Bremen,Bremen,Bremen,"Bremen, Kreisfreie Stadt"
-160,A_04012,04,0,12,DE502,DE,5,0,2,Bremerhaven,Stadt,Bremen,Bremen,Bremen,Bremen,"Bremerhaven, Kreisfreie Stadt"
-161,A_02000,02,0,00,DE600,DE,6,0,0,Hamburg,Freie und Hansestadt,Hamburg,Hamburg,Hamburg,Hamburg,Hamburg
-162,A_06411,06,4,11,DE711,DE,7,1,1,Darmstadt,Wissenschaftsstadt,Darmstadt,Hesse,Hesse,Darmstadt,"Darmstadt, Kreisfreie Stadt"
-163,A_06412,06,4,12,DE712,DE,7,1,2,Frankfurt am Main,Stadt,Darmstadt,Hesse,Hesse,Darmstadt,"Frankfurt am Main, Kreisfreie Stadt"
-164,A_06438,06,4,38,DE713,DE,7,1,3,Offenbach,,Darmstadt,Hesse,Hesse,Darmstadt,"Offenbach am Main, Kreisfreie Stadt"
-165,A_06414,06,4,14,DE714,DE,7,1,4,Wiesbaden,Landeshauptstadt,Darmstadt,Hesse,Hesse,Darmstadt,"Wiesbaden, Kreisfreie Stadt"
-166,A_06431,06,4,31,DE715,DE,7,1,5,Bergstraße,,Darmstadt,Hesse,Hesse,Darmstadt,Bergstraße
-167,A_06432,06,4,32,DE716,DE,7,1,6,Darmstadt-Dieburg,,Darmstadt,Hesse,Hesse,Darmstadt,Darmstadt-Dieburg
-168,A_06433,06,4,33,DE717,DE,7,1,7,Groß-Gerau,,Darmstadt,Hesse,Hesse,Darmstadt,Groß-Gerau
-169,A_06434,06,4,34,DE718,DE,7,1,8,Hochtaunuskreis,,Darmstadt,Hesse,Hesse,Darmstadt,Hochtaunuskreis
-170,A_06435,06,4,35,DE719,DE,7,1,9,Main-Kinzig-Kreis,,Darmstadt,Hesse,Hesse,Darmstadt,Main-Kinzig-Kreis
-171,A_06436,06,4,36,DE71A,DE,7,1,A,Main-Taunus-Kreis,,Darmstadt,Hesse,Hesse,Darmstadt,Main-Taunus-Kreis
-172,A_06437,06,4,37,DE71B,DE,7,1,B,Odenwaldkreis,,Darmstadt,Hesse,Hesse,Darmstadt,Odenwaldkreis
-173,A_03458,03,4,58,DE71C,DE,7,1,C,Oldenburg,,Darmstadt,Hesse,Hesse,Darmstadt,"Offenbach, Landkreis"
-174,A_07338,07,3,38,DE71D,DE,7,1,D,Rhein-Pfalz-Kreis,,Darmstadt,Hesse,Hesse,Darmstadt,Rheingau-Taunus-Kreis
-175,A_06440,06,4,40,DE71E,DE,7,1,E,Wetteraukreis,,Darmstadt,Hesse,Hesse,Darmstadt,Wetteraukreis
-176,A_06531,06,5,31,DE721,DE,7,2,1,Gießen,,Gießen,Hesse,Hesse,Gießen,"Gießen, Landkreis"
-177,A_06532,06,5,32,DE722,DE,7,2,2,Lahn-Dill-Kreis,,Gießen,Hesse,Hesse,Gießen,Lahn-Dill-Kreis
-178,A_06533,06,5,33,DE723,DE,7,2,3,Limburg-Weilburg,,Gießen,Hesse,Hesse,Gießen,Limburg-Weilburg
-179,A_06534,06,5,34,DE724,DE,7,2,4,Marburg-Biedenkopf,,Gießen,Hesse,Hesse,Gießen,Marburg-Biedenkopf
-180,A_06535,06,5,35,DE725,DE,7,2,5,Vogelsbergkreis,,Gießen,Hesse,Hesse,Gießen,Vogelsbergkreis
-181,A_06611,06,6,11,DE731,DE,7,3,1,Kassel,documenta-Stadt,Kassel,Hesse,Hesse,Kassel,"Kassel, Kreisfreie Stadt"
-182,A_06631,06,6,31,DE732,DE,7,3,2,Fulda,,Kassel,Hesse,Hesse,Kassel,Fulda
-183,A_06632,06,6,32,DE733,DE,7,3,3,Hersfeld-Rotenburg,,Kassel,Hesse,Hesse,Kassel,Hersfeld-Rotenburg
-184,A_06633,06,6,33,DE734,DE,7,3,4,Kassel,,Kassel,Hesse,Hesse,Kassel,"Kassel, Landkreis"
-185,A_06634,06,6,34,DE735,DE,7,3,5,Schwalm-Eder-Kreis,,Kassel,Hesse,Hesse,Kassel,Schwalm-Eder-Kreis
-186,A_06635,06,6,35,DE736,DE,7,3,6,Waldeck-Frankenberg,,Kassel,Hesse,Hesse,Kassel,Waldeck-Frankenberg
-187,A_06636,06,6,36,DE737,DE,7,3,7,Werra-Meißner-Kreis,,Kassel,Hesse,Hesse,Kassel,Werra-Meißner-Kreis
-188,A_13003,13,0,03,DE803,DE,8,0,3,Rostock,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,"Rostock, Kreisfreie Stadt"
-189,A_13004,13,0,04,DE804,DE,8,0,4,Schwerin,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,"Schwerin, Kreisfreie Stadt"
-190,A_13071,13,0,71,DE80J,DE,8,0,J,Mecklenburgische Seenplatte,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte
-191,A_13075,13,0,75,DE80N,DE,8,0,N,Vorpommern-Greifswald,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Vorpommern-Greifswald
-192,A_13072,13,0,72,DE80K,DE,8,0,K,Landkreis Rostock,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Landkreis Rostock
-193,A_13073,13,0,73,DE80L,DE,8,0,L,Vorpommern-Rügen,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Vorpommern-Rügen
-194,A_13074,13,0,74,DE80M,DE,8,0,M,Nordwestmecklenburg,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Nordwestmecklenburg
-195,A_13076,13,0,76,DE80O,DE,8,0,O,Ludwigslust-Parchim,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Ludwigslust-Parchim
-196,A_03101,03,1,01,DE911,DE,9,1,1,Braunschweig,Stadt,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,"Braunschweig, Kreisfreie Stadt"
-197,A_03102,03,1,02,DE912,DE,9,1,2,Salzgitter,Stadt,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,"Salzgitter, Kreisfreie Stadt"
-198,A_03103,03,1,03,DE913,DE,9,1,3,Wolfsburg,Stadt,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,"Wolfsburg, Kreisfreie Stadt"
-199,A_03151,03,1,51,DE914,DE,9,1,4,Gifhorn,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Gifhorn
-200,A_03153,03,1,53,DE916,DE,9,1,6,Goslar,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Goslar
-201,A_03154,03,1,54,DE917,DE,9,1,7,Helmstedt,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Helmstedt
-202,A_03155,03,1,55,DE918,DE,9,1,8,Northeim,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Northeim
-203,A_03157,03,1,57,DE91A,DE,9,1,A,Peine,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Peine
-204,A_03158,03,1,58,DE91B,DE,9,1,B,Wolfenbüttel,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Wolfenbüttel
-205,A_03159,03,1,59,DE91C,DE,9,1,C,Göttingen,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Göttingen
-206,A_03251,03,2,51,DE922,DE,9,2,2,Diepholz,,Hannover,Lower Saxony,Lower Saxony,Hannover,Diepholz
-207,A_03252,03,2,52,DE923,DE,9,2,3,Hameln-Pyrmont,,Hannover,Lower Saxony,Lower Saxony,Hannover,Hameln-Pyrmont
-208,A_03254,03,2,54,DE925,DE,9,2,5,Hildesheim,,Hannover,Lower Saxony,Lower Saxony,Hannover,Hildesheim
-209,A_03255,03,2,55,DE926,DE,9,2,6,Holzminden,,Hannover,Lower Saxony,Lower Saxony,Hannover,Holzminden
-210,A_03256,03,2,56,DE927,DE,9,2,7,Nienburg (Weser),,Hannover,Lower Saxony,Lower Saxony,Hannover,Nienburg (Weser)
-211,A_03257,03,2,57,DE928,DE,9,2,8,Schaumburg,,Hannover,Lower Saxony,Lower Saxony,Hannover,Schaumburg
-212,A_03241,03,2,41,DE929,DE,9,2,9,Region Hannover,,Hannover,Lower Saxony,Lower Saxony,Hannover,Region Hannover
-213,A_03351,03,3,51,DE931,DE,9,3,1,Celle,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Celle
-214,A_03352,03,3,52,DE932,DE,9,3,2,Cuxhaven,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Cuxhaven
-215,A_03353,03,3,53,DE933,DE,9,3,3,Harburg,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Harburg
-216,A_03354,03,3,54,DE934,DE,9,3,4,Lüchow-Dannenberg,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Lüchow-Dannenberg
-217,A_03355,03,3,55,DE935,DE,9,3,5,Lüneburg,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,"Lüneburg, Landkreis"
-218,A_03356,03,3,56,DE936,DE,9,3,6,Osterholz,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Osterholz
-219,A_03357,03,3,57,DE937,DE,9,3,7,Rotenburg (Wümme),,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Rotenburg Wümme)
-220,A_03358,03,3,58,DE938,DE,9,3,8,Heidekreis,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Heidekreis
-221,A_03359,03,3,59,DE939,DE,9,3,9,Stade,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Stade
-222,A_03360,03,3,60,DE93A,DE,9,3,A,Uelzen,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Uelzen
-223,A_03361,03,3,61,DE93B,DE,9,3,B,Verden,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Verden
-224,A_03401,03,4,01,DE941,DE,9,4,1,Delmenhorst,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Delmenhorst, Kreisfreie Stadt"
-225,A_03402,03,4,02,DE942,DE,9,4,2,Emden,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Emden, Kreisfreie Stadt"
-226,A_06413,06,4,13,DE943,DE,9,4,3,Offenbach am Main,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Oldenburg, Kreisfreie Stadt"
-227,A_03404,03,4,04,DE944,DE,9,4,4,Osnabrück,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Osnabrück, Kreisfreie Stadt"
-228,A_03405,03,4,05,DE945,DE,9,4,5,Wilhelmshaven,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Wilhelmshaven, Kreisfreie Stadt"
-229,A_03451,03,4,51,DE946,DE,9,4,6,Ammerland,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Ammerland
-230,A_03452,03,4,52,DE947,DE,9,4,7,Aurich,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Aurich
-231,A_03453,03,4,53,DE948,DE,9,4,8,Cloppenburg,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Cloppenburg
-232,A_03454,03,4,54,DE949,DE,9,4,9,Emsland,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Emsland
-233,A_03455,03,4,55,DE94A,DE,9,4,A,Friesland,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Friesland (DE)
-234,A_03456,03,4,56,DE94B,DE,9,4,B,Grafschaft Bentheim,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Grafschaft Bentheim
-235,A_03457,03,4,57,DE94C,DE,9,4,C,Leer,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Leer
-236,A_03403,03,4,03,DE94D,DE,9,4,D,Oldenburg (Oldenburg),Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Oldenburg, Landkreis"
-237,A_03459,03,4,59,DE94E,DE,9,4,E,Osnabrück,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Osnabrück, Landkreis"
-238,A_03460,03,4,60,DE94F,DE,9,4,F,Vechta,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Vechta
-239,A_03461,03,4,61,DE94G,DE,9,4,G,Wesermarsch,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Wesermarsch
-240,A_03462,03,4,62,DE94H,DE,9,4,H,Wittmund,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Wittmund
-241,A_05111,05,1,11,DEA11,DE,A,1,1,Düsseldorf,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Düsseldorf, Kreisfreie Stadt"
-242,A_05112,05,1,12,DEA12,DE,A,1,2,Duisburg,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Duisburg, Kreisfreie Stadt"
-243,A_05113,05,1,13,DEA13,DE,A,1,3,Essen,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Essen, Kreisfreie Stadt"
-244,A_05114,05,1,14,DEA14,DE,A,1,4,Krefeld,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Krefeld, Kreisfreie Stadt"
-245,A_05116,05,1,16,DEA15,DE,A,1,5,Mönchengladbach,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Mönchengladbach, Kreisfreie Stadt"
-246,A_05117,05,1,17,DEA16,DE,A,1,6,Mülheim an der Ruhr,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Mülheim an der Ruhr, Kreisfreie Stadt"
-247,A_05119,05,1,19,DEA17,DE,A,1,7,Oberhausen,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Oberhausen, Kreisfreie Stadt"
-248,A_08119,08,1,19,DEA18,DE,A,1,8,Rems-Murr-Kreis,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Remscheid, Kreisfreie Stadt"
-249,A_05122,05,1,22,DEA19,DE,A,1,9,Solingen,Klingenstadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Solingen, Kreisfreie Stadt"
-250,A_05124,05,1,24,DEA1A,DE,A,1,A,Wuppertal,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Wuppertal, Kreisfreie Stadt"
-251,A_05154,05,1,54,DEA1B,DE,A,1,B,Kleve,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Kleve
-252,A_05158,05,1,58,DEA1C,DE,A,1,C,Mettmann,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Mettmann
-253,A_07140,07,1,40,DEA1D,DE,A,1,D,Rhein-Hunsrück-Kreis,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Rhein-Kreis Neuss
-254,A_05166,05,1,66,DEA1E,DE,A,1,E,Viersen,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Viersen
-255,A_05170,05,1,70,DEA1F,DE,A,1,F,Wesel,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Wesel
-256,A_05314,05,3,14,DEA22,DE,A,2,2,Bonn,Stadt,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,"Bonn, Kreisfreie Stadt"
-257,A_05315,05,3,15,DEA23,DE,A,2,3,Köln,Stadt,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,"Köln, Kreisfreie Stadt"
-258,A_05316,05,3,16,DEA24,DE,A,2,4,Leverkusen,Stadt,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,"Leverkusen, Kreisfreie Stadt"
-259,A_05358,05,3,58,DEA26,DE,A,2,6,Düren,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Düren
-260,A_05362,05,3,62,DEA27,DE,A,2,7,Rhein-Erft-Kreis,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Rhein-Erft-Kreis
-261,A_05366,05,3,66,DEA28,DE,A,2,8,Euskirchen,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Euskirchen
-262,A_05370,05,3,70,DEA29,DE,A,2,9,Heinsberg,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Heinsberg
-263,A_05374,05,3,74,DEA2A,DE,A,2,A,Oberbergischer Kreis,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Oberbergischer Kreis
-264,A_05382,05,3,82,DEA2B,DE,A,2,B,Rhein-Sieg-Kreis,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Rheinisch-Bergischer Kreis
-265,A_08226,08,2,26,DEA2C,DE,A,2,C,Rhein-Neckar-Kreis,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Rhein-Sieg-Kreis
-266,A_05334,05,3,34,DEA2D,DE,A,2,D,Städteregion Aachen,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Städteregion Aachen
-267,A_05512,05,5,12,DEA31,DE,A,3,1,Bottrop,Stadt,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,"Bottrop, Kreisfreie Stadt"
-268,A_05513,05,5,13,DEA32,DE,A,3,2,Gelsenkirchen,Stadt,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,"Gelsenkirchen, Kreisfreie Stadt"
-269,A_05515,05,5,15,DEA33,DE,A,3,3,Münster,Stadt,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,"Münster, Kreisfreie Stadt"
-270,A_05554,05,5,54,DEA34,DE,A,3,4,Borken,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Borken
-271,A_05558,05,5,58,DEA35,DE,A,3,5,Coesfeld,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Coesfeld
-272,A_05562,05,5,62,DEA36,DE,A,3,6,Recklinghausen,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Recklinghausen
-273,A_05566,05,5,66,DEA37,DE,A,3,7,Steinfurt,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Steinfurt
-274,A_05570,05,5,70,DEA38,DE,A,3,8,Warendorf,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Warendorf
-275,A_05711,05,7,11,DEA41,DE,A,4,1,Bielefeld,Stadt,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,"Bielefeld, Kreisfreie Stadt"
-276,A_05754,05,7,54,DEA42,DE,A,4,2,Gütersloh,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Gütersloh
-277,A_05758,05,7,58,DEA43,DE,A,4,3,Herford,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Herford
-278,A_05762,05,7,62,DEA44,DE,A,4,4,Höxter,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Höxter
-279,A_05766,05,7,66,DEA45,DE,A,4,5,Lippe,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Lippe
-280,A_05770,05,7,70,DEA46,DE,A,4,6,Minden-Lübbecke,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Minden-Lübbecke
-281,A_05774,05,7,74,DEA47,DE,A,4,7,Paderborn,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Paderborn
-282,A_05911,05,9,11,DEA51,DE,A,5,1,Bochum,Stadt,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Bochum, Kreisfreie Stadt"
-283,A_05913,05,9,13,DEA52,DE,A,5,2,Dortmund,Stadt,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Dortmund, Kreisfreie Stadt"
-284,A_05914,05,9,14,DEA53,DE,A,5,3,Hagen,Stadt der FernUniversität,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Hagen, Kreisfreie Stadt"
-285,A_05915,05,9,15,DEA54,DE,A,5,4,Hamm,Stadt,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Hamm, Kreisfreie Stadt"
-286,A_05916,05,9,16,DEA55,DE,A,5,5,Herne,Stadt,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Herne, Kreisfreie Stadt"
-287,A_05954,05,9,54,DEA56,DE,A,5,6,Ennepe-Ruhr-Kreis,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Ennepe-Ruhr-Kreis
-288,A_05958,05,9,58,DEA57,DE,A,5,7,Hochsauerlandkreis,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Hochsauerlandkreis
-289,A_12064,12,0,64,DEA58,DE,A,5,8,Märkisch-Oderland,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Märkischer Kreis
-290,A_05966,05,9,66,DEA59,DE,A,5,9,Olpe,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Olpe
-291,A_05970,05,9,70,DEA5A,DE,A,5,A,Siegen-Wittgenstein,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Siegen-Wittgenstein
-292,A_05974,05,9,74,DEA5B,DE,A,5,B,Soest,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Soest
-293,A_05978,05,9,78,DEA5C,DE,A,5,C,Unna,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Unna
-294,A_07111,07,1,11,DEB11,DE,B,1,1,Koblenz,kreisfreie Stadt,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,"Koblenz, Kreisfreie Stadt"
-295,A_07131,07,1,31,DEB12,DE,B,1,2,Ahrweiler,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Ahrweiler
-296,A_07132,07,1,32,DEB13,DE,B,1,3,Altenkirchen (Westerwald),,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Altenkirchen Westerwald)
-297,A_07133,07,1,33,DEB14,DE,B,1,4,Bad Kreuznach,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Bad Kreuznach
-298,A_07134,07,1,34,DEB15,DE,B,1,5,Birkenfeld,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Birkenfeld
-299,A_07137,07,1,37,DEB17,DE,B,1,7,Mayen-Koblenz,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Mayen-Koblenz
-300,A_07138,07,1,38,DEB18,DE,B,1,8,Neuwied,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Neuwied
-301,A_05378,05,3,78,DEB1A,DE,B,1,A,Rheinisch-Bergischer Kreis,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Rhein-Lahn-Kreis
-302,A_07143,07,1,43,DEB1B,DE,B,1,B,Westerwaldkreis,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Westerwaldkreis
-303,A_07135,07,1,35,DEB1C,DE,B,1,C,Cochem-Zell,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Cochem-Zell
-304,A_06439,06,4,39,DEB1D,DE,B,1,D,Rheingau-Taunus-Kreis,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Rhein-Hunsrück-Kreis
-305,A_07211,07,2,11,DEB21,DE,B,2,1,Trier,kreisfreie Stadt,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,"Trier, Kreisfreie Stadt"
-306,A_07231,07,2,31,DEB22,DE,B,2,2,Bernkastel-Wittlich,,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,Bernkastel-Wittlich
-307,A_07232,07,2,32,DEB23,DE,B,2,3,Eifelkreis Bitburg-Prüm,,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,Eifelkreis Bitburg-Prüm
-308,A_07233,07,2,33,DEB24,DE,B,2,4,Vulkaneifel,,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,Vulkaneifel
-309,A_07235,07,2,35,DEB25,DE,B,2,5,Trier-Saarburg,,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,Trier-Saarburg
-310,A_07311,07,3,11,DEB31,DE,B,3,1,Frankenthal (Pfalz),kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Frankenthal Pfalz), Kreisfreie Stadt"
-311,A_07312,07,3,12,DEB32,DE,B,3,2,Kaiserslautern,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Kaiserslautern, Kreisfreie Stadt"
-312,A_07313,07,3,13,DEB33,DE,B,3,3,Landau in der Pfalz,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Landau in der Pfalz, Kreisfreie Stadt"
-313,A_07314,07,3,14,DEB34,DE,B,3,4,Ludwigshafen am Rhein,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Ludwigshafen am Rhein, Kreisfreie Stadt"
-314,A_07315,07,3,15,DEB35,DE,B,3,5,Mainz,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Mainz, Kreisfreie Stadt"
-315,A_09775,09,7,75,DEB36,DE,B,3,6,Neu-Ulm,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Neustadt an der Weinstraße, Kreisfreie Stadt"
-316,A_07317,07,3,17,DEB37,DE,B,3,7,Pirmasens,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Pirmasens, Kreisfreie Stadt"
-317,A_07318,07,3,18,DEB38,DE,B,3,8,Speyer,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Speyer, Kreisfreie Stadt"
-318,A_07319,07,3,19,DEB39,DE,B,3,9,Worms,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Worms, Kreisfreie Stadt"
-319,A_07320,07,3,20,DEB3A,DE,B,3,A,Zweibrücken,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Zweibrücken, Kreisfreie Stadt"
-320,A_07331,07,3,31,DEB3B,DE,B,3,B,Alzey-Worms,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Alzey-Worms
-321,A_07332,07,3,32,DEB3C,DE,B,3,C,Bad Dürkheim,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Bad Dürkheim
-322,A_07333,07,3,33,DEB3D,DE,B,3,D,Donnersbergkreis,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Donnersbergkreis
-323,A_07334,07,3,34,DEB3E,DE,B,3,E,Germersheim,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Germersheim
-324,A_07335,07,3,35,DEB3F,DE,B,3,F,Kaiserslautern,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Kaiserslautern, Landkreis"
-325,A_07336,07,3,36,DEB3G,DE,B,3,G,Kusel,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Kusel
-326,A_07337,07,3,37,DEB3H,DE,B,3,H,Südliche Weinstraße,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Südliche Weinstraße
-327,A_07141,07,1,41,DEB3I,DE,B,3,I,Rhein-Lahn-Kreis,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Rhein-Pfalz-Kreis
-328,A_07339,07,3,39,DEB3J,DE,B,3,J,Mainz-Bingen,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Mainz-Bingen
-329,A_07340,07,3,40,DEB3K,DE,B,3,K,Südwestpfalz,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Südwestpfalz
-330,A_10041,10,0,41,DEC01,DE,C,0,1,Regionalverband Saarbrücken,,Saarland,Saarland,Saarland,Saarland,Regionalverband Saarbrücken
-331,A_10042,10,0,42,DEC02,DE,C,0,2,Merzig-Wadern,,Saarland,Saarland,Saarland,Saarland,Merzig-Wadern
-332,A_09575,09,5,75,DEC03,DE,C,0,3,Neustadt a.d.Aisch-Bad Windsheim,,Saarland,Saarland,Saarland,Saarland,Neunkirchen
-333,A_10044,10,0,44,DEC04,DE,C,0,4,Saarlouis,,Saarland,Saarland,Saarland,Saarland,Saarlouis
-334,A_10045,10,0,45,DEC05,DE,C,0,5,Saarpfalz-Kreis,,Saarland,Saarland,Saarland,Saarland,Saarpfalz-Kreis
-335,A_10046,10,0,46,DEC06,DE,C,0,6,St. Wendel,,Saarland,Saarland,Saarland,Saarland,St. Wendel
-336,A_14612,14,6,12,DED21,DE,D,2,1,Dresden,Stadt,Dresden,Saxony,Saxony,Dresden,"Dresden, Kreisfreie Stadt"
-337,A_14625,14,6,25,DED2C,DE,D,2,C,Bautzen,,Dresden,Saxony,Saxony,Dresden,Bautzen
-338,A_14626,14,6,26,DED2D,DE,D,2,D,Görlitz,,Dresden,Saxony,Saxony,Dresden,Görlitz
-339,A_14627,14,6,27,DED2E,DE,D,2,E,Meißen,,Dresden,Saxony,Saxony,Dresden,Meißen
-340,A_14628,14,6,28,DED2F,DE,D,2,F,Sächsische Schweiz-Osterzgebirge,,Dresden,Saxony,Saxony,Dresden,Sächsische Schweiz-Osterzgebirge
-341,A_14511,14,5,11,DED41,DE,D,4,1,Chemnitz,Stadt,Chemnitz,Saxony,Saxony,Chemnitz,"Chemnitz, Kreisfreie Stadt"
-342,A_14521,14,5,21,DED42,DE,D,4,2,Erzgebirgskreis,,Chemnitz,Saxony,Saxony,Chemnitz,Erzgebirgskreis
-343,A_14522,14,5,22,DED43,DE,D,4,3,Mittelsachsen,,Chemnitz,Saxony,Saxony,Chemnitz,Mittelsachsen
-344,A_14523,14,5,23,DED44,DE,D,4,4,Vogtlandkreis,,Chemnitz,Saxony,Saxony,Chemnitz,Vogtlandkreis
-345,A_14524,14,5,24,DED45,DE,D,4,5,Zwickau,,Chemnitz,Saxony,Saxony,Chemnitz,Zwickau
-346,A_14713,14,7,13,DED51,DE,D,5,1,Leipzig,Stadt,Leipzig,Saxony,Saxony,Leipzig,"Leipzig, Kreisfreie Stadt"
-347,A_14729,14,7,29,DED52,DE,D,5,2,Leipzig,,Leipzig,Saxony,Saxony,Leipzig,Leipzig
-348,A_14730,14,7,30,DED53,DE,D,5,3,Nordsachsen,,Leipzig,Saxony,Saxony,Leipzig,Nordsachsen
-349,A_15001,15,0,01,DEE01,DE,E,0,1,Dessau-Roßlau,Stadt,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,"Dessau-Roßlau, Kreisfreie Stadt"
-350,A_15002,15,0,02,DEE02,DE,E,0,2,Halle (Saale),Stadt,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,"Halle (Saale), Kreisfreie Stadt"
-351,A_15003,15,0,03,DEE03,DE,E,0,3,Magdeburg,Landeshauptstadt,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,"Magdeburg, Kreisfreie Stadt"
-352,A_15081,15,0,81,DEE04,DE,E,0,4,Altmarkkreis Salzwedel,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Altmarkkreis Salzwedel
-353,A_15082,15,0,82,DEE05,DE,E,0,5,Anhalt-Bitterfeld,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Anhalt-Bitterfeld
-354,A_15086,15,0,86,DEE06,DE,E,0,6,Jerichower Land,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Jerichower Land
-355,A_15083,15,0,83,DEE07,DE,E,0,7,Börde,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Börde
-356,A_15084,15,0,84,DEE08,DE,E,0,8,Burgenlandkreis,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Burgenlandkreis
-357,A_15085,15,0,85,DEE09,DE,E,0,9,Harz,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Harz
-358,A_15087,15,0,87,DEE0A,DE,E,0,A,Mansfeld-Südharz,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Mansfeld-Südharz
-359,A_16075,16,0,75,DEE0B,DE,E,0,B,Saale-Orla-Kreis,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Saalekreis
-360,A_15089,15,0,89,DEE0C,DE,E,0,C,Salzlandkreis,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Salzlandkreis
-361,A_15090,15,0,90,DEE0D,DE,E,0,D,Stendal,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Stendal
-362,A_15091,15,0,91,DEE0E,DE,E,0,E,Wittenberg,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Wittenberg
-363,A_01001,01,0,01,DEF01,DE,F,0,1,Flensburg,Stadt,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,"Flensburg, Kreisfreie Stadt"
-364,A_01002,01,0,02,DEF02,DE,F,0,2,Kiel,Landeshauptstadt,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,"Kiel, Kreisfreie Stadt"
-365,A_01003,01,0,03,DEF03,DE,F,0,3,Lübeck,Hansestadt,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,"Lübeck, Kreisfreie Stadt"
-366,A_10043,10,0,43,DEF04,DE,F,0,4,Neunkirchen,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,"Neumünster, Kreisfreie Stadt"
-367,A_01051,01,0,51,DEF05,DE,F,0,5,Dithmarschen,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Dithmarschen
-368,A_01053,01,0,53,DEF06,DE,F,0,6,Herzogtum Lauenburg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Herzogtum Lauenburg
-369,A_01054,01,0,54,DEF07,DE,F,0,7,Nordfriesland,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Nordfriesland
-370,A_01055,01,0,55,DEF08,DE,F,0,8,Ostholstein,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Ostholstein
-371,A_01056,01,0,56,DEF09,DE,F,0,9,Pinneberg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Pinneberg
-372,A_01057,01,0,57,DEF0A,DE,F,0,A,Plön,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Plön
-373,A_01058,01,0,58,DEF0B,DE,F,0,B,Rendsburg-Eckernförde,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Rendsburg-Eckernförde
-374,A_01059,01,0,59,DEF0C,DE,F,0,C,Schleswig-Flensburg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Flensburg
-375,A_01060,01,0,60,DEF0D,DE,F,0,D,Segeberg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Segeberg
-376,A_01061,01,0,61,DEF0E,DE,F,0,E,Steinburg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Steinburg
-377,A_01062,01,0,62,DEF0F,DE,F,0,F,Stormarn,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Stormarn
-378,A_16051,16,0,51,DEG01,DE,G,0,1,Erfurt,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Erfurt, Kreisfreie Stadt"
-379,A_16052,16,0,52,DEG02,DE,G,0,2,Gera,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Gera, Kreisfreie Stadt"
-380,A_16053,16,0,53,DEG03,DE,G,0,3,Jena,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Jena, Kreisfreie Stadt"
-381,A_16054,16,0,54,DEG04,DE,G,0,4,Suhl,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Suhl, Kreisfreie Stadt"
-382,A_16055,16,0,55,DEG05,DE,G,0,5,Weimar,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Weimar, Kreisfreie Stadt"
-383,A_16061,16,0,61,DEG06,DE,G,0,6,Eichsfeld,,Thüringen,Thuringia,Thuringia,Thüringen,Eichsfeld
-384,A_16062,16,0,62,DEG07,DE,G,0,7,Nordhausen,,Thüringen,Thuringia,Thuringia,Thüringen,Nordhausen
-385,A_16064,16,0,64,DEG09,DE,G,0,9,Unstrut-Hainich-Kreis,,Thüringen,Thuringia,Thuringia,Thüringen,Unstrut-Hainich-Kreis
-386,A_16065,16,0,65,DEG0A,DE,G,0,A,Kyffhäuserkreis,,Thüringen,Thuringia,Thuringia,Thüringen,Kyffhäuserkreis
-387,A_16066,16,0,66,DEG0B,DE,G,0,B,Schmalkalden-Meiningen,,Thüringen,Thuringia,Thuringia,Thüringen,Schmalkalden-Meiningen
-388,A_16067,16,0,67,DEG0C,DE,G,0,C,Gotha,,Thüringen,Thuringia,Thuringia,Thüringen,Gotha
-389,A_16068,16,0,68,DEG0D,DE,G,0,D,Sömmerda,,Thüringen,Thuringia,Thuringia,Thüringen,Sömmerda
-390,A_16069,16,0,69,DEG0E,DE,G,0,E,Hildburghausen,,Thüringen,Thuringia,Thuringia,Thüringen,Hildburghausen
-391,A_16070,16,0,70,DEG0F,DE,G,0,F,Ilm-Kreis,,Thüringen,Thuringia,Thuringia,Thüringen,Ilm-Kreis
-392,A_16071,16,0,71,DEG0G,DE,G,0,G,Weimarer Land,,Thüringen,Thuringia,Thuringia,Thüringen,Weimarer Land
-393,A_16072,16,0,72,DEG0H,DE,G,0,H,Sonneberg,,Thüringen,Thuringia,Thuringia,Thüringen,Sonneberg
-394,A_16073,16,0,73,DEG0I,DE,G,0,I,Saalfeld-Rudolstadt,,Thüringen,Thuringia,Thuringia,Thüringen,Saalfeld-Rudolstadt
-395,A_16074,16,0,74,DEG0J,DE,G,0,J,Saale-Holzland-Kreis,,Thüringen,Thuringia,Thuringia,Thüringen,Saale-Holzland-Kreis
-396,A_15088,15,0,88,DEG0K,DE,G,0,K,Saalekreis,,Thüringen,Thuringia,Thuringia,Thüringen,Saale-Orla-Kreis
-397,A_16076,16,0,76,DEG0L,DE,G,0,L,Greiz,,Thüringen,Thuringia,Thuringia,Thüringen,Greiz
-398,A_16077,16,0,77,DEG0M,DE,G,0,M,Altenburger Land,,Thüringen,Thuringia,Thuringia,Thüringen,Altenburger Land
-400,A_16063,16,0,63,DEG0P,DE,G,0,P,Wartburgkreis,,Thüringen,Thuringia,Thuringia,Thüringen,Wartburgkreis
+,harmonised_code,ags,ags_bundesland,ags_bezirke,ags_kreis,nuts3_code,nuts_0,nuts_1,nuts_2,nuts_3,kreis_name,kreis_name_extra,bezirke_name,bundesland_name,nuts_1_name,nuts_2_name,nuts3_name
+0,A_08111,A_08111,8,1,11,DE111,DE,1,1,1,Stuttgart,Stadtkreis,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,"Stuttgart, Stadtkreis"
+1,A_08115,A_08115,8,1,15,DE112,DE,1,1,2,Böblingen,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Böblingen
+2,A_08116,A_08116,8,1,16,DE113,DE,1,1,3,Esslingen,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Esslingen
+3,A_08117,A_08117,8,1,17,DE114,DE,1,1,4,Göppingen,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Göppingen
+4,A_08118,A_08118,8,1,18,DE115,DE,1,1,5,Ludwigsburg,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Ludwigsburg
+5,A_05120,A_05120,5,1,20,DE116,DE,1,1,6,Remscheid,Stadt,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Rems-Murr-Kreis
+6,A_08121,A_08121,8,1,21,DE117,DE,1,1,7,Heilbronn,Stadtkreis,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,"Heilbronn, Stadtkreis"
+7,A_08125,A_08125,8,1,25,DE118,DE,1,1,8,Heilbronn,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,"Heilbronn, Landkreis"
+8,A_08126,A_08126,8,1,26,DE119,DE,1,1,9,Hohenlohekreis,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Hohenlohekreis
+9,A_08127,A_08127,8,1,27,DE11A,DE,1,1,A,Schwäbisch Hall,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Schwäbisch Hall
+10,A_08128,A_08128,8,1,28,DE11B,DE,1,1,B,Main-Tauber-Kreis,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Main-Tauber-Kreis
+11,A_08135,A_08135,8,1,35,DE11C,DE,1,1,C,Heidenheim,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Heidenheim
+12,A_08136,A_08136,8,1,36,DE11D,DE,1,1,D,Ostalbkreis,,Stuttgart,Baden-Württemberg,Baden-Württemberg,Stuttgart,Ostalbkreis
+13,A_08211,A_08211,8,2,11,DE121,DE,1,2,1,Baden-Baden,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Baden-Baden, Stadtkreis"
+14,A_08212,A_08212,8,2,12,DE122,DE,1,2,2,Karlsruhe,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Karlsruhe, Stadtkreis"
+15,A_08215,A_08215,8,2,15,DE123,DE,1,2,3,Karlsruhe,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Karlsruhe, Landkreis"
+16,A_08216,A_08216,8,2,16,DE124,DE,1,2,4,Rastatt,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Rastatt
+17,A_08221,A_08221,8,2,21,DE125,DE,1,2,5,Heidelberg,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Heidelberg, Stadtkreis"
+18,A_08222,A_08222,8,2,22,DE126,DE,1,2,6,Mannheim,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Mannheim, Stadtkreis"
+19,A_08225,A_08225,8,2,25,DE127,DE,1,2,7,Neckar-Odenwald-Kreis,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Neckar-Odenwald-Kreis
+20,A_05162,A_05162,5,1,62,DE128,DE,1,2,8,Rhein-Kreis Neuss,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Rhein-Neckar-Kreis
+21,A_08231,A_08231,8,2,31,DE129,DE,1,2,9,Pforzheim,Stadtkreis,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,"Pforzheim, Stadtkreis"
+22,A_08235,A_08235,8,2,35,DE12A,DE,1,2,A,Calw,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Calw
+23,A_08236,A_08236,8,2,36,DE12B,DE,1,2,B,Enzkreis,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Enzkreis
+24,A_08237,A_08237,8,2,37,DE12C,DE,1,2,C,Freudenstadt,,Karlsruhe,Baden-Württemberg,Baden-Württemberg,Karlsruhe,Freudenstadt
+25,A_08311,A_08311,8,3,11,DE131,DE,1,3,1,Freiburg im Breisgau,Stadtkreis,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,"Freiburg im Breisgau, Stadtkreis"
+26,A_08315,A_08315,8,3,15,DE132,DE,1,3,2,Breisgau-Hochschwarzwald,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Breisgau-Hochschwarzwald
+27,A_08316,A_08316,8,3,16,DE133,DE,1,3,3,Emmendingen,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Emmendingen
+28,A_08317,A_08317,8,3,17,DE134,DE,1,3,4,Ortenaukreis,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Ortenaukreis
+29,A_08325,A_08325,8,3,25,DE135,DE,1,3,5,Rottweil,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Rottweil
+30,A_08326,A_08326,8,3,26,DE136,DE,1,3,6,Schwarzwald-Baar-Kreis,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Schwarzwald-Baar-Kreis
+31,A_08327,A_08327,8,3,27,DE137,DE,1,3,7,Tuttlingen,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Tuttlingen
+32,A_08335,A_08335,8,3,35,DE138,DE,1,3,8,Konstanz,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Konstanz
+33,A_08336,A_08336,8,3,36,DE139,DE,1,3,9,Lörrach,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Lörrach
+34,A_08337,A_08337,8,3,37,DE13A,DE,1,3,A,Waldshut,,Freiburg,Baden-Württemberg,Baden-Württemberg,Freiburg,Waldshut
+35,A_08415,A_08415,8,4,15,DE141,DE,1,4,1,Reutlingen,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Reutlingen
+36,A_08416,A_08416,8,4,16,DE142,DE,1,4,2,Tübingen,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,"Tübingen, Landkreis"
+37,A_08417,A_08417,8,4,17,DE143,DE,1,4,3,Zollernalbkreis,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Zollernalbkreis
+38,A_08421,A_08421,8,4,21,DE144,DE,1,4,4,Ulm,Stadtkreis,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,"Ulm, Stadtkreis"
+39,A_08425,A_08425,8,4,25,DE145,DE,1,4,5,Alb-Donau-Kreis,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Alb-Donau-Kreis
+40,A_08426,A_08426,8,4,26,DE146,DE,1,4,6,Biberach,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Biberach
+41,A_08435,A_08435,8,4,35,DE147,DE,1,4,7,Bodenseekreis,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Bodenseekreis
+42,A_08436,A_08436,8,4,36,DE148,DE,1,4,8,Ravensburg,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Ravensburg
+43,A_08437,A_08437,8,4,37,DE149,DE,1,4,9,Sigmaringen,,Tübingen,Baden-Württemberg,Baden-Württemberg,Tübingen,Sigmaringen
+44,A_09161,A_09161,9,1,61,DE211,DE,2,1,1,Ingolstadt,,Oberbayern,Bavaria,Bavaria,Oberbayern,"Ingolstadt, Kreisfreie Stadt"
+45,A_09162,A_09162,9,1,62,DE212,DE,2,1,2,München,Landeshauptstadt,Oberbayern,Bavaria,Bavaria,Oberbayern,"München, Kreisfreie Stadt"
+46,A_09163,A_09163,9,1,63,DE213,DE,2,1,3,Rosenheim,,Oberbayern,Bavaria,Bavaria,Oberbayern,"Rosenheim, Kreisfreie Stadt"
+47,A_09171,A_09171,9,1,71,DE214,DE,2,1,4,Altötting,,Oberbayern,Bavaria,Bavaria,Oberbayern,Altötting
+48,A_09172,A_09172,9,1,72,DE215,DE,2,1,5,Berchtesgadener Land,,Oberbayern,Bavaria,Bavaria,Oberbayern,Berchtesgadener Land
+49,A_09173,A_09173,9,1,73,DE216,DE,2,1,6,Bad Tölz-Wolfratshausen,,Oberbayern,Bavaria,Bavaria,Oberbayern,Bad Tölz-Wolfratshausen
+50,A_09174,A_09174,9,1,74,DE217,DE,2,1,7,Dachau,,Oberbayern,Bavaria,Bavaria,Oberbayern,Dachau
+51,A_09175,A_09175,9,1,75,DE218,DE,2,1,8,Ebersberg,,Oberbayern,Bavaria,Bavaria,Oberbayern,Ebersberg
+52,A_09176,A_09176,9,1,76,DE219,DE,2,1,9,Eichstätt,,Oberbayern,Bavaria,Bavaria,Oberbayern,Eichstätt
+53,A_09177,A_09177,9,1,77,DE21A,DE,2,1,A,Erding,,Oberbayern,Bavaria,Bavaria,Oberbayern,Erding
+54,A_09178,A_09178,9,1,78,DE21B,DE,2,1,B,Freising,,Oberbayern,Bavaria,Bavaria,Oberbayern,Freising
+55,A_09179,A_09179,9,1,79,DE21C,DE,2,1,C,Fürstenfeldbruck,,Oberbayern,Bavaria,Bavaria,Oberbayern,Fürstenfeldbruck
+56,A_09180,A_09180,9,1,80,DE21D,DE,2,1,D,Garmisch-Partenkirchen,,Oberbayern,Bavaria,Bavaria,Oberbayern,Garmisch-Partenkirchen
+57,A_09181,A_09181,9,1,81,DE21E,DE,2,1,E,Landsberg am Lech,,Oberbayern,Bavaria,Bavaria,Oberbayern,Landsberg am Lech
+58,A_09182,A_09182,9,1,82,DE21F,DE,2,1,F,Miesbach,,Oberbayern,Bavaria,Bavaria,Oberbayern,Miesbach
+59,A_09183,A_09183,9,1,83,DE21G,DE,2,1,G,Mühldorf a.Inn,,Oberbayern,Bavaria,Bavaria,Oberbayern,Mühldorf a. Inn
+60,A_09184,A_09184,9,1,84,DE21H,DE,2,1,H,München,,Oberbayern,Bavaria,Bavaria,Oberbayern,"München, Landkreis"
+61,A_09373,A_09373,9,3,73,DE21I,DE,2,1,I,Neumarkt i.d.OPf.,,Oberbayern,Bavaria,Bavaria,Oberbayern,Neuburg-Schrobenhausen
+62,A_09186,A_09186,9,1,86,DE21J,DE,2,1,J,Pfaffenhofen a.d.Ilm,,Oberbayern,Bavaria,Bavaria,Oberbayern,Pfaffenhofen a. d. Ilm
+63,A_09187,A_09187,9,1,87,DE21K,DE,2,1,K,Rosenheim,,Oberbayern,Bavaria,Bavaria,Oberbayern,"Rosenheim, Landkreis"
+64,A_09188,A_09188,9,1,88,DE21L,DE,2,1,L,Starnberg,,Oberbayern,Bavaria,Bavaria,Oberbayern,Starnberg
+65,A_09189,A_09189,9,1,89,DE21M,DE,2,1,M,Traunstein,,Oberbayern,Bavaria,Bavaria,Oberbayern,Traunstein
+66,A_09190,A_09190,9,1,90,DE21N,DE,2,1,N,Weilheim-Schongau,,Oberbayern,Bavaria,Bavaria,Oberbayern,Weilheim-Schongau
+67,A_09261,A_09261,9,2,61,DE221,DE,2,2,1,Landshut,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Landshut, Kreisfreie Stadt"
+68,A_09262,A_09262,9,2,62,DE222,DE,2,2,2,Passau,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Passau, Kreisfreie Stadt"
+69,A_09278,A_09278,9,2,78,DE223,DE,2,2,3,Straubing-Bogen,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Straubing, Kreisfreie Stadt"
+70,A_09271,A_09271,9,2,71,DE224,DE,2,2,4,Deggendorf,,Niederbayern,Bavaria,Bavaria,Niederbayern,Deggendorf
+71,A_09272,A_09272,9,2,72,DE225,DE,2,2,5,Freyung-Grafenau,,Niederbayern,Bavaria,Bavaria,Niederbayern,Freyung-Grafenau
+72,A_09273,A_09273,9,2,73,DE226,DE,2,2,6,Kelheim,,Niederbayern,Bavaria,Bavaria,Niederbayern,Kelheim
+73,A_09274,A_09274,9,2,74,DE227,DE,2,2,7,Landshut,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Landshut, Landkreis"
+74,A_09275,A_09275,9,2,75,DE228,DE,2,2,8,Passau,,Niederbayern,Bavaria,Bavaria,Niederbayern,"Passau, Landkreis"
+75,A_09276,A_09276,9,2,76,DE229,DE,2,2,9,Regen,,Niederbayern,Bavaria,Bavaria,Niederbayern,Regen
+76,A_09277,A_09277,9,2,77,DE22A,DE,2,2,A,Rottal-Inn,,Niederbayern,Bavaria,Bavaria,Niederbayern,Rottal-Inn
+77,A_09263,A_09263,9,2,63,DE22B,DE,2,2,B,Straubing,,Niederbayern,Bavaria,Bavaria,Niederbayern,Straubing-Bogen
+78,A_09279,A_09279,9,2,79,DE22C,DE,2,2,C,Dingolfing-Landau,,Niederbayern,Bavaria,Bavaria,Niederbayern,Dingolfing-Landau
+79,A_09361,A_09361,9,3,61,DE231,DE,2,3,1,Amberg,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,"Amberg, Kreisfreie Stadt"
+80,A_09362,A_09362,9,3,62,DE232,DE,2,3,2,Regensburg,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,"Regensburg, Kreisfreie Stadt"
+81,A_09363,A_09363,9,3,63,DE233,DE,2,3,3,Weiden i.d.OPf.,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,"Weiden i. d. Opf, Kreisfreie Stadt"
+82,A_09371,A_09371,9,3,71,DE234,DE,2,3,4,Amberg-Sulzbach,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Amberg-Sulzbach
+83,A_09372,A_09372,9,3,72,DE235,DE,2,3,5,Cham,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Cham
+84,A_01004,A_01004,1,0,4,DE236,DE,2,3,6,Neumünster,Stadt,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Neumarkt i. d. OPf.
+85,A_07316,A_07316,7,3,16,DE237,DE,2,3,7,Neustadt an der Weinstraße,kreisfreie Stadt,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Neustadt a.d.Waldnaab
+86,A_09375,A_09375,9,3,75,DE238,DE,2,3,8,Regensburg,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,"Regensburg, Landkreis"
+87,A_09376,A_09376,9,3,76,DE239,DE,2,3,9,Schwandorf,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Schwandorf
+88,A_09377,A_09377,9,3,77,DE23A,DE,2,3,A,Tirschenreuth,,Oberpfalz,Bavaria,Bavaria,Oberpfalz,Tirschenreuth
+89,A_09461,A_09461,9,4,61,DE241,DE,2,4,1,Bamberg,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Bamberg, Kreisfreie Stadt"
+90,A_09462,A_09462,9,4,62,DE242,DE,2,4,2,Bayreuth,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Bayreuth, Kreisfreie Stadt"
+91,A_09463,A_09463,9,4,63,DE243,DE,2,4,3,Coburg,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Coburg, Kreisfreie Stadt"
+92,A_09464,A_09464,9,4,64,DE244,DE,2,4,4,Hof,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Hof, Kreisfreie Stadt"
+93,A_09471,A_09471,9,4,71,DE245,DE,2,4,5,Bamberg,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Bamberg, Landkreis"
+94,A_09472,A_09472,9,4,72,DE246,DE,2,4,6,Bayreuth,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Bayreuth, Landkreis"
+95,A_09473,A_09473,9,4,73,DE247,DE,2,4,7,Coburg,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Coburg, Landkreis"
+96,A_09474,A_09474,9,4,74,DE248,DE,2,4,8,Forchheim,,Oberfranken,Bavaria,Bavaria,Oberfranken,Forchheim
+97,A_09475,A_09475,9,4,75,DE249,DE,2,4,9,Hof,,Oberfranken,Bavaria,Bavaria,Oberfranken,"Hof, Landkreis"
+98,A_09476,A_09476,9,4,76,DE24A,DE,2,4,A,Kronach,,Oberfranken,Bavaria,Bavaria,Oberfranken,Kronach
+99,A_09477,A_09477,9,4,77,DE24B,DE,2,4,B,Kulmbach,,Oberfranken,Bavaria,Bavaria,Oberfranken,Kulmbach
+100,A_09478,A_09478,9,4,78,DE24C,DE,2,4,C,Lichtenfels,,Oberfranken,Bavaria,Bavaria,Oberfranken,Lichtenfels
+101,A_09479,A_09479,9,4,79,DE24D,DE,2,4,D,Wunsiedel i.Fichtelgebirge,,Oberfranken,Bavaria,Bavaria,Oberfranken,Wunsiedel i. Fichtelgebirge
+102,A_09561,A_09561,9,5,61,DE251,DE,2,5,1,Ansbach,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Ansbach, Kreisfreie Stadt"
+103,A_09562,A_09562,9,5,62,DE252,DE,2,5,2,Erlangen,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Erlangen, Kreisfreie Stadt"
+104,A_09563,A_09563,9,5,63,DE253,DE,2,5,3,Fürth,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Fürth, Kreisfreie Stadt"
+105,A_09564,A_09564,9,5,64,DE254,DE,2,5,4,Nürnberg,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Nürnberg, Kreisfreie Stadt"
+106,A_09565,A_09565,9,5,65,DE255,DE,2,5,5,Schwabach,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Schwabach, Kreisfreie Stadt"
+107,A_09571,A_09571,9,5,71,DE256,DE,2,5,6,Ansbach,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Ansbach, Landkreis"
+108,A_09572,A_09572,9,5,72,DE257,DE,2,5,7,Erlangen-Höchstadt,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Erlangen-Höchstadt
+109,A_09573,A_09573,9,5,73,DE258,DE,2,5,8,Fürth,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,"Fürth, Landkreis"
+110,A_09574,A_09574,9,5,74,DE259,DE,2,5,9,Nürnberger Land,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Nürnberger Land
+111,A_09374,A_09374,9,3,74,DE25A,DE,2,5,A,Neustadt a.d.Waldnaab,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Neustadt a. d. Aisch-Bad Windsheim
+112,A_09576,A_09576,9,5,76,DE25B,DE,2,5,B,Roth,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Roth
+113,A_09577,A_09577,9,5,77,DE25C,DE,2,5,C,Weißenburg-Gunzenhausen,,Mittelfranken,Bavaria,Bavaria,Mittelfranken,Weißenburg-Gunzenhausen
+114,A_09661,A_09661,9,6,61,DE261,DE,2,6,1,Aschaffenburg,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Aschaffenburg, Kreisfreie Stadt"
+115,A_09662,A_09662,9,6,62,DE262,DE,2,6,2,Schweinfurt,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Schweinfurt, Kreisfreie Stadt"
+116,A_09663,A_09663,9,6,63,DE263,DE,2,6,3,Würzburg,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Würzburg, Kreisfreie Stadt"
+117,A_09671,A_09671,9,6,71,DE264,DE,2,6,4,Aschaffenburg,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Aschaffenburg, Landkreis"
+118,A_09672,A_09672,9,6,72,DE265,DE,2,6,5,Bad Kissingen,,Unterfranken,Bavaria,Bavaria,Unterfranken,Bad Kissingen
+119,A_09673,A_09673,9,6,73,DE266,DE,2,6,6,Rhön-Grabfeld,,Unterfranken,Bavaria,Bavaria,Unterfranken,Rhön-Grabfeld
+120,A_09674,A_09674,9,6,74,DE267,DE,2,6,7,Haßberge,,Unterfranken,Bavaria,Bavaria,Unterfranken,Haßberge
+121,A_09675,A_09675,9,6,75,DE268,DE,2,6,8,Kitzingen,,Unterfranken,Bavaria,Bavaria,Unterfranken,Kitzingen
+122,A_09676,A_09676,9,6,76,DE269,DE,2,6,9,Miltenberg,,Unterfranken,Bavaria,Bavaria,Unterfranken,Miltenberg
+123,A_09677,A_09677,9,6,77,DE26A,DE,2,6,A,Main-Spessart,,Unterfranken,Bavaria,Bavaria,Unterfranken,Main-Spessart
+124,A_09678,A_09678,9,6,78,DE26B,DE,2,6,B,Schweinfurt,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Schweinfurt, Landkreis"
+125,A_09679,A_09679,9,6,79,DE26C,DE,2,6,C,Würzburg,,Unterfranken,Bavaria,Bavaria,Unterfranken,"Würzburg, Landkreis"
+126,A_09761,A_09761,9,7,61,DE271,DE,2,7,1,Augsburg,,Schwaben,Bavaria,Bavaria,Schwaben,"Augsburg, Kreisfreie Stadt"
+127,A_09762,A_09762,9,7,62,DE272,DE,2,7,2,Kaufbeuren,,Schwaben,Bavaria,Bavaria,Schwaben,"Kaufbeuren, Kreisfreie Stadt"
+128,A_09763,A_09763,9,7,63,DE273,DE,2,7,3,Kempten (Allgäu),,Schwaben,Bavaria,Bavaria,Schwaben,"Kempten (Allgäu), Kreisfreie Stadt"
+129,A_09764,A_09764,9,7,64,DE274,DE,2,7,4,Memmingen,,Schwaben,Bavaria,Bavaria,Schwaben,"Memmingen, Kreisfreie Stadt"
+130,A_09771,A_09771,9,7,71,DE275,DE,2,7,5,Aichach-Friedberg,,Schwaben,Bavaria,Bavaria,Schwaben,Aichach-Friedberg
+131,A_09772,A_09772,9,7,72,DE276,DE,2,7,6,Augsburg,,Schwaben,Bavaria,Bavaria,Schwaben,"Augsburg, Landkreis"
+132,A_09773,A_09773,9,7,73,DE277,DE,2,7,7,Dillingen a.d.Donau,,Schwaben,Bavaria,Bavaria,Schwaben,Dillingen a.d. Donau
+133,A_09774,A_09774,9,7,74,DE278,DE,2,7,8,Günzburg,,Schwaben,Bavaria,Bavaria,Schwaben,Günzburg
+134,A_09185,A_09185,9,1,85,DE279,DE,2,7,9,Neuburg-Schrobenhausen,,Schwaben,Bavaria,Bavaria,Schwaben,Neu-Ulm
+135,A_09776,A_09776,9,7,76,DE27A,DE,2,7,A,Lindau (Bodensee),,Schwaben,Bavaria,Bavaria,Schwaben,Lindau Bodensee)
+136,A_09777,A_09777,9,7,77,DE27B,DE,2,7,B,Ostallgäu,,Schwaben,Bavaria,Bavaria,Schwaben,Ostallgäu
+137,A_09778,A_09778,9,7,78,DE27C,DE,2,7,C,Unterallgäu,,Schwaben,Bavaria,Bavaria,Schwaben,Unterallgäu
+138,A_09779,A_09779,9,7,79,DE27D,DE,2,7,D,Donau-Ries,,Schwaben,Bavaria,Bavaria,Schwaben,Donau-Ries
+139,A_09780,A_09780,9,7,80,DE27E,DE,2,7,E,Oberallgäu,,Schwaben,Bavaria,Bavaria,Schwaben,Oberallgäu
+140,A_11000,A_11000,11,0,0,DE300,DE,3,0,0,Berlin,Stadt,Berlin,Berlin,Berlin,Berlin,Berlin
+141,A_12051,A_12051,12,0,51,DE401,DE,4,0,1,Brandenburg an der Havel,Stadt,Brandenburg,Brandenburg,Brandenburg,Brandenburg,"Brandenburg an der Havel, Kreisfreie Stadt"
+142,A_12052,A_12052,12,0,52,DE402,DE,4,0,2,Cottbus,Stadt,Brandenburg,Brandenburg,Brandenburg,Brandenburg,"Cottbus, Kreisfreie Stadt"
+143,A_12053,A_12053,12,0,53,DE403,DE,4,0,3,Frankfurt (Oder),Stadt,Brandenburg,Brandenburg,Brandenburg,Brandenburg,"Frankfurt (Oder), Kreisfreie Stadt"
+144,A_12069,A_12069,12,0,69,DE404,DE,4,0,4,Potsdam-Mittelmark,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,"Potsdam, Kreisfreie Stadt"
+145,A_12060,A_12060,12,0,60,DE405,DE,4,0,5,Barnim,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Barnim
+146,A_12061,A_12061,12,0,61,DE406,DE,4,0,6,Dahme-Spreewald,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Dahme-Spreewald
+147,A_12062,A_12062,12,0,62,DE407,DE,4,0,7,Elbe-Elster,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Elbe-Elster
+148,A_12063,A_12063,12,0,63,DE408,DE,4,0,8,Havelland,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Havelland
+149,A_05962,A_05962,5,9,62,DE409,DE,4,0,9,Märkischer Kreis,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Märkisch-Oderland
+150,A_12065,A_12065,12,0,65,DE40A,DE,4,0,A,Oberhavel,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Oberhavel
+151,A_12066,A_12066,12,0,66,DE40B,DE,4,0,B,Oberspreewald-Lausitz,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Oberspreewald-Lausitz
+152,A_12067,A_12067,12,0,67,DE40C,DE,4,0,C,Oder-Spree,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Oder-Spree
+153,A_12068,A_12068,12,0,68,DE40D,DE,4,0,D,Ostprignitz-Ruppin,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Ostprignitz-Ruppin
+154,A_12054,A_12054,12,0,54,DE40E,DE,4,0,E,Potsdam,Stadt,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Potsdam-Mittelmark
+155,A_12070,A_12070,12,0,70,DE40F,DE,4,0,F,Prignitz,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Prignitz
+156,A_12071,A_12071,12,0,71,DE40G,DE,4,0,G,Spree-Neiße,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Spree-Neiße
+157,A_12072,A_12072,12,0,72,DE40H,DE,4,0,H,Teltow-Fläming,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Teltow-Fläming
+158,A_12073,A_12073,12,0,73,DE40I,DE,4,0,I,Uckermark,,Brandenburg,Brandenburg,Brandenburg,Brandenburg,Uckermark
+159,A_04011,A_04011,4,0,11,DE501,DE,5,0,1,Bremen,Stadt,Bremen,Bremen,Bremen,Bremen,"Bremen, Kreisfreie Stadt"
+160,A_04012,A_04012,4,0,12,DE502,DE,5,0,2,Bremerhaven,Stadt,Bremen,Bremen,Bremen,Bremen,"Bremerhaven, Kreisfreie Stadt"
+161,A_02000,A_02000,2,0,0,DE600,DE,6,0,0,Hamburg,Freie und Hansestadt,Hamburg,Hamburg,Hamburg,Hamburg,Hamburg
+162,A_06411,A_06411,6,4,11,DE711,DE,7,1,1,Darmstadt,Wissenschaftsstadt,Darmstadt,Hesse,Hesse,Darmstadt,"Darmstadt, Kreisfreie Stadt"
+163,A_06412,A_06412,6,4,12,DE712,DE,7,1,2,Frankfurt am Main,Stadt,Darmstadt,Hesse,Hesse,Darmstadt,"Frankfurt am Main, Kreisfreie Stadt"
+164,A_06438,A_06438,6,4,38,DE713,DE,7,1,3,Offenbach,,Darmstadt,Hesse,Hesse,Darmstadt,"Offenbach am Main, Kreisfreie Stadt"
+165,A_06414,A_06414,6,4,14,DE714,DE,7,1,4,Wiesbaden,Landeshauptstadt,Darmstadt,Hesse,Hesse,Darmstadt,"Wiesbaden, Kreisfreie Stadt"
+166,A_06431,A_06431,6,4,31,DE715,DE,7,1,5,Bergstraße,,Darmstadt,Hesse,Hesse,Darmstadt,Bergstraße
+167,A_06432,A_06432,6,4,32,DE716,DE,7,1,6,Darmstadt-Dieburg,,Darmstadt,Hesse,Hesse,Darmstadt,Darmstadt-Dieburg
+168,A_06433,A_06433,6,4,33,DE717,DE,7,1,7,Groß-Gerau,,Darmstadt,Hesse,Hesse,Darmstadt,Groß-Gerau
+169,A_06434,A_06434,6,4,34,DE718,DE,7,1,8,Hochtaunuskreis,,Darmstadt,Hesse,Hesse,Darmstadt,Hochtaunuskreis
+170,A_06435,A_06435,6,4,35,DE719,DE,7,1,9,Main-Kinzig-Kreis,,Darmstadt,Hesse,Hesse,Darmstadt,Main-Kinzig-Kreis
+171,A_06436,A_06436,6,4,36,DE71A,DE,7,1,A,Main-Taunus-Kreis,,Darmstadt,Hesse,Hesse,Darmstadt,Main-Taunus-Kreis
+172,A_06437,A_06437,6,4,37,DE71B,DE,7,1,B,Odenwaldkreis,,Darmstadt,Hesse,Hesse,Darmstadt,Odenwaldkreis
+173,A_03458,A_03458,3,4,58,DE71C,DE,7,1,C,Oldenburg,,Darmstadt,Hesse,Hesse,Darmstadt,"Offenbach, Landkreis"
+174,A_07338,A_07338,7,3,38,DE71D,DE,7,1,D,Rhein-Pfalz-Kreis,,Darmstadt,Hesse,Hesse,Darmstadt,Rheingau-Taunus-Kreis
+175,A_06440,A_06440,6,4,40,DE71E,DE,7,1,E,Wetteraukreis,,Darmstadt,Hesse,Hesse,Darmstadt,Wetteraukreis
+176,A_06531,A_06531,6,5,31,DE721,DE,7,2,1,Gießen,,Gießen,Hesse,Hesse,Gießen,"Gießen, Landkreis"
+177,A_06532,A_06532,6,5,32,DE722,DE,7,2,2,Lahn-Dill-Kreis,,Gießen,Hesse,Hesse,Gießen,Lahn-Dill-Kreis
+178,A_06533,A_06533,6,5,33,DE723,DE,7,2,3,Limburg-Weilburg,,Gießen,Hesse,Hesse,Gießen,Limburg-Weilburg
+179,A_06534,A_06534,6,5,34,DE724,DE,7,2,4,Marburg-Biedenkopf,,Gießen,Hesse,Hesse,Gießen,Marburg-Biedenkopf
+180,A_06535,A_06535,6,5,35,DE725,DE,7,2,5,Vogelsbergkreis,,Gießen,Hesse,Hesse,Gießen,Vogelsbergkreis
+181,A_06611,A_06611,6,6,11,DE731,DE,7,3,1,Kassel,documenta-Stadt,Kassel,Hesse,Hesse,Kassel,"Kassel, Kreisfreie Stadt"
+182,A_06631,A_06631,6,6,31,DE732,DE,7,3,2,Fulda,,Kassel,Hesse,Hesse,Kassel,Fulda
+183,A_06632,A_06632,6,6,32,DE733,DE,7,3,3,Hersfeld-Rotenburg,,Kassel,Hesse,Hesse,Kassel,Hersfeld-Rotenburg
+184,A_06633,A_06633,6,6,33,DE734,DE,7,3,4,Kassel,,Kassel,Hesse,Hesse,Kassel,"Kassel, Landkreis"
+185,A_06634,A_06634,6,6,34,DE735,DE,7,3,5,Schwalm-Eder-Kreis,,Kassel,Hesse,Hesse,Kassel,Schwalm-Eder-Kreis
+186,A_06635,A_06635,6,6,35,DE736,DE,7,3,6,Waldeck-Frankenberg,,Kassel,Hesse,Hesse,Kassel,Waldeck-Frankenberg
+187,A_06636,A_06636,6,6,36,DE737,DE,7,3,7,Werra-Meißner-Kreis,,Kassel,Hesse,Hesse,Kassel,Werra-Meißner-Kreis
+188,A_13003,A_13003,13,0,3,DE803,DE,8,0,3,Rostock,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,"Rostock, Kreisfreie Stadt"
+189,A_13004,A_13004,13,0,4,DE804,DE,8,0,4,Schwerin,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,"Schwerin, Kreisfreie Stadt"
+190,A_13071,A_13071,13,0,71,DE80J,DE,8,0,J,Mecklenburgische Seenplatte,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte
+191,A_13075,A_13075,13,0,75,DE80N,DE,8,0,N,Vorpommern-Greifswald,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Vorpommern-Greifswald
+192,A_13072,A_13072,13,0,72,DE80K,DE,8,0,K,Landkreis Rostock,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Landkreis Rostock
+193,A_13073,A_13073,13,0,73,DE80L,DE,8,0,L,Vorpommern-Rügen,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Vorpommern-Rügen
+194,A_13074,A_13074,13,0,74,DE80M,DE,8,0,M,Nordwestmecklenburg,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Nordwestmecklenburg
+195,A_13076,A_13076,13,0,76,DE80O,DE,8,0,O,Ludwigslust-Parchim,,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Ludwigslust-Parchim
+196,A_03101,A_03101,3,1,1,DE911,DE,9,1,1,Braunschweig,Stadt,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,"Braunschweig, Kreisfreie Stadt"
+197,A_03102,A_03102,3,1,2,DE912,DE,9,1,2,Salzgitter,Stadt,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,"Salzgitter, Kreisfreie Stadt"
+198,A_03103,A_03103,3,1,3,DE913,DE,9,1,3,Wolfsburg,Stadt,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,"Wolfsburg, Kreisfreie Stadt"
+199,A_03151,A_03151,3,1,51,DE914,DE,9,1,4,Gifhorn,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Gifhorn
+200,A_03153,A_03153,3,1,53,DE916,DE,9,1,6,Goslar,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Goslar
+201,A_03154,A_03154,3,1,54,DE917,DE,9,1,7,Helmstedt,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Helmstedt
+202,A_03155,A_03155,3,1,55,DE918,DE,9,1,8,Northeim,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Northeim
+203,A_03157,A_03157,3,1,57,DE91A,DE,9,1,A,Peine,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Peine
+204,A_03158,A_03158,3,1,58,DE91B,DE,9,1,B,Wolfenbüttel,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Wolfenbüttel
+205,A_03159,A_03159,3,1,59,DE91C,DE,9,1,C,Göttingen,,Braunschweig,Lower Saxony,Lower Saxony,Braunschweig,Göttingen
+206,A_03251,A_03251,3,2,51,DE922,DE,9,2,2,Diepholz,,Hannover,Lower Saxony,Lower Saxony,Hannover,Diepholz
+207,A_03252,A_03252,3,2,52,DE923,DE,9,2,3,Hameln-Pyrmont,,Hannover,Lower Saxony,Lower Saxony,Hannover,Hameln-Pyrmont
+208,A_03254,A_03254,3,2,54,DE925,DE,9,2,5,Hildesheim,,Hannover,Lower Saxony,Lower Saxony,Hannover,Hildesheim
+209,A_03255,A_03255,3,2,55,DE926,DE,9,2,6,Holzminden,,Hannover,Lower Saxony,Lower Saxony,Hannover,Holzminden
+210,A_03256,A_03256,3,2,56,DE927,DE,9,2,7,Nienburg (Weser),,Hannover,Lower Saxony,Lower Saxony,Hannover,Nienburg (Weser)
+211,A_03257,A_03257,3,2,57,DE928,DE,9,2,8,Schaumburg,,Hannover,Lower Saxony,Lower Saxony,Hannover,Schaumburg
+212,A_03241,A_03241,3,2,41,DE929,DE,9,2,9,Region Hannover,,Hannover,Lower Saxony,Lower Saxony,Hannover,Region Hannover
+213,A_03351,A_03351,3,3,51,DE931,DE,9,3,1,Celle,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Celle
+214,A_03352,A_03352,3,3,52,DE932,DE,9,3,2,Cuxhaven,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Cuxhaven
+215,A_03353,A_03353,3,3,53,DE933,DE,9,3,3,Harburg,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Harburg
+216,A_03354,A_03354,3,3,54,DE934,DE,9,3,4,Lüchow-Dannenberg,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Lüchow-Dannenberg
+217,A_03355,A_03355,3,3,55,DE935,DE,9,3,5,Lüneburg,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,"Lüneburg, Landkreis"
+218,A_03356,A_03356,3,3,56,DE936,DE,9,3,6,Osterholz,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Osterholz
+219,A_03357,A_03357,3,3,57,DE937,DE,9,3,7,Rotenburg (Wümme),,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Rotenburg Wümme)
+220,A_03358,A_03358,3,3,58,DE938,DE,9,3,8,Heidekreis,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Heidekreis
+221,A_03359,A_03359,3,3,59,DE939,DE,9,3,9,Stade,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Stade
+222,A_03360,A_03360,3,3,60,DE93A,DE,9,3,A,Uelzen,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Uelzen
+223,A_03361,A_03361,3,3,61,DE93B,DE,9,3,B,Verden,,Lüneburg,Lower Saxony,Lower Saxony,Lüneburg,Verden
+224,A_03401,A_03401,3,4,1,DE941,DE,9,4,1,Delmenhorst,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Delmenhorst, Kreisfreie Stadt"
+225,A_03402,A_03402,3,4,2,DE942,DE,9,4,2,Emden,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Emden, Kreisfreie Stadt"
+226,A_06413,A_06413,6,4,13,DE943,DE,9,4,3,Offenbach am Main,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Oldenburg, Kreisfreie Stadt"
+227,A_03404,A_03404,3,4,4,DE944,DE,9,4,4,Osnabrück,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Osnabrück, Kreisfreie Stadt"
+228,A_03405,A_03405,3,4,5,DE945,DE,9,4,5,Wilhelmshaven,Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Wilhelmshaven, Kreisfreie Stadt"
+229,A_03451,A_03451,3,4,51,DE946,DE,9,4,6,Ammerland,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Ammerland
+230,A_03452,A_03452,3,4,52,DE947,DE,9,4,7,Aurich,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Aurich
+231,A_03453,A_03453,3,4,53,DE948,DE,9,4,8,Cloppenburg,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Cloppenburg
+232,A_03454,A_03454,3,4,54,DE949,DE,9,4,9,Emsland,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Emsland
+233,A_03455,A_03455,3,4,55,DE94A,DE,9,4,A,Friesland,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Friesland (DE)
+234,A_03456,A_03456,3,4,56,DE94B,DE,9,4,B,Grafschaft Bentheim,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Grafschaft Bentheim
+235,A_03457,A_03457,3,4,57,DE94C,DE,9,4,C,Leer,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Leer
+236,A_03403,A_03403,3,4,3,DE94D,DE,9,4,D,Oldenburg (Oldenburg),Stadt,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Oldenburg, Landkreis"
+237,A_03459,A_03459,3,4,59,DE94E,DE,9,4,E,Osnabrück,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,"Osnabrück, Landkreis"
+238,A_03460,A_03460,3,4,60,DE94F,DE,9,4,F,Vechta,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Vechta
+239,A_03461,A_03461,3,4,61,DE94G,DE,9,4,G,Wesermarsch,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Wesermarsch
+240,A_03462,A_03462,3,4,62,DE94H,DE,9,4,H,Wittmund,,Weser-Ems,Lower Saxony,Lower Saxony,Weser-Ems,Wittmund
+241,A_05111,A_05111,5,1,11,DEA11,DE,A,1,1,Düsseldorf,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Düsseldorf, Kreisfreie Stadt"
+242,A_05112,A_05112,5,1,12,DEA12,DE,A,1,2,Duisburg,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Duisburg, Kreisfreie Stadt"
+243,A_05113,A_05113,5,1,13,DEA13,DE,A,1,3,Essen,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Essen, Kreisfreie Stadt"
+244,A_05114,A_05114,5,1,14,DEA14,DE,A,1,4,Krefeld,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Krefeld, Kreisfreie Stadt"
+245,A_05116,A_05116,5,1,16,DEA15,DE,A,1,5,Mönchengladbach,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Mönchengladbach, Kreisfreie Stadt"
+246,A_05117,A_05117,5,1,17,DEA16,DE,A,1,6,Mülheim an der Ruhr,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Mülheim an der Ruhr, Kreisfreie Stadt"
+247,A_05119,A_05119,5,1,19,DEA17,DE,A,1,7,Oberhausen,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Oberhausen, Kreisfreie Stadt"
+248,A_08119,A_08119,8,1,19,DEA18,DE,A,1,8,Rems-Murr-Kreis,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Remscheid, Kreisfreie Stadt"
+249,A_05122,A_05122,5,1,22,DEA19,DE,A,1,9,Solingen,Klingenstadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Solingen, Kreisfreie Stadt"
+250,A_05124,A_05124,5,1,24,DEA1A,DE,A,1,A,Wuppertal,Stadt,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,"Wuppertal, Kreisfreie Stadt"
+251,A_05154,A_05154,5,1,54,DEA1B,DE,A,1,B,Kleve,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Kleve
+252,A_05158,A_05158,5,1,58,DEA1C,DE,A,1,C,Mettmann,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Mettmann
+253,A_07140,A_07140,7,1,40,DEA1D,DE,A,1,D,Rhein-Hunsrück-Kreis,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Rhein-Kreis Neuss
+254,A_05166,A_05166,5,1,66,DEA1E,DE,A,1,E,Viersen,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Viersen
+255,A_05170,A_05170,5,1,70,DEA1F,DE,A,1,F,Wesel,,Düsseldorf,North Rhine-Westphalia,North Rhine-Westphalia,Düsseldorf,Wesel
+256,A_05314,A_05314,5,3,14,DEA22,DE,A,2,2,Bonn,Stadt,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,"Bonn, Kreisfreie Stadt"
+257,A_05315,A_05315,5,3,15,DEA23,DE,A,2,3,Köln,Stadt,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,"Köln, Kreisfreie Stadt"
+258,A_05316,A_05316,5,3,16,DEA24,DE,A,2,4,Leverkusen,Stadt,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,"Leverkusen, Kreisfreie Stadt"
+259,A_05358,A_05358,5,3,58,DEA26,DE,A,2,6,Düren,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Düren
+260,A_05362,A_05362,5,3,62,DEA27,DE,A,2,7,Rhein-Erft-Kreis,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Rhein-Erft-Kreis
+261,A_05366,A_05366,5,3,66,DEA28,DE,A,2,8,Euskirchen,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Euskirchen
+262,A_05370,A_05370,5,3,70,DEA29,DE,A,2,9,Heinsberg,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Heinsberg
+263,A_05374,A_05374,5,3,74,DEA2A,DE,A,2,A,Oberbergischer Kreis,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Oberbergischer Kreis
+264,A_05382,A_05382,5,3,82,DEA2B,DE,A,2,B,Rhein-Sieg-Kreis,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Rheinisch-Bergischer Kreis
+265,A_08226,A_08226,8,2,26,DEA2C,DE,A,2,C,Rhein-Neckar-Kreis,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Rhein-Sieg-Kreis
+266,A_05334,A_05334,5,3,34,DEA2D,DE,A,2,D,Städteregion Aachen,,Köln,North Rhine-Westphalia,North Rhine-Westphalia,Köln,Städteregion Aachen
+267,A_05512,A_05512,5,5,12,DEA31,DE,A,3,1,Bottrop,Stadt,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,"Bottrop, Kreisfreie Stadt"
+268,A_05513,A_05513,5,5,13,DEA32,DE,A,3,2,Gelsenkirchen,Stadt,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,"Gelsenkirchen, Kreisfreie Stadt"
+269,A_05515,A_05515,5,5,15,DEA33,DE,A,3,3,Münster,Stadt,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,"Münster, Kreisfreie Stadt"
+270,A_05554,A_05554,5,5,54,DEA34,DE,A,3,4,Borken,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Borken
+271,A_05558,A_05558,5,5,58,DEA35,DE,A,3,5,Coesfeld,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Coesfeld
+272,A_05562,A_05562,5,5,62,DEA36,DE,A,3,6,Recklinghausen,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Recklinghausen
+273,A_05566,A_05566,5,5,66,DEA37,DE,A,3,7,Steinfurt,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Steinfurt
+274,A_05570,A_05570,5,5,70,DEA38,DE,A,3,8,Warendorf,,Münster,North Rhine-Westphalia,North Rhine-Westphalia,Münster,Warendorf
+275,A_05711,A_05711,5,7,11,DEA41,DE,A,4,1,Bielefeld,Stadt,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,"Bielefeld, Kreisfreie Stadt"
+276,A_05754,A_05754,5,7,54,DEA42,DE,A,4,2,Gütersloh,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Gütersloh
+277,A_05758,A_05758,5,7,58,DEA43,DE,A,4,3,Herford,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Herford
+278,A_05762,A_05762,5,7,62,DEA44,DE,A,4,4,Höxter,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Höxter
+279,A_05766,A_05766,5,7,66,DEA45,DE,A,4,5,Lippe,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Lippe
+280,A_05770,A_05770,5,7,70,DEA46,DE,A,4,6,Minden-Lübbecke,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Minden-Lübbecke
+281,A_05774,A_05774,5,7,74,DEA47,DE,A,4,7,Paderborn,,Detmold,North Rhine-Westphalia,North Rhine-Westphalia,Detmold,Paderborn
+282,A_05911,A_05911,5,9,11,DEA51,DE,A,5,1,Bochum,Stadt,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Bochum, Kreisfreie Stadt"
+283,A_05913,A_05913,5,9,13,DEA52,DE,A,5,2,Dortmund,Stadt,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Dortmund, Kreisfreie Stadt"
+284,A_05914,A_05914,5,9,14,DEA53,DE,A,5,3,Hagen,Stadt der FernUniversität,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Hagen, Kreisfreie Stadt"
+285,A_05915,A_05915,5,9,15,DEA54,DE,A,5,4,Hamm,Stadt,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Hamm, Kreisfreie Stadt"
+286,A_05916,A_05916,5,9,16,DEA55,DE,A,5,5,Herne,Stadt,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,"Herne, Kreisfreie Stadt"
+287,A_05954,A_05954,5,9,54,DEA56,DE,A,5,6,Ennepe-Ruhr-Kreis,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Ennepe-Ruhr-Kreis
+288,A_05958,A_05958,5,9,58,DEA57,DE,A,5,7,Hochsauerlandkreis,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Hochsauerlandkreis
+289,A_12064,A_12064,12,0,64,DEA58,DE,A,5,8,Märkisch-Oderland,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Märkischer Kreis
+290,A_05966,A_05966,5,9,66,DEA59,DE,A,5,9,Olpe,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Olpe
+291,A_05970,A_05970,5,9,70,DEA5A,DE,A,5,A,Siegen-Wittgenstein,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Siegen-Wittgenstein
+292,A_05974,A_05974,5,9,74,DEA5B,DE,A,5,B,Soest,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Soest
+293,A_05978,A_05978,5,9,78,DEA5C,DE,A,5,C,Unna,,Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia,Arnsberg,Unna
+294,A_07111,A_07111,7,1,11,DEB11,DE,B,1,1,Koblenz,kreisfreie Stadt,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,"Koblenz, Kreisfreie Stadt"
+295,A_07131,A_07131,7,1,31,DEB12,DE,B,1,2,Ahrweiler,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Ahrweiler
+296,A_07132,A_07132,7,1,32,DEB13,DE,B,1,3,Altenkirchen (Westerwald),,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Altenkirchen Westerwald)
+297,A_07133,A_07133,7,1,33,DEB14,DE,B,1,4,Bad Kreuznach,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Bad Kreuznach
+298,A_07134,A_07134,7,1,34,DEB15,DE,B,1,5,Birkenfeld,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Birkenfeld
+299,A_07137,A_07137,7,1,37,DEB17,DE,B,1,7,Mayen-Koblenz,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Mayen-Koblenz
+300,A_07138,A_07138,7,1,38,DEB18,DE,B,1,8,Neuwied,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Neuwied
+301,A_05378,A_05378,5,3,78,DEB1A,DE,B,1,A,Rheinisch-Bergischer Kreis,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Rhein-Lahn-Kreis
+302,A_07143,A_07143,7,1,43,DEB1B,DE,B,1,B,Westerwaldkreis,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Westerwaldkreis
+303,A_07135,A_07135,7,1,35,DEB1C,DE,B,1,C,Cochem-Zell,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Cochem-Zell
+304,A_06439,A_06439,6,4,39,DEB1D,DE,B,1,D,Rheingau-Taunus-Kreis,,Koblenz,Rhineland-Palatinate,Rhineland-Palatinate,Koblenz,Rhein-Hunsrück-Kreis
+305,A_07211,A_07211,7,2,11,DEB21,DE,B,2,1,Trier,kreisfreie Stadt,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,"Trier, Kreisfreie Stadt"
+306,A_07231,A_07231,7,2,31,DEB22,DE,B,2,2,Bernkastel-Wittlich,,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,Bernkastel-Wittlich
+307,A_07232,A_07232,7,2,32,DEB23,DE,B,2,3,Eifelkreis Bitburg-Prüm,,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,Eifelkreis Bitburg-Prüm
+308,A_07233,A_07233,7,2,33,DEB24,DE,B,2,4,Vulkaneifel,,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,Vulkaneifel
+309,A_07235,A_07235,7,2,35,DEB25,DE,B,2,5,Trier-Saarburg,,Trier,Rhineland-Palatinate,Rhineland-Palatinate,Trier,Trier-Saarburg
+310,A_07311,A_07311,7,3,11,DEB31,DE,B,3,1,Frankenthal (Pfalz),kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Frankenthal Pfalz), Kreisfreie Stadt"
+311,A_07312,A_07312,7,3,12,DEB32,DE,B,3,2,Kaiserslautern,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Kaiserslautern, Kreisfreie Stadt"
+312,A_07313,A_07313,7,3,13,DEB33,DE,B,3,3,Landau in der Pfalz,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Landau in der Pfalz, Kreisfreie Stadt"
+313,A_07314,A_07314,7,3,14,DEB34,DE,B,3,4,Ludwigshafen am Rhein,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Ludwigshafen am Rhein, Kreisfreie Stadt"
+314,A_07315,A_07315,7,3,15,DEB35,DE,B,3,5,Mainz,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Mainz, Kreisfreie Stadt"
+315,A_09775,A_09775,9,7,75,DEB36,DE,B,3,6,Neu-Ulm,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Neustadt an der Weinstraße, Kreisfreie Stadt"
+316,A_07317,A_07317,7,3,17,DEB37,DE,B,3,7,Pirmasens,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Pirmasens, Kreisfreie Stadt"
+317,A_07318,A_07318,7,3,18,DEB38,DE,B,3,8,Speyer,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Speyer, Kreisfreie Stadt"
+318,A_07319,A_07319,7,3,19,DEB39,DE,B,3,9,Worms,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Worms, Kreisfreie Stadt"
+319,A_07320,A_07320,7,3,20,DEB3A,DE,B,3,A,Zweibrücken,kreisfreie Stadt,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Zweibrücken, Kreisfreie Stadt"
+320,A_07331,A_07331,7,3,31,DEB3B,DE,B,3,B,Alzey-Worms,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Alzey-Worms
+321,A_07332,A_07332,7,3,32,DEB3C,DE,B,3,C,Bad Dürkheim,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Bad Dürkheim
+322,A_07333,A_07333,7,3,33,DEB3D,DE,B,3,D,Donnersbergkreis,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Donnersbergkreis
+323,A_07334,A_07334,7,3,34,DEB3E,DE,B,3,E,Germersheim,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Germersheim
+324,A_07335,A_07335,7,3,35,DEB3F,DE,B,3,F,Kaiserslautern,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,"Kaiserslautern, Landkreis"
+325,A_07336,A_07336,7,3,36,DEB3G,DE,B,3,G,Kusel,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Kusel
+326,A_07337,A_07337,7,3,37,DEB3H,DE,B,3,H,Südliche Weinstraße,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Südliche Weinstraße
+327,A_07141,A_07141,7,1,41,DEB3I,DE,B,3,I,Rhein-Lahn-Kreis,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Rhein-Pfalz-Kreis
+328,A_07339,A_07339,7,3,39,DEB3J,DE,B,3,J,Mainz-Bingen,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Mainz-Bingen
+329,A_07340,A_07340,7,3,40,DEB3K,DE,B,3,K,Südwestpfalz,,Rheinhessen-Pfalz,Rhineland-Palatinate,Rhineland-Palatinate,Rheinhessen-Pfalz,Südwestpfalz
+330,A_10041,A_10041,10,0,41,DEC01,DE,C,0,1,Regionalverband Saarbrücken,,Saarland,Saarland,Saarland,Saarland,Regionalverband Saarbrücken
+331,A_10042,A_10042,10,0,42,DEC02,DE,C,0,2,Merzig-Wadern,,Saarland,Saarland,Saarland,Saarland,Merzig-Wadern
+332,A_09575,A_09575,9,5,75,DEC03,DE,C,0,3,Neustadt a.d.Aisch-Bad Windsheim,,Saarland,Saarland,Saarland,Saarland,Neunkirchen
+333,A_10044,A_10044,10,0,44,DEC04,DE,C,0,4,Saarlouis,,Saarland,Saarland,Saarland,Saarland,Saarlouis
+334,A_10045,A_10045,10,0,45,DEC05,DE,C,0,5,Saarpfalz-Kreis,,Saarland,Saarland,Saarland,Saarland,Saarpfalz-Kreis
+335,A_10046,A_10046,10,0,46,DEC06,DE,C,0,6,St. Wendel,,Saarland,Saarland,Saarland,Saarland,St. Wendel
+336,A_14612,A_14612,14,6,12,DED21,DE,D,2,1,Dresden,Stadt,Dresden,Saxony,Saxony,Dresden,"Dresden, Kreisfreie Stadt"
+337,A_14625,A_14625,14,6,25,DED2C,DE,D,2,C,Bautzen,,Dresden,Saxony,Saxony,Dresden,Bautzen
+338,A_14626,A_14626,14,6,26,DED2D,DE,D,2,D,Görlitz,,Dresden,Saxony,Saxony,Dresden,Görlitz
+339,A_14627,A_14627,14,6,27,DED2E,DE,D,2,E,Meißen,,Dresden,Saxony,Saxony,Dresden,Meißen
+340,A_14628,A_14628,14,6,28,DED2F,DE,D,2,F,Sächsische Schweiz-Osterzgebirge,,Dresden,Saxony,Saxony,Dresden,Sächsische Schweiz-Osterzgebirge
+341,A_14511,A_14511,14,5,11,DED41,DE,D,4,1,Chemnitz,Stadt,Chemnitz,Saxony,Saxony,Chemnitz,"Chemnitz, Kreisfreie Stadt"
+342,A_14521,A_14521,14,5,21,DED42,DE,D,4,2,Erzgebirgskreis,,Chemnitz,Saxony,Saxony,Chemnitz,Erzgebirgskreis
+343,A_14522,A_14522,14,5,22,DED43,DE,D,4,3,Mittelsachsen,,Chemnitz,Saxony,Saxony,Chemnitz,Mittelsachsen
+344,A_14523,A_14523,14,5,23,DED44,DE,D,4,4,Vogtlandkreis,,Chemnitz,Saxony,Saxony,Chemnitz,Vogtlandkreis
+345,A_14524,A_14524,14,5,24,DED45,DE,D,4,5,Zwickau,,Chemnitz,Saxony,Saxony,Chemnitz,Zwickau
+346,A_14713,A_14713,14,7,13,DED51,DE,D,5,1,Leipzig,Stadt,Leipzig,Saxony,Saxony,Leipzig,"Leipzig, Kreisfreie Stadt"
+347,A_14729,A_14729,14,7,29,DED52,DE,D,5,2,Leipzig,,Leipzig,Saxony,Saxony,Leipzig,Leipzig
+348,A_14730,A_14730,14,7,30,DED53,DE,D,5,3,Nordsachsen,,Leipzig,Saxony,Saxony,Leipzig,Nordsachsen
+349,A_15001,A_15001,15,0,1,DEE01,DE,E,0,1,Dessau-Roßlau,Stadt,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,"Dessau-Roßlau, Kreisfreie Stadt"
+350,A_15002,A_15002,15,0,2,DEE02,DE,E,0,2,Halle (Saale),Stadt,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,"Halle (Saale), Kreisfreie Stadt"
+351,A_15003,A_15003,15,0,3,DEE03,DE,E,0,3,Magdeburg,Landeshauptstadt,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,"Magdeburg, Kreisfreie Stadt"
+352,A_15081,A_15081,15,0,81,DEE04,DE,E,0,4,Altmarkkreis Salzwedel,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Altmarkkreis Salzwedel
+353,A_15082,A_15082,15,0,82,DEE05,DE,E,0,5,Anhalt-Bitterfeld,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Anhalt-Bitterfeld
+354,A_15086,A_15086,15,0,86,DEE06,DE,E,0,6,Jerichower Land,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Jerichower Land
+355,A_15083,A_15083,15,0,83,DEE07,DE,E,0,7,Börde,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Börde
+356,A_15084,A_15084,15,0,84,DEE08,DE,E,0,8,Burgenlandkreis,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Burgenlandkreis
+357,A_15085,A_15085,15,0,85,DEE09,DE,E,0,9,Harz,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Harz
+358,A_15087,A_15087,15,0,87,DEE0A,DE,E,0,A,Mansfeld-Südharz,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Mansfeld-Südharz
+359,A_16075,A_16075,16,0,75,DEE0B,DE,E,0,B,Saale-Orla-Kreis,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Saalekreis
+360,A_15089,A_15089,15,0,89,DEE0C,DE,E,0,C,Salzlandkreis,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Salzlandkreis
+361,A_15090,A_15090,15,0,90,DEE0D,DE,E,0,D,Stendal,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Stendal
+362,A_15091,A_15091,15,0,91,DEE0E,DE,E,0,E,Wittenberg,,Sachsen-Anhalt,Saxony-Anhalt,Saxony-Anhalt,Sachsen-Anhalt,Wittenberg
+363,A_01001,A_01001,1,0,1,DEF01,DE,F,0,1,Flensburg,Stadt,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,"Flensburg, Kreisfreie Stadt"
+364,A_01002,A_01002,1,0,2,DEF02,DE,F,0,2,Kiel,Landeshauptstadt,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,"Kiel, Kreisfreie Stadt"
+365,A_01003,A_01003,1,0,3,DEF03,DE,F,0,3,Lübeck,Hansestadt,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,"Lübeck, Kreisfreie Stadt"
+366,A_10043,A_10043,10,0,43,DEF04,DE,F,0,4,Neunkirchen,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,"Neumünster, Kreisfreie Stadt"
+367,A_01051,A_01051,1,0,51,DEF05,DE,F,0,5,Dithmarschen,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Dithmarschen
+368,A_01053,A_01053,1,0,53,DEF06,DE,F,0,6,Herzogtum Lauenburg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Herzogtum Lauenburg
+369,A_01054,A_01054,1,0,54,DEF07,DE,F,0,7,Nordfriesland,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Nordfriesland
+370,A_01055,A_01055,1,0,55,DEF08,DE,F,0,8,Ostholstein,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Ostholstein
+371,A_01056,A_01056,1,0,56,DEF09,DE,F,0,9,Pinneberg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Pinneberg
+372,A_01057,A_01057,1,0,57,DEF0A,DE,F,0,A,Plön,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Plön
+373,A_01058,A_01058,1,0,58,DEF0B,DE,F,0,B,Rendsburg-Eckernförde,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Rendsburg-Eckernförde
+374,A_01059,A_01059,1,0,59,DEF0C,DE,F,0,C,Schleswig-Flensburg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Flensburg
+375,A_01060,A_01060,1,0,60,DEF0D,DE,F,0,D,Segeberg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Segeberg
+376,A_01061,A_01061,1,0,61,DEF0E,DE,F,0,E,Steinburg,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Steinburg
+377,A_01062,A_01062,1,0,62,DEF0F,DE,F,0,F,Stormarn,,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Stormarn
+378,A_16051,A_16051,16,0,51,DEG01,DE,G,0,1,Erfurt,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Erfurt, Kreisfreie Stadt"
+379,A_16052,A_16052,16,0,52,DEG02,DE,G,0,2,Gera,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Gera, Kreisfreie Stadt"
+380,A_16053,A_16053,16,0,53,DEG03,DE,G,0,3,Jena,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Jena, Kreisfreie Stadt"
+381,A_16054,A_16054,16,0,54,DEG04,DE,G,0,4,Suhl,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Suhl, Kreisfreie Stadt"
+382,A_16055,A_16055,16,0,55,DEG05,DE,G,0,5,Weimar,Stadt,Thüringen,Thuringia,Thuringia,Thüringen,"Weimar, Kreisfreie Stadt"
+383,A_16061,A_16061,16,0,61,DEG06,DE,G,0,6,Eichsfeld,,Thüringen,Thuringia,Thuringia,Thüringen,Eichsfeld
+384,A_16062,A_16062,16,0,62,DEG07,DE,G,0,7,Nordhausen,,Thüringen,Thuringia,Thuringia,Thüringen,Nordhausen
+385,A_16064,A_16064,16,0,64,DEG09,DE,G,0,9,Unstrut-Hainich-Kreis,,Thüringen,Thuringia,Thuringia,Thüringen,Unstrut-Hainich-Kreis
+386,A_16065,A_16065,16,0,65,DEG0A,DE,G,0,A,Kyffhäuserkreis,,Thüringen,Thuringia,Thuringia,Thüringen,Kyffhäuserkreis
+387,A_16066,A_16066,16,0,66,DEG0B,DE,G,0,B,Schmalkalden-Meiningen,,Thüringen,Thuringia,Thuringia,Thüringen,Schmalkalden-Meiningen
+388,A_16067,A_16067,16,0,67,DEG0C,DE,G,0,C,Gotha,,Thüringen,Thuringia,Thuringia,Thüringen,Gotha
+389,A_16068,A_16068,16,0,68,DEG0D,DE,G,0,D,Sömmerda,,Thüringen,Thuringia,Thuringia,Thüringen,Sömmerda
+390,A_16069,A_16069,16,0,69,DEG0E,DE,G,0,E,Hildburghausen,,Thüringen,Thuringia,Thuringia,Thüringen,Hildburghausen
+391,A_16070,A_16070,16,0,70,DEG0F,DE,G,0,F,Ilm-Kreis,,Thüringen,Thuringia,Thuringia,Thüringen,Ilm-Kreis
+392,A_16071,A_16071,16,0,71,DEG0G,DE,G,0,G,Weimarer Land,,Thüringen,Thuringia,Thuringia,Thüringen,Weimarer Land
+393,A_16072,A_16072,16,0,72,DEG0H,DE,G,0,H,Sonneberg,,Thüringen,Thuringia,Thuringia,Thüringen,Sonneberg
+394,A_16073,A_16073,16,0,73,DEG0I,DE,G,0,I,Saalfeld-Rudolstadt,,Thüringen,Thuringia,Thuringia,Thüringen,Saalfeld-Rudolstadt
+395,A_16074,A_16074,16,0,74,DEG0J,DE,G,0,J,Saale-Holzland-Kreis,,Thüringen,Thuringia,Thuringia,Thüringen,Saale-Holzland-Kreis
+396,A_15088,A_15088,15,0,88,DEG0K,DE,G,0,K,Saalekreis,,Thüringen,Thuringia,Thuringia,Thüringen,Saale-Orla-Kreis
+397,A_16076,A_16076,16,0,76,DEG0L,DE,G,0,L,Greiz,,Thüringen,Thuringia,Thuringia,Thüringen,Greiz
+398,A_16077,A_16077,16,0,77,DEG0M,DE,G,0,M,Altenburger Land,,Thüringen,Thuringia,Thuringia,Thüringen,Altenburger Land
+400,A_16063,A_16063,16,0,63,DEG0P,DE,G,0,P,Wartburgkreis,,Thüringen,Thuringia,Thuringia,Thüringen,Wartburgkreis
