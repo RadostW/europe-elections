@@ -15,6 +15,7 @@ This repository contains raw data about elections (public domain unless specifie
 | Germany | 1990-2025  | bundestag, european       | kreis (400 units, 200k persons)                   | [2]         | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/germany_metadata.csv) |
 | France  | 1999-2025  | president, european       | departament (100 units, 680k persons)             | [3]         | [CSV](./data/downloads/france.csv)  | [Metadata](./data/downloads/france_metadata.csv)  |
 | Italy   | 1996-2025  | camera, european          | NUTS3 (approx. province, 100 units, 500k persons) | [4]         | [CSV](./data/downloads/italy.csv)   | [Metadata](./data/downloads/italy_metadata.csv)   |
+| Spain   | 1999-2025  | congresso, european       | provincia (approx NUTS3, 51 units, 960k persons)  | [5,6]       | [CSV](./data/downloads/spain.csv)   |                                                   |
 
 You can use metadata files to aggregate election results at the desired level.
 
@@ -23,6 +24,8 @@ references:
  - [2] - Own work based on [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/europawahlen/2024/publikationen.html) european results and [BBSR cross tables](https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/umstiegsschluessel/umsteigeschluessel.html)
  - [3] - Aggregation of data available via French public repository [Results by departement](https://www.data.gouv.fr/datasets/donnees-des-elections-agregees/)
  - [4] - Own work based on Italian database [Elezion Istorico](https://elezionistorico.interno.gov.it/eligendo/opendata.php)
+ - [5] - Own work based on Ministry of Interior province aggregates [data](https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/)
+ - [6] - (EP elections: 1999,2004,2009) Aggregation of data from [EUNED](https://eu-ned.com/datasets/)
 
 ## How to cite
 
