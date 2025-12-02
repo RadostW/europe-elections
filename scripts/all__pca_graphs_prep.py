@@ -13,23 +13,27 @@ from pathlib import Path
 from tqdm import tqdm
 import warnings
 
+
 # --- CONFIG FILES ---
 files = {
     "germany": "../data/downloads/germany.csv",
     "poland": "../data/downloads/poland.csv",
     "france": "../data/downloads/france.csv",
-    "italy": "../data/downloads/italy.csv"
+    "italy": "../data/downloads/italy.csv",
+    "spain": "..data/downloads/spain.csv",
 }
 
 metadata_files = {
     "germany": "../data/downloads/germany_metadata.csv",
     "poland": "../data/downloads/poland_metadata.csv",
     "france": "../data/downloads/france_metadata.csv",
-    "italy": "../data/downloads/italy_metadata.csv"
+    "italy": "../data/downloads/italy_metadata.csv",
+    "spain": "../data/downloads/spain_metadata.csv",
 }
 
 urban_rural_typology_file = "../data/all/metadata/nuts2024_urban_rural.csv"
 OUT_PATH = Path("./pca_all_countries_with_nuts_urban_rural.csv")
+
 
 # --- PCA helper ---
 def compute_pca(df_votes):
@@ -45,19 +49,24 @@ def compute_pca(df_votes):
     pca = PCA(n_components=n_components)
     comps = pca.fit_transform(X)
 
-    df_res = pd.DataFrame(comps, index=df_votes.index, columns=[f"pc{i+1}" for i in range(n_components)])
+    df_res = pd.DataFrame(
+        comps, index=df_votes.index, columns=[f"pc{i+1}" for i in range(n_components)]
+    )
     if n_components < 2:
         df_res["pc2"] = 0.0
     return df_res[["pc1", "pc2"]]
 
+
 # --- Load Urban/Rural typology ---
 try:
     ur_df = pd.read_csv(urban_rural_typology_file)
-    ur_df = ur_df.rename(columns={
-        "Country code": "country_code",
-        "NUTS-3 Code": "nuts3_code",
-        "Urban-Rural typology": "urban_rural_typology"
-    })[["country_code", "nuts3_code", "urban_rural_typology"]]
+    ur_df = ur_df.rename(
+        columns={
+            "Country code": "country_code",
+            "NUTS-3 Code": "nuts3_code",
+            "Urban-Rural typology": "urban_rural_typology",
+        }
+    )[["country_code", "nuts3_code", "urban_rural_typology"]]
     ur_df["nuts3_code"] = ur_df["nuts3_code"].astype(str)
 except Exception as e:
     warnings.warn(f"Could not load urban/rural typology file: {e}")
@@ -76,7 +85,14 @@ for country, csv_path in files.items():
         warnings.warn(f"Cannot read {csv_path}: {e}")
         continue
 
-    required = {"election_date", "election_type", "harmonised_code", "type", "name", "votes"}
+    required = {
+        "election_date",
+        "election_type",
+        "harmonised_code",
+        "type",
+        "name",
+        "votes",
+    }
     if not required.issubset(df.columns):
         warnings.warn(f"{country} missing columns: {required - set(df.columns)}")
         continue
@@ -85,7 +101,7 @@ for country, csv_path in files.items():
     meta_path = metadata_files.get(country)
     meta = None
     if meta_path and Path(meta_path).exists():
-        meta = pd.read_csv(meta_path)                
+        meta = pd.read_csv(meta_path)
         meta["nuts3_code"] = meta["nuts3_code"].astype(str)
     else:
         warnings.warn(f"No metadata for {country}: {meta_path}")
@@ -95,8 +111,9 @@ for country, csv_path in files.items():
     df["votes"] = pd.to_numeric(df["votes"], errors="coerce").fillna(0)
 
     # Process each election
-    for (e_date, e_type), sub in tqdm(df.groupby(["election_date", "election_type"]),
-                                      desc=f"{country} elections"):
+    for (e_date, e_type), sub in tqdm(
+        df.groupby(["election_date", "election_type"]), desc=f"{country} elections"
+    ):
         # Pivot to region x candidate
         pivot = (
             sub.groupby(["harmonised_code", "name"], as_index=False)["votes"]
@@ -133,11 +150,7 @@ if all_results:
 
     # Add Urban-Rural typology
     if ur_df is not None:
-        out_df = out_df.merge(
-            ur_df,
-            on="nuts3_code",
-            how="left"
-        )
+        out_df = out_df.merge(ur_df, on="nuts3_code", how="left")
     else:
         out_df["urban_rural_typology"] = None
 
@@ -156,6 +169,8 @@ if all_results:
     ]
 
     out_df.to_csv(OUT_PATH, index=False)
-    print(f"\n✅ Saved PCA results with NUTS and Urban/Rural typology to {OUT_PATH} ({len(out_df)} rows)")
+    print(
+        f"\n✅ Saved PCA results with NUTS and Urban/Rural typology to {OUT_PATH} ({len(out_df)} rows)"
+    )
 else:
     print("\n⚠️ No PCA results computed.")
