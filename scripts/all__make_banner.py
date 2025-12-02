@@ -19,6 +19,10 @@ files = {
     "italy": {
         "csv": "../data/downloads/italy.csv",
         "topo": "../data/downloads/italy_province.topojson"
+    },
+    "spain": {
+        "csv": "../data/downloads/spain.csv",
+        "topo": "../data/downloads/spain_provincia.topojson"
     }
 }
 
@@ -76,6 +80,8 @@ gdf_all.plot(
 )
 
 ax.axis('off')
+ax.set_ylim([35,56])
+ax.set_xlim([-10,26])
 plt.tight_layout()
 
 plt.savefig("banner.png", dpi=100, bbox_inches='tight', transparent=True)

@@ -1,4 +1,4 @@
-# Read README.md in ../data/italy to understand the data better
+# Read README.md in ../data/spain to understand the data better
 
 import yaml
 import itertools
