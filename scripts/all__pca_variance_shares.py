@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Compute PCA variance share for each country–election pair.
+Compute PCA variance share for each country-election pair.
 Exports one long CSV:
   country, election_date, election_type, pca_var_pc1, pca_var_pc2, pca_var_pc3
 """
