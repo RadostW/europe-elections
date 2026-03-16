@@ -219,17 +219,27 @@ for file_path in files_to_parse:
     )
 
     # Compute most common nuts_clean per group (from already matched rows)
-    most_common_nuts = (
+    most_common_nuts_name = (
         df_with_nuts.dropna(subset=["nuts_clean"])
         .groupby("_group_key")["nuts_clean"]
         .agg(lambda x: x.mode().iloc[0] if not x.mode().empty else None)
         .to_dict()
     )
+    name_to_code = (
+        df_with_nuts[["nuts_clean", "NUTS Code"]]
+        .drop_duplicates()
+        .dropna()
+        .set_index("nuts_clean")
+        .to_dict()["NUTS Code"]
+    )
 
     # Fill missing nuts_clean for unmatched rows using the mapping
     mask = df_with_nuts["nuts_clean"].isna()
     df_with_nuts.loc[mask, "nuts_clean"] = df_with_nuts.loc[mask, "_group_key"].map(
-        most_common_nuts
+        most_common_nuts_name
+    )
+    df_with_nuts.loc[mask, "NUTS Code"] = df_with_nuts.loc[mask, "nuts_clean"].map(
+        name_to_code
     )
 
     # Mark as 'neighbour' only the rows that were previously unmatched but now filled
@@ -239,7 +249,7 @@ for file_path in files_to_parse:
     ] = "neighbour"
 
     # Clean up helper column
-    df_with_nuts.drop(columns="_group_key", inplace=True)
+    # df_with_nuts.drop(columns="_group_key", inplace=True)
 
     # Step 4. Everything else = fail
     df_with_nuts["match_type"] = df_with_nuts["match_type"].fillna("fail")
@@ -261,6 +271,14 @@ for file_path in files_to_parse:
     df_with_nuts = df_with_nuts.rename(
         columns={"NUTS Code": "harmonised_code", "nuts_clean": "harmonised_name"}
     )
+
+    for col in ["comune_clean", "provincia", "harmonised_name", "harmonised_code"]:
+        df_with_nuts[col] = df_with_nuts[col].astype("str")
+
+    if len(df_with_nuts[df_with_nuts.harmonised_code.isna()]) > 0:
+        raise ValueError("all rows should have codes")
+    if len(df_with_nuts[df_with_nuts.harmonised_code == "nan"]) > 0:
+        raise ValueError("all rows should have codes")
 
     df_list_votes = df_with_nuts.groupby(
         ["harmonised_code", "harmonised_name", "list_name"], as_index=False
@@ -377,9 +395,11 @@ for file_path in files_to_parse:
         if winner_name_check != winner_name or not np.isclose(
             winner_score_check, winner_score, atol=tolerance
         ):
-            if date_string == "2013_02_24" and np.isclose(
-                winner_score_check, winner_score, atol=tolerance
-            ) and winner_name in ["pd", "m5s"]:
+            if (
+                date_string == "2013_02_24"
+                and np.isclose(winner_score_check, winner_score, atol=tolerance)
+                and winner_name in ["pd", "m5s"]
+            ):
                 # almost tied election pd-m5s
                 print("results check OK")
             else:
@@ -396,8 +416,6 @@ for file_path in files_to_parse:
 
         long_dfs.append(df_long.copy())
 
-very_long_df = pd.concat(long_dfs, ignore_index=True)        
-very_long_output_path = here / (
-            f"../data/italy/harmonised/province/italy.csv"
-        )
+very_long_df = pd.concat(long_dfs, ignore_index=True)
+very_long_output_path = here / (f"../data/italy/harmonised/province/italy.csv")
 very_long_df.to_csv(very_long_output_path)
