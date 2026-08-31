@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Calarasi",
+    "countyId": 5400
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 23,
+    "ballotId": 45,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 266186,
+    "totalVotes": 138562
+  },
+  "results": {
+    "eligibleVoters": 266186,
+    "totalVotes": 138562,
+    "validVotes": 136469,
+    "nullVotes": 2087,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 76503,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      },
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 59966,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      }
+    ],
+    "countedVotes": 138556
+  },
+  "electionNews": [],
+  "aggregated": false
+}

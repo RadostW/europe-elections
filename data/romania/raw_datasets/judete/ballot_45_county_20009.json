@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Vaslui",
+    "countyId": 20009
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 23,
+    "ballotId": 45,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 374822,
+    "totalVotes": 214225
+  },
+  "results": {
+    "eligibleVoters": 374822,
+    "totalVotes": 214225,
+    "validVotes": 211394,
+    "nullVotes": 2831,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 131699,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      },
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 79695,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      }
+    ],
+    "countedVotes": 214225
+  },
+  "electionNews": [],
+  "aggregated": false
+}

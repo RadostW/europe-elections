@@ -1,0 +1,142 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Covasna",
+    "countyId": 7308
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 1",
+    "electionId": 23,
+    "ballotId": 44,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 182878,
+    "totalVotes": 110759
+  },
+  "results": {
+    "eligibleVoters": 182878,
+    "totalVotes": 110759,
+    "validVotes": 106350,
+    "nullVotes": 4405,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "MARKO BELA",
+        "shortName": "MARKO BELA",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 65853,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UDMR"
+      },
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 16649,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      },
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 15662,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      },
+      {
+        "name": "CORNELIU VADIM TUDOR",
+        "shortName": "CORNELIU VADIM TUDOR",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 4351,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PRM"
+      },
+      {
+        "name": "MARIAN PETRE MILUT",
+        "shortName": "MARIAN PETRE MILUT",
+        "partyColor": "#808080",
+        "votes": 1359,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "GEORGE BECALI",
+        "shortName": "GEORGE BECALI",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Noua+Genera%C8%9Bie.jpg",
+        "votes": 485,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNG"
+      },
+      {
+        "name": "GHEORGHE DINU",
+        "shortName": "GHEORGHE DINU",
+        "partyColor": "#808080",
+        "votes": 475,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Independent"
+      },
+      {
+        "name": "PETRE ROMAN",
+        "shortName": "PETRE ROMAN",
+        "partyColor": "#808080",
+        "votes": 466,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "OVIDIU TUDORICI",
+        "shortName": "OVIDIU TUDORICI",
+        "partyColor": "#808080",
+        "votes": 348,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "GHEORGHE CORIOLAN CIUHANDU",
+        "shortName": "GHEORGHE CORIOLAN CIUHANDU",
+        "partyColor": "#FFFF00",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+T%C4%83r%C4%83nesc+Cre%C8%99tin+Democrat.jpg",
+        "votes": 336,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNTCD"
+      },
+      {
+        "name": "ALEXANDRU RAJ TUNARU",
+        "shortName": "ALEXANDRU RAJ TUNARU",
+        "partyColor": "#808080",
+        "votes": 185,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "AUREL RADULESCU",
+        "shortName": "AUREL RADULESCU",
+        "partyColor": "#808080",
+        "votes": 181,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 110755
+  },
+  "electionNews": [],
+  "aggregated": false
+}

@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Botosani",
+    "countyId": 3747
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 23,
+    "ballotId": 45,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 372090,
+    "totalVotes": 220026
+  },
+  "results": {
+    "eligibleVoters": 372090,
+    "totalVotes": 220026,
+    "validVotes": 217389,
+    "nullVotes": 2637,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 143924,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      },
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 73465,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      }
+    ],
+    "countedVotes": 220026
+  },
+  "electionNews": [],
+  "aggregated": false
+}

@@ -1,0 +1,236 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Olt",
+    "countyId": 14365
+  },
+  "meta": {
+    "date": "2014-05-25T00:00:00",
+    "title": "Alegeri Europarlamentare",
+    "type": "european_parliament",
+    "ballot": "",
+    "electionId": 9,
+    "ballotId": 16,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 379251,
+    "totalVotes": 176803
+  },
+  "results": {
+    "eligibleVoters": 379251,
+    "totalVotes": 176803,
+    "validVotes": 167520,
+    "nullVotes": 9283,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 98018,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Național Liberal",
+        "shortName": "PNL",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 26243,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Liberal"
+      },
+      {
+        "name": "Partidul Democrat Liberal",
+        "shortName": "PDL",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 11785,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Democrat Liberal"
+      },
+      {
+        "name": "Partidul Miscarea Populară",
+        "shortName": "PMP",
+        "partyColor": "#000099",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Miscarea+Popular%C4%83.jpg",
+        "votes": 7956,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Miscarea Populară"
+      },
+      {
+        "name": "PARTIDUL \"PENTRU PATRIE\"",
+        "shortName": "PP",
+        "partyColor": "#548043",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/PARTIDUL%20_PENTRU%20PATRIE_.png",
+        "votes": 7543,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "DIACONU MIRCEA",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 5319,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PRM",
+        "shortName": "PRM",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 4739,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Mare"
+      },
+      {
+        "name": "FORTA CIVICA",
+        "shortName": "",
+        "partyColor": "#0077B9",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/FORTA%20CIVICA.png",
+        "votes": 1003,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ALIANTA NATIONALA A AGRICULTORILOR",
+        "shortName": "ANA",
+        "partyColor": "#808080",
+        "votes": 940,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Național Tărănesc Creștin Democrat",
+        "shortName": "PNTCD",
+        "partyColor": "#FFFF00",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+T%C4%83r%C4%83nesc+Cre%C8%99tin+Democrat.jpg",
+        "votes": 726,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Tărănesc Creștin Democrat"
+      },
+      {
+        "name": "Partidul Ecologist Român",
+        "shortName": "PER",
+        "partyColor": "#8BC58B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Ecologist+Rom%C3%A2n.jpg",
+        "votes": 475,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Ecologist Român"
+      },
+      {
+        "name": "PARTIDUL NOUA REPUBLICA",
+        "shortName": "PNR",
+        "partyColor": "#808080",
+        "votes": 428,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL DREPTATII SOCIALE",
+        "shortName": "PDS",
+        "partyColor": "#808080",
+        "votes": 422,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "CAPSALI PERICLE-IULIAN",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 384,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UNGUREANU GEORGIANA-CORINA",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 328,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "COSTEA PETER",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 215,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Verde",
+        "shortName": "PV",
+        "partyColor": "#8BC58B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Verde.jpg",
+        "votes": 194,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Verde"
+      },
+      {
+        "name": "PARTIDUL ALTERNATIVA SOCIALISTA",
+        "shortName": "PAS",
+        "partyColor": "#808080",
+        "votes": 191,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "LIGA DANUT",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 167,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "DAEANU VALENTIN-EUGEN",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 132,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 116,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "PUREA PAUL",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 114,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "FILIP CONSTANTIN-TITIAN",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 82,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 176803
+  },
+  "electionNews": [],
+  "aggregated": false
+}

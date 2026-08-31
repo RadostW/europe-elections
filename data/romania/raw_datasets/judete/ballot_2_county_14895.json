@@ -1,0 +1,62 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Prahova",
+    "countyId": 14895
+  },
+  "meta": {
+    "date": "2019-11-10T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 2,
+    "ballotId": 2,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 654846,
+    "totalVotes": 348601
+  },
+  "results": {
+    "eligibleVoters": 654846,
+    "totalVotes": 348601,
+    "validVotes": 342100,
+    "nullVotes": 6501,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "KLAUS-WERNER IOHANNIS",
+        "shortName": "KLAUS-WERNER IOHANNIS",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 220268,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Liberal"
+      },
+      {
+        "name": "VASILICA-VIORICA DĂNCILĂ",
+        "shortName": "VASILICA-VIORICA DĂNCILĂ",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 121832,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Social Democrat"
+      }
+    ],
+    "countedVotes": 348601
+  },
+  "observation": {
+    "id": 4,
+    "ballotId": 2,
+    "coveredPollingPlaces": 1103,
+    "coveredCounties": 37,
+    "observerCount": 388,
+    "messageCount": 81604,
+    "issueCount": 1368
+  },
+  "electionNews": [],
+  "aggregated": false
+}

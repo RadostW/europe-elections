@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Covasna",
+    "countyId": 7308
+  },
+  "meta": {
+    "date": "2014-05-25T00:00:00",
+    "title": "Alegeri Parlamentare",
+    "type": "house",
+    "ballot": "Camera Deputatilor",
+    "electionId": 10,
+    "ballotId": 18,
+    "live": false,
+    "stage": "final"
+  },
+  "results": {
+    "eligibleVoters": 0,
+    "totalVotes": 0,
+    "validVotes": 0,
+    "nullVotes": 0,
+    "candidates": [],
+    "countedVotes": 0
+  },
+  "electionNews": [],
+  "aggregated": false
+}

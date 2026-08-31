@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Salaj",
+    "countyId": 15592
+  },
+  "meta": {
+    "date": "2000-11-26T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 27,
+    "ballotId": 55,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 201634,
+    "totalVotes": 110787
+  },
+  "results": {
+    "eligibleVoters": 201634,
+    "totalVotes": 110787,
+    "validVotes": 108983,
+    "nullVotes": 1753,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ION ILIESCU",
+        "shortName": "ION ILIESCU",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 64598,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDSR-PUR-PSDR"
+      },
+      {
+        "name": "CORNELIU VADIM TUDOR",
+        "shortName": "CORNELIU VADIM TUDOR",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 44385,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PRM"
+      }
+    ],
+    "countedVotes": 110736
+  },
+  "electionNews": [],
+  "aggregated": false
+}

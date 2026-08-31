@@ -1,0 +1,319 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Gorj",
+    "countyId": 9449
+  },
+  "meta": {
+    "date": "1992-09-27T00:00:00",
+    "title": "Alegeri Parlamentare",
+    "type": "house",
+    "ballot": "Camera Deputatilor",
+    "electionId": 32,
+    "ballotId": 72,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 264735,
+    "totalVotes": 178823
+  },
+  "results": {
+    "eligibleVoters": 264735,
+    "totalVotes": 178823,
+    "validVotes": 149356,
+    "nullVotes": 28941,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "F.D.S.N.",
+        "shortName": "F.D.S.N.",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Frontul+Democrat+al+Salv%C4%83rii+Na%C8%9Bionale.jpg",
+        "votes": 52124,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Frontul Democrat al Salvării Naționale"
+      },
+      {
+        "name": "PSM",
+        "shortName": "PSM",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Socialist+al+Muncii.jpg",
+        "votes": 33302,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Socialist al Muncii"
+      },
+      {
+        "name": "C.D.R",
+        "shortName": "C.D.R",
+        "partyColor": "#FFFF00",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Conven%C8%9Bia+Democrat%C4%83+Rom%C3%A2n%C4%83.jpg",
+        "votes": 20423,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "CONVENTIA DEMOCRATICA DIN ROMANIA"
+      },
+      {
+        "name": "F.S.N.",
+        "shortName": "F.S.N.",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Frontul+Salv%C4%83rii+Na%C8%9Bionale.jpg",
+        "votes": 11707,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Frontul Salvării Naționale"
+      },
+      {
+        "name": "PRM",
+        "shortName": "PRM",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 4798,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Mare"
+      },
+      {
+        "name": "P.D.A.R.",
+        "shortName": "P.D.A.R.",
+        "partyColor": "#808080",
+        "votes": 4508,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PNL",
+        "shortName": "PNL",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 3428,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Liberal"
+      },
+      {
+        "name": "P.U.N.R.",
+        "shortName": "P.U.N.R.",
+        "partyColor": "#660965",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Unit%C4%83%C8%9Bii+Na%C8%9Biunii+Rom%C3%A2ne.jpg",
+        "votes": 3023,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "M.E.R.",
+        "shortName": "M.E.R.",
+        "partyColor": "#808080",
+        "votes": 2469,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PDSR-PUR-PSDR",
+        "shortName": "PDSR-PUR-PSDR",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 1830,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.D.M.R.",
+        "shortName": "P.D.M.R.",
+        "partyColor": "#808080",
+        "votes": 1529,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "C.I.",
+        "shortName": "C.I.",
+        "partyColor": "#800080",
+        "partyLogo": "",
+        "votes": 1459,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "S.N-D.",
+        "shortName": "S.N-D.",
+        "partyColor": "#808080",
+        "votes": 1260,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.R.",
+        "shortName": "P.R.",
+        "partyColor": "#912525",
+        "partyLogo": "",
+        "votes": 1038,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.U.S-D.",
+        "shortName": "P.U.S-D.",
+        "partyColor": "#808080",
+        "votes": 700,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "C.S.S.",
+        "shortName": "C.S.S.",
+        "partyColor": "#808080",
+        "votes": 670,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 508,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "U.L.B.",
+        "shortName": "U.L.B.",
+        "partyColor": "#808080",
+        "votes": 500,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U.G.R.R.",
+        "shortName": "U.G.R.R.",
+        "partyColor": "#808080",
+        "votes": 428,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.N.T.C.D.I.",
+        "shortName": "P.N.T.C.D.I.",
+        "partyColor": "#808080",
+        "votes": 410,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U.L.D.R.R.",
+        "shortName": "U.L.D.R.R.",
+        "partyColor": "#808080",
+        "votes": 400,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 292,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "L.N.E.R.",
+        "shortName": "L.N.E.R.",
+        "partyColor": "#808080",
+        "votes": 289,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL PRO ROMÂNIA",
+        "shortName": "PRO",
+        "partyColor": "#FF4C4C",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Pro+Romania.jpg",
+        "votes": 282,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.L.M.R.",
+        "shortName": "P.L.M.R.",
+        "partyColor": "#808080",
+        "votes": 274,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.V.D.P.",
+        "shortName": "P.V.D.P.",
+        "partyColor": "#808080",
+        "votes": 264,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.D.C.",
+        "shortName": "P.D.C.",
+        "partyColor": "#808080",
+        "votes": 260,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "C.I.R.",
+        "shortName": "C.I.R.",
+        "partyColor": "#808080",
+        "votes": 237,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PDSR",
+        "shortName": "PDSR",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democra%C8%9Biei+Sociale+din+Rom%C3%A2nia.jpg",
+        "votes": 226,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.V.P.",
+        "shortName": "P.V.P.",
+        "partyColor": "#808080",
+        "votes": 222,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.R.U.R.",
+        "shortName": "P.R.U.R.",
+        "partyColor": "#808080",
+        "votes": 191,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PUR",
+        "shortName": "PUR",
+        "partyColor": "#912525",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Umanist+din+Rom%C3%A2nia.jpg",
+        "votes": 172,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "P.R.N.S.",
+        "shortName": "P.R.N.S.",
+        "partyColor": "#808080",
+        "votes": 133,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 178297
+  },
+  "electionNews": [],
+  "aggregated": false
+}

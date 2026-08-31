@@ -1,0 +1,52 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Vrancea",
+    "countyId": 20574
+  },
+  "meta": {
+    "date": "2009-11-22T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 15,
+    "ballotId": 30,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 319709,
+    "totalVotes": 179801
+  },
+  "results": {
+    "eligibleVoters": 319709,
+    "totalVotes": 179801,
+    "validVotes": 176933,
+    "nullVotes": 2868,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 97408,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Traian Basescu",
+        "shortName": "Traian Basescu",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 79525,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDL"
+      }
+    ],
+    "countedVotes": 179801
+  },
+  "electionNews": [],
+  "aggregated": false
+}

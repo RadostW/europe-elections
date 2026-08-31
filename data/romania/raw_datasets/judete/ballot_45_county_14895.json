@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Prahova",
+    "countyId": 14895
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 23,
+    "ballotId": 45,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 691649,
+    "totalVotes": 400724
+  },
+  "results": {
+    "eligibleVoters": 691649,
+    "totalVotes": 400724,
+    "validVotes": 397426,
+    "nullVotes": 3297,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 227232,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      },
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 170194,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      }
+    ],
+    "countedVotes": 400723
+  },
+  "electionNews": [],
+  "aggregated": false
+}

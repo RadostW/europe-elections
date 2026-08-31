@@ -1,0 +1,1209 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Caras-Severin",
+    "countyId": 5676
+  },
+  "meta": {
+    "date": "2020-12-06T00:00:00",
+    "title": "Alegeri Parlamentare",
+    "type": "house",
+    "ballot": "Camera Deputatilor",
+    "electionId": 49,
+    "ballotId": 113,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 263060,
+    "totalVotes": 78766
+  },
+  "results": {
+    "eligibleVoters": 263060,
+    "totalVotes": 78766,
+    "validVotes": 76527,
+    "nullVotes": 2221,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 25046,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Social Democrat"
+      },
+      {
+        "name": "Partidul Național Liberal",
+        "shortName": "PNL",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 24172,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Liberal"
+      },
+      {
+        "name": "Alianța USR-PLUS",
+        "shortName": "USR-PLUS",
+        "partyColor": "#01A0E4",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Alian%C8%9Ba+USR-PLUS.jpg",
+        "votes": 5563,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "ALIANȚA USR PLUS"
+      },
+      {
+        "name": "Alianța pentru Unirea Românilor",
+        "shortName": "AUR",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Alian%C8%9Ba+pentru+Unirea+Rom%C3%A2nilor.jpg",
+        "votes": 5197,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța pentru Unirea Românilor"
+      },
+      {
+        "name": "Partidul Miscarea Populară",
+        "shortName": "PMP",
+        "partyColor": "#000099",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Miscarea+Popular%C4%83.jpg",
+        "votes": 4927,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Miscarea Populară"
+      },
+      {
+        "name": "PARTIDUL PRO ROMÂNIA",
+        "shortName": "PRO",
+        "partyColor": "#FF4C4C",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Pro+Romania.jpg",
+        "votes": 3190,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PARTIDUL PRO ROMÂNIA"
+      },
+      {
+        "name": "Partidul Ecologist Român",
+        "shortName": "PER",
+        "partyColor": "#8BC58B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Ecologist+Rom%C3%A2n.jpg",
+        "votes": 2242,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Ecologist Român"
+      },
+      {
+        "name": "PARTIDUL ALIANȚA RENAȘTEREA NAȚIONALĂ",
+        "shortName": "ARN",
+        "partyColor": "#afafaf",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/arn.png",
+        "votes": 1116,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Puterii Umaniste",
+        "shortName": "PPU",
+        "partyColor": "#912525",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Puterii+Umaniste.jpg",
+        "votes": 947,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Puterii Umaniste"
+      },
+      {
+        "name": "UNIUNEA CROAȚILOR DIN ROMÂNIA",
+        "shortName": "UCR",
+        "partyColor": "#afafaf",
+        "partyLogo": "",
+        "votes": 786,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UNIUNEA SÂRBILOR DIN ROMÂNIA",
+        "shortName": "USbR",
+        "partyColor": "#afafaf",
+        "partyLogo": "",
+        "votes": 610,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PRM",
+        "shortName": "PRM",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 430,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Mare"
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 397,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "UNIUNEA DEMOCRATICĂ A SLOVACILOR ȘI CEHILOR DIN ROMÂNIA",
+        "shortName": "UDSCR",
+        "partyColor": "#afafaf",
+        "partyLogo": "",
+        "votes": 341,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL SOCIALIST ROMÂN",
+        "shortName": "PSR",
+        "partyColor": "#808080",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/psr.png",
+        "votes": 241,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL NOUA ROMÂNIE",
+        "partyColor": "#808080",
+        "votes": 229,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UNIUNEA UCRAINENILOR DIN ROMÂNIA",
+        "shortName": "UUR",
+        "partyColor": "#afafaf",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/uur.png",
+        "votes": 161,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ASOCIAȚIA MACEDONENILOR DIN ROMÂNIA",
+        "partyColor": "#808080",
+        "votes": 143,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Forumul Democrat al Germanilor din România",
+        "shortName": "FDGR",
+        "partyColor": "#33B3A6",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Forumul+Democrat+al+Germanilor+din+Rom%C3%A2nia.jpg",
+        "votes": 125,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Forumul Democrat al Germanilor din România"
+      },
+      {
+        "name": "UNIUNEA BULGARĂ DIN BANAT- ROMÂNIA",
+        "shortName": "UBBR",
+        "partyColor": "#afafaf",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/ubbr.png",
+        "votes": 122,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL NOUA DREAPTĂ",
+        "partyColor": "#808080",
+        "votes": 102,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ASOCIAȚIA PARTIDA ROMILOR “PRO-EUROPA”",
+        "partyColor": "#808080",
+        "votes": 89,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UNIUNEA CULTURALĂ A RUTENILOR DIN ROMÂNIA",
+        "shortName": "UCRR",
+        "partyColor": "#afafaf",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/ucrr.png",
+        "votes": 78,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ASOCIAȚIA LIGA ALBANEZILOR DIN ROMÂNIA",
+        "partyColor": "#808080",
+        "votes": 62,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UNIUNEA ELENĂ DIN ROMÂNIA",
+        "shortName": "UER",
+        "partyColor": "#808080",
+        "partyLogo": "",
+        "votes": 59,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "FEDERAȚIA COMUNITĂȚILOR EVREIEȘTI DIN ROMÂNIA",
+        "partyColor": "#808080",
+        "votes": 47,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "COMUNITATEA RUȘILOR LIPOVENI DIN ROMÂNIA",
+        "shortName": "CRLR",
+        "partyColor": "#afafaf",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/crlr.png",
+        "votes": 33,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ASOCIAȚIA ITALIENILOR DIN ROMÂNIA – RO.AS.IT.",
+        "partyColor": "#808080",
+        "votes": 23,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UNIUNEA DEMOCRATĂ TURCĂ DIN ROMÂNIA",
+        "partyColor": "#808080",
+        "votes": 20,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UNIUNEA ARMENILOR DIN ROMÂNIA",
+        "shortName": "UAR",
+        "partyColor": "#afafaf",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/uar.png",
+        "votes": 17,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UNIUNEA POLONEZILOR DIN ROMÂNIA",
+        "partyColor": "#808080",
+        "votes": 12,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 78748
+  },
+  "observation": {
+    "id": 11,
+    "ballotId": 113,
+    "coveredPollingPlaces": 413,
+    "coveredCounties": 28,
+    "observerCount": 105,
+    "messageCount": 23630,
+    "issueCount": 916
+  },
+  "electionNews": [
+    {
+      "id": 152,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-08T18:55:26",
+      "title": "Putem",
+      "body": "Acest site face parte din ecosistemul de alegeri dezvoltat de Code for Romania și este realizat pro bono de către voluntarii noștri. Dacă vreți să ne sprijiniți pentru a realiza sute de astfel de soluții care să ajute societatea românească, **trimiteți PUTEM prin SMS la 8864** și donați 4 euro pentru Code for Romania.\r\n\r\n![putem](https://rezultatevot-images-upload.s3.amazonaws.com/16e3bfd7-a4c5-4366-b455-7bbeeb6bf0a6_putem.png)"
+    },
+    {
+      "id": 201,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-08T10:19:28",
+      "title": "Romania, Parliamentary Elections, 6 December 2020: Statement of Preliminary Findings and Conclusions",
+      "body": "Raport  OSCE Office for Democratic Institutions and Human Rights (ODIHR)",
+      "link": "https://www.facebook.com/danapascu/posts/10221602783433457?__cft__[0]=AZXMB4KZ8CbF8HJGHPh2bYBMpbFfoz9IGMwBcOW8_f8_EpF9R4D4UrYd8y0AAFhMt0F-uZcQW58N-aXq_hINa5D2JWicb5r1La39ttyFYkw36HjTcrktUWeD7wKZ_5Rk98pAbnwHSdVhr49D4Cr1_EPduQo_z9gFJJfUEAuKSUW8Rg&__tn__=%2CO%2CP-R",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdanapascu%2Fposts%2F10221602783433457&show_text=true&width=552&height=547&appId\" width=\"100%\" height=\"547\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>"
+    },
+    {
+      "id": 200,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-08T09:52:06",
+      "title": "Monitorizare",
+      "body": "Raportul **FiecareVot** despre monitorizarea alegerilor",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FExpertForum%2Fvideos%2F1607815219421435%2F&show_text=true&width=560\" width=\"100%\" height=\"429\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
+    },
+    {
+      "id": 199,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-08T09:48:18",
+      "title": "Despre rezultate",
+      "body": "[Un comentariu](https://codruvrabie.eu/zbarceala-ro) de Codru Vrabie",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodru.vrabie%2Fposts%2F10164738998750654&show_text=true&width=552&height=532&appId\" width=\"100%\" height=\"532\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>"
+    },
+    {
+      "id": 198,
+      "images": [],
+      "author": {
+        "id": 17,
+        "name": "Dragoș Costache",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/dragosCostache.jpg"
+      },
+      "timestamp": "2020-12-07T13:17:04",
+      "title": "AUR - surpriză neașteptată  sau electorat ignorat?",
+      "body": "\r\nApariția Alianței pentru Unirea Românilor și procentul fulminant pe care l-a strâns la alegerile parlamentare poate părea o surpriză masivă pentru cine nu urmărește mișcările naționaliste din România dar singura surpriză este trecerea pragului electoral de către partid. AUR este un partid anti- sistem construit pe același calapod cu USR dar care se adresează unui electorat de dreapta și extrema dreaptă spre deosebire de centrismul anticorupție al USR la fondare. AUR e un partid construit ad-hoc în jurul unui lider vizibil, cu activiști și membri strânși din societatea civilă de dreapta (Coaliția pentru Familie, mișcarea antivax) și din diverse mișcări de stradă (Basarabia e România, galerii, Qanon chiar și Roșia Montana) cu istoric de organizare și rețele în teritoriu. La fel ca USR alt partid care a fost construit rapid AUR a coagulat pe listele sale o gamă variat ideologică (dar invariabil de dreapta) de lideri între care se remarcă foarte vocala avocată Diana Șoșoacă, Sorin Lavric sau Claudiu Târziu. Nu în ultimul rând președintele și principalul vector de imagine al partidului, George Simion e cunoscut de pe vremea când îl hărțuia cu orice ocazie pe fostul președinte Ion Iliescu, urându-i să înceteze din viață. Doctrina partidului e una pro-familie, euro-sceptică, anti-minorități (etnice și sexuale) și moderat populistă. De remarcat sunt pozițiile extrem de vocale ale liderilor împortriva măsurilor de protecție sanitară, a vaccinurilor și negaționismul COVID-19.   \r\n\r\nAUR nu a răsărit însă din neant, ci a urmat un trend de cel puțin un an , de la candidatura ratată la prezidențiale a lui George Simion din 2019, trecând printr-un an de proteste anti covid și organizare în teritoriu pentru a face un scor onorabil, dacă luăm în considerare sistemul de vot, la locale. Interdicția pelerinajelor din toamnă și obligativitatea măștilor pare să fi fost catalizatorul pentru creșterea spectaculoasă a AUR, alături de o prezență online bine targetată și un cadru de susținători foarte “online” și vocali. Din nou, se cere o comparație cu USR.  \r\n\r\nDar cum de nu a știut nimeni de AUR, un partid care a intrat cu aproape 10% în parlament? O explicație ar fi efectul “shy Tory” sau “silent majority” in care votanții unui partid nu spun cu cine votează dintr-o așteptare că vor fi judecați pentru alegere, dar în ziua alegerilor merg și votează partidul ales. O explicație mai plauzibilă a fost că se știa dar părea o aberație statistică. Multe dintre sondajele interne ale partidelor arătau creșterea AUR în ultimele săptămâni, dar cum  scorul părea unul de 5-7% și sondajele interne au adesea o marjă de eroare mare nimeni din partide (cu mici excepții) nu a considerat tactic prudent sau necesar să menționeze existența AUR. Până și prezența din ce în ce mai vizibilă a “activiștilor” AUR, online și offline nu a părut ceva ciudat. Alte partide-protest de buzunar, cum ar fi Republicanii, Alternativa Dreaptă, Dreapta Liberală sau, pe partea stângă a eșicherului politic, Demos, au beneficiat de vizibilitate online care nu s-a materializat în absolut nimic. Chiar și mult mai vizibilul Partidul România Unită, un partid de extremă dreapta care a beneficiat și de susținerea neoficială a unui număr de politicieni mainstream nu a reușit în 2016 să întrunească pragul.   \r\n\r\nDe ce AUR, atunci? În primul rând contextul nefericit, al pandemiei care a activat votanții AUR opuși total măsurilor sanitare, mai ales celor care afectează viața religioasă. În al doilea rând aura de partid nou, anti-sistem pe care AUR a preluat-o de la USRPLUS după ce acesta și-a pierdut o parte din atracție pentru anumite segmente din electorat, mai ales cel conservator și din diaspora. În al treilea rând, după cum remarca Conf. Camil Pârvu, contextul de polarizare între instituții și a unei părți din populație pe tema pandemiei a oprit “cele 2 partide de guvernare, PSD și PNL, să nu poată folosi la maximum propriile falange de conservatori și creștini” care de obicei împărțeau acest electorat. Prezența scăzută cu siguranță nu a ajutat deși cu prezența de la locale AUR tot intra în parlament cu 6-7%. Nu în ultimul rând mesajul unionist a reușit să atragă multe voturi din Diaspora și din Republica Moldova, unde AUR e actualmente al treilea partid după USRPLUS și PNL. Toate aceste publicuri nu sunt bineînțeles unitare, cum nici reprezentanții aleși ai partidului nu sunt deci există de exemplu mulți unioniști care nu sunt antivaccin între votanții AUR, cum există și grupuscule de extrema dreaptă sau oameni care au votat Aur pentru eticheta de “nou”.   \r\n\r\nSoarta AUR e și mai greu de discutat decât apariția partidului. Deși partidul are un program bine pus la punct, dat fiind faptul că membrii au venit de peste tot din societatea civilă de dreapta și din diverse mișcări ar putea să apară disensiuni interne, la fel cum au apărut, tot din motive de diversitate ideologică, în USR acum câțiva ani. Dacă acest lucru se întâmplă și partidul poate supraviețui fără să fie canibalizat de partidele mari, AUR s-ar putea să rămână prezent, vizibil și activ pentru următorii patru ani.\r\n"
+    },
+    {
+      "id": 197,
+      "images": [],
+      "author": {
+        "id": 17,
+        "name": "Dragoș Costache",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/dragosCostache.jpg"
+      },
+      "timestamp": "2020-12-07T10:34:21",
+      "title": "Un Independent în Parlament?",
+      "body": "Pe lângă surpriza previzibilă dar neprevăzută AUR, despre care vom scrie mai pe larg poate cea mai mare surpriză și cea mai \"strânsă\" cursă de la aceste alegeri este candidatura independentului Valeriu Ciolan Nicolae la Camera Deputaților în circumscripția 43, București. \r\n\r\nDl. Nicolae nu este un nou venit pe scena politică din România, ci un actor versat, fost consultant și membru PLUS, cu o carieră de mai multe decenii în sectorul ONG și în instituții europene. Deși a părăsit partidul înainte de fuziunea USR PLUS, dl. Nicolae a discutat de mai multe ori posibilitatea unei candidaturi, care i se \"cerea\". Această candidatură s-a materializat la alegerile Parlamentare unde Valeriu Nicolae a candidat pentru o poziție de deputat în București.\r\n\r\nStrategia sa a fost una îndrăzneață, reușind să strângă mii de voturi atât din partea alegătorilor USRPLUS nemulțumiți de evoluția internă a partidului, care l-au foslosit pe Dl. Nicolae pentru a da un vot de blam partidului cât și dintre votanții adesea ignorați din comunitățile sărace de romi din București. Domnul Nicolae, la rândul său de etnie romă, are o vizibilitate și o reputație extrem de bună în comunitățile din București după foarte mulți ani de voluntariat și activism în Ferentari, ani de voluntariat care i-au atras și simpatiile multor exponenți ai clasei de mijloc progresist-liberale.\r\n\r\nLa această oră nu se știe încă dacă dl. Nicolae a intrat în Parlament, și cu Peste 16.000 de voturi soarta candidaturii sale depinde de doi factori principali - posibilitatea intrării PMP în parlament, care pare din ce în ce mai puțin plauzibilă, lucru bun pentru Domnul Nicolae, și numărul de voturi valabil exprimate în București pentru partidele care trec pragul. Acestea împreună cu voturile independenților determină coeficientul electoral, adică numărul de voturi necesare pentru un mandat de Senator sau Deputat. În cazul dlui. Nicolae, la Cameră acest coeficient (în condițiile neintrării PMP în Parlament) e pe undeva pe la 16.250 de voturi, ceea ce l-ar aduce pe Valeriu Ciolan Nicolae la mai puțin de 100 de voturi de victorie.   Nu sunt încă numărate toate voturile în București dar un lucru e cert, chiar dacă domnul Nicolae nu intră în Parlament prestația sa a fost una considerabil mai bună decât a altor independenți celebri - Remus Cernea, Elena Udrea sau Theodor Paleologu. Un independent veritabil, nesusținut politic dar cu susținere grassroots ar fi un precedent interesant pentru Parlamentul României.\r\n"
+    },
+    {
+      "id": 196,
+      "images": [],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2020-12-07T00:48:19",
+      "title": "Cu ochii pe Moldova și PMP",
+      "body": "Mai sunt de numărat 7% din voturi la nivel național, dar aproape trei sferturi dintre cele 37.632 de voturi exprimate în Republica Moldova. Vor reuși voturile din Moldova să treacă PMP-ul aflat acum la 4,83% pragul electoral?",
+      "embed": "<script src=\"https://rezultatevot.ro/iframeResizer.min.js\" async></script><iframe scrolling=\"no\" width=\"100%\" height=\"600\" style=\"border:0\" src=\"https://rezultatevot.ro/embed/112/results?division=diaspora_country&countryId=59\" onload=\"(window.iFrameResize || function () { var q = window.__iframeResizerQueue || []; window.__iframeResizerQueue = q; q.push(arguments); })({}, this)\"></iframe>"
+    },
+    {
+      "id": 195,
+      "images": [
+        {
+          "id": 77,
+          "articleId": 195,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/ef70c6e7-cdd4-4ca9-88f5-88cd1136fd82_Image from iOS (3).jpg"
+        }
+      ],
+      "author": {
+        "id": 18,
+        "name": "Maria Krause",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/MariaKrause.png"
+      },
+      "timestamp": "2020-12-06T21:41:05",
+      "title": "Numărarea voturilor prin corespondență",
+      "body": "Numărarea voturilor prin corespondență va dura multe ore. Fiecare birou pentru votul prin corespondență are cam 6000 de buletine de vot. Observatorii _FiecareVot_ constată că prea puține dintre recomandările din 2019 au fost implementate, iar procedura rămâne greoaie și comisiile nu par a fi primit suficiente instrucțiuni"
+    },
+    {
+      "id": 194,
+      "images": [],
+      "author": {
+        "id": 14,
+        "name": "Mircea Kivu"
+      },
+      "timestamp": "2020-12-06T19:36:11",
+      "title": "Creștere la categoria de vârstă 18-24",
+      "body": "Singura categorie de vârstă la care s-a înregistrat creștere față de 2016 a fost 18-24 ani: 444.537 acum, 437.073 în 2016."
+    },
+    {
+      "id": 193,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-06T19:08:51",
+      "title": "Rezultate live",
+      "body": "Pe măsură ce secțiile de vot termină numărătoarea și transmit procesele verbale, veți putea vedea în timp real evoluția rezultatelor **oficiale** parțiale",
+      "embed": "<script src=\"https://rezultatevot.ro/iframeResizer.min.js\" async></script><iframe scrolling=\"no\" width=\"100%\" height=\"600\" style=\"border:0\" src=\"https://rezultatevot.ro/embed/112/results\" onload=\"(window.iFrameResize || function () { var q = window.__iframeResizerQueue || []; window.__iframeResizerQueue = q; q.push(arguments); })({}, this)\"></iframe>"
+    },
+    {
+      "id": 192,
+      "images": [],
+      "author": {
+        "id": 12,
+        "name": "Alexandra Stefanescu",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/alexstefanescusite.png"
+      },
+      "timestamp": "2020-12-06T18:07:17",
+      "title": "Code for Romania și alegerile",
+      "body": "[Alexandra Ștefănescu, CTO Code for Romania](https://www.facebook.com/s.alex.758/posts/2759781764244807)",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fs.alex.758%2Fposts%2F2759781764244807&show_text=true&width=552&height=244&appId\" width=\"100%\" height=\"244\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>"
+    },
+    {
+      "id": 191,
+      "images": [],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2020-12-06T17:31:51",
+      "title": "Gura Teghii vs. Lopătari",
+      "body": "În județul Buzău, unde prezența la ora 19.30 este de 32,5%, avem două comune vecine asemănătoare la prima vedere, dar cu povești politice foarte diferite.\r\n\r\nLopătari este codașă la prezența la vot cu 28,7% în timp ce vecinii de la Gura Teghii sunt campioni cu o prezență de 48,9%. Acum 2 luni Lopătari a ales un primar USR, iar la Gura Teghii a fost ales candidatul PMP, candidatul AUR clasându-se al doilea.",
+      "embed": "<script src=\"https://rezultatevot.ro/iframeResizer.min.js\" async></script><iframe scrolling=\"no\" width=\"100%\" height=\"600\" style=\"border:0\" src=\"https://rezultatevot.ro/embed/112/turnout?division=locality&countyId=4862&localityId=5043\" onload=\"(window.iFrameResize || function () { var q = window.__iframeResizerQueue || []; window.__iframeResizerQueue = q; q.push(arguments); })({}, this)\"></iframe>"
+    },
+    {
+      "id": 190,
+      "images": [],
+      "author": {
+        "id": 12,
+        "name": "Alexandra Stefanescu",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/alexstefanescusite.png"
+      },
+      "timestamp": "2020-12-06T17:18:49",
+      "title": "Este votul electronic o soluție?",
+      "body": "[Cititi articolul pe blogul Civic Labs](https://civiclabs.ro/ro/byproducts/securitatea-sistemelor-de-vot-electronic)\r\n\r\n![Vot electronic](https://rezultatevot-images-upload.s3.amazonaws.com/7e8dc13e-55ac-46ed-b52b-ac4ce98a0733_31875.jpg)",
+      "link": "https://civiclabs.ro/ro/byproducts/securitatea-sistemelor-de-vot-electronic"
+    },
+    {
+      "id": 188,
+      "images": [
+        {
+          "id": 75,
+          "articleId": 188,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/4e9fe121-b191-4ea8-b479-bfea32e31675_Copy of Alegeri Parlamentare 2020 (12).png"
+        }
+      ],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-06T17:09:11",
+      "title": "Ora 19.00",
+      "body": "Prezența la vot în România"
+    },
+    {
+      "id": 187,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-06T16:59:23",
+      "title": "Call center organizat de EFOR",
+      "body": "[EFOR](https://www.facebook.com/ExpertForum/posts/4113002315394782)",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fseptimius.p%2Fposts%2F10217475126455702&show_text=true&width=552&height=843&appId\" width=\"100%\" height=\"843\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>"
+    },
+    {
+      "id": 185,
+      "images": [],
+      "author": {
+        "id": 11,
+        "name": "Raul Ritea",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/raulriteasite.png"
+      },
+      "timestamp": "2020-12-06T15:47:28",
+      "title": "Pacienții de la spitalul Victor Babeș din Timișoara nu pot vota",
+      "body": "Pacienților de la spitalul Victor Babeș din Timișoara infectați cu COVID-19 li se refuză dreptul la vot deoarece membrii secției de votare refuză să ducă urna mobilă la spital, scrie Libertatea.",
+      "link": "https://www.libertatea.ro/stiri/bolnavilor-de-covid-internati-la-victor-babes-in-timisoara-li-se-refuza-dreptul-la-vot-membrii-sectiei-de-votare-nu-vor-sa-duca-urna-mobila-la-spital-3312678"
+    },
+    {
+      "id": 186,
+      "images": [],
+      "author": {
+        "id": 11,
+        "name": "Raul Ritea",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/raulriteasite.png"
+      },
+      "timestamp": "2020-12-06T15:46:32",
+      "title": "Sociologul Barna Gergő : participarea slabă a maghiarilor poate avea un impact asupra rezultatelor din aceasta seară",
+      "body": "Barna Gergő szociológus: a gyengébb magyar részvételnek kihatása lehet az esti eredményekre.",
+      "link": "https://kronikaonline.ro/erdelyi-hirek/barna-gergo-szociologus-a-gyengebb-magyar-reszvetelnek-kihatasa-lehet-az-esti-eredmenyekre?fbclid=IwAR0AITj-_8LJdIwxfgPRhy_RiSP2X9EdcB1z-Wg0MD8lbkIo-y45RlwgVMc"
+    },
+    {
+      "id": 184,
+      "images": [],
+      "author": {
+        "id": 10,
+        "name": "Tudor Dan",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/tudordansite.png"
+      },
+      "timestamp": "2020-12-06T15:44:35",
+      "title": "Cozi la vot în secțiile din Chișinău",
+      "body": "La ora 16:00, timpul maxim de asteptare la alte doua sectii era de 30 de minute, in timp ce la Liceul \"Gheorghe Asachi\" e de 20 de minute.\r\nLa sectiile de vot din Republica Moldova au votat pana acum peste 29.000 de alegatori, 12.770 fiind in Chisinau.",
+      "link": "https://ziare.com/alegeri/alegeri-parlamentare-2020/alegeri-parlamentare-2020-cozi-la-sectiile-de-votare-din-chisinau-1648686"
+    },
+    {
+      "id": 183,
+      "images": [
+        {
+          "id": 74,
+          "articleId": 183,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/c95f56d3-1a1d-4d15-8a18-169d3f394bf1_Evolutie.png"
+        }
+      ],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2020-12-06T15:37:22",
+      "title": "Evoluția orară a structurii votului în funcție de categoriile de vârstă",
+      "body": "Iată și structura votului pe categorii de vârste la nivel național, de la oră la oră, comparativ cu structura pe vârste a populației adulte din România la data de 1 iulie 2020.\r\nDupă cum se vede, chiar dacă s-au pierdut un milion de voturi la categoria 45+, această categorie este încă supra-reprezentată la vot față de proporția din populație.\r\nPe scurt - lucrurile nu stau chiar așa de rău pentru PSD pe cât păreau în urmă cu câteva ore."
+    },
+    {
+      "id": 182,
+      "images": [],
+      "author": {
+        "id": 17,
+        "name": "Dragoș Costache",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/dragosCostache.jpg"
+      },
+      "timestamp": "2020-12-06T15:35:44",
+      "title": "Participare scăzută în toate circumscripțiile",
+      "body": "Devine din ce în ce mai clar că participarea va fi una foarte scăzută pentru alegeri parlamentare, sub nivelul anului 2016. Dacă acesta e un efect al pandemiei, al acalmiei politice sau al unei degringolade a votanților rămâne de văzut. Cert este că efectul pare unul mai mult sau mai puțin constant, la nivel național, care nu favorizează un partid sau altul. Prezența mai scăzută din ruralul sudic se compensează cu absenteismul din nordul cu înclinări de dreapta. \r\n\r\nDacă acest lucru ar putea favoriza o depolarizare, și o revenire la o politică a înțelegerilor și negocierilor rămâne din nou de văzut."
+    },
+    {
+      "id": 181,
+      "images": [],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2020-12-06T15:28:03",
+      "title": "S-a votat accelerat în ultimele ore în diaspora europeană.",
+      "body": "În ultimele 5 ore s-a dublat numărul de voturi în majoritatea țărilor europene: Marea Britanie, Germania, Spania, Italia, Franta, Irlanda, Danemarca, Austria, Belgia, Olanda, Norvegia, Suedia, Portugalia și Grecia."
+    },
+    {
+      "id": 180,
+      "images": [
+        {
+          "id": 73,
+          "articleId": 180,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/13970ed9-810c-4c74-9ad6-8c9dc5f31103_356731F2-273E-46C8-A9FC-019DADEE1446.jpeg"
+        }
+      ],
+      "author": {
+        "id": 14,
+        "name": "Mircea Kivu"
+      },
+      "timestamp": "2020-12-06T14:18:52",
+      "title": "Ora 16.00",
+      "body": "Prezența pe grupele de vârstă"
+    },
+    {
+      "id": 179,
+      "images": [
+        {
+          "id": 72,
+          "articleId": 179,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/fa1760fc-ae23-4d6c-9e37-abb7de520c62_98F9885B-8611-42BC-AD0F-E707D726E8B1.jpeg"
+        }
+      ],
+      "author": {
+        "id": 14,
+        "name": "Mircea Kivu"
+      },
+      "timestamp": "2020-12-06T14:00:49",
+      "title": "Observații ",
+      "body": "La locale, jumătate din numărul final al alegătorilor se înregistrase în jurul orei 13:45.\r\nAcum, la ora respectivă erau aproximativ 2,9 milioane. Deci, dacă se respectă regula, la sfârșitul zilei am avea 5,8 milioane în țară, la care s-ar adăuga cam 200 mii în străinătate, adică în total 6 milioane de alegători prezenți (cam 33% din  totalul celor înscriși în liste)."
+    },
+    {
+      "id": 178,
+      "images": [
+        {
+          "id": 71,
+          "articleId": 178,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/baaba35e-03cb-4d6a-af64-99c6e8153060_Screenshot 2020-12-06 at 14.34.17.png"
+        }
+      ],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2020-12-06T12:44:12",
+      "title": "Categoriile de vârstă unde numărul de votanți este mai mare decât acum patru ani",
+      "body": "Pornind de la prezența de astăzi de la ora 14:00, prin comparație cu alegerile din 2016 singurele categorii unde numărul de votanți este mai mare decât acum patru ani sunt următoarele:\r\n\r\n* Argeș: urban, bărbați de 65 de ani și peste: + 175 voturi\r\n* Brăila: urban, femei 18-24: + 23 voturi\r\n* Cluj: urban, bărbați 25-44: + 854 voturi\r\n* Cluj: urban, femei 18-34: + 445 voturi\r\n* Harghita: urban, bărbați 65+: +21 voturi\r\n* Harghita: urban, femei 65+: + 65 voturi\r\n* Iași: urban, 18-24 ani: + 351 voturi\r\n* Sibiu: urban, bărbați 18-44: + 271 voturi\r\n* Sibiu: urban, femei 18-43: + 76 voturi\r\n* Timiș: urban, 18-44: + 3199 voturi\r\n* Vrancea: urban, bărbați 65+ : + 216 voturi\r\n\r\nAcestora li se adaugă Bucureștiul după cum se vede în grafic:"
+    },
+    {
+      "id": 177,
+      "images": [
+        {
+          "id": 70,
+          "articleId": 177,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/a6eb9e27-78d9-43f2-8297-39f33060eeb0_MV 14.png"
+        }
+      ],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-06T12:37:25",
+      "title": "Monitorizarea alegerilor",
+      "body": "? 100 de observatori monitorizează alegerile în 25 de județe în acest moment, cu ajutorul aplicației #MonitorizareVot."
+    },
+    {
+      "id": 176,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-06T11:40:25",
+      "title": "Informații Covid-19",
+      "body": "Puteți vedea date actualizate despre evoluția pandemiei pe portalul [Date la zi](https://datelazi.ro), realizat de **Code for Romania**.\r\n\r\nTrimite **„PUTEM” prin SMS la 8864** pentru a contribui cu 4 euro lunar la proiectul nostru de digitalizare a României.",
+      "link": "https://datelazi.ro",
+      "embed": "<iframe scrolling=\"no\" src=\"https://datelazi.ro/embed/cazuri-pe-zi\" width=\"100%\" height=\"740\"></iframe>"
+    },
+    {
+      "id": 175,
+      "images": [
+        {
+          "id": 69,
+          "articleId": 175,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/5cda25a5-c24c-4dff-9f56-2f6d841fdd44_prezenta 13.00 Alegeri Parlamentare 2020.png"
+        }
+      ],
+      "author": {
+        "id": 15,
+        "name": "Olivia Vereha",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/oliviaverehasite.png"
+      },
+      "timestamp": "2020-12-06T11:06:21",
+      "title": "Ora 13.00",
+      "body": "Prezența la vot. "
+    },
+    {
+      "id": 174,
+      "images": [],
+      "author": {
+        "id": 14,
+        "name": "Mircea Kivu"
+      },
+      "timestamp": "2020-12-06T10:39:55",
+      "title": "Prezență zero",
+      "body": "Există 23 de secții de votare în care, până la ora 12, nu votase niciunul dintre alegătorii din lista permanentă. 5 dintre ele sunt în Municipiul Vaslui."
+    },
+    {
+      "id": 173,
+      "images": [
+        {
+          "id": 68,
+          "articleId": 173,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/ee93e1d1-f153-4175-822d-a9c090cda033_image (3).png"
+        }
+      ],
+      "author": {
+        "id": 14,
+        "name": "Mircea Kivu"
+      },
+      "timestamp": "2020-12-06T10:25:07",
+      "title": "Prezența la vot pe grupe de vârstă",
+      "body": "La primele ore ale dimineții, ca de obicei, votează preponderent vârsnicii.\r\n"
+    },
+    {
+      "id": 172,
+      "images": [
+        {
+          "id": 67,
+          "articleId": 172,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/2e02c02b-c7e0-4198-8bd6-5cd95d49ee91_image (2).png"
+        }
+      ],
+      "author": {
+        "id": 11,
+        "name": "Raul Ritea",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/raulriteasite.png"
+      },
+      "timestamp": "2020-12-06T10:10:18",
+      "title": "Prezență scăzută la vot a etnicilor maghiari",
+      "body": "Hegedüs Csilla purtatorul de cuvant al UDMR - etnicii maghiari, cu 16% mai puțini la urne decât compatrioții majoritari",
+      "link": "https://www.transindex.ro/parlamentivalasztasok2020/hegedus-csilla-az-rmdsz-szovivoje-a-magyarok-16-szazalekkal-kisebb-aranyban-mentek-el-szavazni-a-romanoknal/"
+    },
+    {
+      "id": 171,
+      "images": [
+        {
+          "id": 66,
+          "articleId": 171,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/a9bed4dc-91cb-4bd8-9ff0-69e729334200_Copy of Alegeri Parlamentare 2020 (7).png"
+        }
+      ],
+      "author": {
+        "id": 17,
+        "name": "Dragoș Costache",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/dragosCostache.jpg"
+      },
+      "timestamp": "2020-12-06T09:14:15",
+      "title": "Prezență scăzută, evoluții surprinzătoare",
+      "body": "Deși la ora 11:00 prezența la nivel național este sub cea de la locale cât și sub cea de la alegerile parlamentare din 2016 cu aproape 200.000 de voturi se poate observa o schimbare semnificativă a mobilizării. Astfel județele “campioane” din sud (Teleorman, Olt etc.) sunt sub nivelul mobilizării din 2016, pe când județe ca Timiș sau Sibiu și sunt mai active. În municipiul București prezența a scăzut sub nivelul celei din 2016 la ora 11:00. Având în vedere însă multitudinea publicurilor votante din București, efectul poate fi unul de demobilizare a unui electorat sau a altuia și nu un efect de neparticipare generală."
+    },
+    {
+      "id": 170,
+      "images": [],
+      "author": {
+        "id": 10,
+        "name": "Tudor Dan",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/tudordansite.png"
+      },
+      "timestamp": "2020-12-06T09:09:26",
+      "title": "Cum votează persoanele izolate, carantinate, aflate în spital sau arestate",
+      "body": "[Realitatea](https://www.realitatea.net/stiri/actual/alegeri-parlamentare-2020-cum-voteaza-persoanele-izolate-carantinate-aflate-in-spital-sau-arestate_5fcc9613d5fe3d33ab1c79b2)",
+      "link": "https://www.realitatea.net/stiri/actual/alegeri-parlamentare-2020-cum-voteaza-persoanele-izolate-carantinate-aflate-in-spital-sau-arestate_5fcc9613d5fe3d33ab1c79b2"
+    },
+    {
+      "id": 169,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-06T08:57:49",
+      "title": "Votul nostru este egal",
+      "body": "   [Gelu Duminică pe Facebook](https://www.facebook.com/duminica.gelu/posts/3459158814132984)",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fduminica.gelu%2Fposts%2F3459158814132984&show_text=true&width=552&height=269&appId\" width=\"100%\" height=\"269\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>"
+    },
+    {
+      "id": 168,
+      "images": [],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2020-12-06T08:42:17",
+      "title": "Va fi Orban al doilea premier care \"supraviețuiește\" alegerilor?",
+      "body": "Azi vom afla daca Ludovic Orban va fi al doilea premier post-decembrist care \"supraviețuiește\" alegerilor.\r\n\r\nÎn ultimii 30 de ani, cu o singură excepție, partidul aflat la guvernare nu a reușit să formeze următorul guvern, tendința votanților români fiind aceea de a penaliza pe cei aflați la guvernare și de a își investi majoritar votul în partide de opoziție:\r\n\r\n* în 1996 PDSR-ul aflat la putere a mers în opoziție și CDR împreună cu PD și UDMR au format guvernul\r\n* în 2000 PNL-ul și PD-ul aflate la putere au mers în opoziție și PDSR-ul a format guvernul Năstase\r\nîn 2004 PDSR-ul condus de același Năstase merge în opoziție și guvernul este format de o coaliție PNL, PD, PUR, UDMR\r\n* în 2008 PNL-ul condus de Tăriceanu merge în opoziție și noul guvern este format de PDL și PSD\r\n* în 2012 PDL-ul pierde guvernarea prin moțiune de cenzură cu câteva luni înainte de alegerile parlamentare. Se formeaza un guvern PSD-PNL condus de Victor Ponta care este reconfirmat la alegerile parlamentare din același an\r\n* în 2016, primul ministru în funcție, Dacian Cioloș, susținut în alegeri de PNL și de USR nu reușește să își asigure un nou mandat în urma alegerilor și lasă locul unui guvern PSD"
+    },
+    {
+      "id": 167,
+      "images": [],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2020-12-06T08:37:29",
+      "title": "Câteva recomandări de lectură pe teme electorale",
+      "body": "Ziua alegerilor este lungă dar vă ajutăm să nu vă plictisiți cu câteva recomandări de lectură pe teme electorale. Nu de alta, dar vor urma patru ani în care nu vom mai avea alegeri, așa încât va trebui să citim despre ele pentru a ne lua porția de adrenalină electorală.\r\n\r\nIată, așadar, o posibilă listă de lectură, alcătuită după criterii foarte precise: doar cărți (nu și articole de jurnal), doar în limba română (pentru o audiență cât mai mare) și, cel mai important, toate volumele erau pe raftul de lângă mine.\r\n\r\n1. Pavel Câmpeanu. 1993. _De patru ori în fața urnelor._ București: All.\r\n2. Traian Rotariu și Mircea Comșa (coord.). 2004. _Alegerile generale 2004. O perspectivă sociologică._ Cluj: Eikon.\r\n3. Cristian Preda și Sorina Soare. 2008. _Regimul, partidele și sistemul politic din România._ București: Nemira.\r\n4. Gheorghe Teodorescu (coord.). 2009. _Alegeri 2008._ Iași: Polirom (2 vol.).\r\n5. Mircea Comșa, Andrei Gheorghiță și Claudiu Tufiș (coord.). 2010. _Alegerile pentru Parlamentul European: România 2009._ Iași: Polirom.\r\n6. Andrei Gheorghiță. 2010. _Liderii politici și construcția deciziei de vot._ Iași: Institutul European.\r\n7. Sergiu Gherghina (coord.). 2010. _Cine decide? Partide, reprezentanți și politici în Parlamentul României și cel European._ Iași: Institutul European.\r\n8. Sergiu Gherghina și Mihail Chiru (coord.). 2010. _Planuri și promisiuni. Programele electorale ale partidelor la alegerile legislative naționale (2008) și europene (2009)_. Cluj: CA Publishing.\r\n9. Sergiu Gherghina (coord.). 2011. _Voturi și politici. Dinamica partidelor românești în ultimele două decenii._ Iași: Institutul European.\r\n10. Cristian Preda. 2011. _Rumânii fericiți. Vot și putere de la 1831 până în prezent._ Iași: Polirom.\r\n11. Mircea Comșa, Andrei Gheorghiță și Claudiu Tufiș (coord.). 2012. _Alegerile prezidențiale din România, 2009_. Cluj: Presa Universitară Clujeană.\r\n12. Sergiu Gherghina și Mihail Chiru (coord.). 2013. _Declarații de intenție sau proiecții de politici publice? Programele electorale ale partidelor românești la alegerile legislative din 2012._ Cluj: CA Publishing.\r\n13. Virgil Stoica. 2015. _Cine conduce Iașul?_ Iași: Editura Universității Alexandru Ioan Cuza.\r\n14. Mihaela Ivănescu. 2015. _Alegeri și comportamente electorale în România. De la local la național._ București: Editura Universitară.\r\n15. Cristina Matiuța. 2018. _Eu cu cine votez? Dinamica sistemului de partide din România (1990-2018)._ Iași: Institutul European.\r\n16. A. Aldea, D. Chiribucă, M. Comșa, M. Kivu, B. Micu, C. Moldovan. 2001. _Sondajele de opinie - mod de utilizare. Alegerile 2020. Prezentare si analiză._ București: Paideia\r\n\r\n![recomandari lectura](https://rezultatevot-images-upload.s3.amazonaws.com/e988f29d-37f8-41c8-b818-59f8da4d404a_RECOMANDARI%20LECTURA.png)"
+    },
+    {
+      "id": 165,
+      "images": [],
+      "author": {
+        "id": 11,
+        "name": "Raul Ritea",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/raulriteasite.png"
+      },
+      "timestamp": "2020-12-06T08:12:24",
+      "title": "Presa maghiară despre faptul ca in judetele cu Harghita si Covasna avem cea mai mică participare la vot",
+      "body": "Több mint 200 ezren szavaztak reggel 8 óráig. Legkevesebben a székely megyékben",
+      "link": "https://www.transindex.ro/parlamentivalasztasok2020/tobb-mint-200-ezren-szavaztak-reggel-8-oraig-legkevesebben-a-szekely-megyekben/"
+    },
+    {
+      "id": 164,
+      "images": [],
+      "author": {
+        "id": 17,
+        "name": "Dragoș Costache",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/dragosCostache.jpg"
+      },
+      "timestamp": "2020-12-06T08:06:05",
+      "title": "București pe trend ascendent?",
+      "body": "E greu să faci proiecții cu date de după doar câteva ore de vot dar se observă un trend ascendent semnificativ la nivelul Bucureștiului în această dimineață. Dacă în Decembrie 2016 la ora 09:00 votaseră 38.436 de alegători, astăzi până la ora 09:00 își exercitaseră votul 52.371 de persoane. Un total de 2,17% vs 2,90%. Cu toate acestea efectul este foarte greu de contabilizat și cel mai probabil nesemnificativ. E un efect al pandemiei, cu votanții încercând să își exercite dreptul la prima oră, când nu este aglomerat sau un trend ascendent real?\r\n\r\nLa ora 10:00, în 2016 votaseră 83.780 de persoane (4,72%) pe când astăzi, până la ora 10:00 votaseră 88.447 de persoane (4,90%).",
+      "embed": "<script src=\"https://rezultatevot.ro/iframeResizer.min.js\" async></script><iframe scrolling=\"no\" width=\"100%\" height=\"600\" style=\"border:0\" src=\"https://rezultatevot.ro/embed/112/turnout?division=county&countyId=12913\" onload=\"(window.iFrameResize || function () { var q = window.__iframeResizerQueue || []; window.__iframeResizerQueue = q; q.push(arguments); })({}, this)\"></iframe>"
+    },
+    {
+      "id": 163,
+      "images": [
+        {
+          "id": 64,
+          "articleId": 163,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/eb7f34b2-5b68-49f3-a464-f6684d7a67d7_image (1).png"
+        }
+      ],
+      "author": {
+        "id": 14,
+        "name": "Mircea Kivu"
+      },
+      "timestamp": "2020-12-06T07:44:17",
+      "title": "Prezența, ora 9.00",
+      "body": "La ora 9, prezența este semnificativ mai mică decât la locale, pentru toate grupele de vârstă.\r\n"
+    },
+    {
+      "id": 162,
+      "images": [
+        {
+          "id": 63,
+          "articleId": 162,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/afa22c31-09c5-4c5d-a65d-16852d2e0133_e8q9z-v-rsta-medie-a-popula-iei-pe-jude-e (1).png"
+        }
+      ],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2020-12-06T07:22:50",
+      "title": "Distribuția alegătorilor",
+      "body": "Datele privind prezența la vot sunt raportate nu doar la nivel de localitate ci și diferențiat după sex, vârstă și mediu rezidențial. Cum arată România privită prin prisma acestor trei caracteristici?\r\n\r\n**La nivel național** datele furnizate de Autoritatea Electorală Permanentă arată un număr de 18.216.878 de votanți (acestora li se adaugă 740.367 de votanți în străinătate, dar pentru ei nu avem informații privind sexul și vârsta, așa că nu îi includem în aceste calcule).\r\n\r\nDistribuția pe sexe la nivel național este următoarea: 48,3% bărbați și 51,7% femei. Câteva observații la nivel de județ:\r\n* Singurul județ din țară în care bărbații reprezintă mai mult de jumătate din alegători este județul Vaslui: 50.9%. În toate celelalte județe femeile sunt grupul majoritar.\r\n* Procentul cel mai mare de femei este înregistrat în București – 54,1%. Urmează județele Cluj (52,5%), Brașov (52,4%), Timiș (52,3%) și Dolj (52,3%).\r\nDupă mediul rezidențial distribuția la nivel național este următoarea: 42,9% din alegători trăiesc în rural și 57,1% trăiesc în urban. Desigur, distribuția este influențată de București, care are 1,8 milioane de votanți, toți în categoria urban. Fără București distribuția după mediul rezidențial ar fi 48% rural și 52% urban. \r\n\r\nDincolo de această informație, **la nivel județean** se pot face următoarele observații:\r\n* În patru județe votanții din mediul rural reprezintă mai puțin de o treime din totalul alegătorilor: Hunedoara (22,5%), Brașov (26,4%), Constanța (30,9%) și Sibiu (31,9%).\r\n* În cinci județe mai mult de 60% din votanți trăiesc în mediul rural: Neamț (60,1%), Vrancea (62%), Teleorman (63,7%), Giurgiu (67,1%) și Dâmbovița (67,8%).\r\nVârsta medie a populației României, conform datelor de la INS, este de aproape 42 de ani.\r\n* Cele mai „tinere” județe sunt Iași (vârsta medie 39 de ani), Ilfov (39), Suceava (39,2) și Vaslui (39,5)\r\n* Cele mai „îmbătrânite” județe sunt Brăila (44 de ani), Vâlcea (44,6) și Teleorman (45,1)"
+    },
+    {
+      "id": 161,
+      "images": [],
+      "author": {
+        "id": 17,
+        "name": "Dragoș Costache",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/dragosCostache.jpg"
+      },
+      "timestamp": "2020-12-06T07:10:27",
+      "title": "Diaspora, Încotro?",
+      "body": "Unul dintre fenomenele care au devenit deja clasice în dinamica electorală din România e mobilizarea diasporei. Diaspora românească votează covârșitor de dreapta și anti-sistem și are tendința să iasă la vot pe fond emoțional în momente cheie. Diaspora a fost și un instrument cheie de mobilizare pentru românii din țară, care au ieșit la urne, tot pe fond emoțional, în momentele în care compatrioții lor diasporeni aveau accesul la urne îngreunat.\r\nÎn ciuda organizării bune din Diaspora și în acest ciclu electoral au fost voci din opoziție care au reclamat dificultăți de organizare în diaspora, în special cele legate de votul prin corespondență. Un număr semnificativ din plicurile trimise spre țară nu au ajuns la timp, însă cetățenii aflați în această situație își pot exprima în continuare voturile la secțiile de vot organizate în Diaspora.\r\n\r\nMai important însă este că, la prima vedere, votul din diaspora prezintă niște dificultăți specifice anul acesta. Pandemia e un prim obstacol, dat fiind faptul că avem comunități mari de români în țări puternic afectate de COVID-19. Pe cale de consecință, un număr mare de români au revenit în țară de la începutul pandemiei și nu vor vota în diaspora. Cetățenii din diaspora care doresc să voteze trebuie să prezinte acum și documente care le atestă domiciliul legal în afara țării, lucru care poate opri un număr semnificativ de români să voteze. Nu în ultimul rând condițiile de mobilizare emoțională lipsesc în mare. Ne aflăm într-o situație mai apropiată de acalmia de la alegerile parlamentare din Decembrie 2016 decât de agitația de la Europarlamentarele din Mai 2019. Cu toate acestea, evoluția în termen de număr de voturi pare una bună pentru diaspora. După prima zi de vot, în multe țări din diaspora Europeană s-a depășit deja numărul total de voturi exprimate în 2016 chiar dacă în numere absolute suntem departe de recordurile stabilite în 2019.\r\n\r\nLa toate aceste condiții se adaugă concurența mai mare pe partea “dreaptă” a eșicherului politic. Opțiunilor deja “tradiționale” de dreapta - USRPLUS - partid reformist antisistem, PNL - polul tradițional de dreapta și PMP - partid de dreapta ce și-a luat tradițional o mare parte de voturi din diaspora, mai ales din Republica Moldova li se alătură un partid nou cu puternică tentă naționalistă, conservatoare și unionistă - AUR. Dacă acest partid are o șansă să “rupă” din electoratul diasporean e una dintre necunoscutele acestor alegeri.\r\n\r\nPe parcursul zilei, pe măsură ce primim mai multe cifre vom continua să urmărim și să comentăm aici evoluția votului din diaspora."
+    },
+    {
+      "id": 160,
+      "images": [],
+      "author": {
+        "id": 15,
+        "name": "Olivia Vereha",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/oliviaverehasite.png"
+      },
+      "timestamp": "2020-12-06T06:43:53",
+      "title": "Reuters: Analiză privind alegerile parlamentare din România",
+      "body": "Romania's main parties clash over justice and pensions in Dec. 6 election",
+      "link": "https://www.reuters.com/article/idUSKBN28F0UF"
+    },
+    {
+      "id": 159,
+      "images": [],
+      "author": {
+        "id": 11,
+        "name": "Raul Ritea",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/raulriteasite.png"
+      },
+      "timestamp": "2020-12-06T06:22:31",
+      "title": "Cum pot cei care vin din Ungaria pentru a vota să se se întoarcă fără un test COVID negativ",
+      "body": "Magyarország korlátozás nélkül visszaengedi vasárnap a szavazókat, de Románia kéri a negatív tesztet beutazáskor",
+      "link": "https://kronikaonline.ro/kulfold/magyarorszag-korlatozas-nelkul-visszaengedi-vasarnap-a-szavazokat-de-romania-keri-a-negativ-tesztet-beutazaskor"
+    },
+    {
+      "id": 158,
+      "images": [],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2020-12-06T05:52:23",
+      "title": "Vot de dimineață",
+      "body": "☑️ am votat la 7:02 dimineața.",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbogdanivanel%2Fposts%2F10157991111122549&show_text=true&width=552&height=734&appId\" width=\"100%\" height=\"734\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>"
+    },
+    {
+      "id": 157,
+      "images": [
+        {
+          "id": 62,
+          "articleId": 157,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/e7107180-2c77-4d5b-8509-df7642276560_Copy of Alegeri Parlamentare 2020 (1).png"
+        }
+      ],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-06T05:42:53",
+      "title": "250.000 de voturi până acum",
+      "body": "La ora 7.40 votaseră deja mai mult de 250.000 de oameni pentru alegerile parlamentare. "
+    },
+    {
+      "id": 156,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-06T05:17:33",
+      "title": "Monitorizare vot",
+      "body": "Observatorii acreditați în secțiile de vot sunt deja logați în aplicația **Monitorizare Vot**, realizată de Code for Romania. \r\n\r\nPe tot parcursul zilei puteți urmări aici numărul de probleme sesizate, mesajele trimise de aceștia, precum și numărul secțiilor acoperite. ",
+      "embed": "<script src=\"https://rezultatevot.ro/iframeResizer.min.js\" async></script><iframe scrolling=\"no\" width=\"100%\" height=\"600\" style=\"border:0\" src=\"https://rezultatevot.ro/embed/112/observation\" onload=\"(window.iFrameResize || function () { var q = window.__iframeResizerQueue || []; window.__iframeResizerQueue = q; q.push(arguments); })({}, this)\"></iframe>"
+    },
+    {
+      "id": 155,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-06T05:07:21",
+      "title": "S-au deschis secțiile de vot în România",
+      "body": "Bună dimineața,\r\nLa ora 7.00 s-au deschis secțiile de vot în România. Ieri au votat din diaspora peste 87.000 de români. \r\nPe tot parcursul zilei suntem live aici cu\r\n? prezența la vot în timp real\r\n?️ comentarii live despre felul în care se desfășoară alegerile\r\n? rezultate parțiale după ora 21.00\r\n?informații din aplicația #Monitorizarevot utilizată de observatorii acreditați în secțiile de vot",
+      "embed": "<script src=\"https://rezultatevot.ro/iframeResizer.min.js\" async></script><iframe scrolling=\"no\" width=\"100%\" height=\"600\" style=\"border:0\" src=\"https://rezultatevot.ro/embed/112/turnout\" onload=\"(window.iFrameResize || function () { var q = window.__iframeResizerQueue || []; window.__iframeResizerQueue = q; q.push(arguments); })({}, this)\"></iframe>"
+    },
+    {
+      "id": 154,
+      "images": [
+        {
+          "id": 61,
+          "articleId": 154,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/72895371-df69-481e-83a2-c4fea91e82e2_Parl 2020 - Topul prezenÈ›ei Ã®n diaspora.png"
+        }
+      ],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2020-12-05T21:24:13",
+      "title": "Secțiile de votare din Europa s-au închis",
+      "body": "Italia, Republica Moldova și Spania sunt statele care au raportat cel mai mare număr de votanți prezenți la urne, la închiderea primei zile de vot pentru alegerile parlamentare. \r\n\r\nÎn total, până la ora 23.00 au votat 86.667 de români. Votarea se va relua mâine, 6 decembrie 2020, la ora 07.00 dimineața, ora locală. \r\n"
+    },
+    {
+      "id": 153,
+      "images": [
+        {
+          "id": 60,
+          "articleId": 153,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/707b5ca7-a05a-4577-a49f-8c4e9ed2e293_AAEA17FE-BD1C-4D99-B927-C8DBE2EBA45A.jpeg"
+        }
+      ],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-05T17:30:33",
+      "title": "Prezență peste cea din 2016 și în Germania",
+      "body": "\r\n?BREAKING: și în Germania s-a depășit prezența la vot de la alegerile parlamentare din 2016!"
+    },
+    {
+      "id": 150,
+      "images": [
+        {
+          "id": 58,
+          "articleId": 150,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/cacb0f4c-efa8-4210-a501-990832e719f6_Prezenta.png"
+        }
+      ],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2020-12-05T17:15:22",
+      "title": "Câți români au votat în ultima oră",
+      "body": "În ultima oră au votat:\r\n* 1.243 români în Italia\r\n* 915 români în Spania\r\n* 723 români în Marea Britanie\r\n* 639 români în Germania\r\n* 233 români în Franța\r\n* 176 români în Belgia"
+    },
+    {
+      "id": 149,
+      "images": [],
+      "author": {
+        "id": 14,
+        "name": "Mircea Kivu"
+      },
+      "timestamp": "2020-12-05T17:01:56",
+      "title": "Prezență mare în diaspora în pandemie",
+      "body": "La parlamentarele din 2016 au votat în străinătate, în total, 117.089 alegători (dintre care 8.889 prin corespondență). Acum, după numai câteva ore din prima zi, au votat peste 72.000 de alegători (dintre care 21.329 prin corespondență).\r\nEu zic că, la sfârșit, vor fi peste 200.000, deci dublu față de acum 4 ani. Asta, în ciuda condițiilor de pandemie."
+    },
+    {
+      "id": 148,
+      "images": [],
+      "author": {
+        "id": 17,
+        "name": "Dragoș Costache",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/dragosCostache.jpg"
+      },
+      "timestamp": "2020-12-05T15:19:36",
+      "title": "Unde sunt plicurile din diaspora?",
+      "body": "Președintele AEP, Constantin-Florin Mitulețu-Buică a declarat astăzi că “doar 21.600 de plicuri din 35.800” au ajuns în termenul legal. Ce s-a întâmplat însă cu celelalte 14.200? Deși aceste plicuri pot părea “pierdute pe drum”, în defavoarea forțelor politice care sunt suprareprezentate în diaspora, mai mulți lideri politici reclamând acest lucru, adevărul este că nu știm exact ce s-a întâmplat. Proporția de plicuri neprimite este similară cu cele de la alegerile precedente unde s-a putut vota prin corespondență. Acestea nu sunt neapărat plicuri “pierdute”, ele putând fi și buletine ce nu au mai fost trimise de către alegători care au ales ori să voteze în persoană, pentru siguranță, ori să nu mai voteze deloc. Dispariția unui număr de plicuri nu este însă vreun semnal de alarmă, cel puțin deocamdată. Cert este că numere mari de români, de ordinul miilor, au primit mesaje automate că plicul nu a ajuns în termen legal, drept urmare, trebuind să se deplaseze la cea mai apropiată secție pentru a vota în persoană.\r\n\r\nÎn orice caz, dinamica votului în diaspora va fi una diferită, după cum menționa și colegul meu Bogdan mai devreme, un număr mare de alegători din diaspora revenind în țară în ultimul an și multe dintre țările în care există populații mari de români fiind afectate puternic de pandemie."
+    },
+    {
+      "id": 147,
+      "images": [
+        {
+          "id": 56,
+          "articleId": 147,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/0736d46b-c34e-44f2-a76c-7ae15a2c20ea_Stegulete (5).png"
+        },
+        {
+          "id": 57,
+          "articleId": 147,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/e15d16bb-0a4f-4132-8d78-c1f7b6519fee_Stegulete (4).png"
+        }
+      ],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2020-12-05T15:13:14",
+      "title": "Olanda și Elveția, prezență peste totalul din 2016",
+      "body": "Avem primele 2 țări în care au votat până la ora 17:00 mai mulți oameni decât acum 4 ani în total - Olanda (1.014 vs 958) și Elvetia (1.126 vs 786) "
+    },
+    {
+      "id": 146,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-05T15:05:28",
+      "title": "Euronews, despre prezența la vot la alegerile parlamentare din România",
+      "body": "[Will apathy be the winner in Romania's parliamentary election?](https://www.euronews.com/2020/12/04/will-apathy-be-the-winner-in-romania-s-parliamentary-election)",
+      "link": "https://www.euronews.com/2020/12/04/will-apathy-be-the-winner-in-romania-s-parliamentary-election"
+    },
+    {
+      "id": 145,
+      "images": [],
+      "author": {
+        "id": 15,
+        "name": "Olivia Vereha",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/oliviaverehasite.png"
+      },
+      "timestamp": "2020-12-05T15:00:30",
+      "title": "Despre votul persoanelor din localitățile carantinate",
+      "body": "_”În intervalul 6 decembrie 2020 ora 05.00 - 7 decembrie ora 01.00 alegătorii, inclusiv cei din localitățile carantinate, se vor putea deplasa la secțiile de votare sau de la secțiile de votare fără restricții și fără prezentarea documentelor doveditoare ale motivului deplasării. De la această regulă fac excepție persoanele izolate sau carantinate conform legii, acestea având posibilitatea să își exercite dreptul de vot prin intermediul urnei speciale.”_\r\n**Purtătorul de cuvânt al BEC, Mircea Preoţescu**\r\nSâmbătă, 05 decembrie 2020, ora 16.00",
+      "embed": "<iframe width=\"450\" height=\"315\" src=\"https://www.youtube.com/embed/cNKl5HJ7Nvw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    {
+      "id": 143,
+      "images": [],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2020-12-05T14:24:32",
+      "title": "Votul în diaspora",
+      "body": "Se votează deja de câteva ore buna în diaspora. Din cifrele de până acum este destul de clar că numărul de voturi din diaspora va fi mai mare decât cel de la ultimele alegeri parlamentare din 2016.\r\n\r\nEste încă incert dacă vom vedea numere similare cu recordurile de la alegerile prezidențiale de anul trecut.\r\n\r\nDouă fenomene au potențialul de a impacta semnificativ numărul de voturi exprimat în diaspora:\r\n1. autoritățile susțin că peste 1.5 milioane de români din diaspora s-au întors în țară în ultimele 11 luni.\r\n2. țările în care diaspora a votat masiv la alegerile precedente sunt puternic afectate de pandemie și multe dintre ele au măsurile de carantină în vigoare.\r\nStăm cu ochii pe țările cu prezența cea mai puternică de anul trecut:\r\n* Italia - 7.268 votanți la ora 16:00\r\n  * 20.848 votanți la parlamentare 2016\r\n  * 129.674 votanți în turul întâi al prezidențialelor 2019\r\n  * 190.336 votanți în turul al doilea al prezidențialelor din 2019\r\n* Marea Britanie - 3.572 votanți la ora 16:00\r\n  * 10.652 votanți la parlamentare 2016\r\n  * 119.450 votanți în turul întâi al prezidențialelor 2019\r\n  * 170.785 votanți în turul al doilea al prezidențialelor din 2019\r\n* Germania - 4.512 votanți la ora 16:00\r\n  * 6.734 votanți la parlamentare 2016\r\n  * 101.910 votanți în turul întâi al prezidențialelor 2019\r\n  * 154.442 votanți în turul al doilea al prezidențialelor din 2019\r\n* Spania - 4.961 votanți la ora 16:00\r\n  * 12.220 votanți la parlamentare 2016\r\n  * 89.071 votanți în turul întâi al prezidențialelor 2019\r\n  * 131.627 votanți în turul al doilea al prezidențialelor din 2019\r\n* Franța -1.882 votanți la ora 16:00\r\n  * 4.141 votanți la parlamentare 2016\r\n  * 30.714 votanți în turul întâi al prezidențialelor 2019\r\n  * 45.191 votanți în turul al doilea al prezidențialelor din 2019\r\n* Belgia - 1.652 votanți la ora 16:00\r\n  * 3.245 votanți la parlamentare 2016\r\n  * 26.610 votanți în turul întâi al prezidențialelor 2019\r\n  * 36.241 de votanți în turul al doilea al prezidențialelor din 2019\r\n\r\n\r\n\r\nNe uităm atent și la țările în care numărul votanților a fost istoric cel mai constant:\r\n* Republica Moldova - 8.261 votanți la ora 16:00\r\n  * 30.687 votanți la parlamentare 2016\r\n  * 43.299 votanți în turul întâi al prezidențialelor 2019\r\n  * 52.285 de votanți în turul al doilea al prezidențialelor din 2019\r\n* Ungaria - 224 votanți la ora 16:00\r\n  * 2.070 votanți la parlamentare 2016\r\n  * 2.105 votanți în turul întâi al prezidențialelor 2019\r\n  * 2.390 de votanți în turul al doilea al prezidențialelor din 2019"
+    },
+    {
+      "id": 144,
+      "images": [
+        {
+          "id": 55,
+          "articleId": 144,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/5f83beef-37c5-4d94-89e6-ed17d419c516_130127539_10217468604932668_5916837215774991700_n[1].jpg"
+        }
+      ],
+      "author": {
+        "id": 17,
+        "name": "Dragoș Costache",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/dragosCostache.jpg"
+      },
+      "timestamp": "2020-12-05T14:24:25",
+      "title": "Cum votează românii care vin din țări cu grad ridicat de risc din lista INSP?",
+      "body": "Conform unui răspuns oferit de BEC la solicitarea colegilor de la Fiecare Vot, românii care revin din țările aflate pe lista cu risc ridicat a INSP nu pot vota. Aceștia sunt obligați să se carantineze însă nu pot solicita urnă mobilă, termenul de solicitare fiind depășit.. BEC menționează că “exercitarea efectivă a dreptului de vot presupune și depunerea de către alegători a diligențelor necesare”. În traducere liberă, este datoria celor care doresc să revină în țară să facă astfel încât să poată vota și nu datoria statului să le ofere acces la acest drept fundamental."
+    },
+    {
+      "id": 142,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-05T13:08:08",
+      "title": "Vot Diaspora",
+      "body": "Pe pagina de Facebook Vot Diaspora vedeți ultimele informații despre cum votează românii peste tot în lume astăzi",
+      "link": "https://www.facebook.com/VotDiaspora/",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FVotDiaspora%2Fposts%2F1338907679788619&show_text=true&width=552&height=590&appId\" width=\"450\" height=\"590\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>"
+    },
+    {
+      "id": 141,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-05T11:44:47",
+      "title": "Aproape 18.000 din 39.244 din voturile prin corespondență trimise de români din străinătate nu vor fi contabilizate la alegeri. ",
+      "body": "Aproape 18.000 din 39.244 din voturile prin corespondență trimise de români din străinătate nu vor fi contabilizate la alegeri. Singura șansă ca să voteze e să meargă la cea mai apropiată secție, a spus pentru Libertatea Constantin Mitulețu, președintele AEP, pentru că „procesul de înregistrarea a voturilor prin corespondență s-a încheiat pe 3 decembrie”. ",
+      "link": "https://www.libertatea.ro/stiri/aproximativ-18-000-de-voturi-prin-corespondenta-din-strainatate-nu-au-mai-ajuns-la-destinatie-autoritatea-electorala-da-vina-pe-posta-romana-3309514"
+    },
+    {
+      "id": 140,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-05T09:32:00",
+      "title": "Peste 30.000 de alegători în diaspora până acum",
+      "body": "Până la această oră, 32.433 alegători din diaspora au votat, fie prin corespondență, fie în persoană.\r\n\r\nSelectând tabul Diaspora puteți vedea evoluția în timp real a prezenței la vot",
+      "embed": "<script src=\"https://rezultatevot.ro/iframeResizer.min.js\" async></script><iframe scrolling=\"no\" width=\"100%\" height=\"600\" style=\"border:0\" src=\"https://rezultatevot.ro/embed/112/turnout?division=diaspora\" onload=\"(window.iFrameResize || function () { var q = window.__iframeResizerQueue || []; window.__iframeResizerQueue = q; q.push(arguments); })({}, this)\"></iframe>"
+    },
+    {
+      "id": 139,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-04T22:58:33",
+      "title": "Alegeri parlamentare 2020. A început scrutinul. Primele secții de vot s-au deschis în diaspora",
+      "body": "Alegerile parlamentare 2020 iau startul vineri, 4 decembrie, odată cu deschiderea primelor birouri de vot în străinătate, în condițiile în care pentru diaspora scrutinul este organizat pe parcursul a două zile: 5 decembrie și 6 decembrie, în intervalul orar 7:00 - 21:00 (ora locală). ",
+      "link": "https://www.digi24.ro/alegeri-parlamentare-2020/votul-in-diaspora-incepe-azi-si-se-incheie-luni-dimineata-1411840"
+    },
+    {
+      "id": 138,
+      "images": [],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2020-12-04T21:00:13",
+      "title": "Și a început",
+      "body": "\r\nSe votează deja în câteva secții din diaspora.\r\n\r\n21.338 de voturi exprimate până acum. 4 votanți în Noua Zeelandă, 30 in Australia și restul prin corespondență."
+    },
+    {
+      "id": 137,
+      "images": [
+        {
+          "id": 54,
+          "articleId": 137,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/832f1b31-f8f2-4592-9456-c8028c96d556_2b2d458f-1887-4dbe-a9ff-3a089f288e6b_RezultateVot[1].png"
+        }
+      ],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2020-12-04T20:43:14",
+      "title": "Rezultate Vot e LIVE",
+      "body": "Bună seara! Pentru că românii din diaspora au început deja să voteze pentru alegerile parlamentare, Rezultate Vot transmite acum informații în timp real despre prezența la vot, date din Monitorizare Vot, aplicația folosită de observatori și comentarii live. Duminică după 21.00 aici vor apărea rezultatele parțiale pe măsură ce datele vor fi furnizate de autorități. Nu uitați, folosiți sidebar-ul din stânga pentru a vedea datele complete din istoricul electoral al României de după 1989. \r\n\r\nVom fi aici pe parcursul următoarelor zile cu informații live. Ne-ar bucura dacă v-ați lua totuși o pauză mică de la acest feed pentru a merge și a vota. Dacă până acum nu știți unde puteți vota, aruncați o privire pe www.votromania.ro și în mai puțin de două minute aflați toate informațiile necesare.\r\n\r\nAcest site face parte din ecosistemul de alegeri dezvoltat de Code for Romania și este realizat pro bono de către voluntarii noștri. Dacă vreți să ne sprijiniți pentru a realiza sute de astfel de soluții care să ajute societatea românească, trimiteți PUTEM prin SMS la 8864 și donați 4 euro pentru Code for Romania."
+    }
+  ],
+  "aggregated": false
+}

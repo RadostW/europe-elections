@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Brasov",
+    "countyId": 4481
+  },
+  "meta": {
+    "date": "2014-11-02T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 8,
+    "ballotId": 15,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 517721,
+    "totalVotes": 334085
+  },
+  "results": {
+    "eligibleVoters": 517721,
+    "totalVotes": 334085,
+    "validVotes": 328251,
+    "nullVotes": 5834,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "IOHANNIS KLAUS-WERNER",
+        "shortName": "IOHANNIS KLAUS-WERNER",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 207109,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNL"
+      },
+      {
+        "name": "PONTA VICTOR-VIOREL",
+        "shortName": "PONTA VICTOR-VIOREL",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 121142,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD"
+      }
+    ],
+    "countedVotes": 334085
+  },
+  "electionNews": [],
+  "aggregated": false
+}

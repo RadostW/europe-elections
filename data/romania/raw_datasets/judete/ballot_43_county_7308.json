@@ -1,0 +1,310 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Covasna",
+    "countyId": 7308
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Parlamentare",
+    "type": "house",
+    "ballot": "Camera Deputatilor",
+    "electionId": 22,
+    "ballotId": 43,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 182878,
+    "totalVotes": 110759
+  },
+  "results": {
+    "eligibleVoters": 182878,
+    "totalVotes": 110759,
+    "validVotes": 104852,
+    "nullVotes": 5907,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 71447,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 11972,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "D.A. PNL-PD",
+        "shortName": "D.A. PNL-PD",
+        "partyColor": "#808080",
+        "votes": 8316,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PRM",
+        "shortName": "PRM",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 4356,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Mare"
+      },
+      {
+        "name": "Alianța pentru Unirea Românilor",
+        "shortName": "AUR",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Alian%C8%9Ba+pentru+Unirea+Rom%C3%A2nilor.jpg",
+        "votes": 3295,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ROMII",
+        "shortName": "ROMII",
+        "partyColor": "#808080",
+        "votes": 526,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PUNR",
+        "shortName": "PUNR",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Unit%C4%83%C8%9Bii+Na%C8%9Biunii+Rom%C3%A2ne.jpg",
+        "votes": 477,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Unității Națiunii Române"
+      },
+      {
+        "name": "PNG",
+        "shortName": "PNG",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Noua+Genera%C8%9Bie.jpg",
+        "votes": 445,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Noua Generație"
+      },
+      {
+        "name": "PER",
+        "shortName": "PER",
+        "partyColor": "#8BC58B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Ecologist+Rom%C3%A2n.jpg",
+        "votes": 400,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Ecologist Român"
+      },
+      {
+        "name": "A-RROMI",
+        "shortName": "A-RROMI",
+        "partyColor": "#808080",
+        "votes": 344,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "URR",
+        "shortName": "URR",
+        "partyColor": "#808080",
+        "votes": 344,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PM3",
+        "shortName": "PM3",
+        "partyColor": "#808080",
+        "votes": 335,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-UCRAINENI",
+        "shortName": "U-UCRAINENI",
+        "partyColor": "#808080",
+        "votes": 299,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PSR",
+        "shortName": "PSR",
+        "partyColor": "#808080",
+        "votes": 280,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "FDR",
+        "shortName": "FDR",
+        "partyColor": "#808080",
+        "votes": 273,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PMR",
+        "shortName": "PMR",
+        "partyColor": "#808080",
+        "votes": 237,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PSU",
+        "shortName": "PSU",
+        "partyColor": "#808080",
+        "votes": 225,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PAS",
+        "shortName": "PAS",
+        "partyColor": "#808080",
+        "votes": 207,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PNDC",
+        "shortName": "PNDC",
+        "partyColor": "#808080",
+        "votes": 170,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PSDCTP",
+        "shortName": "PSDCTP",
+        "partyColor": "#808080",
+        "votes": 127,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-ELENA",
+        "shortName": "U-ELENA",
+        "partyColor": "#808080",
+        "votes": 102,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "C-ITALIANA",
+        "shortName": "C-ITALIANA",
+        "partyColor": "#808080",
+        "votes": 96,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "A-BULGARI",
+        "shortName": "A-BULGARI",
+        "partyColor": "#808080",
+        "votes": 89,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "AMR",
+        "shortName": "AMR",
+        "partyColor": "#808080",
+        "votes": 77,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-CROATI",
+        "shortName": "U-CROATI",
+        "partyColor": "#808080",
+        "votes": 71,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Național Liberal - Aripa Tânără",
+        "shortName": "PNL-Aripa tânără",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal+-+Aripa+T%C3%A2n%C4%83r%C4%83.jpg",
+        "votes": 68,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UAR",
+        "shortName": "UAR",
+        "partyColor": "#808080",
+        "votes": 58,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UBBR",
+        "shortName": "UBBR",
+        "partyColor": "#808080",
+        "votes": 52,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "C-RUSI LIPOVENI",
+        "shortName": "C-RUSI LIPOVENI",
+        "partyColor": "#808080",
+        "votes": 47,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "AC-MACEDONENI",
+        "shortName": "AC-MACEDONENI",
+        "partyColor": "#808080",
+        "votes": 44,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-TURCA",
+        "shortName": "U-TURCA",
+        "partyColor": "#808080",
+        "votes": 44,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "BRATSTVO",
+        "shortName": "BRATSTVO",
+        "partyColor": "#808080",
+        "votes": 18,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-RUTENI",
+        "shortName": "U-RUTENI",
+        "partyColor": "#808080",
+        "votes": 11,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 110759
+  },
+  "electionNews": [],
+  "aggregated": false
+}

@@ -1,0 +1,185 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Arad",
+    "countyId": 589
+  },
+  "meta": {
+    "date": "2019-05-26T00:00:00",
+    "title": "Alegeri Europarlamentare",
+    "type": "european_parliament",
+    "ballot": "Alegeri Europarlamentare",
+    "electionId": 3,
+    "ballotId": 4,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 389095,
+    "totalVotes": 187115
+  },
+  "results": {
+    "eligibleVoters": 389095,
+    "totalVotes": 187115,
+    "validVotes": 180979,
+    "nullVotes": 4948,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Partidul Național Liberal",
+        "shortName": "PNL",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 66914,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Liberal"
+      },
+      {
+        "name": "Uniunea Salvați România",
+        "shortName": "USR",
+        "partyColor": "#01A0E4",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Alian%C8%9Ba+USR-PLUS.jpg",
+        "votes": 34862,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "ALIANȚA 2020 USR PLUS"
+      },
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 29789,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Social Democrat"
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 10287,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "Partidul Miscarea Populară",
+        "shortName": "PMP",
+        "partyColor": "#000099",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Miscarea+Popular%C4%83.jpg",
+        "votes": 9342,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Miscarea Populară"
+      },
+      {
+        "name": "COSTEA PETER",
+        "partyColor": "#808080",
+        "votes": 8279,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL ALIANȚA LIBERALILOR ȘI DEMOCRAȚILOR",
+        "shortName": "ALDE",
+        "partyColor": "#B2B200",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Alian%C8%9Ba+Liberalilor+%C8%99i+Democra%C8%9Bilor.jpg",
+        "votes": 7873,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Liberalilor și Democraților"
+      },
+      {
+        "name": "PARTIDUL PRO ROMÂNIA",
+        "shortName": "PRO",
+        "partyColor": "#FF4C4C",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Pro+Romania.jpg",
+        "votes": 7694,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PARTIDUL PRO ROMÂNIA"
+      },
+      {
+        "name": "SIMION GEORGE-NICOLAE",
+        "partyColor": "#808080",
+        "votes": 1260,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "TUDORAN GREGORIANA CARMEN",
+        "partyColor": "#808080",
+        "votes": 1138,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul România Unită",
+        "shortName": "PRU",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Unit%C4%83.jpg",
+        "votes": 849,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Unită"
+      },
+      {
+        "name": "PARTIDUL PRODEMO",
+        "shortName": "PP",
+        "partyColor": "#808080",
+        "votes": 825,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL SOCIALIST ROMÂN",
+        "shortName": "PSR",
+        "partyColor": "#808080",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/psr.png",
+        "votes": 624,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL PRO ROMÂNIA",
+        "shortName": "PRO",
+        "partyColor": "#FF4C4C",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Pro+Romania.jpg",
+        "votes": 569,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL SOCIAL DEMOCRAT INDEPENDENT",
+        "shortName": "PSDI",
+        "partyColor": "#808080",
+        "votes": 402,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "BLOCUL UNITĂȚII NAȚIONALE",
+        "shortName": "BUN",
+        "partyColor": "#808080",
+        "votes": 272,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 185927
+  },
+  "observation": {
+    "id": 2,
+    "ballotId": 4,
+    "coveredPollingPlaces": 2677,
+    "coveredCounties": 43,
+    "observerCount": 815,
+    "messageCount": 243686,
+    "issueCount": 98541
+  },
+  "electionNews": [],
+  "aggregated": false
+}

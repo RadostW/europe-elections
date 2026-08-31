@@ -1,0 +1,143 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Brasov",
+    "countyId": 4481
+  },
+  "meta": {
+    "date": "2000-11-26T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 1",
+    "electionId": 27,
+    "ballotId": 54,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 489912,
+    "totalVotes": 332335
+  },
+  "results": {
+    "eligibleVoters": 489912,
+    "totalVotes": 332335,
+    "validVotes": 324390,
+    "nullVotes": 7406,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "CORNELIU VADIM TUDOR",
+        "shortName": "CORNELIU VADIM TUDOR",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 93139,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PRM"
+      },
+      {
+        "name": "ION ILIESCU",
+        "shortName": "ION ILIESCU",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 76991,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDSR-PUR-PSDR"
+      },
+      {
+        "name": "THEODOR DUMITRU STOLOJAN",
+        "shortName": "THEODOR DUMITRU STOLOJAN",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 59824,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNL"
+      },
+      {
+        "name": "CONSTANTIN MUGUREL ISARESCU",
+        "shortName": "CONSTANTIN MUGUREL ISARESCU",
+        "partyColor": "#808080",
+        "votes": 39748,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "GYORGY FRUNDA",
+        "shortName": "GYORGY FRUNDA",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 23958,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UDMR"
+      },
+      {
+        "name": "PETRE ROMAN",
+        "shortName": "PETRE ROMAN",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat.jpg",
+        "votes": 9802,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PD"
+      },
+      {
+        "name": "TEODOR VIOREL MELESCANU",
+        "shortName": "TEODOR VIOREL MELESCANU",
+        "partyColor": "#FF4C4C",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Alian%C8%9Ba+pentru+Rom%C3%A2nia.jpg",
+        "votes": 8631,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "ApR"
+      },
+      {
+        "name": "GHEORGHE EDUARD MANOLE",
+        "shortName": "GHEORGHE EDUARD MANOLE",
+        "partyColor": "#808080",
+        "votes": 6444,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "GRAZIELA-ELENA BIRLA",
+        "shortName": "GRAZIELA-ELENA BIRLA",
+        "partyColor": "#808080",
+        "votes": 2105,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PAUL-PHILIPPE HOHENZOLLERN",
+        "shortName": "PAUL-PHILIPPE HOHENZOLLERN",
+        "partyColor": "#808080",
+        "votes": 2098,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "NICULAE CERVENI",
+        "shortName": "NICULAE CERVENI",
+        "partyColor": "#808080",
+        "votes": 913,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ION SASU",
+        "shortName": "ION SASU",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Socialist+al+Muncii.jpg",
+        "votes": 737,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSM"
+      }
+    ],
+    "countedVotes": 331796
+  },
+  "electionNews": [],
+  "aggregated": false
+}

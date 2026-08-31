@@ -1,0 +1,531 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Tulcea",
+    "countyId": 19284
+  },
+  "meta": {
+    "date": "2024-06-09T00:00:00",
+    "title": "Alegeri Europarlamentare",
+    "type": "european_parliament",
+    "ballot": "Alegeri Europarlamentare",
+    "electionId": 51,
+    "ballotId": 118,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 185478,
+    "totalVotes": 94125
+  },
+  "results": {
+    "eligibleVoters": 185478,
+    "totalVotes": 94125,
+    "validVotes": 88721,
+    "nullVotes": 5404,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ALIANȚA ELECTORALĂ PSD PNL",
+        "shortName": "PSD-PNL",
+        "partyColor": "#ff5b77",
+        "partyLogo": "",
+        "votes": 46419,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "ALIANȚA ELECTORALĂ PSD PNL"
+      },
+      {
+        "name": "ALIANȚA AUR",
+        "partyColor": "#808080",
+        "votes": 17344,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL S.O.S. ROMÂNIA",
+        "shortName": "SOS",
+        "partyColor": "#912525",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/partidulsosromania.png",
+        "votes": 6723,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PARTIDUL S.O.S. ROMÂNIA"
+      },
+      {
+        "name": "ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI",
+        "shortName": "USR - PMP - FORȚA DREPTEI",
+        "partyColor": "#01A0E4",
+        "partyLogo": "",
+        "votes": 4707,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI"
+      },
+      {
+        "name": "PARTIDUL REÎNNOIM PROIECTUL EUROPEAN AL ROMÂNIEI",
+        "shortName": "REPER",
+        "partyColor": "#85c3ff",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/reper.png",
+        "votes": 3289,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PARTIDUL REÎNNOIM PROIECTUL EUROPEAN AL ROMÂNIEI"
+      },
+      {
+        "name": "GHEORGHE VLAD-DAN",
+        "partyColor": "#808080",
+        "votes": 1927,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL",
+        "partyColor": "#808080",
+        "votes": 1737,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL DIASPORA UNITĂ",
+        "partyColor": "#808080",
+        "votes": 1503,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ȘOȘOACĂ DUMITRU-SILVESTRU",
+        "partyColor": "#808080",
+        "votes": 1186,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL PATRIOȚILOR",
+        "shortName": "PARTIDUL PATRIOȚILOR",
+        "partyColor": "#cd00cd",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/partidulpatriotilor.png",
+        "votes": 707,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PARTIDUL PATRIOȚILOR"
+      },
+      {
+        "name": "PRM",
+        "shortName": "PRM",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 640,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Mare"
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 619,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "ROMÂNIA SOCIALISTĂ",
+        "shortName": "PSR - PSDM",
+        "partyColor": "#afafaf",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/psr.png",
+        "votes": 563,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "ROMÂNIA SOCIALISTĂ"
+      },
+      {
+        "name": "PARTIDUL UMANIST SOCIAL LIBERAL",
+        "shortName": "PUSL",
+        "partyColor": "#e63939",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/pusl.png",
+        "votes": 561,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PARTIDUL UMANIST SOCIAL LIBERAL"
+      },
+      {
+        "name": "PÎRVĂNESCU PAULA-MARINELA",
+        "partyColor": "#808080",
+        "votes": 534,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Alternativa Dreaptă",
+        "shortName": "AD",
+        "partyColor": "#4C4CFF",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Alternativa+Dreapt%C4%83.jpg",
+        "votes": 262,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Alternativa Dreaptă"
+      }
+    ],
+    "countedVotes": 94125
+  },
+  "observation": {
+    "id": 20,
+    "ballotId": 118,
+    "coveredPollingPlaces": 932,
+    "coveredCounties": 53,
+    "observerCount": 495,
+    "messageCount": 2320,
+    "issueCount": 1771
+  },
+  "electionNews": [
+    {
+      "id": 271,
+      "images": [],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2024-06-10T07:55:55",
+      "title": "Cum s-a votat în diaspora la Europarlamentare?",
+      "body": "Atenție – am folosit datele provizorii disponibile la BEC la ora 9:45. Rezultatele finale vor fi probabil diferite, dar nu substanțial.\r\nPrima observație este legată de participarea foarte redusă la vot. Dacă în 2019 au votat 379.466 de români în 441 de secții de votare, ieri, cu 915 secții de votare deschise, au venit la urne 209.333 de români. Astfel, participarea la europarlamentare în 2024 în diaspora a fost de doar 55% din cea din 2019.\r\nLa nivelul întregii diaspore, rezultatele sunt următoarele:\r\n-\tAlianța PSD-PNL a primit 21% din voturi\r\n-\tAlianța Dreapta Unită a primit 16% din voturi\r\n-\tAlianța pentru Unirea Românilor a primit 15% din voturi\r\n-\tSOS România a primit 14% din voturi\r\n-\tREPER a primit 10% din voturi\r\n-\tPartidul Diaspora Unită a primit 7% din voturi\r\n-\tNicu Ștefănuță a primit 6% din voturi\r\n-\tVlad Gheorghe a primit 5% din voturi\r\n-\tAlți candidați au primit 6% din voturi\r\nDacă partidele noastre nu ar fi fost atât de fragmentate în goana după ciolan și dacă ar fi candidat după cum se aseamănă, rezultatele ar arăta astfel:\r\n-\tAlianța PSD-PNL: 21%\r\n-\tAlianța Dreapta Unită + REPER + VG + NS: 37%\r\n-\tAUR + SOS România: 30%\r\n-\tAlți candidați: 12%\r\nȚările cu cele mai multe voturi:\r\n1.\tMoldova – 54695 voturi (+46% față de 2019)\r\n2.\tUK – 30220 voturi (-34%)\r\n3.\tItalia – 23930 voturi (-70%)\r\n4.\tGermania – 23522 voturi (-38%)\r\n5.\tSpania – 19904 voturi (-64%)\r\n6.\tFranța – 9214 voturi (-60%)\r\n7.\tBelgia – 8901 voturi (-35%)\r\n8.\tAustria – 6646 voturi (-45%)\r\n9.\tOlanda – 6565 voturi (+16%)\r\n10.\tAlte 85 țări (<3000 voturi) – 24249 voturi\r\nSe remarcă o creștere de aproape 50% a voturilor din Republica Moldova. Olanda este a doua țară din rândul celor cu mai mult de 5000 de votanți în care s-a înregistrat o creștere a numărului de voturi, de 16%. Pentru toate celelalte șapte țări din top, în 2024 au votat mai puțini români decât în 2019. Scăderile cele mai mari au fost în țările în care trăiesc cei mai mulți români: 70% scădere în Italia și 64% scădere în Spania. Aici este loc pentru un studiu pentru a înțelege aceste rezultate, pentru a înțelege în ce proporție putem vorbi de supra-mobilizare în 2019 sau de dezamăgire în 2024. În cazul Republicii Moldova, numărul mare de votanți probabil că are de-a face cu războiul Rusiei împotriva Ucrainei și cu dorința Moldovei de a adera la UE.  \r\nCe candidați au fost preferați în aceste țări?\r\n-\tMoldova: 55% au votat pentru Alianța PSD-PNL, 23% au votat ADU\r\n-\tUK: 19% au votat SOS România, 17% au votat AUR\r\n-\tItalia: 22% au votat SOS România, 21% au votat AUR\r\n-\tGermania: 24% au votat SOS România, 20% au votat AUR\r\n-\tSpania: 21% au votat AUR, 19% au votat SOS România\r\n-\tFranța: 17% au votat AUR, 15% au votat ADU\r\n-\tBelgia: 19% au votat AUR, 17% au votat REPER\r\n-\tAustria: 29% au votat AUR, 17% au votat SOS România\r\n-\tOlanda: 33% au votat Nicu Ștefănuță, 20% au votat REPER\r\nMie aceste rezultate mi se par remarcabile și ele par să sugereze trei direcții: \r\n1.\tMoldova e de sine stătătoare, e influențată puternic de jocul politic din România.\r\n2.\tOlanda și Belgia sunt diferite prin românii care trăiesc acolo: în Olanda probabil vorbim de foarte mulți studenți, ceea ce explică Ștefănuță + REPER, în timp ce în Belgia vorbim probabil de foarte mulți români care lucrează în instituțiile UE, ceea ce explică REPER.\r\n3.\tÎn restul țărilor cel mai probabil este vorba de o demobilizare bazată pe dezamăgire: PSD și PNL, candidând împreună au trădat o parte din ambele electorate, în timp ce USR și REPER, prin toată istoria comună din ultimii ani, au dezamăgit mulți dintre votanții lor de acum cinci ani.\r\n"
+    },
+    {
+      "id": 270,
+      "images": [],
+      "author": {
+        "id": 19,
+        "name": "Darie Cristea"
+      },
+      "timestamp": "2024-06-09T22:31:08",
+      "title": "Scorul sub așteptări al AUR nu este o surpriză",
+      "body": "Exit-poll-ul din seara zilei de 9 iunie plasează scorul AUR la europarlamentare în jur de 14%.\r\nUnde sunt scorurile de 20% plus pe care le atribuiau alianței respective principalele institute de sondare a opiniei publice?\r\n\r\nÎntâmplarea face să fi participat la un proiect de sondare a opiniei publice (am fost printre\r\ncoordonatori, de fapt) pe teme electorale, în toamna anului trecut. Pe scurt, cu ponderări, cu\r\ncalcule, cu diferite scenarii de prezență, AUR se mișca între 14 și 16%, iar PNL-ul era puțin\r\npeste 20%, în niciun caz sub.\r\n\r\nUnele rezultate au scăpat spre presă (nu știu cum, dar le vedeți în linkul de mai jos). Sigur, cum spuneam, au fost mai multe calcule și scenarii acolo dar, trăgând linie, scorul AUR nu este o surpriză.\r\n\r\nhttps://www.hotnews.ro/stiri-politic-26619549-sondaj-comanda-pnl-66-3-dintre-romanii-\r\nconsidera-psd-pnl-trebui-candideze-separat-alegerile-europarlamentare-geoana-primul-loc-\r\nurmat-ponta-kovesi.htm"
+    },
+    {
+      "id": 266,
+      "images": [],
+      "author": {
+        "id": 18,
+        "name": "Maria Krause",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/MariaKrause.png"
+      },
+      "timestamp": "2024-06-09T19:10:19",
+      "title": "Activitatea în secțiile de votare ",
+      "body": "Până la ora 19:30 procedura de votare a fost evaluată ca fiind bună și foarte bună în 94% dintre secțiile evaluate. Cu toate acestea în doar două treimi dintre secțiile vizitate observatorii au constatat că alegătorii înțelegeau procedura de votare bine sau foarte bine. Proporția îngrijorătoare de 10% din secții de votare în care observatorii au raportat tensiune sau acțiuni de intimidare a rămas neschimbată și în a doua parte a zilei; 29% dintre secțiile vizitate erau aglomerate. Persoane neautorizate au fost observate intervenind în procesul de votare în 4% dintre raportări. SIMPV a funcționat normal în 99.5% dintre secțiile vizitate. Din 746 secții vizitate, aproape un sfert nu sunt accesibile alegătorilor cu mobilitate redusă. Transparenţa procesului a fost evaluată pozitiv de observatori în 98% din raportări."
+    },
+    {
+      "id": 264,
+      "images": [],
+      "author": {
+        "id": 4,
+        "name": "Alexandra Iancu",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/alexandraiancu.png"
+      },
+      "timestamp": "2024-06-09T18:53:21",
+      "title": "Prezență Europarlamentare 2024. Update ora 21:00",
+      "body": "Pragul de participare la europarlamentare a fost depasit pentru a doua oara în perioada postaderări - 50,69%. Tendința remarcată încă de dimineață cu privire la. mobilizarea diferită în raport cu ultimele alegeri europarlamentare din 2019 s-a menținut cu mici modificări în ierharhia generala.\r\n\r\nJudețele care conduc in clasamentul participării la europarlamentare sunt:\r\nGiurgiu 60,44%, Olt 60,43%, Teleorman-58,62%,  Gorj 57,31%,\r\n: \r\nJudețele cu rata cea mai înaltă de mobilizare (raportat la 2019)\r\nCălărași (+11,11%),  Ialomita (+9,55%), Olt (+9,41%), Valcea (+9,20%)\r\n\r\nJudețele cu rata cea mai scăzută de mobilizare (raportat la 2019)\r\nIlfov (--10,42%), București (-10,41%), Cluj (-8,38%), Sibiu (-7,20%), Brasov (-4,34%)"
+    },
+    {
+      "id": 262,
+      "images": [
+        {
+          "id": 99,
+          "articleId": 262,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/c6a03abb-a5c8-461f-afd3-899409b17d4a_CIOBANU.jpeg"
+        }
+      ],
+      "author": {
+        "id": 25,
+        "name": "Costin Ciobanu"
+      },
+      "timestamp": "2024-06-09T18:49:02",
+      "title": "România electorală, povestea a două lumi ",
+      "body": "La acest moment (date de la ora 20:00), cea mai mică prezență la vot este în Vaslui (35,4%) și București (38,41%). \r\n\r\n\r\nPe de-o parte, avem cel mai sărac județ al României (PIB/capita de 5700 Euro în 2021, conform Eurostat). Pe de altă partea, cea mai bogată comunitate a României (34200 Euro/capita). \r\n\r\n\r\nAm făcut o scurtă analiză a relației dintre PIB/capita și prezența la vot în fiecare județ și cum evoluează ea de-a lungul zilei (14:00, 16:00, 18:00 și 20:00). \r\n\r\n\r\nVasluiul și Bucureștiul spun cert povestea a două lumi. \r\n\r\n\r\nDar nu este doar despre Vaslui, ci și despre restul județelor din Moldova. Realitatea poate fi cel mai clar văzută în datele de la ora 20:00. Multe din județele Moldovei sunt \"sub linie\", ceea ce înseamnă că prezența este mai mică decât te-ai aștepta uitându-te doar la PIB/capita. Este aici foarte probabil povestea României despre migrație. Modelul este unul foarte de bază, bivariat, avem doar 42 observații, iar datele sunt agregate (ceea ce poate produce erori), dar ideea rămâne.\r\n\r\n\r\nPIB/capita și prezența la vot sunt corelate negativ, în primul rând pentru că avem cazul Bucureștiului: pe măsură ce PIB/capita crește, participarea la vot scade. Oamenii din județe în care se trăiește, în medie, mai bine au mai puține motive pentru a se interesa de politică, par să sugereze aceste cifre.\r\n\r\n\r\nCe este de asemenea interesant este că, pe măsură ce ne apropiem de finalul votului, corelația dintre prezență și bunăstare se reduce de la -0.42 (ora 14:00) la -0.28 (ora 20:00). Încep să vină la vot oamenii din județele mai bogate, dar probabil nu într-un ritm suficient de rapid pentru a face relația irelevantă. \r\n\r\n\r\nVăd aici o posibilă cheie de interpretare pentru ce rezultate se prefigurează. Suntem departe de revoluția la vot din mai 2019.\r\n"
+    },
+    {
+      "id": 260,
+      "images": [
+        {
+          "id": 97,
+          "articleId": 260,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/4aeadd75-a046-4679-b3c0-28cb02592704_fiefurile partidelor.png"
+        }
+      ],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2024-06-09T18:39:42",
+      "title": "Fiefurile partidelor în ultimele 3 decenii  ",
+      "body": "Mai sunt câteva zeci de minute pana vom avea primele rezultate live pe rezultatevot.ro Acesta este istoricul castigatorilor alegerilor locale în România din ultimii 30 de ani. Cum credeți ca se va colora harta României în această noapte?"
+    },
+    {
+      "id": 259,
+      "images": [],
+      "author": {
+        "id": 19,
+        "name": "Darie Cristea"
+      },
+      "timestamp": "2024-06-09T18:35:39",
+      "title": "Comasarea alegerilor, interpretări ",
+      "body": "Una dintre marile dezbateri ale zilei de azi a fost cea legată de comasarea localelor cu europarlamentarele. Pe scurt, au avut de câștigat europarlamentarele la prezență ca urmare a votului pentru locale pus în aceeași zi?\r\nS-a argumentat că, pe parcursul zilei de azi, prezența la europarlamentare a fost mai mare decât cea pentru locale. Și totuși, cel mai probabil este ca mai degrabă alegerile locale să fi influențat prezența la europarlamentare. Iată cum: mobilizarea pentru locale a fost mare în mediul rural. Ajuns la secția de vot, cetățeanul din rural a votat și pentru europarlamentare, deși, poate, în alt context, nu ar fi fost alegerile cele mai interesante pentru el. Grosso modo, în 2019, la alegerile europene, în contextul unei prezențe record față de celelalte trei alegeri de același tip anterioare, peste 5 milioane de voturi au venit din urban și doar ceva sub 4 milioane din rural.\r\nDeci, în mediul rural, alegerile europene au avut clar de câștigat la capitolul prezență din comasare. Este de gândit dacă nu cumva a funcționat și coerența votului: am venit să votez primarul, am votat partidul lui și pentru Parlamentul European.\r\n"
+    },
+    {
+      "id": 257,
+      "images": [],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2024-06-09T16:55:08",
+      "title": "Sectorul 3, codașul la vot ",
+      "body": "Situația prezenței la vot în sectorul 3 este unul dintre fenomenele interesante ale zilei de azi. Cel mai populat sector al Bucureștiului are cea mai mică prezență la vot din țară (cca 30% la ora această oră), în contrast cu sectoarele vecine: cca 36% prezența la vot în sectorul 2 și cca 37% prezență în sectorul 4."
+    },
+    {
+      "id": 254,
+      "images": [
+        {
+          "id": 94,
+          "articleId": 254,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/f9cb65b0-77cc-4423-8b09-c6fd7203ed21_Prezenta Vot (2).png"
+        }
+      ],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2024-06-09T16:38:17",
+      "title": "Topul localităților în care nu ai ce alege ",
+      "body": "Analiza de mai devreme a stârnit foarte mute reacții. Multe dintre cele 134 de localități care au doar un candidat la primărie sunt comune sau orășele cu populații substanțiale. Acesta este topul celor mai populate dintre ele. Unele dintre ele sunt populate de minoritatea maghiară, fapt care poate explica parțial fenomenul, dar multe sunt localități importante din jurul Bucureștiului sau din alte părți ale țării."
+    },
+    {
+      "id": 252,
+      "images": [],
+      "author": {
+        "id": 4,
+        "name": "Alexandra Iancu",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/alexandraiancu.png"
+      },
+      "timestamp": "2024-06-09T16:31:43",
+      "title": "Prezență Europarlamentare 2024. Update ora 19:00",
+      "body": "Prezența la vot la europarlamentare -44,16% -este doar cu puțin mai mare decât la ultimele alegeri din 2019.\r\n\r\nJudețele cu rata cea mai înaltă de participare - care au depășit astfel deja pragul simbolic de 50% : \r\nOlt (51,92%), Giurgiu (51,39%), Gorj (50,05%), Salaj (51,05%), Valcea (50,51%)\r\n\r\nJudețele cu rata cea mai înaltă de mobilizare (raportat la 2019)\r\nCălărași (+9,2%), Valcea (+8,45%), Olt (+7,99%), Gorj (+7,85%), Covasna (7,57%)\r\n\r\nJudețele cu rata cea mai scăzută de mobilizare (raportat la 2019)\r\nBucurești (-10,75%), Ilfov (-8,58%), Sibiu (-7,56%), Cluj (-7,26%)\r\n"
+    },
+    {
+      "id": 250,
+      "images": [
+        {
+          "id": 93,
+          "articleId": 250,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/d366f8a0-4fc9-46f0-be3c-9d8b0842e93a_Prezenta Vot (1).png"
+        }
+      ],
+      "author": {
+        "id": 5,
+        "name": "Bogdan Ivanel",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/bogdanivanel.jpg"
+      },
+      "timestamp": "2024-06-09T15:12:10",
+      "title": "Fără democrație în 134 de localități",
+      "body": "Un deșert democratic crește sub ochii noștri. În nu mai puțin de 134 de localități există doar un singur candidat la funcția de primar. O creștere masivă față de 75 de localități care s-au aflat în situația aceasta acum 4 ani. Asta înseamnă că 267 000 de români nu au cu cine alege. În alte 635 de localități există doar doi candidați."
+    },
+    {
+      "id": 249,
+      "images": [],
+      "author": {
+        "id": 23,
+        "name": "Barbu Mateescu"
+      },
+      "timestamp": "2024-06-09T15:11:23",
+      "title": "Comparație prezență vot Constanța ",
+      "body": "Ora 17, municipiul Constanța, la alegerile locale (nu euro), pe formatul 2020/acum:\r\n\r\n18-24 ani, voturi: 3732 / 3675\r\n25-34 ani, voturi: 7663 / 5871\r\n35-44 ani, voturi: 12,337 / 11,303\r\n45-64 ani, voturi: 27,025 / 26,590\r\n65+ ani, voturi: 20,807 /  23,866\r\n\r\n(Preluare FaceBook, cu acordul autorului)"
+    },
+    {
+      "id": 246,
+      "images": [
+        {
+          "id": 90,
+          "articleId": 246,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/eaa484dd-3895-4be9-aa4c-af9e7afacccc_TEXT 6 Claudiu.png"
+        }
+      ],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2024-06-09T15:04:56",
+      "title": "Impresii despre prezența la ora 17:00",
+      "body": "Conform datelor de prezență la vot la ora 17:00 se pare că ușorul avantaj la nivel național observat în orele dimineții și spre prânz s-a pierdut, astfel încât la această oră participarea la vot în 2024 a fost de 36,5%, similară cu cea din 2019: 36,2%.\r\nBucureștiul și Diaspora sunt, în continuare, mult în urma participării din 2019. În București au votat azi până la ora 17:00 doar 28,3% dintre votanți, în timp ce în 2019 votaseră 37,6%. Participarea la vot în București în acest an este la trei sferturi din cea de acum cinci ani.\r\nÎn mod similar, în diaspora au votat până la ora 17:00 doar 136670 de persoane, în timp ce în 2019 la aceeași oră votaseră 208790 de persoane. Participarea la vot în diaspora în 2024 este la ora 17:00 de doar 65% din cea de acum cinci ani.\r\nAveți mai jos și curbele participării la vot pentru anul acesta și pentru 2019.\r\n"
+    },
+    {
+      "id": 245,
+      "images": [],
+      "author": {
+        "id": 23,
+        "name": "Barbu Mateescu"
+      },
+      "timestamp": "2024-06-09T14:59:24",
+      "title": "Comparatie prezență vot Timișoara (ora 16)\t",
+      "body": "Ora 16, municipiul Timișoara, la alegerile locale (nu euro), pe formatul 2020/acum:\r\n\r\n18-24 ani, voturi: 3241 / 3677\r\n\r\n25-34 ani, voturi: 9915 / 7591 <- aceeași poveste tristă peste tot\r\n\r\n35-44 ani, voturi: 13 183 / 12 603\r\n\r\n45-64 ani, voturi: 21 859 / 23 569\r\n\r\n65+ ani, voturi: 11 982 /  17 457 <- creștere imensă, ca peste tot în țară.\r\n\r\nVoi repeta exercițiul la ora 17 cu Constanța.\r\n\r\n(Preluare FaceBook, cu acordul autorului)"
+    },
+    {
+      "id": 243,
+      "images": [],
+      "author": {
+        "id": 19,
+        "name": "Darie Cristea"
+      },
+      "timestamp": "2024-06-09T13:59:22",
+      "title": "Prezența nu este chiar o surpriză, dar poate aduce rezultate surprinzătoare",
+      "body": "Am trecut ușor de jumătatea zilei de alegeri și principala observație pare a fi legată de prezență. Trec peste felul în care mass-media „amenință” publicul cu surprize la acest tur de alegeri... se întâmplă la fel de fiecare dată.\r\nSă aducem aminte publicului că la primele alegeri europarlamentare din România (2007 – mandat incomplet, 2009, 2014) prezența s-a învârtit în jurul cifrei de 30% (aprox. 29%, 27%, respectiv 32%). Dar să reamintim și că la ultimele, cele din 2019, prezența a fost 51%, fără comasări și alte chestiuni care ar putea influența prezența. Să nu uităm nici că la localele din 2020 prezența a fost mai mică la nivel național decât la europarlamentarele din 2019.\r\nSurpriza a fost atunci (mă refer la 2019) imensă, inclusiv pentru institutele de cercetare sociologică, pentru că multe dintre ele propuseseră înainte de acele alegeri un tablou al ierarhiei rezultatelor calculat dintr-o prezență mult mai mică. Probabil pentru că au considerat o prezență atipic de mare la europarlamentare ca fiind necredibilă. Mă bucur să spun că, atunci, colegii de la Inscop, cu care lucram intens la vremea aceea, nu au căzut în această capcană. Dar putem reveni mai pe seară la acel episod.\r\nCe cred că ar trebui să știe publicul este faptul că dificultatea unei prognoze electorale realizate prin sondaj de opinie cu o perioadă anume înainte de ziua votului nu este să afli distribuția preferințelor electorale, ci să te apropii cât mai mult de prezența reală care va fi în ziua votului. Și să calculezi distribuția voturilor pe partide din această estimare de prezență cât mai aproape de realitate.\r\nDeci când vedem, înainte de alegeri, în mass-media, cifre care ne spun ce procente vor lua partidele în ziua votului, să ne întrebăm în primul rând din ce estimare de prezență sunt calculate acele voturi. Și, eventual, cum s-a estimat prezența. Și, eventual, dacă alt scenariu de prezență (pe care cei care au făcut sondajul sigur îl au), ar conduce la altă ierarhie a partidelor și la alte cifre.\r\nEste clar că vom vedea azi niște alegeri europene mai degrabă ca în 2019 decât ca în anii anteriori. Poate cu prezență un pic mai mare, interesul liderilor locali de a își asigura voturile mergând azi mână în mână cu o prezență foarte bună la europarlamentare.\r\nNu este însă neapărat o surpriză. Încă din a doua jumătate a anului trecut (și înainte de comasarea alegerilor de azi), mai multe sondaje lucrau cu estimări de prezență bună la europarlamentare. Europenele par să fi încetat a fi „cele mai plictisitoare alegeri din România”, cum se spunea în 2007, 2009, sau 2014. Rezultatele alegerilor de azi ne vor arăta și de ce."
+    },
+    {
+      "id": 240,
+      "images": [],
+      "author": {
+        "id": 4,
+        "name": "Alexandra Iancu",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/alexandraiancu.png"
+      },
+      "timestamp": "2024-06-09T13:50:00",
+      "title": "Prezență Europarlamentare 2024 (update ora 16:00)",
+      "body": "Prezenta rămâne ridicată - 31,80%, dar cu diferențe notabile în articularea mobilizării la urne în raport cu 2019.\r\n\r\nJudetele cu cea mai mare prezență:  Valcea (39,30%), Teleorman (38,73%),SĂLAJ (38,34%)\r\n\r\nJudețele cu cea mai mare mobilizare in raport cu 2019: Călărași (+10,2%), Olt (+9,29%), Valcea (+8,36%), Botosani (+7,04%)\r\n\r\nJudețele in care participarea a scăzut în raport cu 2019: București (-8,86%), Cluj (-6,67%), Sibiu (-5,63)"
+    },
+    {
+      "id": 237,
+      "images": [],
+      "author": {
+        "id": 20,
+        "name": "Cǎlin Goina",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/CalinGoina.jpg"
+      },
+      "timestamp": "2024-06-09T12:33:25",
+      "title": "Europarlamentarele față cu nemulțumirea crescândă ",
+      "body": "Nu e niciodată înțelept să faci predicții, mai ales când ele vor fi confirmate sau infirmate în mai puțin de 24 de ore. Cu toate astea o să încerc: eu mă uit cu teamă la alegerile europarlamentare de astăzi, 9 iunie. Cred că vom avea neplăcută surpriză a unui scor neașteptat de mare câștigat de suveraniști, AUR și SOS Diana Șoșoacă sau alții ca ei. Spun asta nu pe baza unei analize a trendurilor din sondaje ci ca rezultat al unei perspective asupra opțiunilor existente.\r\nÎn 2024 continuăm să avem un trend evident de nemulțumire, cu peste 70% din cetățenii români care cred că lucrurile se îndreaptă într-o direcție greșită. Cum se canalizează electoral această nemulțumire?\r\nParțial, firește, ea se traduce în erodarea susținerii pentru partidele la putere și creșterea susținerii pentru cele din opoziție. Odată cu nașterea 'monstruasei coaliții' nășite de președintele Iohannis contrastul care domina sfera politică românească dintre \"dreaptă\" bună și Ciuma roșie de \"stânga\" și-a pierdut din forță. Cum acest contrast are o atât de solidă tradiție la noi, a rămas, oarecum rezidual, ca principală formă de legitimare a triadei USR-Forță Dreptei-PMP. Nu cred deci că există un potențial de creștere semnificativ al alianței Dreapta Unită.\r\nDupă cum ne-au demonstrate USR în 2016 și AUR în 2020, căutăm toți forțe politice 'altfel' care să nu fie asociate cu vechea clasă politică. USR a renunțat să se poziționeze în acest segment cand s-a aliat cu PMP, partidul căruia i-a dat formă primul său președinte, Elena Udrea. Suveraniștii din AUR și SOS au rămas singurii care ocupă zona de oameni noi, 'altfel' din actuală oferta politică, cu excepția REPER și a câtorva independenți.\r\n\"Comasarea\" PSD cu PNL alături de amalgamul USR+PMP fac mult mai vizibil contrastul dintre 'cei vechi' din politică și restul, adică în principal AUR/SOS. Mai există un alt factor agravant care îi favorizează pe aceștia din urmă: impactul pandemiei. O parte surprinzător de mare a populației României s-a poziționat împotriva vaccinurilor, a purtării măștii, etc. Cei care au reprezentat politic aceste idei se găsesc pe un trend ascendent -au devenit vocile unei părți mult mai mari de electorat decât o făceau în 2020 -de fapt, acesta e singurul element care a adus-o pe Diana Șoșoacă (și partidul pe care l-a format) în politică. În consecință, deși nu e deloc imposibil ca REPER sau independenți ca Nicu Stefănuță sa treacă de pragul electoral, nu ei vor fi principalii beneficiari al acestei situații.\r\nCu cine vom vota azi la europarlamentare? Cei asociați cu rețelele de patronaj și clientelism ale marilor partide (în special PSD și PNL) vor vota cum le cere nașul politic, alții vor fi merge către dreapta ‘unită’. În rest mă tem că vom avea un semnificativ vot de protest. In lipsa alternativei, grosul acestui vot de protest nu poate fi canalizat în altă direcție decât spre suveraniști. De-aș fi fals profet.\r\n"
+    },
+    {
+      "id": 236,
+      "images": [],
+      "author": {
+        "id": 4,
+        "name": "Alexandra Iancu",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/alexandraiancu.png"
+      },
+      "timestamp": "2024-06-09T12:21:13",
+      "title": "Prezența la urne la Europarlamentare: Cresc diferențele de participare (ora 13:00)",
+      "body": "Dacă prezența la vot era de 21,6% la nivel național, depășind nivelul din 2019, diferențele între circumscripții sporesc. \r\n\r\nJudețele care s-au mobilizat cel mai mult – comparație cu 2019 europarlamentare:\r\n\r\nVaslui +13,27%\r\nOlt  + 9,15%\r\nCaraș Severin +8,04%\r\nTeleorman +7,75%\r\n\r\nJudețele care sunt mai puțin prezente la vot comparativ cu 2019:\r\nCluj -4,56%\r\nSibiu -3,57%\r\nMunicipiul București - -4,36%\r\n\r\n"
+    },
+    {
+      "id": 227,
+      "images": [
+        {
+          "id": 85,
+          "articleId": 227,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/a5eb2472-1b34-43a3-bddb-e762e133f2de_TEXT 4_TUFIS.png"
+        }
+      ],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2024-06-09T11:34:18",
+      "title": "Cum e prezența la votul pentru Parlamentul European în 2024 comparativ cu 2019?",
+      "body": "Foarte rapid, trei grafice care arată cum stăm la ora 11:00 în 2024 comparativ cu alegerile anterioare.\r\n\r\nLa nivelul întregii țări, participarea la vot a fost de la început mai mare decât cea de acum cinci ani, iar la ora 11:00 au votat deja 13,2% din Românii din țară, comparativ cu doar 10,9% în 2019.\r\n \r\nAvantajul înregistrat la nivelul întregii țări nu se regăsește, însă, nici la București și nici în Diaspora. Votarea în București începuse marginal mai bine astăzi decât acum cinci ani, dar la ora 11:00 doar 9,7% din bucureșteni au votat, comparativ cu 10,6% în 2019.\r\n\r\nPentru diaspora nu putem calcula în procente, pentru că nu avem baza de calcul, dar putem compara numărul de votanți la cele două runde de alegeri. Vedem, astfel, un dezinteres semnificativ în 2024 pentru alegerile europarlamentare, asta în ciuda faptului că numărul de secții de votare din diaspora a crescut de la 441 la 915: până la ora 11:00, doar 30222 de români au votat în diaspora, față de 51189 în 2019. Raportat la datele din 2019, votul din 2024 se află la doar 60% din votul din 2019. Dacă această tendință se va menține, nu se va ajunge numărul de aproximativ 380000 de votanți din 2019, ceea ce ar putea fi o veste bună pentru Alianța PSD – PNL, dar mai puțin bună pentru Alianța Dreapta Unită și pentru AUR.\r\n \r\n"
+    },
+    {
+      "id": 210,
+      "images": [
+        {
+          "id": 80,
+          "articleId": 210,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/4865162e-31a4-4d4a-93fe-94e3717231ec_TUFIS2019.png"
+        }
+      ],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2024-06-09T11:02:13",
+      "title": "Cum au votat românii din diaspora pentru Parlamentul European în 2009, 2014, 2019?",
+      "body": "Diaspora și-a făcut deja un renume din a vota semnificativ diferit de cum se distribuie votul celor din țară. Probabil că tot comportamentul de vot al celor plecați din țară poate fi rezumat, simplu, prin a spune că „Diaspora votează împotriva PSD”. Această simplificare nu este foarte departe de adevăr, după cum se poate vedea în aceste grafice, care arată rezultatele votului din diaspora la ultimele trei runde de alegeri pentru Parlamentul European.\r\n\r\nPartidul Social Democrat nu a fost niciodată favoritul celor plecați din țară: a obținut doar 15% din voturi în 2009 (alături de Partidul Conservator), 11% din voturi în 2014 (alături nu doar de Partidul Conservator ci și de Uniunea Națională pentru Progresul României), iar în 2019 a avut un rezultat remarcabil, obținând doar 2,4% din voturile din diaspora, suficient de puține pentru a intra în categoria „Alte partide”.\r\nPutem vorbi de un câștigător clar în diaspora al ultimelor trei runde de alegeri pentru Parlamentul European? Nu neapărat. În 2009 pe primul loc s-a aflat Partidul Democrat Liberal, cu 37,1% din voturi, probabil ajutat de popularitatea lui Traian Băsescu la acel moment. Cinci ani mai târziu, în 2014, deși Băsescu se afla la sfârșitul mandatelor prezidențiale, diaspora a mers în continuare pe mâna acestuia, votând pe primul loc Partidul Mișcarea Populară (28,6%). PDL era deja în mai 2014 în negocieri cu PNL, urmând să formeze Alianța Creștin Liberală, cu PNL, la doar două luni după alegerile europarlamentare. În 2019, Alianța USR-PLUS, marea speranță a politicii românești la acel moment, a strâns 44% din voturile românilor din diaspora. \r\n \r\nPutem ghici cine va fi câștigătorul acestor alegeri europarlamentare în diaspora pornind de la doar trei alegeri anterioare? Puțin probabil, pentru că informațiile pe care le avem duc în direcții opuse: \r\n•\tȘtim că diaspora votează anti-PSD, dar acum PSD candidează pe liste comune cu PNL, care în 2014 a obținut aproape o treime din voturi\r\n•\tȘtim că diaspora are o ușoară preferință pentru partide mai noi, dar USR-PLUS a dezamăgit destul de mulți votanți iar AUR, deși candidează pentru prima dată la europarlamentare, are deja un mandat în Parlamentul României. \r\n•\tȘtim, de asemenea, că în 2024 nu există un lider carismatic, precum era Băsescu, care să poată împinge voturi către un anumit partid.\r\n•\tToate acestea sugerează că în 2024 vom avea în diaspora o situație oarecum similară cu rezultatele din 2009, cu trei partide care vor lupta pentru primele trei poziții: Alianța PSD – PNL, Alianța AUR și Alianța Dreapta Unită. Cele trei, împreună, ar trebui să strângă măcar două treimi din voturile din diaspora.\r\n\r\nUltimul aspect interesant este cel al candidaților independenți. În 2009 au fost doi candidați independenți, Elena Băsescu și Pavel Abraham. În 2014 au candidat opt independenți, din care cel mai vizibil a fost Mircea Diaconu. În 2019 am avut doar trei independenți: Peter Costea, George Simion și Gregoriana Tudoran. Acum, în 2024, avem șapte candidați independenți, dintre care cei mai cunoscuți sunt Vlad Gheorghe și Nicu Ștefănuță. Sprijinul pentru Nicu Ștefănuță este extrem de vizibil și vocal în online. Are șanse Nicu Ștefănuță să intre în Parlamentul European ca independent? \r\n\r\nDacă ne uităm la alegerile anterioare, vedem că doar doi „independenți” au reușit să obțină un loc în Parlamentul European: Elena Băsescu, în 2009, și Mircea Diaconu, în 2014. Povestea spune că, de fapt, cei doi au câștigat aceste locuri având sprijinul, mai mult sau mai puțin vizibil, unor partide politice: Elena Băsescu ar fi câștigat cu voturile-cadou date de partid ca ofrandă lui Traian Băsescu (doar pentru amuzament: în 2009 Elena Băsescu s-a aflat pe primul loc în două localități din țară – una dintre acestea era comuna Băsești, din județul Maramureș), în timp ce Mircea Diaconu ar fi primit un sprijin tovărășesc din partea Partidului Social Democrat.\r\n\r\nNicu Ștefănuță nu are un aparat de partid în spate, deci nu va beneficia de nici un cadou prietenesc. Va fi suficient buzz-ul din online pentru a îl retrimite în Parlamentul European? Depinde în mare măsură de prezența la vot. Cu cât prezența la vot va fi mai mare, cu atât va avea nevoie de un număr mai mare de voturi pentru a câștiga un loc. La o prezență de 6 milioane de voturi ar avea nevoie de 182000 de voturi pentru a fi ales. La 7 milioane de votanți ar avea nevoie de 213000 de voturi pentru a fi ales, iar la o prezență la vot de 8 milioane ar avea nevoie de 243000 de voturi. Practic, din fiecare 100.000 de votanți măcar 3031 trebuie să voteze cu Nicu Ștefănuță pentru ca acesta să iasă victorios din cursă. Vom vedea cât de curând dacă vizibilitatea și, mai ales, imaginea bună de care se bucură în rândul tinerilor din urbanul mare vor fi de ajuns pentru a îi aduce voturile necesare. \r\n"
+    },
+    {
+      "id": 209,
+      "images": [],
+      "author": {
+        "id": 23,
+        "name": "Barbu Mateescu"
+      },
+      "timestamp": "2024-06-09T10:54:24",
+      "title": "Prezență mare la Europarlamentare ",
+      "body": "Prezența mai mare la europarlamentarele de azi față de cele precedente se datorează unei mobilizări mai mari a publicului vârstnic, cumva natural având în vederea suprapunerea de acum a europarlamentarelor cu localele.\r\nVoturi în formatul 2019 / 2024 la ora 13:\r\n18-24 ani: 205 mii / 224 mii\r\n25-34 ani: 418 mii / 365 mii\r\n35-44 ani: 576 mii / 577 mii\r\n45-64 ani: 1,40 milioane / 1,59 milioane\r\n65+ ani: 998 mii / 1,25 milioane\r\nÎntrebarea pentru următoarele ore e simplă: va există o mobilizare similară în partea a doua a zilei dar pe spațiul 18-45 ani? Sau prezența se va domoli, ajungând la cota din 2019 sau mai jos? Dacă are loc al doilea scenariu, votantul mediu (sau median) la aceste alegeri va fi semnificativ mai vârstnic decât votantul mediu (sau median) de la europarlamentarele din 2019.\r\n\r\n(Preluare FaceBook, cu acordul autorului)"
+    },
+    {
+      "id": 203,
+      "images": [
+        {
+          "id": 78,
+          "articleId": 203,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/507a5596-a63a-40cf-b048-4c7ba383aae4_Reprezentarea femeilor - date.xlsx"
+        }
+      ],
+      "author": {
+        "id": 3,
+        "name": "Claudiu Tufiș",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/claudiutufis.png"
+      },
+      "timestamp": "2024-06-09T10:26:36",
+      "title": "Reprezentarea femeilor pe listele electorale la alegerile pentru Parlamentul European 2024",
+      "body": "O analiză de Ionela Băluță și Claudiu Tufiș: \r\n\r\n\r\nReprezentarea politică și egalitatea de gen sunt teme obligatorii pentru orice analiză a calității democrației dat fiind că România se clasează pe locuri codașe la acest capitol în toate clasamentele internaționale (Global State of Democracy, Global Gender Gap Report, Gender Equality Index).\r\n\r\nUniunea Europeană a înscris egalitatea de gen printre principiile și valorile politice fundamentale. De asemenea, obiectivul unei reprezentări politice echilibrate a femeilor și bărbaților este o chestiune care ține de dreptate, egalitate și democrație, iar UE a formulat diverse strategii și recomandări în acest sens. La nivelul Parlamentul European, prezența femeilor a crescut de la 16.6% în 1979, când au fost organizate primele alegeri, până la 41% după alegerile din 2019.\r\n\r\nÎn România nu există nicio prevedere legală constrângătoare care să impună cote de gen. Legea 202/2002 privind egalitatea de șanse și de tratament între femei și bărbați prevede că partidele politice au obligația să „asigure reprezentarea echilibrată a femeilor și bărbaților în propunerea candidaților la alegerile locale, generale și pentru Parlamentul European”. În lipsa unei metodologii clare de aplicare și a sancțiunilor, această lege nu a produs niciun efect până în prezent. Legea electorală care reglementează alegerile europene (L 33/2007, art. 16 (8)) conține un singur articol referitor la acest aspect: „Listele de candidați pentru alegerea membrilor din România în Parlamentul European se întocmesc astfel încât să asigure reprezentarea ambelor sexe”.\r\n\r\nÎn ceea ce privește alegerile europarlamentare, dacă în 2009 (primele alegeri pentru Parlamentul European de la noi) România a părut să respecte mai mult recomandările și practicile europene, situația s-a înrăutățit vizibil în 2019. La cum arată listele din 2024, femeile reprezintă doar 32% din totalul candidaților, deci oricum sub procentele de femei alese în 2009 și 2014. Dacă ținem cont de faptul că multe dintre candidate nu ocupă de fapt poziții eligibile, rezultatele finale vor fi, în cel mai bun caz, asemănătoare cu cele din 2019.\r\n\r\nPornind de la studiile legate de reprezentarea politică descriptivă a femeilor se poate folosi grila de mai jos pentru a calcula poziția diferitelor partide care participă la alegeri pe această dimensiune.\r\n\r\nTip de listă\tPunctaj\r\nListă paritară, sistem fermoar, femeie cap de listă\t10\r\nListă paritară, sistem fermoar, bărbat cap de listă\t9\r\nListă cu cel puțin 40% femei, sistem fermoar, femeie cap de listă\t8\r\nListă cu cel puțin 40% femei, sistem fermoar, bărbat cap de listă\t7\r\nListă cu cel puțin 30% femei, sistem fermoar, femeie cap de listă\t6\r\nListă cu cel puțin 30% femei, sistem fermoar, bărbat cap de listă\t5\r\nListă cu cel puțin 30% femei, fără sistem fermoar, femeie cap de listă\t4\r\nListă cu cel puțin 30% femei, fără sistem fermoar, bărbat cap de listă\t3\r\nListă cu mai puțin de 30% femei\t2\r\nListă cu mai puțin de 20% femei\t1\r\nFolosind această grilă, studentele Facultății de Științe Politice a Universității din București care au participat la proiectul de cercetare au analizat listele de candidați depuse de partidele politice pentru alegerile europarlamentare și au acordat fiecărui partid punctajul corespunzător.\r\n\r\nPartid / alianță\t% femei\tListă fermoar?\tCap listă\tPunctaj\r\nAlianța AUR\t40%\tNu\tM\t3\r\nAlianța Dreapta Unită\t35%\tNu\tM\t3\r\nAlianța Electorală PSD PNL\t35%\tNu\tM\t3\r\nAlianța Electorală România Socialistă\t33%\tNu\tF\t4\r\nPartidul Alternativa Dreaptă\t33%\tNu\tF\t4\r\nPartidul Diaspora Unită\t36%\tNu\tM\t3\r\nPartidul România Mare\t30%\tNu\tM\t3\r\nPartidul Patrioților\t21%\tNu\tM\t2\r\nPartidul Umanist Social Liberal\t24%\tNu\tM\t2\r\nREPER\t40%\tDa\tM\t7\r\nSOS România\t40%\tNu\tF\t4\r\nUniunea Democrată a Maghiarilor din România\t33%\tNu\tM\t3\r\nRezultatele arată că partidele politice din România sunt încă departe de a oferi alegătorilor liste care să asigure o reprezentare echitabilă a femeilor în Parlamentul European:\r\n\r\nNici un partid politic nu are liste paritare și doar trei partide depășesc 40% femei pe listă.\r\nUn singur partid, REPER, a folosit o listă de tip fermoar, care poate garanta șanse aproximativ egale pentru femei și bărbați de a obține un loc de euro-parlamentar\r\nDoar trei partide, Alianța Electorală România Socialistă, Partidul Alternativa Dreaptă și SOS România au o femeie cap de listă. Acestea sunt, însă, partide care au puține șanse de a obține pragul minim de voturi pentru a avea reprezentanți în Parlamentul European\r\nPunctajul maxim obținut de un partid este 7, în cazul REPER. Toate celelalte partide obțin doar între 2 și 4 puncte.\r\nRaportul complet poate fi găsit pe pagina de web a Centrului pentru Politicile Egalității de Șanse din cadrul FSPUB."
+    },
+    {
+      "id": 208,
+      "images": [],
+      "author": {
+        "id": 4,
+        "name": "Alexandra Iancu",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/alexandraiancu.png"
+      },
+      "timestamp": "2024-06-09T10:25:23",
+      "title": "Prezența la vot la ora 10:00 și distribuția teritorială a votului pentru Parlamentul european",
+      "body": "Este al cincilea tur de alegeri din momentul aderării la Uniunea europeană. Datele de la ora 10 :00 arată o prezență la vot de 9,13%, mai mare decât la ultimele alegeri din 2019.\r\n\r\nIn regulă generală, alegerile cu cea mai joasă prezență sunt și alegerile cu diferențele cele mai mari între județe la nivel de mobilizare.\r\n\r\nDatele de la ora 10 :00 indică însă un model de participare diferit. Pe de o parte, participarea la urne a crescut, dar diferența dintre județe la nivelul mobilizării este notabilă.\r\n\r\nAlegerile europarlamentare\r\n\r\n2007\t2009\t2014\t2019\t2024\r\nPrezența 10:00\t\t3,79%\t4%\t4,61%\t6,44%\t9,13%*\r\nSTDEV -10:00\t0,70\t1,24\t0,97\t0,99\t2,03%\r\nPrezența finală\t29,46%\t27,67%\t32,44% \t51,07%\t--\r\nData\t25.11.2007\t7.06.2009\t25.05.2014\t26.06.2019\t9.06.2024\r\nCompetitori\r\nPartide/alianțe\t13\t7\t15\t13\t15\r\nIndependenți\t1\t`\t2\t`\t8\t`\t3\t`\t7\t`\r\nStv- deviația standard la nivelul participării"
+    },
+    {
+      "id": 207,
+      "images": [
+        {
+          "id": 79,
+          "articleId": 207,
+          "url": "https://rezultatevot-images-upload.s3.amazonaws.com/490657ba-fe1a-4fdc-be07-0a69182fa90e_image.png"
+        }
+      ],
+      "author": {
+        "id": 24,
+        "name": "Dani Sandu"
+      },
+      "timestamp": "2024-06-09T10:24:02",
+      "title": "Prima strigare a zilei de alegeri vine de la prezența la vot",
+      "body": "Până la ora 12, cam așa arăta prezența la vot național.\r\nSunt mai multe lucruri care se văd aici, adaug doar că ar trebui citite cu in my opinion în față:\r\n- În teorie sunt două lucruri pentru care oamenii vin la vot devreme: entuziasm și obișnuință. Obișnuința zice că oamenii mai în vârstă sunt cei care se duc la vot devreme (și pentru că ei nu au neapărat program prelungit sâmbătă seară), iar entuziasmul este una din explicațiile principale pentru ”abateri” în prezența la vot pentru anumite grupe de vârstă. Din punctul ăsta de vedere merită privit un pic acolo;\r\n- Ce sare în ochi la prezență este prezența neașteptat de mare la vot a grupei de vârstă 18-24. Dacă ar fi fost doar 18-24 bărbați, m-aș fi gândit că este posibil să fie AUR, însă fiind echilibrat pe sexe mă aștept să fie un boost ce merge în primul rând către Nicu Ștefănuță, care și-a făcut campania aproape exclusiv despre mobilizarea acestui grup de vârstă. Să mobilizezi tineri la vot este notoriu de dificil, pentru că ei chiar se scârbesc dacă spui una și faci alta, dar este și cu un pay-off foarte bun dacă reușește, tocmai pentru că nu există o competiție foarte mare. Also, first-time voters sunt cunoscuți pentru faptul că nu țin cont foarte mult de ideea de vot util. Amintesc faptul că pragul electoral pentru independenți (Ștefănuță y inclus) este de 3.2% din vot, adică între 150 și 250 de mii de voturi, în funcție de prezență;\r\n- Chiar dacă prezența la vot a celor mai tineri sare în ochi, să știți că și prezența 35-49 este destul de puternic peste medie, din ce-mi dau seama. Media oricum e distorsionată de faptul că alegerile anterioare au fost 1. atipice, cu COVID sau ura anti-Dragnea și 2. Ne-comasate. Oricum, prezența mare pe această grupă de vârstă, privind retrospectiv ce votează oamenii respectivi, pare să avantajeze mai mult USR (și posibil și REPER). Tradițional, oamenii aceștia mergeau la vot mai degrabă in the early afternoon. Acum au mers mai devreme. Foarte interesant de privit și prezențele în mediile urbane mari și foarte mari, unde se vede mobilizarea asta în orașele competitive pentru USR în alegerile locale.\r\n- Închei, pentru acum, cu o idee ușor mai tehnică. Registrul electoral pe care ne bazăm la aceste alegeri are 18.9 milioane de alegători, adică 18.9 milioane de români adulți, în condițiile în care în 2022 recensământul a găsit (cu multe exagerări în plus și imputații statistice absurde) 19.0 milioane de locuitori rezidenți (adică și sub 18 ani). Este o cifră ridicolă, care subliniază de fapt incapacitatea instituțiilor statului român de a urmări mișcarea populației. Asta a produs și va produce în continuare o subevaluare nasoală a prezenței la vot - pentru că procentul de prezență se referă la acel numitor. Regula pe care am tot auzit-o și se și verifică într-o oarecare măsură este de cam 15-18% diferență de numitor. Prezența la vot reală (a populației adevărate cu vârstă de vot, rezidentă în România) este semnificativ mai mare decât cea anunțată de AEP. În mare, dacă AEP va anunța prezență la vot de 48%, să știți că prezența reală este de 57%ish. Ceea ce nu e neapărat important pentru distribuția mandatelor între partide, dar e foarte important pentru moralul nostru civic și, poate, pentru normele sociale de a merge la vot.\r\nBtw, mergeți la vot dacă nu ați făcut-o deja.\r\n\r\n"
+    },
+    {
+      "id": 202,
+      "images": [],
+      "author": {
+        "id": 16,
+        "name": "Code for Romania",
+        "avatar": "https://rezultatevot-authors.s3.eu-central-1.amazonaws.com/code4rosite.png"
+      },
+      "timestamp": "2024-06-08T17:27:17",
+      "title": "2024. An electoral ",
+      "body": "Pe 9 iunie 2024, românii decid cine sunt liderii lor locali pentru următorii patru ani dar și cine va reprezenta România în Parlamentul European. Urmăriți pe rezultatevot.ro prezența în timp real la urne, rezultatele alegerilor dupa închiderea secțiilor de votare, comentarii despre desfășurarea alegerilor de la experți din mediul academic și societatea civilă și date în timp real din aplicația Monitorizare Vot cu care observatorii independenți transmit date din secțiile de vot. Dacă sunteți în diaspora, intrați pe votdiaspora.ro pentru a afla care este cea mai apropiata secție de vot și de ce documente aveți nevoie pentru a vă exprima opțiunea. "
+    }
+  ],
+  "aggregated": false
+}

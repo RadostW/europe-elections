@@ -1,0 +1,144 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Braila",
+    "countyId": 4231
+  },
+  "meta": {
+    "date": "2009-11-22T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 1",
+    "electionId": 15,
+    "ballotId": 29,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 312802,
+    "totalVotes": 168023
+  },
+  "results": {
+    "eligibleVoters": 312802,
+    "totalVotes": 168023,
+    "validVotes": 163855,
+    "nullVotes": 4167,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Mircea Geoana",
+        "shortName": "Mircea Geoana",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 62287,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD"
+      },
+      {
+        "name": "Traian Basescu",
+        "shortName": "Traian Basescu",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 42688,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDL"
+      },
+      {
+        "name": "Crin Antonescu",
+        "shortName": "Crin Antonescu",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 29343,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNL"
+      },
+      {
+        "name": "Corneliu Vadim Tudor",
+        "shortName": "Corneliu Vadim Tudor",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 13444,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PRM"
+      },
+      {
+        "name": "Sorin Oprescu",
+        "shortName": "Sorin Oprescu",
+        "partyColor": "#808080",
+        "votes": 7432,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Noua Generație",
+        "shortName": "PNG",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Noua+Genera%C8%9Bie.jpg",
+        "votes": 5087,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Constantin Rotaru",
+        "shortName": "Constantin Rotaru",
+        "partyColor": "#808080",
+        "votes": 919,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Remus Cernea",
+        "shortName": "Remus Cernea",
+        "partyColor": "#8BC58B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Verde.jpg",
+        "votes": 804,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PV"
+      },
+      {
+        "name": "Gheorghe-Eduard Manole",
+        "shortName": "Gheorghe-Eduard Manole",
+        "partyColor": "#808080",
+        "votes": 642,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Ovidiu Cristian Iane",
+        "shortName": "Ovidiu Cristian Iane",
+        "partyColor": "#8BC58B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Ecologist+Rom%C3%A2n.jpg",
+        "votes": 598,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PER"
+      },
+      {
+        "name": "Constantin Ninel Potarca",
+        "shortName": "Constantin Ninel Potarca",
+        "partyColor": "#808080",
+        "votes": 409,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Hunor Kelemen",
+        "shortName": "Hunor Kelemen",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 202,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UDMR"
+      }
+    ],
+    "countedVotes": 168022
+  },
+  "electionNews": [],
+  "aggregated": false
+}

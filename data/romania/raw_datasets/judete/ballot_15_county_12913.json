@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Bucuresti",
+    "countyId": 12913
+  },
+  "meta": {
+    "date": "2014-11-02T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 8,
+    "ballotId": 15,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 1787810,
+    "totalVotes": 1171334
+  },
+  "results": {
+    "eligibleVoters": 1787810,
+    "totalVotes": 1171334,
+    "validVotes": 1145604,
+    "nullVotes": 25714,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "IOHANNIS KLAUS-WERNER",
+        "shortName": "IOHANNIS KLAUS-WERNER",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 656769,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNL"
+      },
+      {
+        "name": "PONTA VICTOR-VIOREL",
+        "shortName": "PONTA VICTOR-VIOREL",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 488835,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD"
+      }
+    ],
+    "countedVotes": 1171318
+  },
+  "electionNews": [],
+  "aggregated": false
+}

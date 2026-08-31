@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Constanta",
+    "countyId": 6793
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 23,
+    "ballotId": 45,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 615049,
+    "totalVotes": 373091
+  },
+  "results": {
+    "eligibleVoters": 615049,
+    "totalVotes": 373091,
+    "validVotes": 369603,
+    "nullVotes": 3475,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 225172,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      },
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 144431,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      }
+    ],
+    "countedVotes": 373078
+  },
+  "electionNews": [],
+  "aggregated": false
+}

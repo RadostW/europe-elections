@@ -1,0 +1,88 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Mures",
+    "countyId": 13227
+  },
+  "meta": {
+    "date": "1992-09-27T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 1",
+    "electionId": 33,
+    "ballotId": 73,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 445645,
+    "totalVotes": 380903
+  },
+  "results": {
+    "eligibleVoters": 445645,
+    "totalVotes": 380903,
+    "validVotes": 363412,
+    "nullVotes": 16743,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "EMIL CONSTANTINESCU",
+        "shortName": "EMIL CONSTANTINESCU",
+        "partyColor": "#0049A2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Conven%C8%9Bia+Democrat%C4%83+Rom%C3%A2n%C4%83.jpg",
+        "votes": 184321,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "C.D.R."
+      },
+      {
+        "name": "GHEORGHE FUNAR",
+        "shortName": "GHEORGHE FUNAR",
+        "partyColor": "#660965",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Unit%C4%83%C8%9Bii+Na%C8%9Biunii+Rom%C3%A2ne.jpg",
+        "votes": 118080,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "P.U.N.R."
+      },
+      {
+        "name": "ION ILIESCU",
+        "shortName": "ION ILIESCU",
+        "partyColor": "#ED2027",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Frontul+Democrat+al+Salv%C4%83rii+Na%C8%9Bionale.jpg",
+        "votes": 44387,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "F.D.S.N."
+      },
+      {
+        "name": "CAIUS TRAIAN DRAGOMIR",
+        "shortName": "CAIUS TRAIAN DRAGOMIR",
+        "partyColor": "#808080",
+        "votes": 7594,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "IOAN MANZATU",
+        "shortName": "IOAN MANZATU",
+        "partyColor": "#912525",
+        "votes": 4990,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "P.R."
+      },
+      {
+        "name": "MIRCEA DRUC",
+        "shortName": "MIRCEA DRUC",
+        "partyColor": "#808080",
+        "votes": 4040,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 380155
+  },
+  "electionNews": [],
+  "aggregated": false
+}

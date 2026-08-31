@@ -1,0 +1,233 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Caras-Severin",
+    "countyId": 5676
+  },
+  "meta": {
+    "date": "2012-12-09T00:00:00",
+    "title": "Alegeri Parlamentare",
+    "type": "house",
+    "ballot": "Camera Deputatilor",
+    "electionId": 11,
+    "ballotId": 20,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 282178,
+    "totalVotes": 107859
+  },
+  "results": {
+    "eligibleVoters": 282178,
+    "totalVotes": 107859,
+    "validVotes": 103800,
+    "nullVotes": 3311,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "USL",
+        "shortName": "USL",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Social+Liberal%C4%83.jpg",
+        "votes": 59765,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Uniunea Social Liberală"
+      },
+      {
+        "name": "PPDD",
+        "shortName": "PPDD",
+        "partyColor": "#800080",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Popular+Dan+Diaconescu.jpg",
+        "votes": 19825,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PPDD"
+      },
+      {
+        "name": "ARD",
+        "shortName": "ARD",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Alian%C8%9Ba+Rom%C3%A2nia+Dreapt%C4%83.jpg",
+        "votes": 16361,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța România Dreaptă"
+      },
+      {
+        "name": "PRM",
+        "shortName": "PRM",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 1313,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Mare"
+      },
+      {
+        "name": "Alianța USR-PLUS",
+        "shortName": "USR-PLUS",
+        "partyColor": "#01A0E4",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Alian%C8%9Ba+USR-PLUS.jpg",
+        "votes": 1251,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UNIUNEA UCRAINENILOR DIN ROMÂNIA",
+        "shortName": "UUR",
+        "partyColor": "#afafaf",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/2024-06/uur.png",
+        "votes": 1090,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDSCR",
+        "shortName": "UDSCR",
+        "partyColor": "#808080",
+        "votes": 789,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 729,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "FDGR",
+        "shortName": "FDGR",
+        "partyColor": "#33B3A6",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Forumul+Democrat+al+Germanilor+din+Rom%C3%A2nia.jpg",
+        "votes": 635,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Forumul Democrat al Germanilor din România"
+      },
+      {
+        "name": "UUR",
+        "shortName": "UUR",
+        "partyColor": "#808080",
+        "votes": 394,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UBBR",
+        "shortName": "UBBR",
+        "partyColor": "#808080",
+        "votes": 323,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL PHRALIPE AL ROMILOR",
+        "shortName": "PHR",
+        "partyColor": "#afafaf",
+        "partyLogo": "",
+        "votes": 269,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "FCER",
+        "shortName": "FCER",
+        "partyColor": "#808080",
+        "votes": 180,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Național Liberal - Aripa Tânără",
+        "shortName": "PNL-Aripa tânără",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal+-+Aripa+T%C3%A2n%C4%83r%C4%83.jpg",
+        "votes": 172,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "RO.AS.IT.",
+        "shortName": "RO.AS.IT.",
+        "partyColor": "#808080",
+        "votes": 120,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "AMR",
+        "shortName": "AMR",
+        "partyColor": "#808080",
+        "votes": 106,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UPR",
+        "shortName": "UPR",
+        "partyColor": "#808080",
+        "votes": 86,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDTR",
+        "shortName": "UDTR",
+        "partyColor": "#808080",
+        "votes": 85,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UER",
+        "shortName": "UER",
+        "partyColor": "#808080",
+        "votes": 82,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UAR",
+        "shortName": "UAR",
+        "partyColor": "#808080",
+        "votes": 79,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDTTMR",
+        "shortName": "UDTTMR",
+        "partyColor": "#808080",
+        "votes": 52,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "C.R.L.R.",
+        "shortName": "C.R.L.R.",
+        "partyColor": "#808080",
+        "votes": 48,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UCRR",
+        "shortName": "UCRR",
+        "partyColor": "#808080",
+        "votes": 46,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 107111
+  },
+  "electionNews": [],
+  "aggregated": false
+}

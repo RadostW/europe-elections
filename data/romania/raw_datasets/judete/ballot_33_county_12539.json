@@ -1,0 +1,248 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Mehedinti",
+    "countyId": 12539
+  },
+  "meta": {
+    "date": "2008-11-30T00:00:00",
+    "title": "Alegeri Parlamentare",
+    "type": "house",
+    "ballot": "Camera Deputatilor",
+    "electionId": 17,
+    "ballotId": 33,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 249217,
+    "totalVotes": 110842
+  },
+  "results": {
+    "eligibleVoters": 249217,
+    "totalVotes": 110842,
+    "validVotes": 105309,
+    "nullVotes": 3462,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Partidul Democrat",
+        "shortName": "PD",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 37478,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Democrat Liberal"
+      },
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 36138,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PNL",
+        "shortName": "PNL",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 22749,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Liberal"
+      },
+      {
+        "name": "PRM",
+        "shortName": "PRM",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 2816,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Mare"
+      },
+      {
+        "name": "Partidul Noua Generație",
+        "shortName": "PNG",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Noua+Genera%C8%9Bie-Cre%C8%99tin+Democrat.jpg",
+        "votes": 2184,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNG-CD"
+      },
+      {
+        "name": "PARTIDUL PHRALIPE AL ROMILOR",
+        "shortName": "PHR",
+        "partyColor": "#afafaf",
+        "partyLogo": "",
+        "votes": 612,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Slovaci",
+        "shortName": "U-Slovaci",
+        "partyColor": "#808080",
+        "votes": 428,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 397,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "Partidul Puterii Umaniste",
+        "shortName": "PPU",
+        "partyColor": "#912525",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Puterii+Umaniste.jpg",
+        "votes": 384,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "RO.AS.IT",
+        "shortName": "RO.AS.IT",
+        "partyColor": "#808080",
+        "votes": 222,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Tatari",
+        "shortName": "U-Tatari",
+        "partyColor": "#808080",
+        "votes": 208,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Ruteni",
+        "shortName": "U-Ruteni",
+        "partyColor": "#808080",
+        "votes": 207,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Armeni",
+        "shortName": "U-Armeni",
+        "partyColor": "#808080",
+        "votes": 194,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UBBR",
+        "shortName": "UBBR",
+        "partyColor": "#808080",
+        "votes": 160,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "A-Albanezi",
+        "shortName": "A-Albanezi",
+        "partyColor": "#808080",
+        "votes": 156,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Eleni",
+        "shortName": "U-Eleni",
+        "partyColor": "#808080",
+        "votes": 152,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Sirbi",
+        "shortName": "U-Sirbi",
+        "partyColor": "#808080",
+        "votes": 151,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "FDGR",
+        "shortName": "FDGR",
+        "partyColor": "#33B3A6",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Forumul+Democrat+al+Germanilor+din+Rom%C3%A2nia.jpg",
+        "votes": 145,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Forumul Democrat al Germanilor din România"
+      },
+      {
+        "name": "FC-Evrei",
+        "shortName": "FC-Evrei",
+        "partyColor": "#808080",
+        "votes": 107,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "C-Rusi",
+        "shortName": "C-Rusi",
+        "partyColor": "#808080",
+        "votes": 93,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "A-Macedoni",
+        "shortName": "A-Macedoni",
+        "partyColor": "#808080",
+        "votes": 92,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Ucrainen",
+        "shortName": "U-Ucrainen",
+        "partyColor": "#808080",
+        "votes": 76,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Croati",
+        "shortName": "U-Croati",
+        "partyColor": "#808080",
+        "votes": 68,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Turca",
+        "shortName": "U-Turca",
+        "partyColor": "#808080",
+        "votes": 59,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "U-Polonezi",
+        "shortName": "U-Polonezi",
+        "partyColor": "#808080",
+        "votes": 33,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 108771
+  },
+  "electionNews": [],
+  "aggregated": false
+}

@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Satu Mare",
+    "countyId": 16002
+  },
+  "meta": {
+    "date": "2014-11-02T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 1",
+    "electionId": 8,
+    "ballotId": 14,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 317603,
+    "totalVotes": 136021
+  },
+  "results": {
+    "eligibleVoters": 317603,
+    "totalVotes": 136021,
+    "validVotes": 133132,
+    "nullVotes": 2889,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "IOHANNIS KLAUS-WERNER",
+        "shortName": "IOHANNIS KLAUS-WERNER",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 43100,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNL"
+      },
+      {
+        "name": "PONTA VICTOR-VIOREL",
+        "shortName": "PONTA VICTOR-VIOREL",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 42117,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD"
+      },
+      {
+        "name": "KELEMEN HUNOR",
+        "shortName": "KELEMEN HUNOR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 24887,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UDMR"
+      },
+      {
+        "name": "POPESCU-TARICEANU CALIN-CONSTANTIN-ANTON",
+        "shortName": "POPESCU-TARICEANU CALIN-CONSTANTIN-ANTON",
+        "partyColor": "#808080",
+        "votes": 7114,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDREA ELENA-GABRIELA",
+        "shortName": "UDREA ELENA-GABRIELA",
+        "partyColor": "#000099",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Miscarea+Popular%C4%83.jpg",
+        "votes": 4187,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PMP"
+      },
+      {
+        "name": "DIACONESCU CRISTIAN-DAN",
+        "shortName": "DIACONESCU CRISTIAN-DAN",
+        "partyColor": "#800080",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Popular+Dan+Diaconescu.jpg",
+        "votes": 3278,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Popular Dan Diaconescu"
+      },
+      {
+        "name": "SZILAGYI ZSOLT",
+        "shortName": "SZILAGYI ZSOLT",
+        "partyColor": "#329932",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Popular+Maghiar+din+Transilvania.jpg",
+        "votes": 2631,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PPMT"
+      },
+      {
+        "name": "MACOVEI MONICA-LUISA",
+        "shortName": "MACOVEI MONICA-LUISA",
+        "partyColor": "#808080",
+        "votes": 2058,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "VADIM-TUDOR CORNELIU",
+        "shortName": "VADIM-TUDOR CORNELIU",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 1720,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PRM"
+      },
+      {
+        "name": "FUNAR GHEORGHE",
+        "shortName": "FUNAR GHEORGHE",
+        "partyColor": "#808080",
+        "votes": 562,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "MELESCANU TEODOR-VIOREL",
+        "shortName": "MELESCANU TEODOR-VIOREL",
+        "partyColor": "#808080",
+        "votes": 542,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "BRINZA WILLIAM GABRIEL",
+        "shortName": "BRINZA WILLIAM GABRIEL",
+        "partyColor": "#8BC58B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Ecologist+Rom%C3%A2n.jpg",
+        "votes": 456,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PER"
+      },
+      {
+        "name": "ROTARU CONSTANTIN",
+        "shortName": "ROTARU CONSTANTIN",
+        "partyColor": "#808080",
+        "votes": 386,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "AMARITEI MIREL-MIRCEA",
+        "shortName": "AMARITEI MIREL-MIRCEA",
+        "partyColor": "#808080",
+        "votes": 94,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 136021
+  },
+  "electionNews": [],
+  "aggregated": false
+}

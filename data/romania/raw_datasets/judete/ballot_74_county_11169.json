@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Iasi",
+    "countyId": 11169
+  },
+  "meta": {
+    "date": "1992-09-27T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 33,
+    "ballotId": 74,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 547160,
+    "totalVotes": 415856
+  },
+  "results": {
+    "eligibleVoters": 547160,
+    "totalVotes": 415856,
+    "validVotes": 411067,
+    "nullVotes": 4558,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ION ILIESCU",
+        "shortName": "ION ILIESCU",
+        "partyColor": "#ED2027",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Frontul+Democrat+al+Salv%C4%83rii+Na%C8%9Bionale.jpg",
+        "votes": 299575,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "F.D.S.N."
+      },
+      {
+        "name": "EMIL CONSTANTINESCU",
+        "shortName": "EMIL CONSTANTINESCU",
+        "partyColor": "#0049A2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Conven%C8%9Bia+Democrat%C4%83+Rom%C3%A2n%C4%83.jpg",
+        "votes": 111492,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "C.D.R."
+      }
+    ],
+    "countedVotes": 415625
+  },
+  "electionNews": [],
+  "aggregated": false
+}

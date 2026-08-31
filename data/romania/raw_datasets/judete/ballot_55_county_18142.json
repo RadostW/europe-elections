@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Teleorman",
+    "countyId": 18142
+  },
+  "meta": {
+    "date": "2000-11-26T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 27,
+    "ballotId": 55,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 369513,
+    "totalVotes": 222349
+  },
+  "results": {
+    "eligibleVoters": 369513,
+    "totalVotes": 222349,
+    "validVotes": 219110,
+    "nullVotes": 3092,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ION ILIESCU",
+        "shortName": "ION ILIESCU",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 156455,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDSR-PUR-PSDR"
+      },
+      {
+        "name": "CORNELIU VADIM TUDOR",
+        "shortName": "CORNELIU VADIM TUDOR",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 62655,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PRM"
+      }
+    ],
+    "countedVotes": 222202
+  },
+  "electionNews": [],
+  "aggregated": false
+}

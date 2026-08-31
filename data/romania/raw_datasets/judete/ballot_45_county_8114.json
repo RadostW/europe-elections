@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Dolj",
+    "countyId": 8114
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 23,
+    "ballotId": 45,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 602368,
+    "totalVotes": 343703
+  },
+  "results": {
+    "eligibleVoters": 602368,
+    "totalVotes": 343703,
+    "validVotes": 340031,
+    "nullVotes": 3626,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 175653,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      },
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 164378,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      }
+    ],
+    "countedVotes": 343657
+  },
+  "electionNews": [],
+  "aggregated": false
+}

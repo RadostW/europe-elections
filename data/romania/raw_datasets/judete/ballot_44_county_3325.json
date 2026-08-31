@@ -1,0 +1,142 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Bistrita-Nasaud",
+    "countyId": 3325
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 1",
+    "electionId": 23,
+    "ballotId": 44,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 257846,
+    "totalVotes": 139532
+  },
+  "results": {
+    "eligibleVoters": 257846,
+    "totalVotes": 139532,
+    "validVotes": 135615,
+    "nullVotes": 3901,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 56236,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      },
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 45396,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      },
+      {
+        "name": "CORNELIU VADIM TUDOR",
+        "shortName": "CORNELIU VADIM TUDOR",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 18146,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PRM"
+      },
+      {
+        "name": "MARKO BELA",
+        "shortName": "MARKO BELA",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 6662,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UDMR"
+      },
+      {
+        "name": "GHEORGHE CORIOLAN CIUHANDU",
+        "shortName": "GHEORGHE CORIOLAN CIUHANDU",
+        "partyColor": "#FFFF00",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+T%C4%83r%C4%83nesc+Cre%C8%99tin+Democrat.jpg",
+        "votes": 2344,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNTCD"
+      },
+      {
+        "name": "GEORGE BECALI",
+        "shortName": "GEORGE BECALI",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Noua+Genera%C8%9Bie.jpg",
+        "votes": 2032,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNG"
+      },
+      {
+        "name": "PETRE ROMAN",
+        "shortName": "PETRE ROMAN",
+        "partyColor": "#808080",
+        "votes": 1452,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "GHEORGHE DINU",
+        "shortName": "GHEORGHE DINU",
+        "partyColor": "#808080",
+        "votes": 1363,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Independent"
+      },
+      {
+        "name": "OVIDIU TUDORICI",
+        "shortName": "OVIDIU TUDORICI",
+        "partyColor": "#808080",
+        "votes": 645,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "AUREL RADULESCU",
+        "shortName": "AUREL RADULESCU",
+        "partyColor": "#808080",
+        "votes": 528,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "MARIAN PETRE MILUT",
+        "shortName": "MARIAN PETRE MILUT",
+        "partyColor": "#808080",
+        "votes": 457,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ALEXANDRU RAJ TUNARU",
+        "shortName": "ALEXANDRU RAJ TUNARU",
+        "partyColor": "#808080",
+        "votes": 354,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 139516
+  },
+  "electionNews": [],
+  "aggregated": false
+}

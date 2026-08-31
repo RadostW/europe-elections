@@ -1,0 +1,52 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Ilfov",
+    "countyId": 11830
+  },
+  "meta": {
+    "date": "2009-11-22T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 15,
+    "ballotId": 30,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 262867,
+    "totalVotes": 187995
+  },
+  "results": {
+    "eligibleVoters": 262867,
+    "totalVotes": 187995,
+    "validVotes": 185059,
+    "nullVotes": 2936,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Traian Basescu",
+        "shortName": "Traian Basescu",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 97455,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDL"
+      },
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 87604,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 187995
+  },
+  "electionNews": [],
+  "aggregated": false
+}

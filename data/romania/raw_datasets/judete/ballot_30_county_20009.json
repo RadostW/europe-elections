@@ -1,0 +1,52 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Vaslui",
+    "countyId": 20009
+  },
+  "meta": {
+    "date": "2009-11-22T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 15,
+    "ballotId": 30,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 366988,
+    "totalVotes": 188209
+  },
+  "results": {
+    "eligibleVoters": 366988,
+    "totalVotes": 188209,
+    "validVotes": 185127,
+    "nullVotes": 3080,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 111058,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Traian Basescu",
+        "shortName": "Traian Basescu",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 74069,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDL"
+      }
+    ],
+    "countedVotes": 188207
+  },
+  "electionNews": [],
+  "aggregated": false
+}

@@ -1,0 +1,166 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Olt",
+    "countyId": 14365
+  },
+  "meta": {
+    "date": "2019-11-10T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 1",
+    "electionId": 2,
+    "ballotId": 3,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 364588,
+    "totalVotes": 186065
+  },
+  "results": {
+    "eligibleVoters": 364588,
+    "totalVotes": 186065,
+    "validVotes": 182388,
+    "nullVotes": 3677,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "VASILICA-VIORICA DĂNCILĂ",
+        "shortName": "VASILICA-VIORICA DĂNCILĂ",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 78414,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Social Democrat"
+      },
+      {
+        "name": "KLAUS-WERNER IOHANNIS",
+        "shortName": "KLAUS-WERNER IOHANNIS",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 54213,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Liberal"
+      },
+      {
+        "name": "MIRCEA DIACONU",
+        "shortName": "MIRCEA DIACONU",
+        "partyColor": "#FF4C4C",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Pro+Romania.jpg",
+        "votes": 14682,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PARTIDUL PRO ROMÂNIA"
+      },
+      {
+        "name": "ILIE-DAN BARNA",
+        "shortName": "ILIE-DAN BARNA",
+        "partyColor": "#01A0E4",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Salv%C4%83m+Rom%C3%A2nia.jpg",
+        "votes": 13415,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Uniunea Salvați România"
+      },
+      {
+        "name": "ALEXANDRU CUMPĂNAŞU",
+        "shortName": "ALEXANDRU CUMPĂNAŞU",
+        "partyColor": "#808080",
+        "votes": 8057,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "THEODOR PALEOLOGU",
+        "shortName": "THEODOR PALEOLOGU",
+        "partyColor": "#000099",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Miscarea+Popular%C4%83.jpg",
+        "votes": 5695,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Miscarea Populară"
+      },
+      {
+        "name": "RAMONA-IOANA BRUYNSEELS",
+        "shortName": "RAMONA-IOANA BRUYNSEELS",
+        "partyColor": "#808080",
+        "votes": 4063,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "VIOREL CATARAMĂ",
+        "shortName": "VIOREL CATARAMĂ",
+        "partyColor": "#808080",
+        "votes": 859,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "SEBASTIAN-CONSTANTIN POPESCU",
+        "shortName": "SEBASTIAN-CONSTANTIN POPESCU",
+        "partyColor": "#808080",
+        "votes": 543,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "CĂTĂLIN-SORIN IVAN",
+        "shortName": "CĂTĂLIN-SORIN IVAN",
+        "partyColor": "#808080",
+        "votes": 535,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "BOGDAN-DRAGOS-AURELIU MARIAN-STANOEVICI",
+        "shortName": "BOGDAN-DRAGOS-AURELIU MARIAN-STANOEVICI",
+        "partyColor": "#808080",
+        "votes": 516,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "HUNOR KELEMEN",
+        "shortName": "HUNOR KELEMEN",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 503,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "NINEL PEIA",
+        "shortName": "NINEL PEIA",
+        "partyColor": "#808080",
+        "votes": 480,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "JOHN-ION BANU",
+        "shortName": "JOHN-ION BANU",
+        "partyColor": "#808080",
+        "votes": 413,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 186065
+  },
+  "observation": {
+    "id": 1,
+    "ballotId": 3,
+    "coveredPollingPlaces": 1509,
+    "coveredCounties": 38,
+    "observerCount": 388,
+    "messageCount": 243686,
+    "issueCount": 98541
+  },
+  "electionNews": [],
+  "aggregated": false
+}

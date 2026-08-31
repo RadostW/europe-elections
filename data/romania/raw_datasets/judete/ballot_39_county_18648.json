@@ -1,0 +1,166 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Timis",
+    "countyId": 18648
+  },
+  "meta": {
+    "date": "2007-11-25T00:00:00",
+    "title": "Alegeri Europarlamentare",
+    "type": "european_parliament",
+    "ballot": "",
+    "electionId": 19,
+    "ballotId": 39,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 594719,
+    "totalVotes": 142773
+  },
+  "results": {
+    "eligibleVoters": 594719,
+    "totalVotes": 142773,
+    "validVotes": 137721,
+    "nullVotes": 5052,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Partidul Democrat",
+        "shortName": "PD",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat.jpg",
+        "votes": 50879,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Democrat"
+      },
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 22931,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Social Democrat"
+      },
+      {
+        "name": "Partidul Național Liberal",
+        "shortName": "PNL",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 15922,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PNL"
+      },
+      {
+        "name": "Partidul Liberal Democrat",
+        "shortName": "PLD",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Liberal+Democrat.jpg",
+        "votes": 11911,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Liberal Democrat"
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 6732,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      },
+      {
+        "name": "Partidul Național Tărănesc Creștin Democrat",
+        "shortName": "PNTCD",
+        "partyColor": "#FFFF00",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+T%C4%83r%C4%83nesc+Cre%C8%99tin+Democrat.jpg",
+        "votes": 6447,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Tărănesc Creștin Democrat"
+      },
+      {
+        "name": "PRM",
+        "shortName": "PRM",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 5486,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Mare"
+      },
+      {
+        "name": "Partidul Noua Generație-Creștin Democrat",
+        "shortName": "PNG-CD",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Noua+Genera%C8%9Bie-Cre%C8%99tin+Democrat.jpg",
+        "votes": 4832,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL INITIATIVA NATIONALA",
+        "shortName": "PIN",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/PARTIDUL%20INITIATIVA%20NATIONALA.png",
+        "votes": 4538,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Conservator",
+        "shortName": "PC",
+        "partyColor": "#912525",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Conservator.jpg",
+        "votes": 3931,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Conservator"
+      },
+      {
+        "name": "TOKES LADISLAU",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 2214,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Verde",
+        "shortName": "PV",
+        "partyColor": "#8BC58B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Verde.jpg",
+        "votes": 742,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Verde"
+      },
+      {
+        "name": "PARTIDUL ROMILOR PRO-EUROPA",
+        "shortName": "PRPE",
+        "partyColor": "#808080",
+        "votes": 713,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "PARTIDUL ALIANTA SOCIALISTA",
+        "shortName": "PAS",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/PARTIDUL%20ALIANTA%20SOCIALISTA.png",
+        "votes": 443,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 142773
+  },
+  "electionNews": [],
+  "aggregated": false
+}

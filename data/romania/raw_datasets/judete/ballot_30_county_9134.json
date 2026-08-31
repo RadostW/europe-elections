@@ -1,0 +1,52 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Giurgiu",
+    "countyId": 9134
+  },
+  "meta": {
+    "date": "2009-11-22T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 15,
+    "ballotId": 30,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 231826,
+    "totalVotes": 151714
+  },
+  "results": {
+    "eligibleVoters": 231826,
+    "totalVotes": 151714,
+    "validVotes": 149284,
+    "nullVotes": 2430,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 82066,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Traian Basescu",
+        "shortName": "Traian Basescu",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 67218,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDL"
+      }
+    ],
+    "countedVotes": 151714
+  },
+  "electionNews": [],
+  "aggregated": false
+}

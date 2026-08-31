@@ -1,0 +1,52 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Tulcea",
+    "countyId": 19284
+  },
+  "meta": {
+    "date": "2009-11-22T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 15,
+    "ballotId": 30,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 208375,
+    "totalVotes": 109977
+  },
+  "results": {
+    "eligibleVoters": 208375,
+    "totalVotes": 109977,
+    "validVotes": 108730,
+    "nullVotes": 1247,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Traian Basescu",
+        "shortName": "Traian Basescu",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 64362,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDL"
+      },
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 44368,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 109977
+  },
+  "electionNews": [],
+  "aggregated": false
+}

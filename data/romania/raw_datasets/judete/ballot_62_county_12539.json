@@ -1,0 +1,173 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Mehedinti",
+    "countyId": 12539
+  },
+  "meta": {
+    "date": "1996-11-03T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 1",
+    "electionId": 30,
+    "ballotId": 62,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 245781,
+    "totalVotes": 174862
+  },
+  "results": {
+    "eligibleVoters": 245781,
+    "totalVotes": 174862,
+    "validVotes": 168759,
+    "nullVotes": 6062,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "ION ILIESCU",
+        "shortName": "ION ILIESCU",
+        "partyColor": "#ED2027",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Frontul+Democrat+al+Salv%C4%83rii+Na%C8%9Bionale.jpg",
+        "votes": 66186,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "F.D.S.N."
+      },
+      {
+        "name": "EMIL CONSTANTINESCU",
+        "shortName": "EMIL CONSTANTINESCU",
+        "partyColor": "#0049A2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Conven%C8%9Bia+Democrat%C4%83+Rom%C3%A2n%C4%83.jpg",
+        "votes": 48002,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "C.D.R."
+      },
+      {
+        "name": "PETRE ROMAN",
+        "shortName": "PETRE ROMAN",
+        "partyColor": "#B70103",
+        "votes": 29943,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "USD"
+      },
+      {
+        "name": "CORNELIU VADIM TUDOR",
+        "shortName": "CORNELIU VADIM TUDOR",
+        "partyColor": "#808080",
+        "votes": 10254,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "TUDOR MOHORA",
+        "shortName": "TUDOR MOHORA",
+        "partyColor": "#808080",
+        "votes": 4274,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "GHEORGHE FUNAR",
+        "shortName": "GHEORGHE FUNAR",
+        "partyColor": "#660066",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Unit%C4%83%C8%9Bii+Na%C8%9Biunii+Rom%C3%A2ne.jpg",
+        "votes": 2400,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PUNR"
+      },
+      {
+        "name": "ADRIAN PAUNESCU",
+        "shortName": "ADRIAN PAUNESCU",
+        "partyColor": "#808080",
+        "votes": 1736,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "NICOLAE MANOLESCU",
+        "shortName": "NICOLAE MANOLESCU",
+        "partyColor": "#808080",
+        "votes": 1204,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "CONSTANTIN MUDAVA",
+        "shortName": "CONSTANTIN MUDAVA",
+        "partyColor": "#808080",
+        "votes": 1007,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Independent"
+      },
+      {
+        "name": "IOAN POP DE POPA",
+        "shortName": "IOAN POP DE POPA",
+        "partyColor": "#808080",
+        "votes": 783,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "GEORGE MUNTEAN",
+        "shortName": "GEORGE MUNTEAN",
+        "partyColor": "#808080",
+        "votes": 664,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "RADU CAMPEANU",
+        "shortName": "RADU CAMPEANU",
+        "partyColor": "#808080",
+        "votes": 637,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "GYORGY FRUNDA",
+        "shortName": "GYORGY FRUNDA",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 488,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UDMR"
+      },
+      {
+        "name": "NUTU ANGHELINA",
+        "shortName": "NUTU ANGHELINA",
+        "partyColor": "#808080",
+        "votes": 442,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Independent"
+      },
+      {
+        "name": "NICOLAE MILITARU",
+        "shortName": "NICOLAE MILITARU",
+        "partyColor": "#808080",
+        "votes": 400,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Independent"
+      },
+      {
+        "name": "CONSTANTIN NICULESCU",
+        "shortName": "CONSTANTIN NICULESCU",
+        "partyColor": "#808080",
+        "votes": 339,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 174821
+  },
+  "electionNews": [],
+  "aggregated": false
+}

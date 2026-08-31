@@ -1,0 +1,62 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Arges",
+    "countyId": 1122
+  },
+  "meta": {
+    "date": "2019-11-10T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 2,
+    "ballotId": 2,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 527237,
+    "totalVotes": 285854
+  },
+  "results": {
+    "eligibleVoters": 527237,
+    "totalVotes": 285854,
+    "validVotes": 280255,
+    "nullVotes": 5599,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "KLAUS-WERNER IOHANNIS",
+        "shortName": "KLAUS-WERNER IOHANNIS",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 146272,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Liberal"
+      },
+      {
+        "name": "VASILICA-VIORICA DĂNCILĂ",
+        "shortName": "VASILICA-VIORICA DĂNCILĂ",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 133983,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Social Democrat"
+      }
+    ],
+    "countedVotes": 285854
+  },
+  "observation": {
+    "id": 4,
+    "ballotId": 2,
+    "coveredPollingPlaces": 1103,
+    "coveredCounties": 37,
+    "observerCount": 388,
+    "messageCount": 81604,
+    "issueCount": 1368
+  },
+  "electionNews": [],
+  "aggregated": false
+}

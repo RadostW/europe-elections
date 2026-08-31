@@ -1,0 +1,117 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Calarasi",
+    "countyId": 5400
+  },
+  "meta": {
+    "date": "2009-06-07T00:00:00",
+    "title": "Alegeri Europarlamentare",
+    "type": "european_parliament",
+    "ballot": "",
+    "electionId": 16,
+    "ballotId": 31,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 263200,
+    "totalVotes": 73845
+  },
+  "results": {
+    "eligibleVoters": 263200,
+    "totalVotes": 73845,
+    "validVotes": 69915,
+    "nullVotes": 3926,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Partidul Democrat",
+        "shortName": "PD",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 21775,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Democrat Liberal"
+      },
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 19379,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "Partidul Național Liberal",
+        "shortName": "PNL",
+        "partyColor": "#F8DD1B",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+Liberal.jpg",
+        "votes": 14593,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Liberal"
+      },
+      {
+        "name": "PRM",
+        "shortName": "PRM",
+        "partyColor": "#B266B2",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Rom%C3%A2nia+Mare.jpg",
+        "votes": 6122,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul România Mare"
+      },
+      {
+        "name": "Partidul Național Tărănesc Creștin Democrat",
+        "shortName": "PNTCD",
+        "partyColor": "#FFFF00",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Na%C8%9Bional+T%C4%83r%C4%83nesc+Cre%C8%99tin+Democrat.jpg",
+        "votes": 3918,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Partidul Național Tărănesc Creștin Democrat"
+      },
+      {
+        "name": "BASESCU ELENA",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 2443,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "ABRAHAM PAVEL",
+        "shortName": "CANDIDAT INDEPENDENT",
+        "partyColor": "#808080",
+        "votes": 1050,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "FORTA CIVICA",
+        "shortName": "",
+        "partyColor": "#0077B9",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/FORTA%20CIVICA.png",
+        "votes": 319,
+        "seats": 0,
+        "totalSeats": 0
+      },
+      {
+        "name": "UDMR",
+        "shortName": "UDMR",
+        "partyColor": "#007300",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Uniunea+Democrat%C4%83+a+Maghiarilor+din+Rom%C3%A2nia.jpg",
+        "votes": 316,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA"
+      }
+    ],
+    "countedVotes": 73841
+  },
+  "electionNews": [],
+  "aggregated": false
+}

@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Arad",
+    "countyId": 589
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 23,
+    "ballotId": 45,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 393462,
+    "totalVotes": 200712
+  },
+  "results": {
+    "eligibleVoters": 393462,
+    "totalVotes": 200712,
+    "validVotes": 198926,
+    "nullVotes": 1786,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 125394,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      },
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 73532,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      }
+    ],
+    "countedVotes": 200712
+  },
+  "electionNews": [],
+  "aggregated": false
+}

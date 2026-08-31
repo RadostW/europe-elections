@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Tulcea",
+    "countyId": 19284
+  },
+  "meta": {
+    "date": "2004-11-28T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 23,
+    "ballotId": 45,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 208845,
+    "totalVotes": 116187
+  },
+  "results": {
+    "eligibleVoters": 208845,
+    "totalVotes": 116187,
+    "validVotes": 115025,
+    "nullVotes": 1161,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "TRAIAN BASESCU",
+        "shortName": "TRAIAN BASESCU",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/Sigla_alianta_DA.svg",
+        "votes": 65802,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "Alianța Dreptate și Adevăr"
+      },
+      {
+        "name": "ADRIAN NASTASE",
+        "shortName": "ADRIAN NASTASE",
+        "partyColor": "#FE0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/image.png",
+        "votes": 49223,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PSD + PUR"
+      }
+    ],
+    "countedVotes": 116186
+  },
+  "electionNews": [],
+  "aggregated": false
+}

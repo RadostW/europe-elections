@@ -1,0 +1,52 @@
+{
+  "scope": {
+    "type": "county",
+    "countyName": "Suceava",
+    "countyId": 17391
+  },
+  "meta": {
+    "date": "2009-11-22T00:00:00",
+    "title": "Alegeri Prezidențiale",
+    "type": "president",
+    "ballot": "Turul 2",
+    "electionId": 15,
+    "ballotId": 30,
+    "live": false,
+    "stage": "final"
+  },
+  "turnout": {
+    "eligibleVoters": 568332,
+    "totalVotes": 321150
+  },
+  "results": {
+    "eligibleVoters": 568332,
+    "totalVotes": 321150,
+    "validVotes": 317265,
+    "nullVotes": 3884,
+    "totalSeats": 0,
+    "candidates": [
+      {
+        "name": "Traian Basescu",
+        "shortName": "Traian Basescu",
+        "partyColor": "#FFA500",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Democrat+Liberal.jpg",
+        "votes": 171944,
+        "seats": 0,
+        "totalSeats": 0,
+        "partyName": "PDL"
+      },
+      {
+        "name": "Partidul Social Democrat",
+        "shortName": "PSD",
+        "partyColor": "#FF0000",
+        "partyLogo": "https://rezultatevot-media.s3.eu-central-1.amazonaws.com/v2/Logo__Partidul+Social+Democrat.jpg",
+        "votes": 145321,
+        "seats": 0,
+        "totalSeats": 0
+      }
+    ],
+    "countedVotes": 321149
+  },
+  "electionNews": [],
+  "aggregated": false
+}
