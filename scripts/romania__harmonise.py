@@ -2,6 +2,7 @@ import pathlib
 import json
 import pandas as pd
 import numpy as np
+import unidecode
 
 
 def from_json(path):
@@ -12,6 +13,10 @@ def from_json(path):
 here = pathlib.Path(__file__).resolve().parent
 
 files_to_parse = (here / "../data/romania/raw_datasets/judete").resolve().glob("*.json")
+nuts_path = here / "../data/romania/metadata/nuts2024_romania.csv"
+
+nuts = pd.read_csv(nuts_path)
+nuts = nuts[nuts["NUTS level"] == 3]
 
 records = None
 
@@ -23,23 +28,22 @@ for file in files_to_parse:
 
     election_date = q["meta"]["date"][:10]
 
-    if election_date == '2014-05-25':
-        print('[WARN] Skipping malformed data: election_date == 2014-05-25')
+    if election_date == "2014-05-25":
+        print("[WARN] Skipping malformed data: election_date == 2014-05-25")
         continue
 
     election_type_raw = q["meta"]["type"]  # eg 'president'
     ballot_type = q["meta"]["ballot"]  # eg 'Turul 1'
 
-    if election_type_raw == 'president':
-        if ballot_type == 'Turul 1':
-            election_type = 'president_a'
-        elif ballot_type == 'Turul 2':
-            election_type = 'president_b'
+    if election_type_raw == "president":
+        if ballot_type == "Turul 1":
+            election_type = "president_a"
+        elif ballot_type == "Turul 2":
+            election_type = "president_b"
         else:
-            raise NotImplementedError            
+            raise NotImplementedError
     else:
         election_type = election_type_raw
-    
 
     eligible_voters = q["turnout"]["eligibleVoters"]
     total_votes = q["turnout"]["totalVotes"]
@@ -60,7 +64,7 @@ for file in files_to_parse:
 
     candidate_results = []
     for row in q["results"]["candidates"]:
-        candidate_name = row.get("shortName",row["name"])
+        candidate_name = row.get("shortName", row["name"])
         party_name = row.get("partyName", "")
         candidate_votes = row["votes"]
 
@@ -87,3 +91,29 @@ for file in files_to_parse:
         records = pd.concat([records, election_table])
 
 records = records.reset_index()
+
+nuts["harmonised_name"] = nuts["NUTS label"].apply(lambda x: unidecode.unidecode(x))
+
+output = pd.merge(
+    left=records,
+    right=nuts[["NUTS Code", "NUTS label", "harmonised_name"]],
+    left_on="harmonised_name",
+    right_on="harmonised_name",
+    how="left",
+).rename(
+    columns={
+        "NUTS Code": "nuts3_code",
+        "NUTS label": "nuts3_name",
+    }
+)
+output["election_type"] = output["election_type"].replace(
+    to_replace="european_parliament", value="european"
+)
+
+output["harmonised_code"] = output["nuts3_code"]
+
+output_path = (
+    here
+    / "../data/romania/harmonised/judete/romania__long.csv"
+)
+output.to_csv(output_path)

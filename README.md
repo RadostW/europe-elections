@@ -10,13 +10,14 @@
 This repository contains raw data about elections (public domain unless specified otherwise), and provides metadata to aggregate into NUTS regions to be used with, for example, Eurostat datasets.
 
 ## Countries covered
-| Country | Years      | Election Types            | Resolution                                           | Data Source | Download                            | Metadata                                          |
-|---------|------------|---------------------------|------------------------------------------------------|-------------|-------------------------------------|---------------------------------------------------|
-| Poland  | 2000-2025  | sejm, president, european | powiat (380 units, 75k persons)                      | [1]         | [CSV](./data/downloads/poland.csv)  | [Metadata](./data/downloads/poland_metadata.csv)  |
-| Germany | 1990-2025  | bundestag, european       | kreis (400 units, 200k persons)                      | [2]         | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/germany_metadata.csv) |
-| France  | 1999-2025  | president, european       | departament (approx. NUTS3, 100 units, 680k persons) | [3]         | [CSV](./data/downloads/france.csv)  | [Metadata](./data/downloads/france_metadata.csv)  |
-| Italy   | 1996-2025  | camera, european          | NUTS3 (approx. province, 100 units, 500k persons)    | [4]         | [CSV](./data/downloads/italy.csv)   | [Metadata](./data/downloads/italy_metadata.csv)   |
-| Spain   | 1999-2025  | congresso, european       | provincia (approx NUTS3, 51 units, 960k persons)     | [5,6]       | [CSV](./data/downloads/spain.csv)   | [Metadata](./data/downloads/spain_metadata.csv)   |
+| Country | Years      | Election Types             | Resolution                                           | Data Source | Download                            | Metadata                                          |
+|---------|------------|----------------------------|------------------------------------------------------|-------------|-------------------------------------|---------------------------------------------------|
+| Poland  | 2000-2025  | sejm, president, european  | powiat (380 units, 75k persons)                      | [1]         | [CSV](./data/downloads/poland.csv)  | [Metadata](./data/downloads/poland_metadata.csv)  |
+| Germany | 1990-2025  | bundestag, european        | kreis (400 units, 200k persons)                      | [2]         | [CSV](./data/downloads/germany.csv) | [Metadata](./data/downloads/germany_metadata.csv) |
+| France  | 1999-2025  | president, european        | departament (approx. NUTS3, 100 units, 680k persons) | [3]         | [CSV](./data/downloads/france.csv)  | [Metadata](./data/downloads/france_metadata.csv)  |
+| Italy   | 1996-2025  | camera, european           | NUTS3 (approx. province, 100 units, 500k persons)    | [4]         | [CSV](./data/downloads/italy.csv)   | [Metadata](./data/downloads/italy_metadata.csv)   |
+| Spain   | 1999-2025  | congresso, european        | provincia (approx NUTS3, 51 units, 960k persons)     | [5,6]       | [CSV](./data/downloads/spain.csv)   | [Metadata](./data/downloads/spain_metadata.csv)   |
+| Romania | 1992-2025  | house, president, european | NUTS3 (approx. judete, 42 units, 40k persons)        | [7]         | [CSV](./data/downloads/romania.csv) |                                                   |
 
 Approx NUTS3 - Can differ from NUTS3 in case of islands.
 You can use metadata files to aggregate election results at the desired level.
@@ -28,6 +29,7 @@ references:
  - [4] - Own work based on Italian database [Elezion Istorico](https://elezionistorico.interno.gov.it/eligendo/opendata.php)
  - [5] - Own work based on Ministry of Interior province aggregates [data](https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/)
  - [6] - (EP elections: 1999,2004,2009) Aggregation of data from [EUNED](https://eu-ned.com/datasets/)
+ - [7] - Aggregation of data from [Commit Global - Rezultate Vot](https://istoric.rezultatevot.ro/) - CC BY 4.0
 
 ## How to cite
 
