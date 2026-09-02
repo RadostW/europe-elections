@@ -18,6 +18,7 @@ This repository contains raw data about elections (public domain unless specifie
 | Italy   | 1996-2025  | camera, european           | NUTS3 (approx. province, 100 units, 500k persons)    | [4]         | [CSV](./data/downloads/italy.csv)   | [Metadata](./data/downloads/italy_metadata.csv)   |
 | Spain   | 1999-2025  | congresso, european        | provincia (approx NUTS3, 51 units, 960k persons)     | [5,6]       | [CSV](./data/downloads/spain.csv)   | [Metadata](./data/downloads/spain_metadata.csv)   |
 | Romania | 1992-2025  | house, president, european | NUTS3 (approx. judete, 42 units, 40k persons)        | [7]         | [CSV](./data/downloads/romania.csv) |                                                   |
+| Hungary | 2000-2025  | parliament, european       | telepules (3155 units, 3k persons)                   | [8]         | [CSV](./data/downloads/hungary.csv) |                                                   |
 
 Approx NUTS3 - Can differ from NUTS3 in case of islands.
 You can use metadata files to aggregate election results at the desired level.
@@ -30,6 +31,7 @@ references:
  - [5] - Own work based on Ministry of Interior province aggregates [data](https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/)
  - [6] - (EP elections: 1999,2004,2009) Aggregation of data from [EUNED](https://eu-ned.com/datasets/)
  - [7] - Aggregation of data from [Commit Global - Rezultate Vot](https://istoric.rezultatevot.ro/) - CC BY 4.0
+ - [8] - Aggregation of data from [valasztas.hu](https://www.valasztas.hu/home) ([see also](https://static.valasztas.hu/dyn/letoltesek/valasztasi_eredmenyek_1990-2024.zip))
 
 ## How to cite
 
