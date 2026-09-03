@@ -1,3 +1,4 @@
+id|name                     |tid|tname                    |pid|pname                         |votes  |
 01|Budapest                 |001|Budapest I.ker.          |001|FIDESZ-KDNP                   |0006598|
 01|Budapest                 |001|Budapest I.ker.          |002|SZDSZ                         |0000769|
 01|Budapest                 |001|Budapest I.ker.          |003|MCF ROMA Ö.                   |0000024|
