@@ -1,3 +1,4 @@
+ci|tid| sid|county_name              |telepules_name             |ii|eligibl   |b         |c         |d         |e         |f         |issued    |h         |i         |j         |
 01|001|0001|BUDAPEST                 |BUDAPEST                 01|01|       597|        11|         0|       608|         0|       519|       519|         0|         1|       518|
 01|001|0002|BUDAPEST                 |BUDAPEST                 01|01|       833|         9|         0|       842|         0|       698|       696|        -2|         4|       692|
 01|001|0003|BUDAPEST                 |BUDAPEST                 01|01|       951|        11|         0|       962|         4|       792|       792|         0|         7|       785|

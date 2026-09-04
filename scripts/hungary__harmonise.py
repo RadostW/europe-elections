@@ -1,5 +1,6 @@
 import pathlib
 import pandas as pd
+import unidecode
 
 here = pathlib.Path(__file__).resolve().parent
 
@@ -20,12 +21,20 @@ european_election_dates = {
 
 parliament_paths = {
     2026: raw_data_dir / "parliament_2026/",
-    2022: raw_data_dir / "parliament_2022.xls",
-    2018: raw_data_dir / "parliament_2018.xls",
-    2014: raw_data_dir / "parliament_2014.xls",
+    2022: raw_data_dir / "parliament_2022.csv",
+    2018: raw_data_dir / "parliament_2018.csv",
+    2014: raw_data_dir / "parliament_2014.csv",
     2010: (
         raw_data_dir / "parliament_2010__lis_szkt.txt",
         raw_data_dir / "parliament_2010__lis_szkf.txt",
+    ),
+    2006: (
+        raw_data_dir / "parliament_2006__lis_szkt.txt",
+        raw_data_dir / "parliament_2006__lis_szkf.txt",
+    ),
+    2002: (
+        raw_data_dir / "parliament_2002__lis_szkt.txt",
+        raw_data_dir / "parliament_2002__lis_szkf.txt",
     ),
 }
 parliament_election_dates = {
@@ -400,7 +409,9 @@ for year, path in parliament_paths.items():
         parliament_records.append(df_year)
 
     elif year in [2022, 2018, 2014]:
-        raw_data = pd.read_excel(path)
+
+        raw_data = pd.read_csv(path)
+
         meta_rows = raw_data[raw_data["'LISTÁS'"] == "Listás"].copy()
         meta_rows["ev"] = "eligible_voters"
         meta_rows["ib"] = "issued_ballots"
@@ -459,7 +470,7 @@ for year, path in parliament_paths.items():
             .reset_index()
         )
         parliament_records.append(df_year)
-    elif year == 2010:
+    elif year in [2010, 2006, 2002]:
         path_data, path_meta = path
         raw_data = pd.read_csv(
             path_data,
@@ -537,7 +548,47 @@ for year, path in parliament_paths.items():
             .reset_index()
         )
         parliament_records.append(df_year)
-
-        raise NotImplementedError("foo")
     else:
         raise NotImplementedError
+
+df_parliament = pd.concat(parliament_records)
+
+df_hungary = pd.concat([df_parliament, df_euro])
+df_hungary = df_hungary.sort_values(by=list(df_hungary.columns))
+
+# deal with Budapest districts
+df_hungary["harmonised_name"] = df_hungary["harmonised_name"].map(
+    lambda x: "budapest" if "budapest" in x.lower() else x
+)
+df_hungary = (
+    df_hungary.groupby(
+        ["election_date", "election_type", "harmonised_name", "type", "name"]
+    )
+    .agg("sum")
+    .reset_index()
+)
+
+# drop non-telepules rows
+df_hungary = df_hungary[df_hungary["harmonised_name"] != "OVI székhelye"]
+
+df_hungary["merge_name"] = (
+    df_hungary["harmonised_name"]
+    .str.lower()
+    .replace({"kömlő": "koemlo"})
+    .replace({"kömörő": "keomörő"})
+    .map(lambda x: unidecode.unidecode(x))
+)
+
+merge_to_canonical = (
+    df_hungary.loc[
+        (df_hungary["election_date"] == "2026-04-12") & (df_hungary["type"] == 0),
+        ["merge_name", "harmonised_name"],
+    ]
+    .set_index("merge_name")["harmonised_name"]
+    .to_dict()
+)
+df_hungary["harmonised_name"] = df_hungary["merge_name"].map(merge_to_canonical)
+
+
+q = df_hungary[df_hungary["type"] == 0]
+w = q.merge_name.value_counts()
