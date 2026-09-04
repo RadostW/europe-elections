@@ -23,6 +23,10 @@ parliament_paths = {
     2022: raw_data_dir / "parliament_2022.xls",
     2018: raw_data_dir / "parliament_2018.xls",
     2014: raw_data_dir / "parliament_2014.xls",
+    2010: (
+        raw_data_dir / "parliament_2010__lis_szkt.txt",
+        raw_data_dir / "parliament_2010__lis_szkf.txt",
+    ),
 }
 parliament_election_dates = {
     2026: "2026-04-12",
@@ -92,7 +96,6 @@ for year, path in european_paths.items():
 
         df_year = pd.concat(year_records)
         european_records.append(df_year)
-
     elif year == 2019:
         raw_data = pd.read_excel(path, None, skiprows=4)
         column_names = {
@@ -394,7 +397,7 @@ for year, path in parliament_paths.items():
             .agg("sum")
             .reset_index()
         )
-        parliament_records.append(df_year)        
+        parliament_records.append(df_year)
 
     elif year in [2022, 2018, 2014]:
         raw_data = pd.read_excel(path)
@@ -456,5 +459,85 @@ for year, path in parliament_paths.items():
             .reset_index()
         )
         parliament_records.append(df_year)
+    elif year == 2010:
+        path_data, path_meta = path
+        raw_data = pd.read_csv(
+            path_data,
+            sep="|",
+            encoding="cp1250",
+        )
+        raw_data.columns = [x.replace(" ", "") for x in raw_data.columns]
+        raw_data = raw_data.map(lambda x: x.strip() if isinstance(x, str) else x)
+
+        raw_meta = pd.read_csv(
+            path_meta,
+            sep="|",
+            encoding="cp1250",
+        )
+        raw_meta.columns = [x.replace(" ", "") for x in raw_meta.columns]
+        raw_meta = raw_meta.map(lambda x: x.strip() if isinstance(x, str) else x)
+        raw_meta["ev"] = "eligible_voters"
+        raw_meta["ib"] = "issued_ballots"
+        vote_rows = pd.merge(
+            left=raw_data,
+            right=raw_meta[["ci", "tid", "sid", "telepules_name"]],
+            left_on=["ci", "tid", "sid"],
+            right_on=["ci", "tid", "sid"],
+            how="left",
+        )
+
+        df_year = pd.concat(
+            [
+                vote_rows[["telepules_name", "list_name", "votes"]].rename(
+                    columns={
+                        "telepules_name": "harmonised_name",
+                        "list_name": "name",
+                    }
+                ),
+                raw_meta[["telepules_name", "ev", "eligibl"]].rename(
+                    columns={
+                        "telepules_name": "harmonised_name",
+                        "ev": "name",
+                        "eligibl": "votes",
+                    }
+                ),
+                raw_meta[["telepules_name", "ib", "issued"]].rename(
+                    columns={
+                        "telepules_name": "harmonised_name",
+                        "ib": "name",
+                        "issued": "votes",
+                    }
+                ),
+            ]
+        )
+        df_year["type"] = (
+            df_year["name"]
+            .map({"eligible_voters": 0, "issued_ballots": 1})
+            .fillna(2)
+            .astype(int)
+        )
+        df_year["election_date"] = parliament_election_dates[year]
+        df_year["election_type"] = "parliament"
+        df_year = df_year[
+            [
+                "election_date",
+                "election_type",
+                "harmonised_name",
+                "type",
+                "name",
+                "votes",
+            ]
+        ]
+        df_year = df_year.sort_values(by=list(df_year.columns))
+        df_year = (
+            df_year.groupby(
+                ["election_date", "election_type", "harmonised_name", "type", "name"]
+            )
+            .agg("sum")
+            .reset_index()
+        )
+        parliament_records.append(df_year)
+
+        raise NotImplementedError("foo")
     else:
         raise NotImplementedError
