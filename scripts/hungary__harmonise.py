@@ -4,6 +4,21 @@ import unidecode
 
 here = pathlib.Path(__file__).resolve().parent
 
+output_path = here / "../data/hungary/harmonised/hungary.csv"
+
+meta_path = here / "../data/hungary/meta/codes.csv"
+
+meta = pd.read_csv(meta_path)
+meta = meta.rename(
+    columns={
+        "Név": "harmonised_name",
+        "Település-azonosító törzsszám": "harmonised_code",
+        "NUTS'16": "nuts3_code",
+    }
+)
+meta["harmonised_code"] = "KSH_" + meta["harmonised_code"].astype(str).str.zfill(5)
+meta = meta[["harmonised_name", "harmonised_code", "nuts3_code"]]
+
 raw_data_dir = (here / "../data/hungary/raw_datasets/").resolve()
 european_paths = {
     2024: raw_data_dir / "EP_2024.xls",
@@ -558,7 +573,7 @@ df_hungary = df_hungary.sort_values(by=list(df_hungary.columns))
 
 # deal with Budapest districts
 df_hungary["harmonised_name"] = df_hungary["harmonised_name"].map(
-    lambda x: "budapest" if "budapest" in x.lower() else x
+    lambda x: "Budapest" if "budapest" in x.lower() else x
 )
 df_hungary = (
     df_hungary.groupby(
@@ -589,6 +604,17 @@ merge_to_canonical = (
 )
 df_hungary["harmonised_name"] = df_hungary["merge_name"].map(merge_to_canonical)
 
+df_hungary = pd.merge(left=df_hungary, right=meta, how="left", on="harmonised_name")
 
-q = df_hungary[df_hungary["type"] == 0]
-w = q.merge_name.value_counts()
+df_hungary[
+    [
+        "election_date",
+        "election_type",
+        "harmonised_code",
+        "nuts3_code",
+        "harmonised_name",
+        "type",
+        "name",
+        "votes",
+    ]
+].to_csv(output_path)

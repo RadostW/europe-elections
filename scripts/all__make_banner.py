@@ -30,7 +30,11 @@ files = {
     "romania": {
         "csv": "../data/downloads/romania.csv",
         "topo": "../data/downloads/romania_judete.topojson",
-    }
+    },
+    "hungary": {
+        "csv": "../data/downloads/hungary.csv",
+        "topo": "../data/downloads/hungary_telepules.topojson",
+    },
 }
 
 gdfs = []
