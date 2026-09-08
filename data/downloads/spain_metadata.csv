@@ -1,0 +1,61 @@
+,harmonised_code,nuts3_code,nuts_0,nuts_1,nuts_2,nuts_3,harmonised_name,nuts3_name,nuts2_name,nuts1_name
+0,I_15,ES111,ES,1,1,1,A Coruna,A Coruña,Galicia,Noroeste
+1,I_27,ES112,ES,1,1,2,Lugo,Lugo,Galicia,Noroeste
+2,I_32,ES113,ES,1,1,3,Ourense,Ourense,Galicia,Noroeste
+3,I_36,ES114,ES,1,1,4,Pontevedra,Pontevedra,Galicia,Noroeste
+4,I_33,ES120,ES,1,2,0,Asturias,Asturias,Principado de Asturias,Noroeste
+5,I_39,ES130,ES,1,3,0,Cantabria,Cantabria,Cantabria,Noroeste
+6,I_01,ES211,ES,2,1,1,Alava,Araba/Álava,País Vasco,Noreste
+7,I_20,ES212,ES,2,1,2,Gipuzkoa,Gipuzkoa,País Vasco,Noreste
+8,I_48,ES213,ES,2,1,3,Bizkaia,Bizkaia,País Vasco,Noreste
+9,I_31,ES220,ES,2,2,0,Navarra,Navarra,Comunidad Foral de Navarra,Noreste
+10,I_26,ES230,ES,2,3,0,La Rioja,La Rioja,La Rioja,Noreste
+11,I_22,ES241,ES,2,4,1,Huesca,Huesca,Aragón,Noreste
+12,I_44,ES242,ES,2,4,2,Teruel,Teruel,Aragón,Noreste
+13,I_50,ES243,ES,2,4,3,Zaragoza,Zaragoza,Aragón,Noreste
+14,I_28,ES300,ES,3,0,0,Madrid,Madrid,Comunidad de Madrid,Comunidad de Madrid
+15,I_05,ES411,ES,4,1,1,Avila,Ávila,Castilla y León,Centro (ES)
+16,I_09,ES412,ES,4,1,2,Burgos,Burgos,Castilla y León,Centro (ES)
+17,I_24,ES413,ES,4,1,3,Leon,León,Castilla y León,Centro (ES)
+18,I_34,ES414,ES,4,1,4,Palencia,Palencia,Castilla y León,Centro (ES)
+19,I_37,ES415,ES,4,1,5,Salamanca,Salamanca,Castilla y León,Centro (ES)
+20,I_40,ES416,ES,4,1,6,Segovia,Segovia,Castilla y León,Centro (ES)
+21,I_42,ES417,ES,4,1,7,Soria,Soria,Castilla y León,Centro (ES)
+22,I_47,ES418,ES,4,1,8,Valladolid,Valladolid,Castilla y León,Centro (ES)
+23,I_49,ES419,ES,4,1,9,Zamora,Zamora,Castilla y León,Centro (ES)
+24,I_02,ES421,ES,4,2,1,Albacete,Albacete,Castilla-La Mancha,Centro (ES)
+25,I_13,ES422,ES,4,2,2,Ciudad Real,Ciudad Real,Castilla-La Mancha,Centro (ES)
+26,I_16,ES423,ES,4,2,3,Cuenca,Cuenca,Castilla-La Mancha,Centro (ES)
+27,I_19,ES424,ES,4,2,4,Guadalajara,Guadalajara,Castilla-La Mancha,Centro (ES)
+28,I_45,ES425,ES,4,2,5,Toledo,Toledo,Castilla-La Mancha,Centro (ES)
+29,I_06,ES431,ES,4,3,1,Badajoz,Badajoz,Extremadura,Centro (ES)
+30,I_10,ES432,ES,4,3,2,Caceres,Cáceres,Extremadura,Centro (ES)
+31,I_08,ES511,ES,5,1,1,Barcelona,Barcelona,Cataluña,Este
+32,I_17,ES512,ES,5,1,2,Girona,Girona,Cataluña,Este
+33,I_25,ES513,ES,5,1,3,Lleida,Lleida,Cataluña,Este
+34,I_43,ES514,ES,5,1,4,Tarragona,Tarragona,Cataluña,Este
+35,I_03,ES521,ES,5,2,1,Alicante,Alicante/Alacant,Comunitat Valenciana ,Este
+36,I_12,ES522,ES,5,2,2,Castellon,Castellón/Castelló,Comunitat Valenciana ,Este
+37,I_46,ES523,ES,5,2,3,Valencia,Valencia/València,Comunitat Valenciana ,Este
+38,I_07,ES531,ES,5,3,1,Illes Balears,Eivissa y Formentera,Illes Balears,Este
+39,I_07,ES532,ES,5,3,2,Illes Balears,Mallorca,Illes Balears,Este
+40,I_07,ES533,ES,5,3,3,Illes Balears,Menorca,Illes Balears,Este
+41,I_04,ES611,ES,6,1,1,Almeria,Almería,Andalucía,Sur
+42,I_11,ES612,ES,6,1,2,Cadiz,Cádiz,Andalucía,Sur
+43,I_14,ES613,ES,6,1,3,Cordoba,Córdoba,Andalucía,Sur
+44,I_18,ES614,ES,6,1,4,Granada,Granada,Andalucía,Sur
+45,I_21,ES615,ES,6,1,5,Huelva,Huelva,Andalucía,Sur
+46,I_23,ES616,ES,6,1,6,Jaen,Jaén,Andalucía,Sur
+47,I_29,ES617,ES,6,1,7,Malaga,Málaga,Andalucía,Sur
+48,I_41,ES618,ES,6,1,8,Sevilla,Sevilla,Andalucía,Sur
+49,I_30,ES620,ES,6,2,0,Murcia,Murcia,Región de Murcia,Sur
+50,I_51,ES630,ES,6,3,0,Ceuta,Ceuta,Ciudad de Ceuta,Sur
+51,I_52,ES640,ES,6,4,0,Melilla,Melilla,Ciudad de Melilla,Sur
+52,I_38,ES703,ES,7,0,3,Canarias,El Hierro,Canarias,Canarias
+53,I_35,ES704,ES,7,0,4,Las Palmas,Fuerteventura,Canarias,Canarias
+54,I_35,ES705,ES,7,0,5,Las Palmas,Gran Canaria,Canarias,Canarias
+55,I_38,ES706,ES,7,0,6,Canarias,La Gomera,Canarias,Canarias
+56,I_38,ES707,ES,7,0,7,Canarias,La Palma,Canarias,Canarias
+57,I_38,ES708,ES,7,0,8,Canarias,Lanzarote,Canarias,Canarias
+58,I_38,ES709,ES,7,0,9,Canarias,Tenerife,Canarias,Canarias
+59,,ESZZZ,ES,Z,Z,Z,,Extra-Regio NUTS 3,Extra-Regio NUTS 2,Extra-Regio NUTS 1
