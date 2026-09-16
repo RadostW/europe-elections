@@ -22,6 +22,8 @@ files = {
     "france": "../data/downloads/france.csv",
     "italy": "../data/downloads/italy.csv",
     "spain": "../data/downloads/spain.csv",
+    "romania": "../data/downloads/romania.csv",
+    "hungary": "../data/downloads/hungary.csv",
 }
 
 OUT_PATH = Path("./pca_variance_share_all_countries.csv")

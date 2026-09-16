@@ -1,0 +1,23 @@
+# Font
+font.family : Times
+text.usetex : True
+axes.labelsize : 9
+xtick.labelsize : 9
+ytick.labelsize : 9
+
+# Lines
+lines.linewidth : 1
+lines.marker : o
+lines.markeredgecolor : black
+lines.markersize : 4
+lines.markeredgewidth : 0.8
+
+# Error bars
+errorbar.capsize : 3
+
+# Legends
+legend.frameon: False
+legend.labelspacing: 0.2
+legend.handlelength: 1.5
+legend.handletextpad: 0.4
+legend.fontsize: 9
