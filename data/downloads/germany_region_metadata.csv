@@ -1,0 +1,401 @@
+,harmonised_code,harmonised_name,nuts_3_code,nuts_3_name,nuts_2_code,nuts_2_name,nuts_1_code,nuts_1_name
+0,DEF01,"Flensburg, Kreisfreie Stadt",DEF01,"Flensburg, Kreisfreie Stadt",DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+1,DEF02,"Kiel, Kreisfreie Stadt",DEF02,"Kiel, Kreisfreie Stadt",DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+2,DEF03,"Lübeck, Kreisfreie Stadt",DEF03,"Lübeck, Kreisfreie Stadt",DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+3,DEF04,"Neumünster, Kreisfreie Stadt",DEF04,"Neumünster, Kreisfreie Stadt",DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+4,DEF05,Dithmarschen,DEF05,Dithmarschen,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+5,DEF06,Herzogtum Lauenburg,DEF06,Herzogtum Lauenburg,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+6,DEF07,Nordfriesland,DEF07,Nordfriesland,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+7,DEF08,Ostholstein,DEF08,Ostholstein,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+8,DEF09,Pinneberg,DEF09,Pinneberg,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+9,DEF0A,Plön,DEF0A,Plön,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+10,DEF0B,Rendsburg-Eckernförde,DEF0B,Rendsburg-Eckernförde,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+11,DEF0C,Schleswig-Flensburg,DEF0C,Schleswig-Flensburg,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+12,DEF0D,Segeberg,DEF0D,Segeberg,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+13,DEF0E,Steinburg,DEF0E,Steinburg,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+14,DEF0F,Stormarn,DEF0F,Stormarn,DEF0,Schleswig-Holstein,DEF,Schleswig-Holstein
+15,DE241,"Bamberg, Kreisfreie Stadt",DE241,"Bamberg, Kreisfreie Stadt",DE24,Oberfranken,DE2,Bayern
+16,DE242,"Bayreuth, Kreisfreie Stadt",DE242,"Bayreuth, Kreisfreie Stadt",DE24,Oberfranken,DE2,Bayern
+17,DE243,"Coburg, Kreisfreie Stadt",DE243,"Coburg, Kreisfreie Stadt",DE24,Oberfranken,DE2,Bayern
+18,DE244,"Hof, Kreisfreie Stadt",DE244,"Hof, Kreisfreie Stadt",DE24,Oberfranken,DE2,Bayern
+19,DE245,"Bamberg, Landkreis",DE245,"Bamberg, Landkreis",DE24,Oberfranken,DE2,Bayern
+20,DE246,"Bayreuth, Landkreis",DE246,"Bayreuth, Landkreis",DE24,Oberfranken,DE2,Bayern
+21,DE247,"Coburg, Landkreis",DE247,"Coburg, Landkreis",DE24,Oberfranken,DE2,Bayern
+22,DE248,Forchheim,DE248,Forchheim,DE24,Oberfranken,DE2,Bayern
+23,DE249,"Hof, Landkreis",DE249,"Hof, Landkreis",DE24,Oberfranken,DE2,Bayern
+24,DE24A,Kronach,DE24A,Kronach,DE24,Oberfranken,DE2,Bayern
+25,DE24B,Kulmbach,DE24B,Kulmbach,DE24,Oberfranken,DE2,Bayern
+26,DE24C,Lichtenfels,DE24C,Lichtenfels,DE24,Oberfranken,DE2,Bayern
+27,DE24D,Wunsiedel i. Fichtelgebirge,DE24D,Wunsiedel i. Fichtelgebirge,DE24,Oberfranken,DE2,Bayern
+28,DE27C,Unterallgäu,DE27C,Unterallgäu,DE27,Schwaben,DE2,Bayern
+29,DE27D,Donau-Ries,DE27D,Donau-Ries,DE27,Schwaben,DE2,Bayern
+30,DE27E,Oberallgäu,DE27E,Oberallgäu,DE27,Schwaben,DE2,Bayern
+31,DE271,"Augsburg, Kreisfreie Stadt",DE271,"Augsburg, Kreisfreie Stadt",DE27,Schwaben,DE2,Bayern
+32,DE272,"Kaufbeuren, Kreisfreie Stadt",DE272,"Kaufbeuren, Kreisfreie Stadt",DE27,Schwaben,DE2,Bayern
+33,DE273,"Kempten (Allgäu), Kreisfreie Stadt",DE273,"Kempten (Allgäu), Kreisfreie Stadt",DE27,Schwaben,DE2,Bayern
+34,DE274,"Memmingen, Kreisfreie Stadt",DE274,"Memmingen, Kreisfreie Stadt",DE27,Schwaben,DE2,Bayern
+35,DE275,Aichach-Friedberg,DE275,Aichach-Friedberg,DE27,Schwaben,DE2,Bayern
+36,DE276,"Augsburg, Landkreis",DE276,"Augsburg, Landkreis",DE27,Schwaben,DE2,Bayern
+37,DE277,Dillingen a.d. Donau,DE277,Dillingen a.d. Donau,DE27,Schwaben,DE2,Bayern
+38,DE278,Günzburg,DE278,Günzburg,DE27,Schwaben,DE2,Bayern
+39,DE279,Neu-Ulm,DE279,Neu-Ulm,DE27,Schwaben,DE2,Bayern
+40,DE27A,Lindau (Bodensee),DE27A,Lindau (Bodensee),DE27,Schwaben,DE2,Bayern
+41,DE27B,Ostallgäu,DE27B,Ostallgäu,DE27,Schwaben,DE2,Bayern
+42,DE257,Erlangen-Höchstadt,DE257,Erlangen-Höchstadt,DE25,Mittelfranken,DE2,Bayern
+43,DE258,"Fürth, Landkreis",DE258,"Fürth, Landkreis",DE25,Mittelfranken,DE2,Bayern
+44,DE259,Nürnberger Land,DE259,Nürnberger Land,DE25,Mittelfranken,DE2,Bayern
+45,DE25A,Neustadt a. d. Aisch-Bad Windsheim,DE25A,Neustadt a. d. Aisch-Bad Windsheim,DE25,Mittelfranken,DE2,Bayern
+46,DE25B,Roth,DE25B,Roth,DE25,Mittelfranken,DE2,Bayern
+47,DE25C,Weißenburg-Gunzenhausen,DE25C,Weißenburg-Gunzenhausen,DE25,Mittelfranken,DE2,Bayern
+48,DE251,"Ansbach, Kreisfreie Stadt",DE251,"Ansbach, Kreisfreie Stadt",DE25,Mittelfranken,DE2,Bayern
+49,DE252,"Erlangen, Kreisfreie Stadt",DE252,"Erlangen, Kreisfreie Stadt",DE25,Mittelfranken,DE2,Bayern
+50,DE253,"Fürth, Kreisfreie Stadt",DE253,"Fürth, Kreisfreie Stadt",DE25,Mittelfranken,DE2,Bayern
+51,DE254,"Nürnberg, Kreisfreie Stadt",DE254,"Nürnberg, Kreisfreie Stadt",DE25,Mittelfranken,DE2,Bayern
+52,DE255,"Schwabach, Kreisfreie Stadt",DE255,"Schwabach, Kreisfreie Stadt",DE25,Mittelfranken,DE2,Bayern
+53,DE256,"Ansbach, Landkreis",DE256,"Ansbach, Landkreis",DE25,Mittelfranken,DE2,Bayern
+54,DE261,"Aschaffenburg, Kreisfreie Stadt",DE261,"Aschaffenburg, Kreisfreie Stadt",DE26,Unterfranken,DE2,Bayern
+55,DE262,"Schweinfurt, Kreisfreie Stadt",DE262,"Schweinfurt, Kreisfreie Stadt",DE26,Unterfranken,DE2,Bayern
+56,DE263,"Würzburg, Kreisfreie Stadt",DE263,"Würzburg, Kreisfreie Stadt",DE26,Unterfranken,DE2,Bayern
+57,DE264,"Aschaffenburg, Landkreis",DE264,"Aschaffenburg, Landkreis",DE26,Unterfranken,DE2,Bayern
+58,DE265,Bad Kissingen,DE265,Bad Kissingen,DE26,Unterfranken,DE2,Bayern
+59,DE266,Rhön-Grabfeld,DE266,Rhön-Grabfeld,DE26,Unterfranken,DE2,Bayern
+60,DE267,Haßberge,DE267,Haßberge,DE26,Unterfranken,DE2,Bayern
+61,DE268,Kitzingen,DE268,Kitzingen,DE26,Unterfranken,DE2,Bayern
+62,DE269,Miltenberg,DE269,Miltenberg,DE26,Unterfranken,DE2,Bayern
+63,DE26A,Main-Spessart,DE26A,Main-Spessart,DE26,Unterfranken,DE2,Bayern
+64,DE26B,"Schweinfurt, Landkreis",DE26B,"Schweinfurt, Landkreis",DE26,Unterfranken,DE2,Bayern
+65,DE26C,"Würzburg, Landkreis",DE26C,"Würzburg, Landkreis",DE26,Unterfranken,DE2,Bayern
+66,DE211,"Ingolstadt, Kreisfreie Stadt",DE211,"Ingolstadt, Kreisfreie Stadt",DE21,Oberbayern,DE2,Bayern
+67,DE212,"München, Kreisfreie Stadt",DE212,"München, Kreisfreie Stadt",DE21,Oberbayern,DE2,Bayern
+68,DE213,"Rosenheim, Kreisfreie Stadt",DE213,"Rosenheim, Kreisfreie Stadt",DE21,Oberbayern,DE2,Bayern
+69,DE214,Altötting,DE214,Altötting,DE21,Oberbayern,DE2,Bayern
+70,DE215,Berchtesgadener Land,DE215,Berchtesgadener Land,DE21,Oberbayern,DE2,Bayern
+71,DE216,Bad Tölz-Wolfratshausen,DE216,Bad Tölz-Wolfratshausen,DE21,Oberbayern,DE2,Bayern
+72,DE217,Dachau,DE217,Dachau,DE21,Oberbayern,DE2,Bayern
+73,DE218,Ebersberg,DE218,Ebersberg,DE21,Oberbayern,DE2,Bayern
+74,DE219,Eichstätt,DE219,Eichstätt,DE21,Oberbayern,DE2,Bayern
+75,DE21A,Erding,DE21A,Erding,DE21,Oberbayern,DE2,Bayern
+76,DE21B,Freising,DE21B,Freising,DE21,Oberbayern,DE2,Bayern
+77,DE21C,Fürstenfeldbruck,DE21C,Fürstenfeldbruck,DE21,Oberbayern,DE2,Bayern
+78,DE21D,Garmisch-Partenkirchen,DE21D,Garmisch-Partenkirchen,DE21,Oberbayern,DE2,Bayern
+79,DE21E,Landsberg am Lech,DE21E,Landsberg am Lech,DE21,Oberbayern,DE2,Bayern
+80,DE21F,Miesbach,DE21F,Miesbach,DE21,Oberbayern,DE2,Bayern
+81,DE21G,Mühldorf a. Inn,DE21G,Mühldorf a. Inn,DE21,Oberbayern,DE2,Bayern
+82,DE21H,"München, Landkreis",DE21H,"München, Landkreis",DE21,Oberbayern,DE2,Bayern
+83,DE21I,Neuburg-Schrobenhausen,DE21I,Neuburg-Schrobenhausen,DE21,Oberbayern,DE2,Bayern
+84,DE21J,Pfaffenhofen a. d. Ilm,DE21J,Pfaffenhofen a. d. Ilm,DE21,Oberbayern,DE2,Bayern
+85,DE21K,"Rosenheim, Landkreis",DE21K,"Rosenheim, Landkreis",DE21,Oberbayern,DE2,Bayern
+86,DE21L,Starnberg,DE21L,Starnberg,DE21,Oberbayern,DE2,Bayern
+87,DE21M,Traunstein,DE21M,Traunstein,DE21,Oberbayern,DE2,Bayern
+88,DE21N,Weilheim-Schongau,DE21N,Weilheim-Schongau,DE21,Oberbayern,DE2,Bayern
+89,DE226,Kelheim,DE226,Kelheim,DE22,Niederbayern,DE2,Bayern
+90,DE227,"Landshut, Landkreis",DE227,"Landshut, Landkreis",DE22,Niederbayern,DE2,Bayern
+91,DE228,"Passau, Landkreis",DE228,"Passau, Landkreis",DE22,Niederbayern,DE2,Bayern
+92,DE229,Regen,DE229,Regen,DE22,Niederbayern,DE2,Bayern
+93,DE22A,Rottal-Inn,DE22A,Rottal-Inn,DE22,Niederbayern,DE2,Bayern
+94,DE22B,Straubing-Bogen,DE22B,Straubing-Bogen,DE22,Niederbayern,DE2,Bayern
+95,DE22C,Dingolfing-Landau,DE22C,Dingolfing-Landau,DE22,Niederbayern,DE2,Bayern
+96,DE221,"Landshut, Kreisfreie Stadt",DE221,"Landshut, Kreisfreie Stadt",DE22,Niederbayern,DE2,Bayern
+97,DE222,"Passau, Kreisfreie Stadt",DE222,"Passau, Kreisfreie Stadt",DE22,Niederbayern,DE2,Bayern
+98,DE223,"Straubing, Kreisfreie Stadt",DE223,"Straubing, Kreisfreie Stadt",DE22,Niederbayern,DE2,Bayern
+99,DE224,Deggendorf,DE224,Deggendorf,DE22,Niederbayern,DE2,Bayern
+100,DE225,Freyung-Grafenau,DE225,Freyung-Grafenau,DE22,Niederbayern,DE2,Bayern
+101,DE231,"Amberg, Kreisfreie Stadt",DE231,"Amberg, Kreisfreie Stadt",DE23,Oberpfalz,DE2,Bayern
+102,DE232,"Regensburg, Kreisfreie Stadt",DE232,"Regensburg, Kreisfreie Stadt",DE23,Oberpfalz,DE2,Bayern
+103,DE233,"Weiden i. d. Opf, Kreisfreie Stadt",DE233,"Weiden i. d. Opf, Kreisfreie Stadt",DE23,Oberpfalz,DE2,Bayern
+104,DE234,Amberg-Sulzbach,DE234,Amberg-Sulzbach,DE23,Oberpfalz,DE2,Bayern
+105,DE235,Cham,DE235,Cham,DE23,Oberpfalz,DE2,Bayern
+106,DE236,Neumarkt i. d. OPf.,DE236,Neumarkt i. d. OPf.,DE23,Oberpfalz,DE2,Bayern
+107,DE237,Neustadt a. d. Waldnaab,DE237,Neustadt a. d. Waldnaab,DE23,Oberpfalz,DE2,Bayern
+108,DE238,"Regensburg, Landkreis",DE238,"Regensburg, Landkreis",DE23,Oberpfalz,DE2,Bayern
+109,DE239,Schwandorf,DE239,Schwandorf,DE23,Oberpfalz,DE2,Bayern
+110,DE23A,Tirschenreuth,DE23A,Tirschenreuth,DE23,Oberpfalz,DE2,Bayern
+111,DE300,Berlin,DE300,Berlin,DE30,Berlin,DE3,Berlin
+112,DEG0G,Weimarer Land,DEG0G,Weimarer Land,DEG0,Thüringen,DEG,Thüringen
+113,DEG0J,Saale-Holzland-Kreis,DEG0J,Saale-Holzland-Kreis,DEG0,Thüringen,DEG,Thüringen
+114,DEG0K,Saale-Orla-Kreis,DEG0K,Saale-Orla-Kreis,DEG0,Thüringen,DEG,Thüringen
+115,DEG0L,Greiz,DEG0L,Greiz,DEG0,Thüringen,DEG,Thüringen
+116,DEG0M,Altenburger Land,DEG0M,Altenburger Land,DEG0,Thüringen,DEG,Thüringen
+117,DEG0Q,Schmalkalden-Meiningen,DEG0Q,Schmalkalden-Meiningen,DEG0,Thüringen,DEG,Thüringen
+118,DEG0R,Wartburgkreis,DEG0R,Wartburgkreis,DEG0,Thüringen,DEG,Thüringen
+119,DEG0S,"Suhl, Kreisfreie Stadt",DEG0S,"Suhl, Kreisfreie Stadt",DEG0,Thüringen,DEG,Thüringen
+120,DEG0T,Ilm-Kreis,DEG0T,Ilm-Kreis,DEG0,Thüringen,DEG,Thüringen
+121,DEG0U,Saalfeld-Rudolstadt,DEG0U,Saalfeld-Rudolstadt,DEG0,Thüringen,DEG,Thüringen
+122,DEG0V,Sonneberg,DEG0V,Sonneberg,DEG0,Thüringen,DEG,Thüringen
+123,DEG01,"Erfurt, Kreisfreie Stadt",DEG01,"Erfurt, Kreisfreie Stadt",DEG0,Thüringen,DEG,Thüringen
+124,DEG02,"Gera, Kreisfreie Stadt",DEG02,"Gera, Kreisfreie Stadt",DEG0,Thüringen,DEG,Thüringen
+125,DEG03,"Jena, Kreisfreie Stadt",DEG03,"Jena, Kreisfreie Stadt",DEG0,Thüringen,DEG,Thüringen
+126,DEG05,"Weimar, Kreisfreie Stadt",DEG05,"Weimar, Kreisfreie Stadt",DEG0,Thüringen,DEG,Thüringen
+127,DEG06,Eichsfeld,DEG06,Eichsfeld,DEG0,Thüringen,DEG,Thüringen
+128,DEG07,Nordhausen,DEG07,Nordhausen,DEG0,Thüringen,DEG,Thüringen
+129,DEG09,Unstrut-Hainich-Kreis,DEG09,Unstrut-Hainich-Kreis,DEG0,Thüringen,DEG,Thüringen
+130,DEG0A,Kyffhäuserkreis,DEG0A,Kyffhäuserkreis,DEG0,Thüringen,DEG,Thüringen
+131,DEG0C,Gotha,DEG0C,Gotha,DEG0,Thüringen,DEG,Thüringen
+132,DEG0D,Sömmerda,DEG0D,Sömmerda,DEG0,Thüringen,DEG,Thüringen
+133,DEG0E,Hildburghausen,DEG0E,Hildburghausen,DEG0,Thüringen,DEG,Thüringen
+143,DE407,Elbe-Elster,DE407,Elbe-Elster,DE40,Brandenburg,DE4,Brandenburg
+144,DE408,Havelland,DE408,Havelland,DE40,Brandenburg,DE4,Brandenburg
+145,DE409,Märkisch-Oderland,DE409,Märkisch-Oderland,DE40,Brandenburg,DE4,Brandenburg
+146,DE40A,Oberhavel,DE40A,Oberhavel,DE40,Brandenburg,DE4,Brandenburg
+147,DE401,"Brandenburg an der Havel, Kreisfreie Stadt",DE401,"Brandenburg an der Havel, Kreisfreie Stadt",DE40,Brandenburg,DE4,Brandenburg
+148,DE402,"Cottbus, Kreisfreie Stadt",DE402,"Cottbus, Kreisfreie Stadt",DE40,Brandenburg,DE4,Brandenburg
+149,DE403,"Frankfurt (Oder), Kreisfreie Stadt",DE403,"Frankfurt (Oder), Kreisfreie Stadt",DE40,Brandenburg,DE4,Brandenburg
+150,DE404,"Potsdam, Kreisfreie Stadt",DE404,"Potsdam, Kreisfreie Stadt",DE40,Brandenburg,DE4,Brandenburg
+151,DE40B,Oberspreewald-Lausitz,DE40B,Oberspreewald-Lausitz,DE40,Brandenburg,DE4,Brandenburg
+152,DE40C,Oder-Spree,DE40C,Oder-Spree,DE40,Brandenburg,DE4,Brandenburg
+153,DE405,Barnim,DE405,Barnim,DE40,Brandenburg,DE4,Brandenburg
+154,DE40D,Ostprignitz-Ruppin,DE40D,Ostprignitz-Ruppin,DE40,Brandenburg,DE4,Brandenburg
+155,DE406,Dahme-Spreewald,DE406,Dahme-Spreewald,DE40,Brandenburg,DE4,Brandenburg
+156,DE40E,Potsdam-Mittelmark,DE40E,Potsdam-Mittelmark,DE40,Brandenburg,DE4,Brandenburg
+157,DE40F,Prignitz,DE40F,Prignitz,DE40,Brandenburg,DE4,Brandenburg
+158,DE40G,Spree-Neiße,DE40G,Spree-Neiße,DE40,Brandenburg,DE4,Brandenburg
+159,DE40H,Teltow-Fläming,DE40H,Teltow-Fläming,DE40,Brandenburg,DE4,Brandenburg
+160,DE40I,Uckermark,DE40I,Uckermark,DE40,Brandenburg,DE4,Brandenburg
+161,DE501,"Bremen, Kreisfreie Stadt",DE501,"Bremen, Kreisfreie Stadt",DE50,Bremen,DE5,Bremen
+162,DE502,"Bremerhaven, Kreisfreie Stadt",DE502,"Bremerhaven, Kreisfreie Stadt",DE50,Bremen,DE5,Bremen
+163,DE600,Hamburg,DE600,Hamburg,DE60,Hamburg,DE6,Hamburg
+180,DEA31,"Bottrop, Kreisfreie Stadt",DEA31,"Bottrop, Kreisfreie Stadt",DEA3,Münster,DEA,Nordrhein-Westfalen
+181,DEA32,"Gelsenkirchen, Kreisfreie Stadt",DEA32,"Gelsenkirchen, Kreisfreie Stadt",DEA3,Münster,DEA,Nordrhein-Westfalen
+182,DEA33,"Münster, Kreisfreie Stadt",DEA33,"Münster, Kreisfreie Stadt",DEA3,Münster,DEA,Nordrhein-Westfalen
+183,DEA34,Borken,DEA34,Borken,DEA3,Münster,DEA,Nordrhein-Westfalen
+184,DEA35,Coesfeld,DEA35,Coesfeld,DEA3,Münster,DEA,Nordrhein-Westfalen
+185,DEA36,Recklinghausen,DEA36,Recklinghausen,DEA3,Münster,DEA,Nordrhein-Westfalen
+186,DEA37,Steinfurt,DEA37,Steinfurt,DEA3,Münster,DEA,Nordrhein-Westfalen
+187,DEA38,Warendorf,DEA38,Warendorf,DEA3,Münster,DEA,Nordrhein-Westfalen
+188,DEA41,"Bielefeld, Kreisfreie Stadt",DEA41,"Bielefeld, Kreisfreie Stadt",DEA4,Detmold,DEA,Nordrhein-Westfalen
+189,DEA42,Gütersloh,DEA42,Gütersloh,DEA4,Detmold,DEA,Nordrhein-Westfalen
+190,DEA43,Herford,DEA43,Herford,DEA4,Detmold,DEA,Nordrhein-Westfalen
+191,DEA44,Höxter,DEA44,Höxter,DEA4,Detmold,DEA,Nordrhein-Westfalen
+192,DEA45,Lippe,DEA45,Lippe,DEA4,Detmold,DEA,Nordrhein-Westfalen
+193,DEA46,Minden-Lübbecke,DEA46,Minden-Lübbecke,DEA4,Detmold,DEA,Nordrhein-Westfalen
+194,DEA47,Paderborn,DEA47,Paderborn,DEA4,Detmold,DEA,Nordrhein-Westfalen
+195,DEA5C,Unna,DEA5C,Unna,DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+196,DEA51,"Bochum, Kreisfreie Stadt",DEA51,"Bochum, Kreisfreie Stadt",DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+197,DEA52,"Dortmund, Kreisfreie Stadt",DEA52,"Dortmund, Kreisfreie Stadt",DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+198,DEA53,"Hagen, Kreisfreie Stadt",DEA53,"Hagen, Kreisfreie Stadt",DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+199,DEA54,"Hamm, Kreisfreie Stadt",DEA54,"Hamm, Kreisfreie Stadt",DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+200,DEA55,"Herne, Kreisfreie Stadt",DEA55,"Herne, Kreisfreie Stadt",DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+201,DEA56,Ennepe-Ruhr-Kreis,DEA56,Ennepe-Ruhr-Kreis,DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+202,DEA57,Hochsauerlandkreis,DEA57,Hochsauerlandkreis,DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+203,DEA58,Märkischer Kreis,DEA58,Märkischer Kreis,DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+204,DEA59,Olpe,DEA59,Olpe,DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+205,DEA5A,Siegen-Wittgenstein,DEA5A,Siegen-Wittgenstein,DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+206,DEA5B,Soest,DEA5B,Soest,DEA5,Arnsberg,DEA,Nordrhein-Westfalen
+207,DEA28,Euskirchen,DEA28,Euskirchen,DEA2,Köln,DEA,Nordrhein-Westfalen
+208,DEA29,Heinsberg,DEA29,Heinsberg,DEA2,Köln,DEA,Nordrhein-Westfalen
+209,DEA2A,Oberbergischer Kreis,DEA2A,Oberbergischer Kreis,DEA2,Köln,DEA,Nordrhein-Westfalen
+210,DEA2B,Rheinisch-Bergischer Kreis,DEA2B,Rheinisch-Bergischer Kreis,DEA2,Köln,DEA,Nordrhein-Westfalen
+211,DEA2C,Rhein-Sieg-Kreis,DEA2C,Rhein-Sieg-Kreis,DEA2,Köln,DEA,Nordrhein-Westfalen
+212,DEA2D,Städteregion Aachen,DEA2D,Städteregion Aachen,DEA2,Köln,DEA,Nordrhein-Westfalen
+213,DEA22,"Bonn, Kreisfreie Stadt",DEA22,"Bonn, Kreisfreie Stadt",DEA2,Köln,DEA,Nordrhein-Westfalen
+214,DEA23,"Köln, Kreisfreie Stadt",DEA23,"Köln, Kreisfreie Stadt",DEA2,Köln,DEA,Nordrhein-Westfalen
+215,DEA24,"Leverkusen, Kreisfreie Stadt",DEA24,"Leverkusen, Kreisfreie Stadt",DEA2,Köln,DEA,Nordrhein-Westfalen
+216,DEA26,Düren,DEA26,Düren,DEA2,Köln,DEA,Nordrhein-Westfalen
+217,DEA27,Rhein-Erft-Kreis,DEA27,Rhein-Erft-Kreis,DEA2,Köln,DEA,Nordrhein-Westfalen
+218,DEA11,"Düsseldorf, Kreisfreie Stadt",DEA11,"Düsseldorf, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+219,DEA12,"Duisburg, Kreisfreie Stadt",DEA12,"Duisburg, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+220,DEA13,"Essen, Kreisfreie Stadt",DEA13,"Essen, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+221,DEA14,"Krefeld, Kreisfreie Stadt",DEA14,"Krefeld, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+222,DEA15,"Mönchengladbach, Kreisfreie Stadt",DEA15,"Mönchengladbach, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+223,DEA16,"Mülheim an der Ruhr, Kreisfreie Stadt",DEA16,"Mülheim an der Ruhr, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+224,DEA17,"Oberhausen, Kreisfreie Stadt",DEA17,"Oberhausen, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+225,DEA18,"Remscheid, Kreisfreie Stadt",DEA18,"Remscheid, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+226,DEA19,"Solingen, Kreisfreie Stadt",DEA19,"Solingen, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+227,DEA1A,"Wuppertal, Kreisfreie Stadt",DEA1A,"Wuppertal, Kreisfreie Stadt",DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+228,DEA1B,Kleve,DEA1B,Kleve,DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+229,DEA1C,Mettmann,DEA1C,Mettmann,DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+230,DEA1D,Rhein-Kreis Neuss,DEA1D,Rhein-Kreis Neuss,DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+231,DEA1E,Viersen,DEA1E,Viersen,DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+232,DEA1F,Wesel,DEA1F,Wesel,DEA1,Düsseldorf,DEA,Nordrhein-Westfalen
+233,DE711,"Darmstadt, Kreisfreie Stadt",DE711,"Darmstadt, Kreisfreie Stadt",DE71,Darmstadt,DE7,Hessen
+234,DE712,"Frankfurt am Main, Kreisfreie Stadt",DE712,"Frankfurt am Main, Kreisfreie Stadt",DE71,Darmstadt,DE7,Hessen
+235,DE713,"Offenbach am Main, Kreisfreie Stadt",DE713,"Offenbach am Main, Kreisfreie Stadt",DE71,Darmstadt,DE7,Hessen
+236,DE714,"Wiesbaden, Kreisfreie Stadt",DE714,"Wiesbaden, Kreisfreie Stadt",DE71,Darmstadt,DE7,Hessen
+237,DE715,Bergstraße,DE715,Bergstraße,DE71,Darmstadt,DE7,Hessen
+238,DE716,Darmstadt-Dieburg,DE716,Darmstadt-Dieburg,DE71,Darmstadt,DE7,Hessen
+239,DE717,Groß-Gerau,DE717,Groß-Gerau,DE71,Darmstadt,DE7,Hessen
+240,DE718,Hochtaunuskreis,DE718,Hochtaunuskreis,DE71,Darmstadt,DE7,Hessen
+241,DE719,Main-Kinzig-Kreis,DE719,Main-Kinzig-Kreis,DE71,Darmstadt,DE7,Hessen
+242,DE71A,Main-Taunus-Kreis,DE71A,Main-Taunus-Kreis,DE71,Darmstadt,DE7,Hessen
+243,DE71B,Odenwaldkreis,DE71B,Odenwaldkreis,DE71,Darmstadt,DE7,Hessen
+244,DE71C,"Offenbach, Landkreis",DE71C,"Offenbach, Landkreis",DE71,Darmstadt,DE7,Hessen
+245,DE71D,Rheingau-Taunus-Kreis,DE71D,Rheingau-Taunus-Kreis,DE71,Darmstadt,DE7,Hessen
+246,DE71E,Wetteraukreis,DE71E,Wetteraukreis,DE71,Darmstadt,DE7,Hessen
+247,DE721,"Gießen, Landkreis",DE721,"Gießen, Landkreis",DE72,Gießen,DE7,Hessen
+248,DE722,Lahn-Dill-Kreis,DE722,Lahn-Dill-Kreis,DE72,Gießen,DE7,Hessen
+249,DE723,Limburg-Weilburg,DE723,Limburg-Weilburg,DE72,Gießen,DE7,Hessen
+250,DE724,Marburg-Biedenkopf,DE724,Marburg-Biedenkopf,DE72,Gießen,DE7,Hessen
+251,DE725,Vogelsbergkreis,DE725,Vogelsbergkreis,DE72,Gießen,DE7,Hessen
+252,DE733,Hersfeld-Rotenburg,DE733,Hersfeld-Rotenburg,DE73,Kassel,DE7,Hessen
+253,DE734,"Kassel, Landkreis",DE734,"Kassel, Landkreis",DE73,Kassel,DE7,Hessen
+254,DE735,Schwalm-Eder-Kreis,DE735,Schwalm-Eder-Kreis,DE73,Kassel,DE7,Hessen
+255,DE736,Waldeck-Frankenberg,DE736,Waldeck-Frankenberg,DE73,Kassel,DE7,Hessen
+256,DE737,Werra-Meißner-Kreis,DE737,Werra-Meißner-Kreis,DE73,Kassel,DE7,Hessen
+257,DE731,"Kassel, Kreisfreie Stadt",DE731,"Kassel, Kreisfreie Stadt",DE73,Kassel,DE7,Hessen
+258,DE732,Fulda,DE732,Fulda,DE73,Kassel,DE7,Hessen
+259,DEB11,"Koblenz, Kreisfreie Stadt",DEB11,"Koblenz, Kreisfreie Stadt",DEB1,Koblenz,DEB,Rheinland-Pfalz
+260,DEB12,Ahrweiler,DEB12,Ahrweiler,DEB1,Koblenz,DEB,Rheinland-Pfalz
+261,DEB13,Altenkirchen (Westerwald),DEB13,Altenkirchen (Westerwald),DEB1,Koblenz,DEB,Rheinland-Pfalz
+262,DEB14,Bad Kreuznach,DEB14,Bad Kreuznach,DEB1,Koblenz,DEB,Rheinland-Pfalz
+263,DEB15,Birkenfeld,DEB15,Birkenfeld,DEB1,Koblenz,DEB,Rheinland-Pfalz
+264,DEB17,Mayen-Koblenz,DEB17,Mayen-Koblenz,DEB1,Koblenz,DEB,Rheinland-Pfalz
+265,DEB18,Neuwied,DEB18,Neuwied,DEB1,Koblenz,DEB,Rheinland-Pfalz
+266,DEB1A,Rhein-Lahn-Kreis,DEB1A,Rhein-Lahn-Kreis,DEB1,Koblenz,DEB,Rheinland-Pfalz
+267,DEB1B,Westerwaldkreis,DEB1B,Westerwaldkreis,DEB1,Koblenz,DEB,Rheinland-Pfalz
+268,DEB1C,Cochem-Zell,DEB1C,Cochem-Zell,DEB1,Koblenz,DEB,Rheinland-Pfalz
+269,DEB1D,Rhein-Hunsrück-Kreis,DEB1D,Rhein-Hunsrück-Kreis,DEB1,Koblenz,DEB,Rheinland-Pfalz
+270,DEB23,Eifelkreis Bitburg-Prüm,DEB23,Eifelkreis Bitburg-Prüm,DEB2,Trier,DEB,Rheinland-Pfalz
+271,DEB24,Vulkaneifel,DEB24,Vulkaneifel,DEB2,Trier,DEB,Rheinland-Pfalz
+272,DEB25,Trier-Saarburg,DEB25,Trier-Saarburg,DEB2,Trier,DEB,Rheinland-Pfalz
+273,DEB21,"Trier, Kreisfreie Stadt",DEB21,"Trier, Kreisfreie Stadt",DEB2,Trier,DEB,Rheinland-Pfalz
+274,DEB22,Bernkastel-Wittlich,DEB22,Bernkastel-Wittlich,DEB2,Trier,DEB,Rheinland-Pfalz
+275,DEB31,"Frankenthal (Pfalz), Kreisfreie Stadt",DEB31,"Frankenthal (Pfalz), Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+276,DEB32,"Kaiserslautern, Kreisfreie Stadt",DEB32,"Kaiserslautern, Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+277,DEB33,"Landau in der Pfalz, Kreisfreie Stadt",DEB33,"Landau in der Pfalz, Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+278,DEB34,"Ludwigshafen am Rhein, Kreisfreie Stadt",DEB34,"Ludwigshafen am Rhein, Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+279,DEB35,"Mainz, Kreisfreie Stadt",DEB35,"Mainz, Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+280,DEB36,"Neustadt an der Weinstraße, Kreisfreie Stadt",DEB36,"Neustadt an der Weinstraße, Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+281,DEB37,"Pirmasens, Kreisfreie Stadt",DEB37,"Pirmasens, Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+282,DEB38,"Speyer, Kreisfreie Stadt",DEB38,"Speyer, Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+283,DEB39,"Worms, Kreisfreie Stadt",DEB39,"Worms, Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+284,DEB3A,"Zweibrücken, Kreisfreie Stadt",DEB3A,"Zweibrücken, Kreisfreie Stadt",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+285,DEB3B,Alzey-Worms,DEB3B,Alzey-Worms,DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+286,DEB3C,Bad Dürkheim,DEB3C,Bad Dürkheim,DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+287,DEB3D,Donnersbergkreis,DEB3D,Donnersbergkreis,DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+288,DEB3E,Germersheim,DEB3E,Germersheim,DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+289,DEB3F,"Kaiserslautern, Landkreis",DEB3F,"Kaiserslautern, Landkreis",DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+290,DEB3G,Kusel,DEB3G,Kusel,DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+291,DEB3H,Südliche Weinstraße,DEB3H,Südliche Weinstraße,DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+292,DEB3I,Rhein-Pfalz-Kreis,DEB3I,Rhein-Pfalz-Kreis,DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+293,DEB3J,Mainz-Bingen,DEB3J,Mainz-Bingen,DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+294,DEB3K,Südwestpfalz,DEB3K,Südwestpfalz,DEB3,Rheinhessen-Pfalz,DEB,Rheinland-Pfalz
+316,DEC01,Regionalverband Saarbrücken,DEC01,Regionalverband Saarbrücken,DEC0,Saarland,DEC,Saarland
+317,DEC02,Merzig-Wadern,DEC02,Merzig-Wadern,DEC0,Saarland,DEC,Saarland
+318,DEC03,Neunkirchen,DEC03,Neunkirchen,DEC0,Saarland,DEC,Saarland
+319,DEC04,Saarlouis,DEC04,Saarlouis,DEC0,Saarland,DEC,Saarland
+320,DEC05,Saarpfalz-Kreis,DEC05,Saarpfalz-Kreis,DEC0,Saarland,DEC,Saarland
+321,DEC06,St. Wendel,DEC06,St. Wendel,DEC0,Saarland,DEC,Saarland
+322,DE80L,Vorpommern-Rügen,DE80L,Vorpommern-Rügen,DE80,Mecklenburg-Vorpommern,DE8,Mecklenburg-Vorpommern
+323,DE80M,Nordwestmecklenburg,DE80M,Nordwestmecklenburg,DE80,Mecklenburg-Vorpommern,DE8,Mecklenburg-Vorpommern
+324,DE80N,Vorpommern-Greifswald,DE80N,Vorpommern-Greifswald,DE80,Mecklenburg-Vorpommern,DE8,Mecklenburg-Vorpommern
+325,DE80O,Ludwigslust-Parchim,DE80O,Ludwigslust-Parchim,DE80,Mecklenburg-Vorpommern,DE8,Mecklenburg-Vorpommern
+326,DE803,"Rostock, Kreisfreie Stadt",DE803,"Rostock, Kreisfreie Stadt",DE80,Mecklenburg-Vorpommern,DE8,Mecklenburg-Vorpommern
+327,DE804,"Schwerin, Kreisfreie Stadt",DE804,"Schwerin, Kreisfreie Stadt",DE80,Mecklenburg-Vorpommern,DE8,Mecklenburg-Vorpommern
+328,DE80J,Mecklenburgische Seenplatte,DE80J,Mecklenburgische Seenplatte,DE80,Mecklenburg-Vorpommern,DE8,Mecklenburg-Vorpommern
+329,DE80K,Landkreis Rostock,DE80K,Landkreis Rostock,DE80,Mecklenburg-Vorpommern,DE8,Mecklenburg-Vorpommern
+330,DED41,"Chemnitz, Kreisfreie Stadt",DED41,"Chemnitz, Kreisfreie Stadt",DED4,Chemnitz,DED,Sachsen
+331,DED42,Erzgebirgskreis,DED42,Erzgebirgskreis,DED4,Chemnitz,DED,Sachsen
+332,DED43,Mittelsachsen,DED43,Mittelsachsen,DED4,Chemnitz,DED,Sachsen
+333,DED44,Vogtlandkreis,DED44,Vogtlandkreis,DED4,Chemnitz,DED,Sachsen
+334,DED45,Zwickau,DED45,Zwickau,DED4,Chemnitz,DED,Sachsen
+335,DED53,Nordsachsen,DED53,Nordsachsen,DED5,Leipzig,DED,Sachsen
+336,DED51,"Leipzig, Kreisfreie Stadt",DED51,"Leipzig, Kreisfreie Stadt",DED5,Leipzig,DED,Sachsen
+337,DED52,Leipzig,DED52,Leipzig,DED5,Leipzig,DED,Sachsen
+338,DED21,"Dresden, Kreisfreie Stadt",DED21,"Dresden, Kreisfreie Stadt",DED2,Dresden,DED,Sachsen
+339,DED2C,Bautzen,DED2C,Bautzen,DED2,Dresden,DED,Sachsen
+340,DED2D,Görlitz,DED2D,Görlitz,DED2,Dresden,DED,Sachsen
+341,DED2E,Meißen,DED2E,Meißen,DED2,Dresden,DED,Sachsen
+342,DED2F,Sächsische Schweiz-Osterzgebirge,DED2F,Sächsische Schweiz-Osterzgebirge,DED2,Dresden,DED,Sachsen
+343,DE133,Emmendingen,DE133,Emmendingen,DE13,Freiburg,DE1,Baden-Württemberg
+344,DE134,Ortenaukreis,DE134,Ortenaukreis,DE13,Freiburg,DE1,Baden-Württemberg
+345,DE13A,Waldshut,DE13A,Waldshut,DE13,Freiburg,DE1,Baden-Württemberg
+346,DE135,Rottweil,DE135,Rottweil,DE13,Freiburg,DE1,Baden-Württemberg
+347,DE136,Schwarzwald-Baar-Kreis,DE136,Schwarzwald-Baar-Kreis,DE13,Freiburg,DE1,Baden-Württemberg
+348,DE137,Tuttlingen,DE137,Tuttlingen,DE13,Freiburg,DE1,Baden-Württemberg
+349,DE138,Konstanz,DE138,Konstanz,DE13,Freiburg,DE1,Baden-Württemberg
+350,DE139,Lörrach,DE139,Lörrach,DE13,Freiburg,DE1,Baden-Württemberg
+351,DE131,"Freiburg im Breisgau, Stadtkreis",DE131,"Freiburg im Breisgau, Stadtkreis",DE13,Freiburg,DE1,Baden-Württemberg
+352,DE132,Breisgau-Hochschwarzwald,DE132,Breisgau-Hochschwarzwald,DE13,Freiburg,DE1,Baden-Württemberg
+353,DE141,Reutlingen,DE141,Reutlingen,DE14,Tübingen,DE1,Baden-Württemberg
+354,DE142,"Tübingen, Landkreis",DE142,"Tübingen, Landkreis",DE14,Tübingen,DE1,Baden-Württemberg
+355,DE143,Zollernalbkreis,DE143,Zollernalbkreis,DE14,Tübingen,DE1,Baden-Württemberg
+356,DE144,"Ulm, Stadtkreis",DE144,"Ulm, Stadtkreis",DE14,Tübingen,DE1,Baden-Württemberg
+357,DE145,Alb-Donau-Kreis,DE145,Alb-Donau-Kreis,DE14,Tübingen,DE1,Baden-Württemberg
+358,DE146,Biberach,DE146,Biberach,DE14,Tübingen,DE1,Baden-Württemberg
+359,DE147,Bodenseekreis,DE147,Bodenseekreis,DE14,Tübingen,DE1,Baden-Württemberg
+360,DE148,Ravensburg,DE148,Ravensburg,DE14,Tübingen,DE1,Baden-Württemberg
+361,DE149,Sigmaringen,DE149,Sigmaringen,DE14,Tübingen,DE1,Baden-Württemberg
+362,DE111,"Stuttgart, Stadtkreis",DE111,"Stuttgart, Stadtkreis",DE11,Stuttgart,DE1,Baden-Württemberg
+363,DE112,Böblingen,DE112,Böblingen,DE11,Stuttgart,DE1,Baden-Württemberg
+364,DE113,Esslingen,DE113,Esslingen,DE11,Stuttgart,DE1,Baden-Württemberg
+365,DE114,Göppingen,DE114,Göppingen,DE11,Stuttgart,DE1,Baden-Württemberg
+366,DE115,Ludwigsburg,DE115,Ludwigsburg,DE11,Stuttgart,DE1,Baden-Württemberg
+367,DE116,Rems-Murr-Kreis,DE116,Rems-Murr-Kreis,DE11,Stuttgart,DE1,Baden-Württemberg
+368,DE117,"Heilbronn, Stadtkreis",DE117,"Heilbronn, Stadtkreis",DE11,Stuttgart,DE1,Baden-Württemberg
+369,DE118,"Heilbronn, Landkreis",DE118,"Heilbronn, Landkreis",DE11,Stuttgart,DE1,Baden-Württemberg
+370,DE119,Hohenlohekreis,DE119,Hohenlohekreis,DE11,Stuttgart,DE1,Baden-Württemberg
+371,DE11A,Schwäbisch Hall,DE11A,Schwäbisch Hall,DE11,Stuttgart,DE1,Baden-Württemberg
+372,DE11B,Main-Tauber-Kreis,DE11B,Main-Tauber-Kreis,DE11,Stuttgart,DE1,Baden-Württemberg
+373,DE11C,Heidenheim,DE11C,Heidenheim,DE11,Stuttgart,DE1,Baden-Württemberg
+374,DE11D,Ostalbkreis,DE11D,Ostalbkreis,DE11,Stuttgart,DE1,Baden-Württemberg
+375,DE123,"Karlsruhe, Landkreis",DE123,"Karlsruhe, Landkreis",DE12,Karlsruhe,DE1,Baden-Württemberg
+376,DE124,Rastatt,DE124,Rastatt,DE12,Karlsruhe,DE1,Baden-Württemberg
+377,DE125,"Heidelberg, Stadtkreis",DE125,"Heidelberg, Stadtkreis",DE12,Karlsruhe,DE1,Baden-Württemberg
+378,DE126,"Mannheim, Stadtkreis",DE126,"Mannheim, Stadtkreis",DE12,Karlsruhe,DE1,Baden-Württemberg
+379,DE127,Neckar-Odenwald-Kreis,DE127,Neckar-Odenwald-Kreis,DE12,Karlsruhe,DE1,Baden-Württemberg
+380,DE128,Rhein-Neckar-Kreis,DE128,Rhein-Neckar-Kreis,DE12,Karlsruhe,DE1,Baden-Württemberg
+381,DE129,"Pforzheim, Stadtkreis",DE129,"Pforzheim, Stadtkreis",DE12,Karlsruhe,DE1,Baden-Württemberg
+382,DE121,"Baden-Baden, Stadtkreis",DE121,"Baden-Baden, Stadtkreis",DE12,Karlsruhe,DE1,Baden-Württemberg
+383,DE122,"Karlsruhe, Stadtkreis",DE122,"Karlsruhe, Stadtkreis",DE12,Karlsruhe,DE1,Baden-Württemberg
+384,DE12A,Calw,DE12A,Calw,DE12,Karlsruhe,DE1,Baden-Württemberg
+385,DE12B,Enzkreis,DE12B,Enzkreis,DE12,Karlsruhe,DE1,Baden-Württemberg
+386,DE12C,Freudenstadt,DE12C,Freudenstadt,DE12,Karlsruhe,DE1,Baden-Württemberg
+387,DE927,Nienburg (Weser),DE927,Nienburg (Weser),DE92,Hannover,DE9,Niedersachsen
+388,DE928,Schaumburg,DE928,Schaumburg,DE92,Hannover,DE9,Niedersachsen
+389,DE929,Region Hannover,DE929,Region Hannover,DE92,Hannover,DE9,Niedersachsen
+390,DE922,Diepholz,DE922,Diepholz,DE92,Hannover,DE9,Niedersachsen
+391,DE923,Hameln-Pyrmont,DE923,Hameln-Pyrmont,DE92,Hannover,DE9,Niedersachsen
+392,DE925,Hildesheim,DE925,Hildesheim,DE92,Hannover,DE9,Niedersachsen
+393,DE926,Holzminden,DE926,Holzminden,DE92,Hannover,DE9,Niedersachsen
+394,DE931,Celle,DE931,Celle,DE93,Lüneburg,DE9,Niedersachsen
+395,DE932,Cuxhaven,DE932,Cuxhaven,DE93,Lüneburg,DE9,Niedersachsen
+396,DE933,Harburg,DE933,Harburg,DE93,Lüneburg,DE9,Niedersachsen
+397,DE934,Lüchow-Dannenberg,DE934,Lüchow-Dannenberg,DE93,Lüneburg,DE9,Niedersachsen
+398,DE935,"Lüneburg, Landkreis",DE935,"Lüneburg, Landkreis",DE93,Lüneburg,DE9,Niedersachsen
+399,DE936,Osterholz,DE936,Osterholz,DE93,Lüneburg,DE9,Niedersachsen
+400,DE937,Rotenburg (Wümme),DE937,Rotenburg (Wümme),DE93,Lüneburg,DE9,Niedersachsen
+401,DE938,Heidekreis,DE938,Heidekreis,DE93,Lüneburg,DE9,Niedersachsen
+402,DE939,Stade,DE939,Stade,DE93,Lüneburg,DE9,Niedersachsen
+403,DE93A,Uelzen,DE93A,Uelzen,DE93,Lüneburg,DE9,Niedersachsen
+404,DE93B,Verden,DE93B,Verden,DE93,Lüneburg,DE9,Niedersachsen
+405,DE941,"Delmenhorst, Kreisfreie Stadt",DE941,"Delmenhorst, Kreisfreie Stadt",DE94,Weser-Ems,DE9,Niedersachsen
+406,DE942,"Emden, Kreisfreie Stadt",DE942,"Emden, Kreisfreie Stadt",DE94,Weser-Ems,DE9,Niedersachsen
+407,DE943,"Oldenburg (Oldenburg), Kreisfreie Stadt",DE943,"Oldenburg (Oldenburg), Kreisfreie Stadt",DE94,Weser-Ems,DE9,Niedersachsen
+408,DE944,"Osnabrück, Kreisfreie Stadt",DE944,"Osnabrück, Kreisfreie Stadt",DE94,Weser-Ems,DE9,Niedersachsen
+409,DE945,"Wilhelmshaven, Kreisfreie Stadt",DE945,"Wilhelmshaven, Kreisfreie Stadt",DE94,Weser-Ems,DE9,Niedersachsen
+410,DE946,Ammerland,DE946,Ammerland,DE94,Weser-Ems,DE9,Niedersachsen
+411,DE947,Aurich,DE947,Aurich,DE94,Weser-Ems,DE9,Niedersachsen
+412,DE948,Cloppenburg,DE948,Cloppenburg,DE94,Weser-Ems,DE9,Niedersachsen
+413,DE949,Emsland,DE949,Emsland,DE94,Weser-Ems,DE9,Niedersachsen
+414,DE94A,Friesland (DE),DE94A,Friesland (DE),DE94,Weser-Ems,DE9,Niedersachsen
+415,DE94B,Grafschaft Bentheim,DE94B,Grafschaft Bentheim,DE94,Weser-Ems,DE9,Niedersachsen
+416,DE94C,Leer,DE94C,Leer,DE94,Weser-Ems,DE9,Niedersachsen
+417,DE94D,"Oldenburg, Landkreis",DE94D,"Oldenburg, Landkreis",DE94,Weser-Ems,DE9,Niedersachsen
+418,DE94E,"Osnabrück, Landkreis",DE94E,"Osnabrück, Landkreis",DE94,Weser-Ems,DE9,Niedersachsen
+419,DE94F,Vechta,DE94F,Vechta,DE94,Weser-Ems,DE9,Niedersachsen
+420,DE94G,Wesermarsch,DE94G,Wesermarsch,DE94,Weser-Ems,DE9,Niedersachsen
+421,DE94H,Wittmund,DE94H,Wittmund,DE94,Weser-Ems,DE9,Niedersachsen
+422,DE911,"Braunschweig, Kreisfreie Stadt",DE911,"Braunschweig, Kreisfreie Stadt",DE91,Braunschweig,DE9,Niedersachsen
+423,DE912,"Salzgitter, Kreisfreie Stadt",DE912,"Salzgitter, Kreisfreie Stadt",DE91,Braunschweig,DE9,Niedersachsen
+424,DE913,"Wolfsburg, Kreisfreie Stadt",DE913,"Wolfsburg, Kreisfreie Stadt",DE91,Braunschweig,DE9,Niedersachsen
+425,DE914,Gifhorn,DE914,Gifhorn,DE91,Braunschweig,DE9,Niedersachsen
+426,DE916,Goslar,DE916,Goslar,DE91,Braunschweig,DE9,Niedersachsen
+427,DE917,Helmstedt,DE917,Helmstedt,DE91,Braunschweig,DE9,Niedersachsen
+428,DE918,Northeim,DE918,Northeim,DE91,Braunschweig,DE9,Niedersachsen
+429,DE91A,Peine,DE91A,Peine,DE91,Braunschweig,DE9,Niedersachsen
+430,DE91B,Wolfenbüttel,DE91B,Wolfenbüttel,DE91,Braunschweig,DE9,Niedersachsen
+431,DE91C,Göttingen,DE91C,Göttingen,DE91,Braunschweig,DE9,Niedersachsen
+432,DEE01,"Dessau-Roßlau, Kreisfreie Stadt",DEE01,"Dessau-Roßlau, Kreisfreie Stadt",DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+433,DEE02,"Halle (Saale), Kreisfreie Stadt",DEE02,"Halle (Saale), Kreisfreie Stadt",DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+434,DEE03,"Magdeburg, Kreisfreie Stadt",DEE03,"Magdeburg, Kreisfreie Stadt",DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+435,DEE04,Altmarkkreis Salzwedel,DEE04,Altmarkkreis Salzwedel,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+436,DEE05,Anhalt-Bitterfeld,DEE05,Anhalt-Bitterfeld,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+437,DEE06,Jerichower Land,DEE06,Jerichower Land,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+438,DEE07,Börde,DEE07,Börde,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+439,DEE08,Burgenlandkreis,DEE08,Burgenlandkreis,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+440,DEE09,Harz,DEE09,Harz,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+441,DEE0D,Stendal,DEE0D,Stendal,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+442,DEE0E,Wittenberg,DEE0E,Wittenberg,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+443,DEE0A,Mansfeld-Südharz,DEE0A,Mansfeld-Südharz,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+444,DEE0B,Saalekreis,DEE0B,Saalekreis,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt
+445,DEE0C,Salzlandkreis,DEE0C,Salzlandkreis,DEE0,Sachsen-Anhalt,DEE,Sachsen-Anhalt

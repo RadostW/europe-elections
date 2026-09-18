@@ -1,0 +1,43 @@
+,harmonised_code,harmonised_name,nuts_3_code,nuts_3_name,nuts_2_code,nuts_2_name,nuts_1_code,nuts_1_name
+1145,RO411,Dolj,RO411,Dolj,RO41,Sud-Vest Oltenia,RO4,Macroregiunea Patru
+1146,RO412,Gorj,RO412,Gorj,RO41,Sud-Vest Oltenia,RO4,Macroregiunea Patru
+1147,RO413,Mehedinţi,RO413,Mehedinţi,RO41,Sud-Vest Oltenia,RO4,Macroregiunea Patru
+1148,RO414,Olt,RO414,Olt,RO41,Sud-Vest Oltenia,RO4,Macroregiunea Patru
+1149,RO415,Vâlcea,RO415,Vâlcea,RO41,Sud-Vest Oltenia,RO4,Macroregiunea Patru
+1150,RO421,Arad,RO421,Arad,RO42,Vest,RO4,Macroregiunea Patru
+1151,RO422,Caraş-Severin,RO422,Caraş-Severin,RO42,Vest,RO4,Macroregiunea Patru
+1152,RO423,Hunedoara,RO423,Hunedoara,RO42,Vest,RO4,Macroregiunea Patru
+1153,RO424,Timiş,RO424,Timiş,RO42,Vest,RO4,Macroregiunea Patru
+1220,RO111,Bihor,RO111,Bihor,RO11,Nord-Vest,RO1,Macroregiunea Unu
+1221,RO112,Bistriţa-Năsăud,RO112,Bistriţa-Năsăud,RO11,Nord-Vest,RO1,Macroregiunea Unu
+1222,RO113,Cluj,RO113,Cluj,RO11,Nord-Vest,RO1,Macroregiunea Unu
+1223,RO114,Maramureş,RO114,Maramureş,RO11,Nord-Vest,RO1,Macroregiunea Unu
+1224,RO115,Satu Mare,RO115,Satu Mare,RO11,Nord-Vest,RO1,Macroregiunea Unu
+1225,RO116,Sălaj,RO116,Sălaj,RO11,Nord-Vest,RO1,Macroregiunea Unu
+1226,RO121,Alba,RO121,Alba,RO12,Centru,RO1,Macroregiunea Unu
+1227,RO122,Braşov,RO122,Braşov,RO12,Centru,RO1,Macroregiunea Unu
+1228,RO123,Covasna,RO123,Covasna,RO12,Centru,RO1,Macroregiunea Unu
+1229,RO124,Harghita,RO124,Harghita,RO12,Centru,RO1,Macroregiunea Unu
+1230,RO125,Mureş,RO125,Mureş,RO12,Centru,RO1,Macroregiunea Unu
+1231,RO126,Sibiu,RO126,Sibiu,RO12,Centru,RO1,Macroregiunea Unu
+1239,RO221,Brăila,RO221,Brăila,RO22,Sud-Est,RO2,Macroregiunea Doi
+1240,RO222,Buzău,RO222,Buzău,RO22,Sud-Est,RO2,Macroregiunea Doi
+1241,RO223,Constanţa,RO223,Constanţa,RO22,Sud-Est,RO2,Macroregiunea Doi
+1242,RO224,Galaţi,RO224,Galaţi,RO22,Sud-Est,RO2,Macroregiunea Doi
+1243,RO225,Tulcea,RO225,Tulcea,RO22,Sud-Est,RO2,Macroregiunea Doi
+1244,RO226,Vrancea,RO226,Vrancea,RO22,Sud-Est,RO2,Macroregiunea Doi
+1245,RO213,Iaşi,RO213,Iaşi,RO21,Nord-Est,RO2,Macroregiunea Doi
+1246,RO214,Neamţ,RO214,Neamţ,RO21,Nord-Est,RO2,Macroregiunea Doi
+1247,RO215,Suceava,RO215,Suceava,RO21,Nord-Est,RO2,Macroregiunea Doi
+1248,RO216,Vaslui,RO216,Vaslui,RO21,Nord-Est,RO2,Macroregiunea Doi
+1249,RO211,Bacău,RO211,Bacău,RO21,Nord-Est,RO2,Macroregiunea Doi
+1250,RO212,Botoşani,RO212,Botoşani,RO21,Nord-Est,RO2,Macroregiunea Doi
+1281,RO311,Argeş,RO311,Argeş,RO31,Sud-Muntenia,RO3,Macroregiunea Trei
+1282,RO317,Teleorman,RO317,Teleorman,RO31,Sud-Muntenia,RO3,Macroregiunea Trei
+1283,RO312,Călăraşi,RO312,Călăraşi,RO31,Sud-Muntenia,RO3,Macroregiunea Trei
+1284,RO313,Dâmboviţa,RO313,Dâmboviţa,RO31,Sud-Muntenia,RO3,Macroregiunea Trei
+1285,RO314,Giurgiu,RO314,Giurgiu,RO31,Sud-Muntenia,RO3,Macroregiunea Trei
+1286,RO315,Ialomiţa,RO315,Ialomiţa,RO31,Sud-Muntenia,RO3,Macroregiunea Trei
+1287,RO316,Prahova,RO316,Prahova,RO31,Sud-Muntenia,RO3,Macroregiunea Trei
+1288,RO321,Bucureşti,RO321,Bucureşti,RO32,Bucureşti-Ilfov,RO3,Macroregiunea Trei
+1289,RO322,Ilfov,RO322,Ilfov,RO32,Bucureşti-Ilfov,RO3,Macroregiunea Trei

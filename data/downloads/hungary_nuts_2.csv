@@ -1,0 +1,1255 @@
+,election_date,election_type,nuts_2_code,nuts_2_name,type,name,votes
+0,2002-04-07,parliament,HU11,Budapest,0,eligible_voters,1409931.0
+1,2002-04-07,parliament,HU11,Budapest,1,issued_ballots,1102735.0
+2,2002-04-07,parliament,HU11,Budapest,2,CENTRUM,62563.0
+3,2002-04-07,parliament,HU11,Budapest,2,FIDESZ MDF,345181.0
+4,2002-04-07,parliament,HU11,Budapest,2,FÜGGETLEN KISGAZDAPÁRT,2954.0
+5,2002-04-07,parliament,HU11,Budapest,2,MIÉP,76063.0
+6,2002-04-07,parliament,HU11,Budapest,2,MSZP,482323.0
+7,2002-04-07,parliament,HU11,Budapest,2,MUNKÁSPÁRT,19636.0
+8,2002-04-07,parliament,HU11,Budapest,2,SZDSZ,104474.0
+9,2002-04-07,parliament,HU12,Pest,0,eligible_voters,845729.0
+10,2002-04-07,parliament,HU12,Pest,1,issued_ballots,599878.0
+11,2002-04-07,parliament,HU12,Pest,2,CENTRUM,23468.0
+12,2002-04-07,parliament,HU12,Pest,2,FIDESZ-MDF,243567.0
+13,2002-04-07,parliament,HU12,Pest,2,FÜGGETLEN KISGAZDAPÁRT,4102.0
+14,2002-04-07,parliament,HU12,Pest,2,MAGYAR SZOCIALISTA PÁRT,239008.0
+15,2002-04-07,parliament,HU12,Pest,2,MIÉP,33559.0
+16,2002-04-07,parliament,HU12,Pest,2,MUNKÁSPÁRT,9356.0
+17,2002-04-07,parliament,HU12,Pest,2,SZDSZ,39468.0
+18,2002-04-07,parliament,HU12,Pest,2,ÚJ-BAL,1002.0
+19,2002-04-07,parliament,HU21,Közép-Dunántúl,0,eligible_voters,2633139.0
+20,2002-04-07,parliament,HU21,Közép-Dunántúl,1,issued_ballots,1877145.0
+21,2002-04-07,parliament,HU21,Közép-Dunántúl,2,CENTRUM,67509.0
+22,2002-04-07,parliament,HU21,Közép-Dunántúl,2,FIDESZ-MDF,799077.0
+23,2002-04-07,parliament,HU21,Közép-Dunántúl,2,FÜGGETLEN KISGAZDAPÁRT,9504.0
+24,2002-04-07,parliament,HU21,Közép-Dunántúl,2,KISGAZDAPÁRT,1350.0
+25,2002-04-07,parliament,HU21,Közép-Dunántúl,2,MAGYAR  SZOCIALISTA PÁRT,294150.0
+26,2002-04-07,parliament,HU21,Közép-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT,233925.0
+27,2002-04-07,parliament,HU21,Közép-Dunántúl,2,MIÉP,61023.0
+28,2002-04-07,parliament,HU21,Közép-Dunántúl,2,MSZP,260133.0
+29,2002-04-07,parliament,HU21,Közép-Dunántúl,2,MUNKÁSPÁRT,35976.0
+30,2002-04-07,parliament,HU21,Közép-Dunántúl,2,REFORM KISGAZDAPÁRT,870.0
+31,2002-04-07,parliament,HU21,Közép-Dunántúl,2,SZDSZ,93240.0
+32,2002-04-07,parliament,HU21,Közép-Dunántúl,2,ÚJ BAL,693.0
+33,2002-04-07,parliament,HU21,Közép-Dunántúl,2,ÚJ BALOLDAL,381.0
+34,2002-04-07,parliament,HU22,Nyugat-Dunántúl,0,eligible_voters,2398176.0
+35,2002-04-07,parliament,HU22,Nyugat-Dunántúl,1,issued_ballots,1759749.0
+36,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,CENTRUM,57963.0
+37,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,FIDESZ-MDF,892899.0
+38,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,FÜGGETLEN KISGAZDAPÁRT,12030.0
+39,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA,39462.0
+40,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT,152757.0
+41,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,MIÉP,18885.0
+42,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,MSZP,460926.0
+43,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,MUNKÁSPÁRT,25659.0
+44,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,REFORM KISGAZDAPÁRT,564.0
+45,2002-04-07,parliament,HU22,Nyugat-Dunántúl,2,SZDSZ,79338.0
+46,2002-04-07,parliament,HU23,Dél-Dunántúl,0,eligible_voters,2363550.0
+47,2002-04-07,parliament,HU23,Dél-Dunántúl,1,issued_ballots,1653978.0
+48,2002-04-07,parliament,HU23,Dél-Dunántúl,2,CENTRUM,59085.0
+49,2002-04-07,parliament,HU23,Dél-Dunántúl,2,FIDESZ-MDF,682461.0
+50,2002-04-07,parliament,HU23,Dél-Dunántúl,2,FÜGGETLEN KISGAZDAPÁRT,13641.0
+51,2002-04-07,parliament,HU23,Dél-Dunántúl,2,KISGAZDAPÁRT,3.0
+52,2002-04-07,parliament,HU23,Dél-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT,390294.0
+53,2002-04-07,parliament,HU23,Dél-Dunántúl,2,MIÉP,55368.0
+54,2002-04-07,parliament,HU23,Dél-Dunántúl,2,MSZP,322752.0
+55,2002-04-07,parliament,HU23,Dél-Dunántúl,2,MUNKÁSPÁRT,36540.0
+56,2002-04-07,parliament,HU23,Dél-Dunántúl,2,SZABAD DEMOKRATÁK SZÖVETSÉGE,75204.0
+57,2002-04-07,parliament,HU23,Dél-Dunántúl,2,SZDSZ,147.0
+58,2002-04-07,parliament,HU23,Dél-Dunántúl,2,ÚJ BAL,3.0
+59,2002-04-07,parliament,HU31,Észak-Magyarország,0,eligible_voters,3037173.0
+60,2002-04-07,parliament,HU31,Észak-Magyarország,1,issued_ballots,2094165.0
+61,2002-04-07,parliament,HU31,Észak-Magyarország,2,CENTRUM,66873.0
+62,2002-04-07,parliament,HU31,Észak-Magyarország,2,FIDESZ-MDF,780957.0
+63,2002-04-07,parliament,HU31,Észak-Magyarország,2,FÜGGETLEN KISGAZDAPÁRT,10806.0
+64,2002-04-07,parliament,HU31,Észak-Magyarország,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRJA,42882.0
+65,2002-04-07,parliament,HU31,Észak-Magyarország,2,MAGYAR SZOCIALISTA PÁRT,814998.0
+66,2002-04-07,parliament,HU31,Észak-Magyarország,2,MIÉP,36063.0
+67,2002-04-07,parliament,HU31,Észak-Magyarország,2,MSZP,156318.0
+68,2002-04-07,parliament,HU31,Észak-Magyarország,2,MUNKÁSPÁRT,72465.0
+69,2002-04-07,parliament,HU31,Észak-Magyarország,2,REFORM KISGAZDAPÁRT,1362.0
+70,2002-04-07,parliament,HU31,Észak-Magyarország,2,RKGP,462.0
+71,2002-04-07,parliament,HU31,Észak-Magyarország,2,SZABAD DEMOKRATÁK SZÖVETSÉGE,41034.0
+72,2002-04-07,parliament,HU31,Észak-Magyarország,2,SZDSZ,40653.0
+73,2002-04-07,parliament,HU31,Észak-Magyarország,2,ÚJ BALOLDAL,2541.0
+74,2002-04-07,parliament,HU31,Észak-Magyarország,2,ÚJ-BAL,1722.0
+75,2002-04-07,parliament,HU32,Észak-Alföld,0,eligible_voters,3599025.0
+76,2002-04-07,parliament,HU32,Észak-Alföld,1,issued_ballots,2384409.0
+77,2002-04-07,parliament,HU32,Észak-Alföld,2,CENTRUM,68430.0
+78,2002-04-07,parliament,HU32,Észak-Alföld,2,FIDESZ-MDF,1035018.0
+79,2002-04-07,parliament,HU32,Észak-Alföld,2,FÜGGETLEN KISGAZDAPÁRT,31461.0
+80,2002-04-07,parliament,HU32,Észak-Alföld,2,MIÉP,75477.0
+81,2002-04-07,parliament,HU32,Észak-Alföld,2,MRP,2235.0
+82,2002-04-07,parliament,HU32,Észak-Alföld,2,MSZP,999387.0
+83,2002-04-07,parliament,HU32,Észak-Alföld,2,MUNKÁSPÁRT,51816.0
+84,2002-04-07,parliament,HU32,Észak-Alföld,2,SZABAD DEMOKRATÁK SZÖVETSÉGE,54981.0
+85,2002-04-07,parliament,HU32,Észak-Alföld,2,SZDSZ,28740.0
+86,2002-04-07,parliament,HU32,Észak-Alföld,2,SZOCIÁLDEMOKRATA PÁRT,2736.0
+87,2002-04-07,parliament,HU32,Észak-Alföld,2,ÚJ-BAL,1248.0
+88,2002-04-07,parliament,HU33,Dél-Alföld,0,eligible_voters,3257727.0
+89,2002-04-07,parliament,HU33,Dél-Alföld,1,issued_ballots,2164656.0
+90,2002-04-07,parliament,HU33,Dél-Alföld,2,CENTRUM,79134.0
+91,2002-04-07,parliament,HU33,Dél-Alföld,2,FIDESZ-MDF,963633.0
+92,2002-04-07,parliament,HU33,Dél-Alföld,2,FÜGGETLEN KISGAZDAPÁRT,28404.0
+93,2002-04-07,parliament,HU33,Dél-Alföld,2,MAGYAR SZOCIALISTA PÁRT,273492.0
+94,2002-04-07,parliament,HU33,Dél-Alföld,2,MAVEP,954.0
+95,2002-04-07,parliament,HU33,Dél-Alföld,2,MIÉP,77952.0
+96,2002-04-07,parliament,HU33,Dél-Alföld,2,MSZP,562866.0
+97,2002-04-07,parliament,HU33,Dél-Alföld,2,MUNKÁSPÁRT,55077.0
+98,2002-04-07,parliament,HU33,Dél-Alföld,2,SZABAD DEMOKRATÁK SZÖVETSÉGE,30261.0
+99,2002-04-07,parliament,HU33,Dél-Alföld,2,SZDSZ,63828.0
+100,2006-04-09,parliament,HU11,Budapest,0,eligible_voters,1358504.0
+101,2006-04-09,parliament,HU11,Budapest,1,issued_ballots,1025304.0
+102,2006-04-09,parliament,HU11,Budapest,2,FIDESZ-Magyar Polgári Szövetség Kereszténydemokrata Néppárt,356982.0
+103,2006-04-09,parliament,HU11,Budapest,2,MAGYAR DEMOKRATA FÓRUM,53908.0
+104,2006-04-09,parliament,HU11,Budapest,2,MAGYAR KOMMUNISTA MUNKÁSPÁRT,6327.0
+105,2006-04-09,parliament,HU11,Budapest,2,MAGYAR SZOCIALISTA PÁRT,445059.0
+106,2006-04-09,parliament,HU11,Budapest,2,MIÉP-Jobbik a Harmadik Út,29506.0
+107,2006-04-09,parliament,HU11,Budapest,2,SZABAD DEMOKRATÁK SZÖVETSÉGE A MAGYAR LIBERÁLIS PÁRT,124887.0
+108,2006-04-09,parliament,HU12,Pest,0,eligible_voters,894338.0
+109,2006-04-09,parliament,HU12,Pest,1,issued_ballots,618436.0
+110,2006-04-09,parliament,HU12,Pest,2,CENTRUM Összefogás Magyarországért,6302.0
+111,2006-04-09,parliament,HU12,Pest,2,FIDESZ Magyar Polgári Szövetség Kersztény Demokrata Néppárt,258007.0
+112,2006-04-09,parliament,HU12,Pest,2,MAGYAR DEMOKRATA FORUM,31937.0
+113,2006-04-09,parliament,HU12,Pest,2,MIÉP-Jobbik a Harmadik Út,18074.0
+114,2006-04-09,parliament,HU12,Pest,2,Magyar Szocialista Párt,253588.0
+115,2006-04-09,parliament,HU12,Pest,2,Szabad Demokraták Szövetsége,45562.0
+116,2006-04-09,parliament,HU21,Közép-Dunántúl,0,eligible_voters,2650614.0
+117,2006-04-09,parliament,HU21,Közép-Dunántúl,1,issued_ballots,1806102.0
+118,2006-04-09,parliament,HU21,Közép-Dunántúl,2,FIDESZ- MAGYAR POLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT,282588.0
+119,2006-04-09,parliament,HU21,Közép-Dunántúl,2,FIDESZ-MAGYARPOLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT,192282.0
+120,2006-04-09,parliament,HU21,Közép-Dunántúl,2,Fidesz-Magyar Polgári Szövetség Kereszténydemokrata Néppárt,291597.0
+121,2006-04-09,parliament,HU21,Közép-Dunántúl,2,"Független Kisgazda-, Nemzeti Egység Párt",873.0
+122,2006-04-09,parliament,HU21,Közép-Dunántúl,2,MAGYAR DEMOKRATA FÓRUM,22536.0
+123,2006-04-09,parliament,HU21,Közép-Dunántúl,2,MAGYAR KOMMUNISTA MUNKÁSPÁRT,3636.0
+124,2006-04-09,parliament,HU21,Közép-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT,783360.0
+125,2006-04-09,parliament,HU21,Közép-Dunántúl,2,MIÉP-JOBBIK A HARMADIK ÚT,7578.0
+126,2006-04-09,parliament,HU21,Közép-Dunántúl,2,MIÉP-Jobbik a Harmadik Út,23232.0
+127,2006-04-09,parliament,HU21,Közép-Dunántúl,2,Magyar Demokrata Fórum,70857.0
+128,2006-04-09,parliament,HU21,Közép-Dunántúl,2,Magyar Kommunista Munkáspárt,8085.0
+129,2006-04-09,parliament,HU21,Közép-Dunántúl,2,SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT,74157.0
+130,2006-04-09,parliament,HU21,Közép-Dunántúl,2,SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT,31680.0
+131,2006-04-09,parliament,HU22,Nyugat-Dunántúl,0,eligible_voters,2402148.0
+132,2006-04-09,parliament,HU22,Nyugat-Dunántúl,1,issued_ballots,1681308.0
+133,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,FIDESZ - Magyar Polgári Szövetség Kereszténydemokrata Néppárt,238572.0
+134,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,FIDESZ-MAGYAR POLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA  NÉPPÁRT,225717.0
+135,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,FIDESZ-MAGYAR POLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT,364809.0
+136,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,KERESZTÉNYDEMOKRATAPÁRT - KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS,912.0
+137,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS,1143.0
+138,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR DEMOKRATA FÓRUM,67533.0
+139,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR KOMMUNISTA MUNKÁSPÁRT,4038.0
+140,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT,280080.0
+141,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR VIDÉK ÉS POLGÁRI PÁRT,1614.0
+142,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,MCF Roma Összefogás Párt,597.0
+143,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,MIÉP-JOBBIK A HARMADIK ÚT,8091.0
+144,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,MIÉP-Jobbik a Harmadik Út,24153.0
+145,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,Magyar Demokrata Fórum,27972.0
+146,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,Magyar Szocialista Párt,337188.0
+147,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT,36594.0
+148,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT,25311.0
+149,2006-04-09,parliament,HU22,Nyugat-Dunántúl,2,Szabad Demokraták Szövetsége a Magyar Liberális Párt,24393.0
+150,2006-04-09,parliament,HU23,Dél-Dunántúl,0,eligible_voters,2343960.0
+151,2006-04-09,parliament,HU23,Dél-Dunántúl,1,issued_ballots,1572777.0
+152,2006-04-09,parliament,HU23,Dél-Dunántúl,2,FIDESZ- MAGYAR POLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT,723.0
+153,2006-04-09,parliament,HU23,Dél-Dunántúl,2,FIDESZ-Magyar Polgári Szövetség Kereszténydemokrata Néppárt,431172.0
+154,2006-04-09,parliament,HU23,Dél-Dunántúl,2,FIDESZ-MagyarPolgári Szövetség Kereszténydemokrata Néppárt,240780.0
+155,2006-04-09,parliament,HU23,Dél-Dunántúl,2,KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS,948.0
+156,2006-04-09,parliament,HU23,Dél-Dunántúl,2,Kereszténydemokratapárt Keresztényszociális Centrum Összefogás,810.0
+157,2006-04-09,parliament,HU23,Dél-Dunántúl,2,MAGYAR DEMOKRATA FÓRUM,54711.0
+158,2006-04-09,parliament,HU23,Dél-Dunántúl,2,MAGYAR KOMMUNISTA MUNKÁSPÁRT,6141.0
+159,2006-04-09,parliament,HU23,Dél-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT,536148.0
+160,2006-04-09,parliament,HU23,Dél-Dunántúl,2,MAGYAR VIDÉK ÉS POLGÁRI PÁRT,1032.0
+161,2006-04-09,parliament,HU23,Dél-Dunántúl,2,MAGYARORSZÁGI MUNKÁSPÁRT 2006,1668.0
+162,2006-04-09,parliament,HU23,Dél-Dunántúl,2,MCF ROMA ÖSSZEFOGÁS PÁRT,2091.0
+163,2006-04-09,parliament,HU23,Dél-Dunántúl,2,MCF Roma Összefogás Párt,1065.0
+164,2006-04-09,parliament,HU23,Dél-Dunántúl,2,MIÉP- Jobbik a Harmadik Út,7149.0
+165,2006-04-09,parliament,HU23,Dél-Dunántúl,2,MIÉP-Jobbik a Harmadik Út,16815.0
+166,2006-04-09,parliament,HU23,Dél-Dunántúl,2,Magyar Demokrata Fórum,23409.0
+167,2006-04-09,parliament,HU23,Dél-Dunántúl,2,Magyar Kommunista Munkáspárt,6.0
+168,2006-04-09,parliament,HU23,Dél-Dunántúl,2,Magyar Szocialista Párt,157929.0
+169,2006-04-09,parliament,HU23,Dél-Dunántúl,2,SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT,20928.0
+170,2006-04-09,parliament,HU23,Dél-Dunántúl,2,SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT,37104.0
+171,2006-04-09,parliament,HU23,Dél-Dunántúl,2,Szabad Demokraták Szövetsége- a Magyar Liberális Párt,17898.0
+172,2006-04-09,parliament,HU31,Észak-Magyarország,0,eligible_voters,2994555.0
+173,2006-04-09,parliament,HU31,Észak-Magyarország,1,issued_ballots,1957956.0
+174,2006-04-09,parliament,HU31,Észak-Magyarország,2,CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT,2259.0
+175,2006-04-09,parliament,HU31,Észak-Magyarország,2,CENTRUM Összefogás Magyarországért,7239.0
+176,2006-04-09,parliament,HU31,Észak-Magyarország,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT,140706.0
+177,2006-04-09,parliament,HU31,Észak-Magyarország,2,FIDESZ-MagyarPolgári Szövetség KERESZTÉNYDEMOKRATA NÉPPÁRT,189960.0
+178,2006-04-09,parliament,HU31,Észak-Magyarország,2,FIDESZ-MagyarPolgári Szövetség Kereszténydemokrata Néppárt,414174.0
+179,2006-04-09,parliament,HU31,Észak-Magyarország,2,"FÜGGETLEN KISGAZDA -, NEMZETI EGYSÉG PÁRT",459.0
+180,2006-04-09,parliament,HU31,Észak-Magyarország,2,KERESZTÉNYDEMOKRATAPÁRT KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS,840.0
+181,2006-04-09,parliament,HU31,Észak-Magyarország,2,KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS,723.0
+182,2006-04-09,parliament,HU31,Észak-Magyarország,2,MAGYAR DEMOKRATA FÓRUM,80382.0
+183,2006-04-09,parliament,HU31,Észak-Magyarország,2,MAGYAR KOMMUNISTA MUNKÁSPÁRT,5427.0
+184,2006-04-09,parliament,HU31,Észak-Magyarország,2,MAGYAR SZOCIALISTA PÁRT,956136.0
+185,2006-04-09,parliament,HU31,Észak-Magyarország,2,MAGYAR VIDÉK ÉS POLGÁRI PÁRT,2916.0
+186,2006-04-09,parliament,HU31,Észak-Magyarország,2,MCF ROMA ÖSSZEFOGÁS PÁRT,4797.0
+187,2006-04-09,parliament,HU31,Észak-Magyarország,2,MIÉP - JOBBIK A HARMADIK ÚT,7398.0
+188,2006-04-09,parliament,HU31,Észak-Magyarország,2,MIÉP-JOBBIK A HARMADIK ÚT,15345.0
+189,2006-04-09,parliament,HU31,Észak-Magyarország,2,MIÉP-Jobbik a Harmadik Út,24975.0
+190,2006-04-09,parliament,HU31,Észak-Magyarország,2,SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT,40908.0
+191,2006-04-09,parliament,HU31,Észak-Magyarország,2,SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT,41958.0
+192,2006-04-09,parliament,HU31,Észak-Magyarország,2,ZÖLDEK PÁRTJA,1950.0
+193,2006-04-09,parliament,HU32,Észak-Alföld,0,eligible_voters,3590784.0
+194,2006-04-09,parliament,HU32,Észak-Alföld,1,issued_ballots,2322063.0
+195,2006-04-09,parliament,HU32,Észak-Alföld,2,CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT,7959.0
+196,2006-04-09,parliament,HU32,Észak-Alföld,2,FIDESZ-MAGYARPOLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT,394776.0
+197,2006-04-09,parliament,HU32,Észak-Alföld,2,FIDESZ-Magyar Polgári Szövetség KERESZTÉNYDEMOKRATA NÉPPÁRT,241119.0
+198,2006-04-09,parliament,HU32,Észak-Alföld,2,FIDESZ-Magyar Polgári Szövetség Kereszténydemokrata Néppárt,382923.0
+199,2006-04-09,parliament,HU32,Észak-Alföld,2,FÜGGETLEN KISGAZDA FÖLDMUNKÁS ÉS POLGÁRI PÁRT,963.0
+200,2006-04-09,parliament,HU32,Észak-Alföld,2,KERESSZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS,843.0
+201,2006-04-09,parliament,HU32,Észak-Alföld,2,KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS,474.0
+202,2006-04-09,parliament,HU32,Észak-Alföld,2,MAGYAR DEMOKRATA FÓRUM,110340.0
+203,2006-04-09,parliament,HU32,Észak-Alföld,2,MAGYAR KOMMUNISTA MUNKÁSPÁRT,7920.0
+204,2006-04-09,parliament,HU32,Észak-Alföld,2,MAGYAR SZOCIALISTA PÁRT,1005474.0
+205,2006-04-09,parliament,HU32,Észak-Alföld,2,MAGYAR VIDÉK ÉS POLGÁRI PÁRT,2169.0
+206,2006-04-09,parliament,HU32,Észak-Alföld,2,MAGYAROK EGYMÁSÉRT SZÖVETSÉGE,2301.0
+207,2006-04-09,parliament,HU32,Észak-Alföld,2,MCF ROMA ÖSSZEFOGÁS PÁRT,1962.0
+208,2006-04-09,parliament,HU32,Észak-Alföld,2,MIÉP-JOBBIK A HARMADIK ÚT,16884.0
+209,2006-04-09,parliament,HU32,Észak-Alföld,2,MIÉP-Jobbik a Harmadik Út,26754.0
+210,2006-04-09,parliament,HU32,Észak-Alföld,2,SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT,28365.0
+211,2006-04-09,parliament,HU32,Észak-Alföld,2,SZABAD DEMOKRATÁK SZÖVETSÉGE A MAGYAR LIBERÁLIS PÁRT,61956.0
+212,2006-04-09,parliament,HU32,Észak-Alföld,2,ZÖLDEK PÁRTJA,2460.0
+213,2006-04-09,parliament,HU33,Dél-Alföld,0,eligible_voters,3230649.0
+214,2006-04-09,parliament,HU33,Dél-Alföld,1,issued_ballots,2101233.0
+215,2006-04-09,parliament,HU33,Dél-Alföld,2,CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT,10599.0
+216,2006-04-09,parliament,HU33,Dél-Alföld,2,CENTRUM Összefogás Magyarországért,5331.0
+217,2006-04-09,parliament,HU33,Dél-Alföld,2,FIDESZ MAGYAR POLGÁRISZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT,408756.0
+218,2006-04-09,parliament,HU33,Dél-Alföld,2,FIDESZ- Magyar Polgári Szövetség KERESZTÉNYDEMOKRATA NÉPPÁRT,277884.0
+219,2006-04-09,parliament,HU33,Dél-Alföld,2,FIDESZ-Magyar Polgári Szövetség Kereszténydemokrata Néppárt,255432.0
+220,2006-04-09,parliament,HU33,Dél-Alföld,2,"FÜGGETLEN KISGAZDA, FÖLDMUNKÁS ÉS POLGÁRI PÁRT",1551.0
+221,2006-04-09,parliament,HU33,Dél-Alföld,2,"FÜGGETLEN KISGAZDA-, NEMZETI EGYSÉG PÁRT",1335.0
+222,2006-04-09,parliament,HU33,Dél-Alföld,2,KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS,393.0
+223,2006-04-09,parliament,HU33,Dél-Alföld,2,MAGYAR DEMOKRATA FÓRUM,103218.0
+224,2006-04-09,parliament,HU33,Dél-Alföld,2,MAGYAR KOMMUNISTA MUNKÁSPÁRT,11631.0
+225,2006-04-09,parliament,HU33,Dél-Alföld,2,MAGYAR SZOCIALISTA PÁRT,857859.0
+226,2006-04-09,parliament,HU33,Dél-Alföld,2,MAGYAR VIDÉK ÉS POLGÁRI PÁRT,636.0
+227,2006-04-09,parliament,HU33,Dél-Alföld,2,MCF ROMA ÖSSZEFOGÁS PÁRT,2865.0
+228,2006-04-09,parliament,HU33,Dél-Alföld,2,MIÉP-Jobbik a Harmadik Út,35907.0
+229,2006-04-09,parliament,HU33,Dél-Alföld,2,SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT,35166.0
+230,2006-04-09,parliament,HU33,Dél-Alföld,2,SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT,40503.0
+231,2006-04-09,parliament,HU33,Dél-Alföld,2,SZABAD DEMOKRATÁK SZÖVETSÉGE-A MAGYAR LIBERÁLIS PÁRT,26568.0
+232,2006-04-09,parliament,HU33,Dél-Alföld,2,ZÖLDEK PÁRTJA,4200.0
+233,2009-06-07,european,HU11,Budapest,0,eligible_voters,1347100.0
+234,2009-06-07,european,HU11,Budapest,1,issued_ballots,607434.0
+235,2009-06-07,european,HU11,Budapest,2,FIDESZ-KDNP,290118.0
+236,2009-06-07,european,HU11,Budapest,2,JOBBIK,75914.0
+237,2009-06-07,european,HU11,Budapest,2,LMP-HP,29447.0
+238,2009-06-07,european,HU11,Budapest,2,MCF ROMA Ö.,1029.0
+239,2009-06-07,european,HU11,Budapest,2,MDF,39413.0
+240,2009-06-07,european,HU11,Budapest,2,MSZP,134416.0
+241,2009-06-07,european,HU11,Budapest,2,MUNKÁSPÁRT,5628.0
+242,2009-06-07,european,HU11,Budapest,2,SZDSZ,26907.0
+243,2009-06-07,european,HU12,Pest,0,eligible_voters,938131.0
+244,2009-06-07,european,HU12,Pest,1,issued_ballots,357703.0
+245,2009-06-07,european,HU12,Pest,2,FIDESZ-KDNP,201257.0
+246,2009-06-07,european,HU12,Pest,2,JOBBIK,59024.0
+247,2009-06-07,european,HU12,Pest,2,LMP-HP,10568.0
+248,2009-06-07,european,HU12,Pest,2,MCF ROMA Ö.,1036.0
+249,2009-06-07,european,HU12,Pest,2,MDF,19255.0
+250,2009-06-07,european,HU12,Pest,2,MSZP,53333.0
+251,2009-06-07,european,HU12,Pest,2,MUNKÁSPÁRT,2602.0
+252,2009-06-07,european,HU12,Pest,2,SZDSZ,7817.0
+253,2009-06-07,european,HU21,Közép-Dunántúl,0,eligible_voters,2670513.0
+254,2009-06-07,european,HU21,Közép-Dunántúl,1,issued_ballots,932172.0
+255,2009-06-07,european,HU21,Közép-Dunántúl,2,FIDESZ-KDNP,539001.0
+256,2009-06-07,european,HU21,Közép-Dunántúl,2,JOBBIK,123609.0
+257,2009-06-07,european,HU21,Közép-Dunántúl,2,LMP-HP,20484.0
+258,2009-06-07,european,HU21,Közép-Dunántúl,2,MCF ROMA Ö.,1701.0
+259,2009-06-07,european,HU21,Közép-Dunántúl,2,MDF,50805.0
+260,2009-06-07,european,HU21,Közép-Dunántúl,2,MSZP,164565.0
+261,2009-06-07,european,HU21,Közép-Dunántúl,2,MUNKÁSPÁRT,8400.0
+262,2009-06-07,european,HU21,Közép-Dunántúl,2,SZDSZ,15774.0
+263,2009-06-07,european,HU22,Nyugat-Dunántúl,0,eligible_voters,2415711.0
+264,2009-06-07,european,HU22,Nyugat-Dunántúl,1,issued_ballots,909666.0
+265,2009-06-07,european,HU22,Nyugat-Dunántúl,2,FIDESZ-KDNP,587793.0
+266,2009-06-07,european,HU22,Nyugat-Dunántúl,2,JOBBIK,102780.0
+267,2009-06-07,european,HU22,Nyugat-Dunántúl,2,LMP-HP,16050.0
+268,2009-06-07,european,HU22,Nyugat-Dunántúl,2,MCF ROMA Ö.,1653.0
+269,2009-06-07,european,HU22,Nyugat-Dunántúl,2,MDF,47181.0
+270,2009-06-07,european,HU22,Nyugat-Dunántúl,2,MSZP,127506.0
+271,2009-06-07,european,HU22,Nyugat-Dunántúl,2,MUNKÁSPÁRT,5688.0
+272,2009-06-07,european,HU22,Nyugat-Dunántúl,2,SZDSZ,13251.0
+273,2009-06-07,european,HU23,Dél-Dunántúl,0,eligible_voters,2337291.0
+274,2009-06-07,european,HU23,Dél-Dunántúl,1,issued_ballots,778551.0
+275,2009-06-07,european,HU23,Dél-Dunántúl,2,FIDESZ-KDNP,482817.0
+276,2009-06-07,european,HU23,Dél-Dunántúl,2,JOBBIK,85161.0
+277,2009-06-07,european,HU23,Dél-Dunántúl,2,LMP-HP,15150.0
+278,2009-06-07,european,HU23,Dél-Dunántúl,2,MCF ROMA Ö.,3705.0
+279,2009-06-07,european,HU23,Dél-Dunántúl,2,MDF,36978.0
+280,2009-06-07,european,HU23,Dél-Dunántúl,2,MSZP,130617.0
+281,2009-06-07,european,HU23,Dél-Dunántúl,2,MUNKÁSPÁRT,6561.0
+282,2009-06-07,european,HU23,Dél-Dunántúl,2,SZDSZ,10971.0
+283,2009-06-07,european,HU31,Észak-Magyarország,0,eligible_voters,2964819.0
+284,2009-06-07,european,HU31,Észak-Magyarország,1,issued_ballots,1000773.0
+285,2009-06-07,european,HU31,Észak-Magyarország,2,FIDESZ-KDNP,497967.0
+286,2009-06-07,european,HU31,Észak-Magyarország,2,JOBBIK,212166.0
+287,2009-06-07,european,HU31,Észak-Magyarország,2,LMP-HP,15552.0
+288,2009-06-07,european,HU31,Észak-Magyarország,2,MCF ROMA Ö.,8586.0
+289,2009-06-07,european,HU31,Észak-Magyarország,2,MDF,42453.0
+290,2009-06-07,european,HU31,Észak-Magyarország,2,MSZP,188196.0
+291,2009-06-07,european,HU31,Észak-Magyarország,2,MUNKÁSPÁRT,13224.0
+292,2009-06-07,european,HU31,Észak-Magyarország,2,SZDSZ,12864.0
+293,2009-06-07,european,HU32,Észak-Alföld,0,eligible_voters,3591366.0
+294,2009-06-07,european,HU32,Észak-Alföld,1,issued_ballots,1163406.0
+295,2009-06-07,european,HU32,Észak-Alföld,2,FIDESZ-KDNP,662208.0
+296,2009-06-07,european,HU32,Észak-Alföld,2,JOBBIK,208308.0
+297,2009-06-07,european,HU32,Észak-Alföld,2,LMP-HP,18171.0
+298,2009-06-07,european,HU32,Észak-Alföld,2,MCF ROMA Ö.,14355.0
+299,2009-06-07,european,HU32,Észak-Alföld,2,MDF,54453.0
+300,2009-06-07,european,HU32,Észak-Alföld,2,MSZP,166758.0
+301,2009-06-07,european,HU32,Észak-Alföld,2,MUNKÁSPÁRT,12810.0
+302,2009-06-07,european,HU32,Észak-Alföld,2,SZDSZ,13563.0
+303,2009-06-07,european,HU33,Dél-Alföld,0,eligible_voters,3222735.0
+304,2009-06-07,european,HU33,Dél-Alföld,1,issued_ballots,1075239.0
+305,2009-06-07,european,HU33,Dél-Alföld,2,FIDESZ-KDNP,648003.0
+306,2009-06-07,european,HU33,Dél-Alföld,2,JOBBIK,144951.0
+307,2009-06-07,european,HU33,Dél-Alföld,2,LMP-HP,20136.0
+308,2009-06-07,european,HU33,Dél-Alföld,2,MCF ROMA Ö.,4077.0
+309,2009-06-07,european,HU33,Dél-Alföld,2,MDF,52476.0
+310,2009-06-07,european,HU33,Dél-Alföld,2,MSZP,167349.0
+311,2009-06-07,european,HU33,Dél-Alföld,2,MUNKÁSPÁRT,12075.0
+312,2009-06-07,european,HU33,Dél-Alföld,2,SZDSZ,16407.0
+313,2010-04-11,parliament,HU11,Budapest,0,eligible_voters,1341189.0
+314,2010-04-11,parliament,HU11,Budapest,1,issued_ballots,949341.0
+315,2010-04-11,parliament,HU11,Budapest,2,FIDESZ-KDNP,436442.0
+316,2010-04-11,parliament,HU11,Budapest,2,JOBBIK,102138.0
+317,2010-04-11,parliament,HU11,Budapest,2,LEHET MÁS A POLITIKA,120714.0
+318,2010-04-11,parliament,HU11,Budapest,2,MAGYAR DEMOKRATA FÓRUM,44265.0
+319,2010-04-11,parliament,HU11,Budapest,2,MSZP,238672.0
+320,2010-04-11,parliament,HU12,Pest,0,eligible_voters,942752.0
+321,2010-04-11,parliament,HU12,Pest,1,issued_ballots,631490.0
+322,2010-04-11,parliament,HU12,Pest,2,CIVIL MOZGALOM,11832.0
+323,2010-04-11,parliament,HU12,Pest,2,FIDESZ-KDNP,331954.0
+324,2010-04-11,parliament,HU12,Pest,2,JOBBIK,103689.0
+325,2010-04-11,parliament,HU12,Pest,2,LEHET MÁS A POLITIKA,52410.0
+326,2010-04-11,parliament,HU12,Pest,2,MAGYAR DEMOKRATA FÓRUM,17255.0
+327,2010-04-11,parliament,HU12,Pest,2,MAGYAR SZOCIALISTA PÁRT,110329.0
+328,2010-04-11,parliament,HU21,Közép-Dunántúl,0,eligible_voters,2657973.0
+329,2010-04-11,parliament,HU21,Közép-Dunántúl,1,issued_ballots,1708443.0
+330,2010-04-11,parliament,HU21,Közép-Dunántúl,2,CIVILEK,13785.0
+331,2010-04-11,parliament,HU21,Közép-Dunántúl,2,FIDESZ - KDNP,323172.0
+332,2010-04-11,parliament,HU21,Közép-Dunántúl,2,FIDESZ-KDNP,597816.0
+333,2010-04-11,parliament,HU21,Közép-Dunántúl,2,JOBBIK,147087.0
+334,2010-04-11,parliament,HU21,Közép-Dunántúl,2,Jobbik,107691.0
+335,2010-04-11,parliament,HU21,Közép-Dunántúl,2,LEHET MÁS A POLITIKA,38787.0
+336,2010-04-11,parliament,HU21,Közép-Dunántúl,2,LMP,46284.0
+337,2010-04-11,parliament,HU21,Közép-Dunántúl,2,Lehet Más a Politika,40578.0
+338,2010-04-11,parliament,HU21,Közép-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT,108384.0
+339,2010-04-11,parliament,HU21,Közép-Dunántúl,2,MDF,14736.0
+340,2010-04-11,parliament,HU21,Közép-Dunántúl,2,MSZP,225693.0
+341,2010-04-11,parliament,HU21,Közép-Dunántúl,2,Magyar Demokrata Fórum,32586.0
+342,2010-04-11,parliament,HU22,Nyugat-Dunántúl,0,eligible_voters,2398071.0
+343,2010-04-11,parliament,HU22,Nyugat-Dunántúl,1,issued_ballots,1577367.0
+344,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,CIVIL MOZGALOM,18786.0
+345,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,FIDESZ - KDNP,255786.0
+346,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,FIDESZ-KDNP,681288.0
+347,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,JOBBIK,126279.0
+348,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,Jobbik,88092.0
+349,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,LEHET MÁS A POLITIKA,71016.0
+350,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,Lehet Más a Politika,25938.0
+351,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR DEMOKRATA FÓRUM,20703.0
+352,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT,71097.0
+353,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,MDF,11826.0
+354,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,MSZDP,2586.0
+355,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,MSZP,118170.0
+356,2010-04-11,parliament,HU22,Nyugat-Dunántúl,2,Magyar Szocialista Párt,75321.0
+357,2010-04-11,parliament,HU23,Dél-Dunántúl,0,eligible_voters,2318025.0
+358,2010-04-11,parliament,HU23,Dél-Dunántúl,1,issued_ballots,1424634.0
+359,2010-04-11,parliament,HU23,Dél-Dunántúl,2,FIDESZ - KDNP,972.0
+360,2010-04-11,parliament,HU23,Dél-Dunántúl,2,FIDESZ-KDNP,808296.0
+361,2010-04-11,parliament,HU23,Dél-Dunántúl,2,JOBBIK,68313.0
+362,2010-04-11,parliament,HU23,Dél-Dunántúl,2,Jobbik,128136.0
+363,2010-04-11,parliament,HU23,Dél-Dunántúl,2,LEHET MÁS A POLITIKA,101277.0
+364,2010-04-11,parliament,HU23,Dél-Dunántúl,2,Lehet Más a Politika,225.0
+365,2010-04-11,parliament,HU23,Dél-Dunántúl,2,MAGYAR DEMOKRATA FÓRUM,25359.0
+366,2010-04-11,parliament,HU23,Dél-Dunántúl,2,MDF,75.0
+367,2010-04-11,parliament,HU23,Dél-Dunántúl,2,MSZP,185919.0
+368,2010-04-11,parliament,HU23,Dél-Dunántúl,2,Magyar Szocialista Párt,94254.0
+369,2010-04-11,parliament,HU31,Észak-Magyarország,0,eligible_voters,2936136.0
+370,2010-04-11,parliament,HU31,Észak-Magyarország,1,issued_ballots,1836435.0
+371,2010-04-11,parliament,HU31,Észak-Magyarország,2,FIDESZ-KDNP,854181.0
+372,2010-04-11,parliament,HU31,Észak-Magyarország,2,JOBBIK,464715.0
+373,2010-04-11,parliament,HU31,Észak-Magyarország,2,LEHET MÁS A POLITIKA,29307.0
+374,2010-04-11,parliament,HU31,Észak-Magyarország,2,Lehet Más a Politika,60510.0
+375,2010-04-11,parliament,HU31,Észak-Magyarország,2,MAGYAR SZOCIALISTA PÁRT,295170.0
+376,2010-04-11,parliament,HU31,Észak-Magyarország,2,MDF,29409.0
+377,2010-04-11,parliament,HU31,Észak-Magyarország,2,MIÉP,2112.0
+378,2010-04-11,parliament,HU31,Észak-Magyarország,2,MSZDP,4959.0
+379,2010-04-11,parliament,HU31,Észak-Magyarország,2,MSZP,64233.0
+380,2010-04-11,parliament,HU31,Észak-Magyarország,2,MUNKÁSPÁRT,4953.0
+381,2010-04-11,parliament,HU31,Észak-Magyarország,2,Munkáspárt,4323.0
+382,2010-04-11,parliament,HU31,Észak-Magyarország,2,Összefogás Párt BAZ M-i Lista,8196.0
+383,2010-04-11,parliament,HU32,Észak-Alföld,0,eligible_voters,3567981.0
+384,2010-04-11,parliament,HU32,Észak-Alföld,1,issued_ballots,2232702.0
+385,2010-04-11,parliament,HU32,Észak-Alföld,2,CIVIL MOZGALOM,20280.0
+386,2010-04-11,parliament,HU32,Észak-Alföld,2,Civil Mozgalom,12006.0
+387,2010-04-11,parliament,HU32,Észak-Alföld,2,FIDESZ-KDNP,1199790.0
+388,2010-04-11,parliament,HU32,Észak-Alföld,2,JOBBIK,487527.0
+389,2010-04-11,parliament,HU32,Észak-Alföld,2,LEHET MÁS A POLITIKA,56655.0
+390,2010-04-11,parliament,HU32,Észak-Alföld,2,Lehet Más a Politika,40569.0
+391,2010-04-11,parliament,HU32,Észak-Alföld,2,MAGYAR DEMOKRATA FÓRUM,12420.0
+392,2010-04-11,parliament,HU32,Észak-Alföld,2,MAGYAR SZOCIALISTA PÁRT,123186.0
+393,2010-04-11,parliament,HU32,Észak-Alföld,2,MDF,33861.0
+394,2010-04-11,parliament,HU32,Észak-Alföld,2,MSZDP,4806.0
+395,2010-04-11,parliament,HU32,Észak-Alföld,2,MSZP,216861.0
+396,2010-04-11,parliament,HU32,Észak-Alföld,2,MUNKÁSPÁRT,7542.0
+397,2010-04-11,parliament,HU33,Dél-Alföld,0,eligible_voters,3199479.0
+398,2010-04-11,parliament,HU33,Dél-Alföld,1,issued_ballots,1989243.0
+399,2010-04-11,parliament,HU33,Dél-Alföld,2,CIVIL MOZGALOM,37236.0
+400,2010-04-11,parliament,HU33,Dél-Alföld,2,FIDESZ-KDNP,795552.0
+401,2010-04-11,parliament,HU33,Dél-Alföld,2,Fidesz-KDNP,296835.0
+402,2010-04-11,parliament,HU33,Dél-Alföld,2,JOBBIK,231516.0
+403,2010-04-11,parliament,HU33,Dél-Alföld,2,Jobbik,99471.0
+404,2010-04-11,parliament,HU33,Dél-Alföld,2,LEHET MÁS A POLITIKA,76887.0
+405,2010-04-11,parliament,HU33,Dél-Alföld,2,Lehet Más a Politika,44223.0
+406,2010-04-11,parliament,HU33,Dél-Alföld,2,MAGYAR DEMOKRATA FÓRUM,33708.0
+407,2010-04-11,parliament,HU33,Dél-Alföld,2,MDF,11442.0
+408,2010-04-11,parliament,HU33,Dél-Alföld,2,MIÉP,1746.0
+409,2010-04-11,parliament,HU33,Dél-Alföld,2,MSZP,345993.0
+410,2014-04-06,parliament,HU11,Budapest,0,eligible_voters,1353377.0
+411,2014-04-06,parliament,HU11,Budapest,1,issued_ballots,927947.0
+412,2014-04-06,parliament,HU11,Budapest,2,A HAZA NEM ELADÓ MOZGALOM PÁRT,2468.0
+413,2014-04-06,parliament,HU11,Budapest,2,EGYÜTT 2014,3379.0
+414,2014-04-06,parliament,HU11,Budapest,2,FIDESZ-KDNP,354408.0
+415,2014-04-06,parliament,HU11,Budapest,2,FÜGGETLEN KISGAZDAPÁRT,1215.0
+416,2014-04-06,parliament,HU11,Budapest,2,JESZ,1875.0
+417,2014-04-06,parliament,HU11,Budapest,2,JOBBIK,111129.0
+418,2014-04-06,parliament,HU11,Budapest,2,KTI,2461.0
+419,2014-04-06,parliament,HU11,Budapest,2,LMP,82150.0
+420,2014-04-06,parliament,HU11,Budapest,2,MCP,741.0
+421,2014-04-06,parliament,HU11,Budapest,2,MSZP-EGYÜTT-DK-PM-MLP,338431.0
+422,2014-04-06,parliament,HU11,Budapest,2,MUNKÁSPÁRT,4447.0
+423,2014-04-06,parliament,HU11,Budapest,2,SEM,3034.0
+424,2014-04-06,parliament,HU11,Budapest,2,SERES MÁRIA SZÖVETSÉGESEI,4533.0
+425,2014-04-06,parliament,HU11,Budapest,2,SZOCIÁLDEMOKRATÁK,3920.0
+426,2014-04-06,parliament,HU11,Budapest,2,ZÖLDEK PÁRTJA,3919.0
+427,2014-04-06,parliament,HU11,Budapest,2,ÖSSZEFOGÁS,1474.0
+428,2014-04-06,parliament,HU11,Budapest,2,ÚDP,291.0
+429,2014-04-06,parliament,HU11,Budapest,2,ÚMP,239.0
+430,2014-04-06,parliament,HU12,Pest,0,eligible_voters,979170.0
+431,2014-04-06,parliament,HU12,Pest,1,issued_ballots,616319.0
+432,2014-04-06,parliament,HU12,Pest,2,A HAZA NEM ELADÓ MOZGALOM PÁRT,3491.0
+433,2014-04-06,parliament,HU12,Pest,2,EGYÜTT 2014,2330.0
+434,2014-04-06,parliament,HU12,Pest,2,FIDESZ-KDNP,273487.0
+435,2014-04-06,parliament,HU12,Pest,2,FÜGGETLEN KISGAZDAPÁRT,953.0
+436,2014-04-06,parliament,HU12,Pest,2,JESZ,1252.0
+437,2014-04-06,parliament,HU12,Pest,2,JOBBIK,115340.0
+438,2014-04-06,parliament,HU12,Pest,2,KTI,1425.0
+439,2014-04-06,parliament,HU12,Pest,2,LMP,37366.0
+440,2014-04-06,parliament,HU12,Pest,2,MCP,524.0
+441,2014-04-06,parliament,HU12,Pest,2,MSZP-EGYÜTT-DK-PM-MLP,158103.0
+442,2014-04-06,parliament,HU12,Pest,2,MUNKÁSPÁRT,2701.0
+443,2014-04-06,parliament,HU12,Pest,2,SEM,1817.0
+444,2014-04-06,parliament,HU12,Pest,2,SERES MÁRIA SZÖVETSÉGESEI,2857.0
+445,2014-04-06,parliament,HU12,Pest,2,SZOCIÁLDEMOKRATÁK,1797.0
+446,2014-04-06,parliament,HU12,Pest,2,ZÖLDEK PÁRTJA,2737.0
+447,2014-04-06,parliament,HU12,Pest,2,ÖSSZEFOGÁS,1132.0
+448,2014-04-06,parliament,HU12,Pest,2,ÚDP,220.0
+449,2014-04-06,parliament,HU12,Pest,2,ÚMP,168.0
+450,2014-04-06,parliament,HU21,Közép-Dunántúl,0,eligible_voters,2676555.0
+451,2014-04-06,parliament,HU21,Közép-Dunántúl,1,issued_ballots,1643655.0
+452,2014-04-06,parliament,HU21,Közép-Dunántúl,2,A HAZA NEM ELADÓ MOZGALOM PÁRT,7803.0
+453,2014-04-06,parliament,HU21,Közép-Dunántúl,2,EGYÜTT 2014,4530.0
+454,2014-04-06,parliament,HU21,Közép-Dunántúl,2,FIDESZ-KDNP,732354.0
+455,2014-04-06,parliament,HU21,Közép-Dunántúl,2,FÜGGETLEN KISGAZDAPÁRT,2859.0
+456,2014-04-06,parliament,HU21,Közép-Dunántúl,2,JESZ,4584.0
+457,2014-04-06,parliament,HU21,Közép-Dunántúl,2,JOBBIK,339582.0
+458,2014-04-06,parliament,HU21,Közép-Dunántúl,2,KTI,3693.0
+459,2014-04-06,parliament,HU21,Közép-Dunántúl,2,LMP,83262.0
+460,2014-04-06,parliament,HU21,Közép-Dunántúl,2,MCP,1509.0
+461,2014-04-06,parliament,HU21,Közép-Dunántúl,2,MSZP-EGYÜTT-DK-PM-MLP,408369.0
+462,2014-04-06,parliament,HU21,Közép-Dunántúl,2,MUNKÁSPÁRT,8523.0
+463,2014-04-06,parliament,HU21,Közép-Dunántúl,2,SEM,4581.0
+464,2014-04-06,parliament,HU21,Közép-Dunántúl,2,SERES MÁRIA SZÖVETSÉGESEI,7773.0
+465,2014-04-06,parliament,HU21,Közép-Dunántúl,2,SZOCIÁLDEMOKRATÁK,4626.0
+466,2014-04-06,parliament,HU21,Közép-Dunántúl,2,ZÖLDEK PÁRTJA,6177.0
+467,2014-04-06,parliament,HU21,Közép-Dunántúl,2,ÖSSZEFOGÁS,2025.0
+468,2014-04-06,parliament,HU21,Közép-Dunántúl,2,ÚDP,714.0
+469,2014-04-06,parliament,HU21,Közép-Dunántúl,2,ÚMP,552.0
+470,2014-04-06,parliament,HU22,Nyugat-Dunántúl,0,eligible_voters,2413410.0
+471,2014-04-06,parliament,HU22,Nyugat-Dunántúl,1,issued_ballots,1512420.0
+472,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,A HAZA NEM ELADÓ MOZGALOM PÁRT,3993.0
+473,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,EGYÜTT 2014,3720.0
+474,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,FIDESZ-KDNP,745341.0
+475,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,FÜGGETLEN KISGAZDAPÁRT,2403.0
+476,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,JESZ,3654.0
+477,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,JOBBIK,297018.0
+478,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,KTI,2925.0
+479,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,LMP,76422.0
+480,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,MCP,1794.0
+481,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,MSZP-EGYÜTT-DK-PM-MLP,333060.0
+482,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,MUNKÁSPÁRT,6162.0
+483,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,SEM,3627.0
+484,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,SERES MÁRIA SZÖVETSÉGESEI,7317.0
+485,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,SZOCIÁLDEMOKRATÁK,3699.0
+486,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,ZÖLDEK PÁRTJA,4536.0
+487,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,ÖSSZEFOGÁS,1539.0
+488,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,ÚDP,963.0
+489,2014-04-06,parliament,HU22,Nyugat-Dunántúl,2,ÚMP,993.0
+490,2014-04-06,parliament,HU23,Dél-Dunántúl,0,eligible_voters,2312211.0
+491,2014-04-06,parliament,HU23,Dél-Dunántúl,1,issued_ballots,1366956.0
+492,2014-04-06,parliament,HU23,Dél-Dunántúl,2,A HAZA NEM ELADÓ MOZGALOM PÁRT,7989.0
+493,2014-04-06,parliament,HU23,Dél-Dunántúl,2,EGYÜTT 2014,3843.0
+494,2014-04-06,parliament,HU23,Dél-Dunántúl,2,FIDESZ-KDNP,586152.0
+495,2014-04-06,parliament,HU23,Dél-Dunántúl,2,FÜGGETLEN KISGAZDAPÁRT,2634.0
+496,2014-04-06,parliament,HU23,Dél-Dunántúl,2,JESZ,2283.0
+497,2014-04-06,parliament,HU23,Dél-Dunántúl,2,JOBBIK,288126.0
+498,2014-04-06,parliament,HU23,Dél-Dunántúl,2,KTI,3954.0
+499,2014-04-06,parliament,HU23,Dél-Dunántúl,2,LMP,68595.0
+500,2014-04-06,parliament,HU23,Dél-Dunántúl,2,MCP,2193.0
+501,2014-04-06,parliament,HU23,Dél-Dunántúl,2,MSZP-EGYÜTT-DK-PM-MLP,341544.0
+502,2014-04-06,parliament,HU23,Dél-Dunántúl,2,MUNKÁSPÁRT,7143.0
+503,2014-04-06,parliament,HU23,Dél-Dunántúl,2,SEM,3150.0
+504,2014-04-06,parliament,HU23,Dél-Dunántúl,2,SERES MÁRIA SZÖVETSÉGESEI,4755.0
+505,2014-04-06,parliament,HU23,Dél-Dunántúl,2,SZOCIÁLDEMOKRATÁK,3870.0
+506,2014-04-06,parliament,HU23,Dél-Dunántúl,2,ZÖLDEK PÁRTJA,4404.0
+507,2014-04-06,parliament,HU23,Dél-Dunántúl,2,ÖSSZEFOGÁS,1263.0
+508,2014-04-06,parliament,HU23,Dél-Dunántúl,2,ÚDP,576.0
+509,2014-04-06,parliament,HU23,Dél-Dunántúl,2,ÚMP,396.0
+510,2014-04-06,parliament,HU31,Észak-Magyarország,0,eligible_voters,2908500.0
+511,2014-04-06,parliament,HU31,Észak-Magyarország,1,issued_ballots,1753464.0
+512,2014-04-06,parliament,HU31,Észak-Magyarország,2,A HAZA NEM ELADÓ MOZGALOM PÁRT,6876.0
+513,2014-04-06,parliament,HU31,Észak-Magyarország,2,EGYÜTT 2014,4071.0
+514,2014-04-06,parliament,HU31,Észak-Magyarország,2,FIDESZ-KDNP,684561.0
+515,2014-04-06,parliament,HU31,Észak-Magyarország,2,FÜGGETLEN KISGAZDAPÁRT,2562.0
+516,2014-04-06,parliament,HU31,Észak-Magyarország,2,JESZ,2382.0
+517,2014-04-06,parliament,HU31,Észak-Magyarország,2,JOBBIK,499983.0
+518,2014-04-06,parliament,HU31,Észak-Magyarország,2,KTI,2844.0
+519,2014-04-06,parliament,HU31,Észak-Magyarország,2,LMP,53466.0
+520,2014-04-06,parliament,HU31,Észak-Magyarország,2,MCP,9246.0
+521,2014-04-06,parliament,HU31,Észak-Magyarország,2,MSZP-EGYÜTT-DK-PM-MLP,425127.0
+522,2014-04-06,parliament,HU31,Észak-Magyarország,2,MUNKÁSPÁRT,13644.0
+523,2014-04-06,parliament,HU31,Észak-Magyarország,2,SEM,3417.0
+524,2014-04-06,parliament,HU31,Észak-Magyarország,2,SERES MÁRIA SZÖVETSÉGESEI,6408.0
+525,2014-04-06,parliament,HU31,Észak-Magyarország,2,SZOCIÁLDEMOKRATÁK,4857.0
+526,2014-04-06,parliament,HU31,Észak-Magyarország,2,ZÖLDEK PÁRTJA,5373.0
+527,2014-04-06,parliament,HU31,Észak-Magyarország,2,ÖSSZEFOGÁS,2118.0
+528,2014-04-06,parliament,HU31,Észak-Magyarország,2,ÚDP,579.0
+529,2014-04-06,parliament,HU31,Észak-Magyarország,2,ÚMP,417.0
+530,2014-04-06,parliament,HU32,Észak-Alföld,0,eligible_voters,3622668.0
+531,2014-04-06,parliament,HU32,Észak-Alföld,1,issued_ballots,2114826.0
+532,2014-04-06,parliament,HU32,Észak-Alföld,2,A HAZA NEM ELADÓ MOZGALOM PÁRT,10317.0
+533,2014-04-06,parliament,HU32,Észak-Alföld,2,EGYÜTT 2014,3810.0
+534,2014-04-06,parliament,HU32,Észak-Alföld,2,FIDESZ-KDNP,947904.0
+535,2014-04-06,parliament,HU32,Észak-Alföld,2,FÜGGETLEN KISGAZDAPÁRT,3633.0
+536,2014-04-06,parliament,HU32,Észak-Alföld,2,JESZ,4473.0
+537,2014-04-06,parliament,HU32,Észak-Alföld,2,JOBBIK,552258.0
+538,2014-04-06,parliament,HU32,Észak-Alföld,2,KTI,2745.0
+539,2014-04-06,parliament,HU32,Észak-Alföld,2,LMP,70917.0
+540,2014-04-06,parliament,HU32,Észak-Alföld,2,MCP,5664.0
+541,2014-04-06,parliament,HU32,Észak-Alföld,2,MSZP-EGYÜTT-DK-PM-MLP,438846.0
+542,2014-04-06,parliament,HU32,Észak-Alföld,2,MUNKÁSPÁRT,13653.0
+543,2014-04-06,parliament,HU32,Észak-Alföld,2,SEM,3672.0
+544,2014-04-06,parliament,HU32,Észak-Alföld,2,SERES MÁRIA SZÖVETSÉGESEI,9747.0
+545,2014-04-06,parliament,HU32,Észak-Alföld,2,SZOCIÁLDEMOKRATÁK,5475.0
+546,2014-04-06,parliament,HU32,Észak-Alföld,2,ZÖLDEK PÁRTJA,7083.0
+547,2014-04-06,parliament,HU32,Észak-Alföld,2,ÖSSZEFOGÁS,2775.0
+548,2014-04-06,parliament,HU32,Észak-Alföld,2,ÚDP,873.0
+549,2014-04-06,parliament,HU32,Észak-Alföld,2,ÚMP,489.0
+550,2014-04-06,parliament,HU33,Dél-Alföld,0,eligible_voters,3212100.0
+551,2014-04-06,parliament,HU33,Dél-Alföld,1,issued_ballots,1870701.0
+552,2014-04-06,parliament,HU33,Dél-Alföld,2,A HAZA NEM ELADÓ MOZGALOM PÁRT,15579.0
+553,2014-04-06,parliament,HU33,Dél-Alföld,2,EGYÜTT 2014,5055.0
+554,2014-04-06,parliament,HU33,Dél-Alföld,2,FIDESZ-KDNP,846429.0
+555,2014-04-06,parliament,HU33,Dél-Alföld,2,FÜGGETLEN KISGAZDAPÁRT,3525.0
+556,2014-04-06,parliament,HU33,Dél-Alföld,2,JESZ,2898.0
+557,2014-04-06,parliament,HU33,Dél-Alföld,2,JOBBIK,396276.0
+558,2014-04-06,parliament,HU33,Dél-Alföld,2,KTI,4848.0
+559,2014-04-06,parliament,HU33,Dél-Alföld,2,LMP,95310.0
+560,2014-04-06,parliament,HU33,Dél-Alföld,2,MCP,2178.0
+561,2014-04-06,parliament,HU33,Dél-Alföld,2,MSZP-EGYÜTT-DK-PM-MLP,431385.0
+562,2014-04-06,parliament,HU33,Dél-Alföld,2,MUNKÁSPÁRT,14211.0
+563,2014-04-06,parliament,HU33,Dél-Alföld,2,SEM,4314.0
+564,2014-04-06,parliament,HU33,Dél-Alföld,2,SERES MÁRIA SZÖVETSÉGESEI,8406.0
+565,2014-04-06,parliament,HU33,Dél-Alföld,2,SZOCIÁLDEMOKRATÁK,5358.0
+566,2014-04-06,parliament,HU33,Dél-Alföld,2,ZÖLDEK PÁRTJA,7443.0
+567,2014-04-06,parliament,HU33,Dél-Alföld,2,ÖSSZEFOGÁS,2043.0
+568,2014-04-06,parliament,HU33,Dél-Alföld,2,ÚDP,1008.0
+569,2014-04-06,parliament,HU33,Dél-Alföld,2,ÚMP,648.0
+570,2014-05-25,european,HU11,Budapest,0,eligible_voters,1352267.0
+571,2014-05-25,european,HU11,Budapest,1,issued_ballots,525130.0
+572,2014-05-25,european,HU11,Budapest,2,A HAZA NEM ELADÓ,1797.0
+573,2014-05-25,european,HU11,Budapest,2,DEMOKRATIKUS KOALÍCIÓ,68519.0
+574,2014-05-25,european,HU11,Budapest,2,EGYÜTT-PM,68389.0
+575,2014-05-25,european,HU11,Budapest,2,FIDESZ-KDNP,228856.0
+576,2014-05-25,european,HU11,Budapest,2,JOBBIK,51995.0
+577,2014-05-25,european,HU11,Budapest,2,LMP,41485.0
+578,2014-05-25,european,HU11,Budapest,2,MSZP,60171.0
+579,2014-05-25,european,HU11,Budapest,2,SMS,1944.0
+580,2014-05-25,european,HU12,Pest,0,eligible_voters,979658.0
+581,2014-05-25,european,HU12,Pest,1,issued_ballots,288828.0
+582,2014-05-25,european,HU12,Pest,2,A HAZA NEM ELADÓ,1629.0
+583,2014-05-25,european,HU12,Pest,2,DEMOKRATIKUS KOALÍCIÓ,28639.0
+584,2014-05-25,european,HU12,Pest,2,EGYÜTT-PM,22682.0
+585,2014-05-25,european,HU12,Pest,2,FIDESZ-KDNP,151444.0
+586,2014-05-25,european,HU12,Pest,2,JOBBIK,42131.0
+587,2014-05-25,european,HU12,Pest,2,LMP,15996.0
+588,2014-05-25,european,HU12,Pest,2,MSZP,24200.0
+589,2014-05-25,european,HU12,Pest,2,SMS,1076.0
+590,2014-05-25,european,HU21,Közép-Dunántúl,0,eligible_voters,2678589.0
+591,2014-05-25,european,HU21,Közép-Dunántúl,1,issued_ballots,743832.0
+592,2014-05-25,european,HU21,Közép-Dunántúl,2,A HAZA NEM ELADÓ,3858.0
+593,2014-05-25,european,HU21,Közép-Dunántúl,2,DEMOKRATIKUS KOALÍCIÓ,72894.0
+594,2014-05-25,european,HU21,Közép-Dunántúl,2,EGYÜTT-PM,44193.0
+595,2014-05-25,european,HU21,Közép-Dunántúl,2,FIDESZ-KDNP,400092.0
+596,2014-05-25,european,HU21,Közép-Dunántúl,2,JOBBIK,106560.0
+597,2014-05-25,european,HU21,Közép-Dunántúl,2,LMP,32814.0
+598,2014-05-25,european,HU21,Közép-Dunántúl,2,MSZP,77067.0
+599,2014-05-25,european,HU21,Közép-Dunántúl,2,SMS,3183.0
+600,2014-05-25,european,HU22,Nyugat-Dunántúl,0,eligible_voters,2410674.0
+601,2014-05-25,european,HU22,Nyugat-Dunántúl,1,issued_ballots,705690.0
+602,2014-05-25,european,HU22,Nyugat-Dunántúl,2,A HAZA NEM ELADÓ,2565.0
+603,2014-05-25,european,HU22,Nyugat-Dunántúl,2,DEMOKRATIKUS KOALÍCIÓ,56400.0
+604,2014-05-25,european,HU22,Nyugat-Dunántúl,2,EGYÜTT-PM,38766.0
+605,2014-05-25,european,HU22,Nyugat-Dunántúl,2,FIDESZ-KDNP,425277.0
+606,2014-05-25,european,HU22,Nyugat-Dunántúl,2,JOBBIK,99516.0
+607,2014-05-25,european,HU22,Nyugat-Dunántúl,2,LMP,32091.0
+608,2014-05-25,european,HU22,Nyugat-Dunántúl,2,MSZP,64236.0
+609,2014-05-25,european,HU22,Nyugat-Dunántúl,2,SMS,2763.0
+610,2014-05-25,european,HU23,Dél-Dunántúl,0,eligible_voters,2308083.0
+611,2014-05-25,european,HU23,Dél-Dunántúl,1,issued_ballots,607302.0
+612,2014-05-25,european,HU23,Dél-Dunántúl,2,A HAZA NEM ELADÓ,3897.0
+613,2014-05-25,european,HU23,Dél-Dunántúl,2,DEMOKRATIKUS KOALÍCIÓ,58935.0
+614,2014-05-25,european,HU23,Dél-Dunántúl,2,EGYÜTT-PM,35406.0
+615,2014-05-25,european,HU23,Dél-Dunántúl,2,FIDESZ-KDNP,322944.0
+616,2014-05-25,european,HU23,Dél-Dunántúl,2,JOBBIK,89694.0
+617,2014-05-25,european,HU23,Dél-Dunántúl,2,LMP,26613.0
+618,2014-05-25,european,HU23,Dél-Dunántúl,2,MSZP,65256.0
+619,2014-05-25,european,HU23,Dél-Dunántúl,2,SMS,2103.0
+620,2014-05-25,european,HU31,Észak-Magyarország,0,eligible_voters,2896131.0
+621,2014-05-25,european,HU31,Észak-Magyarország,1,issued_ballots,771570.0
+622,2014-05-25,european,HU31,Észak-Magyarország,2,A HAZA NEM ELADÓ,3822.0
+623,2014-05-25,european,HU31,Észak-Magyarország,2,DEMOKRATIKUS KOALÍCIÓ,70935.0
+624,2014-05-25,european,HU31,Észak-Magyarország,2,EGYÜTT-PM,36159.0
+625,2014-05-25,european,HU31,Észak-Magyarország,2,FIDESZ-KDNP,373338.0
+626,2014-05-25,european,HU31,Észak-Magyarország,2,JOBBIK,160827.0
+627,2014-05-25,european,HU31,Észak-Magyarország,2,LMP,22806.0
+628,2014-05-25,european,HU31,Észak-Magyarország,2,MSZP,96768.0
+629,2014-05-25,european,HU31,Észak-Magyarország,2,SMS,3381.0
+630,2014-05-25,european,HU32,Észak-Alföld,0,eligible_voters,3609510.0
+631,2014-05-25,european,HU32,Észak-Alföld,1,issued_ballots,879828.0
+632,2014-05-25,european,HU32,Észak-Alföld,2,A HAZA NEM ELADÓ,4905.0
+633,2014-05-25,european,HU32,Észak-Alföld,2,DEMOKRATIKUS KOALÍCIÓ,62943.0
+634,2014-05-25,european,HU32,Észak-Alföld,2,EGYÜTT-PM,34188.0
+635,2014-05-25,european,HU32,Észak-Alföld,2,FIDESZ-KDNP,479115.0
+636,2014-05-25,european,HU32,Észak-Alföld,2,JOBBIK,158577.0
+637,2014-05-25,european,HU32,Észak-Alföld,2,LMP,28545.0
+638,2014-05-25,european,HU32,Észak-Alföld,2,MSZP,103308.0
+639,2014-05-25,european,HU32,Észak-Alföld,2,SMS,3930.0
+640,2014-05-25,european,HU33,Dél-Alföld,0,eligible_voters,3202680.0
+641,2014-05-25,european,HU33,Dél-Alföld,1,issued_ballots,818850.0
+642,2014-05-25,european,HU33,Dél-Alföld,2,A HAZA NEM ELADÓ,7032.0
+643,2014-05-25,european,HU33,Dél-Alföld,2,DEMOKRATIKUS KOALÍCIÓ,64677.0
+644,2014-05-25,european,HU33,Dél-Alföld,2,EGYÜTT-PM,42303.0
+645,2014-05-25,european,HU33,Dél-Alföld,2,FIDESZ-KDNP,440307.0
+646,2014-05-25,european,HU33,Dél-Alföld,2,JOBBIK,123309.0
+647,2014-05-25,european,HU33,Dél-Alföld,2,LMP,35400.0
+648,2014-05-25,european,HU33,Dél-Alföld,2,MSZP,98505.0
+649,2014-05-25,european,HU33,Dél-Alföld,2,SMS,3417.0
+650,2018-04-08,parliament,HU11,Budapest,0,eligible_voters,1323949.0
+651,2018-04-08,parliament,HU11,Budapest,1,issued_ballots,997487.0
+652,2018-04-08,parliament,HU11,Budapest,2,CSALÁDOK PÁRTJA,1363.0
+653,2018-04-08,parliament,HU11,Budapest,2,DEMOKRATIKUS KOALÍCIÓ,85724.0
+654,2018-04-08,parliament,HU11,Budapest,2,EGYÜTT - A KORSZAKVÁLTÓK PÁRTJA,16315.0
+655,2018-04-08,parliament,HU11,Budapest,2,EURÓPAI ROMA KERESZTÉNYEK JOBBLÉTÉÉRT DEMOKRATIKUS PÁRT,134.0
+656,2018-04-08,parliament,HU11,Budapest,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,377864.0
+657,2018-04-08,parliament,HU11,Budapest,2,IRÁNYTŰ PÁRT,298.0
+658,2018-04-08,parliament,HU11,Budapest,2,JOBBIK MAGYARORSZÁGÉRT MOZGALOM,128039.0
+659,2018-04-08,parliament,HU11,Budapest,2,KELL AZ ÖSSZEFOGÁS PÁRT,421.0
+660,2018-04-08,parliament,HU11,Budapest,2,KÖZÖS NEVEZŐ 2018,437.0
+661,2018-04-08,parliament,HU11,Budapest,2,LEHET MÁS A POLITIKA,107349.0
+662,2018-04-08,parliament,HU11,Budapest,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA,1445.0
+663,2018-04-08,parliament,HU11,Budapest,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,27637.0
+664,2018-04-08,parliament,HU11,Budapest,2,MAGYAR MUNKÁSPÁRT,2530.0
+665,2018-04-08,parliament,HU11,Budapest,2,MAGYAR SZOCIALISTA PÁRT-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,178880.0
+666,2018-04-08,parliament,HU11,Budapest,2,MAGYARORSZÁGI CIGÁNYPÁRT,247.0
+667,2018-04-08,parliament,HU11,Budapest,2,MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA,138.0
+668,2018-04-08,parliament,HU11,Budapest,2,MOMENTUM MOZGALOM,56968.0
+669,2018-04-08,parliament,HU11,Budapest,2,NET PÁRT,136.0
+670,2018-04-08,parliament,HU11,Budapest,2,REND ÉS ELSZÁMOLTATÁS PÁRT,228.0
+671,2018-04-08,parliament,HU11,Budapest,2,SPORTOS ÉS EGÉSZSÉGES MAGYARORSZÁGÉRT PÁRT,1206.0
+672,2018-04-08,parliament,HU11,Budapest,2,SZEGÉNY EMBEREK MAGYARORSZÁGÉRT PÁRT,341.0
+673,2018-04-08,parliament,HU11,Budapest,2,TENNI AKARÁS MOZGALOM,376.0
+674,2018-04-08,parliament,HU11,Budapest,2,ÖSSZEFOGÁS PÁRT,143.0
+675,2018-04-08,parliament,HU12,Pest,0,eligible_voters,1006438.0
+676,2018-04-08,parliament,HU12,Pest,1,issued_ballots,722933.0
+677,2018-04-08,parliament,HU12,Pest,2,CSALÁDOK PÁRTJA,1318.0
+678,2018-04-08,parliament,HU12,Pest,2,DEMOKRATIKUS KOALÍCIÓ,41528.0
+679,2018-04-08,parliament,HU12,Pest,2,EGYÜTT - A KORSZAKVÁLTÓK PÁRTJA,5692.0
+680,2018-04-08,parliament,HU12,Pest,2,EURÓPAI ROMA KERESZTÉNYEK JOBBLÉTÉÉRT DEMOKRATIKUS PÁRT,126.0
+681,2018-04-08,parliament,HU12,Pest,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,330586.0
+682,2018-04-08,parliament,HU12,Pest,2,IRÁNYTŰ PÁRT,238.0
+683,2018-04-08,parliament,HU12,Pest,2,JOBBIK MAGYARORSZÁGÉRT MOZGALOM,136612.0
+684,2018-04-08,parliament,HU12,Pest,2,KELL AZ ÖSSZEFOGÁS PÁRT,378.0
+685,2018-04-08,parliament,HU12,Pest,2,KÖZÖS NEVEZŐ 2018,403.0
+686,2018-04-08,parliament,HU12,Pest,2,LEHET MÁS A POLITIKA,63849.0
+687,2018-04-08,parliament,HU12,Pest,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA,1385.0
+688,2018-04-08,parliament,HU12,Pest,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,15202.0
+689,2018-04-08,parliament,HU12,Pest,2,MAGYAR MUNKÁSPÁRT,1678.0
+690,2018-04-08,parliament,HU12,Pest,2,MAGYAR SZOCIALISTA PÁRT-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,80973.0
+691,2018-04-08,parliament,HU12,Pest,2,MAGYARORSZÁGI CIGÁNYPÁRT,237.0
+692,2018-04-08,parliament,HU12,Pest,2,MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA,127.0
+693,2018-04-08,parliament,HU12,Pest,2,MOMENTUM MOZGALOM,25409.0
+694,2018-04-08,parliament,HU12,Pest,2,NET PÁRT,137.0
+695,2018-04-08,parliament,HU12,Pest,2,REND ÉS ELSZÁMOLTATÁS PÁRT,228.0
+696,2018-04-08,parliament,HU12,Pest,2,SPORTOS ÉS EGÉSZSÉGES MAGYARORSZÁGÉRT PÁRT,1081.0
+697,2018-04-08,parliament,HU12,Pest,2,SZEGÉNY EMBEREK MAGYARORSZÁGÉRT PÁRT,264.0
+698,2018-04-08,parliament,HU12,Pest,2,TENNI AKARÁS MOZGALOM,576.0
+699,2018-04-08,parliament,HU12,Pest,2,ÖSSZEFOGÁS PÁRT,189.0
+700,2018-04-08,parliament,HU21,Közép-Dunántúl,0,eligible_voters,2633550.0
+701,2018-04-08,parliament,HU21,Közép-Dunántúl,1,issued_ballots,1865169.0
+702,2018-04-08,parliament,HU21,Közép-Dunántúl,2,CSALÁDOK PÁRTJA,4248.0
+703,2018-04-08,parliament,HU21,Közép-Dunántúl,2,DEMOKRATIKUS KOALÍCIÓ,102033.0
+704,2018-04-08,parliament,HU21,Közép-Dunántúl,2,EGYÜTT - A KORSZAKVÁLTÓK PÁRTJA,7941.0
+705,2018-04-08,parliament,HU21,Közép-Dunántúl,2,EURÓPAI ROMA KERESZTÉNYEK JOBBLÉTÉÉRT DEMOKRATIKUS PÁRT,219.0
+706,2018-04-08,parliament,HU21,Közép-Dunántúl,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,894723.0
+707,2018-04-08,parliament,HU21,Közép-Dunántúl,2,IRÁNYTŰ PÁRT,723.0
+708,2018-04-08,parliament,HU21,Közép-Dunántúl,2,JOBBIK MAGYARORSZÁGÉRT MOZGALOM,402213.0
+709,2018-04-08,parliament,HU21,Közép-Dunántúl,2,KELL AZ ÖSSZEFOGÁS PÁRT,939.0
+710,2018-04-08,parliament,HU21,Közép-Dunántúl,2,KÖZÖS NEVEZŐ 2018,1230.0
+711,2018-04-08,parliament,HU21,Közép-Dunántúl,2,LEHET MÁS A POLITIKA,123213.0
+712,2018-04-08,parliament,HU21,Közép-Dunántúl,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA,2679.0
+713,2018-04-08,parliament,HU21,Közép-Dunántúl,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,31530.0
+714,2018-04-08,parliament,HU21,Közép-Dunántúl,2,MAGYAR MUNKÁSPÁRT,5106.0
+715,2018-04-08,parliament,HU21,Közép-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,197994.0
+716,2018-04-08,parliament,HU21,Közép-Dunántúl,2,MAGYARORSZÁGI CIGÁNYPÁRT,579.0
+717,2018-04-08,parliament,HU21,Közép-Dunántúl,2,MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA,507.0
+718,2018-04-08,parliament,HU21,Közép-Dunántúl,2,MOMENTUM MOZGALOM,51036.0
+719,2018-04-08,parliament,HU21,Közép-Dunántúl,2,NET PÁRT,381.0
+720,2018-04-08,parliament,HU21,Közép-Dunántúl,2,REND ÉS ELSZÁMOLTATÁS PÁRT,489.0
+721,2018-04-08,parliament,HU21,Közép-Dunántúl,2,SPORTOS ÉS EGÉSZSÉGES MAGYARORSZÁGÉRT PÁRT,2517.0
+722,2018-04-08,parliament,HU21,Közép-Dunántúl,2,SZEGÉNY EMBEREK MAGYARORSZÁGÉRT PÁRT,1143.0
+723,2018-04-08,parliament,HU21,Közép-Dunántúl,2,TENNI AKARÁS MOZGALOM,2037.0
+724,2018-04-08,parliament,HU21,Közép-Dunántúl,2,ÖSSZEFOGÁS PÁRT,570.0
+725,2018-04-08,parliament,HU22,Nyugat-Dunántúl,0,eligible_voters,2379228.0
+726,2018-04-08,parliament,HU22,Nyugat-Dunántúl,1,issued_ballots,1732782.0
+727,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,CSALÁDOK PÁRTJA,3534.0
+728,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,DEMOKRATIKUS KOALÍCIÓ,79437.0
+729,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,EGYÜTT - A KORSZAKVÁLTÓK PÁRTJA,6294.0
+730,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,EURÓPAI ROMA KERESZTÉNYEK JOBBLÉTÉÉRT DEMOKRATIKUS PÁRT,171.0
+731,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,938121.0
+732,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,IRÁNYTŰ PÁRT,594.0
+733,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,JOBBIK MAGYARORSZÁGÉRT MOZGALOM,304260.0
+734,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,KELL AZ ÖSSZEFOGÁS PÁRT,861.0
+735,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,KÖZÖS NEVEZŐ 2018,1200.0
+736,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,LEHET MÁS A POLITIKA,115104.0
+737,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA,2301.0
+738,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,25887.0
+739,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR MUNKÁSPÁRT,3150.0
+740,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,173574.0
+741,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,MAGYARORSZÁGI CIGÁNYPÁRT,528.0
+742,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA,492.0
+743,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,MOMENTUM MOZGALOM,47037.0
+744,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,NET PÁRT,405.0
+745,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,REND ÉS ELSZÁMOLTATÁS PÁRT,474.0
+746,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,SPORTOS ÉS EGÉSZSÉGES MAGYARORSZÁGÉRT PÁRT,2433.0
+747,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,SZEGÉNY EMBEREK MAGYARORSZÁGÉRT PÁRT,1377.0
+748,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,TENNI AKARÁS MOZGALOM,1917.0
+749,2018-04-08,parliament,HU22,Nyugat-Dunántúl,2,ÖSSZEFOGÁS PÁRT,525.0
+750,2018-04-08,parliament,HU23,Dél-Dunántúl,0,eligible_voters,2243376.0
+751,2018-04-08,parliament,HU23,Dél-Dunántúl,1,issued_ballots,1523442.0
+752,2018-04-08,parliament,HU23,Dél-Dunántúl,2,CSALÁDOK PÁRTJA,3192.0
+753,2018-04-08,parliament,HU23,Dél-Dunántúl,2,DEMOKRATIKUS KOALÍCIÓ,84390.0
+754,2018-04-08,parliament,HU23,Dél-Dunántúl,2,EGYÜTT - A KORSZAKVÁLTÓK PÁRTJA,7260.0
+755,2018-04-08,parliament,HU23,Dél-Dunántúl,2,EURÓPAI ROMA KERESZTÉNYEK JOBBLÉTÉÉRT DEMOKRATIKUS PÁRT,372.0
+756,2018-04-08,parliament,HU23,Dél-Dunántúl,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,725214.0
+757,2018-04-08,parliament,HU23,Dél-Dunántúl,2,IRÁNYTŰ PÁRT,579.0
+758,2018-04-08,parliament,HU23,Dél-Dunántúl,2,JOBBIK MAGYARORSZÁGÉRT MOZGALOM,306411.0
+759,2018-04-08,parliament,HU23,Dél-Dunántúl,2,KELL AZ ÖSSZEFOGÁS PÁRT,774.0
+760,2018-04-08,parliament,HU23,Dél-Dunántúl,2,KÖZÖS NEVEZŐ 2018,1056.0
+761,2018-04-08,parliament,HU23,Dél-Dunántúl,2,LEHET MÁS A POLITIKA,104118.0
+762,2018-04-08,parliament,HU23,Dél-Dunántúl,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA,2298.0
+763,2018-04-08,parliament,HU23,Dél-Dunántúl,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,22479.0
+764,2018-04-08,parliament,HU23,Dél-Dunántúl,2,MAGYAR MUNKÁSPÁRT,3909.0
+765,2018-04-08,parliament,HU23,Dél-Dunántúl,2,MAGYAR SZOCIALISTA PÁRT-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,165414.0
+766,2018-04-08,parliament,HU23,Dél-Dunántúl,2,MAGYARORSZÁGI CIGÁNYPÁRT,1137.0
+767,2018-04-08,parliament,HU23,Dél-Dunántúl,2,MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA,321.0
+768,2018-04-08,parliament,HU23,Dél-Dunántúl,2,MOMENTUM MOZGALOM,35430.0
+769,2018-04-08,parliament,HU23,Dél-Dunántúl,2,NET PÁRT,288.0
+770,2018-04-08,parliament,HU23,Dél-Dunántúl,2,REND ÉS ELSZÁMOLTATÁS PÁRT,411.0
+771,2018-04-08,parliament,HU23,Dél-Dunántúl,2,SPORTOS ÉS EGÉSZSÉGES MAGYARORSZÁGÉRT PÁRT,1986.0
+772,2018-04-08,parliament,HU23,Dél-Dunántúl,2,SZEGÉNY EMBEREK MAGYARORSZÁGÉRT PÁRT,1041.0
+773,2018-04-08,parliament,HU23,Dél-Dunántúl,2,TENNI AKARÁS MOZGALOM,1752.0
+774,2018-04-08,parliament,HU23,Dél-Dunántúl,2,ÖSSZEFOGÁS PÁRT,480.0
+775,2018-04-08,parliament,HU31,Észak-Magyarország,0,eligible_voters,2822091.0
+776,2018-04-08,parliament,HU31,Észak-Magyarország,1,issued_ballots,1898514.0
+777,2018-04-08,parliament,HU31,Észak-Magyarország,2,CSALÁDOK PÁRTJA,3420.0
+778,2018-04-08,parliament,HU31,Észak-Magyarország,2,DEMOKRATIKUS KOALÍCIÓ,89337.0
+779,2018-04-08,parliament,HU31,Észak-Magyarország,2,EGYÜTT - A KORSZAKVÁLTÓK PÁRTJA,5895.0
+780,2018-04-08,parliament,HU31,Észak-Magyarország,2,EURÓPAI ROMA KERESZTÉNYEK JOBBLÉTÉÉRT DEMOKRATIKUS PÁRT,723.0
+781,2018-04-08,parliament,HU31,Észak-Magyarország,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,880137.0
+782,2018-04-08,parliament,HU31,Észak-Magyarország,2,IRÁNYTŰ PÁRT,612.0
+783,2018-04-08,parliament,HU31,Észak-Magyarország,2,JOBBIK MAGYARORSZÁGÉRT MOZGALOM,485409.0
+784,2018-04-08,parliament,HU31,Észak-Magyarország,2,KELL AZ ÖSSZEFOGÁS PÁRT,906.0
+785,2018-04-08,parliament,HU31,Észak-Magyarország,2,KÖZÖS NEVEZŐ 2018,1350.0
+786,2018-04-08,parliament,HU31,Észak-Magyarország,2,LEHET MÁS A POLITIKA,92370.0
+787,2018-04-08,parliament,HU31,Észak-Magyarország,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA,2706.0
+788,2018-04-08,parliament,HU31,Észak-Magyarország,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,22116.0
+789,2018-04-08,parliament,HU31,Észak-Magyarország,2,MAGYAR MUNKÁSPÁRT,7701.0
+790,2018-04-08,parliament,HU31,Észak-Magyarország,2,MAGYAR SZOCIALISTA PÁRT-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,223563.0
+791,2018-04-08,parliament,HU31,Észak-Magyarország,2,MAGYARORSZÁGI CIGÁNYPÁRT,4629.0
+792,2018-04-08,parliament,HU31,Észak-Magyarország,2,MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA,549.0
+793,2018-04-08,parliament,HU31,Észak-Magyarország,2,MOMENTUM MOZGALOM,33681.0
+794,2018-04-08,parliament,HU31,Észak-Magyarország,2,NET PÁRT,351.0
+795,2018-04-08,parliament,HU31,Észak-Magyarország,2,REND ÉS ELSZÁMOLTATÁS PÁRT,804.0
+796,2018-04-08,parliament,HU31,Észak-Magyarország,2,SPORTOS ÉS EGÉSZSÉGES MAGYARORSZÁGÉRT PÁRT,1911.0
+797,2018-04-08,parliament,HU31,Észak-Magyarország,2,SZEGÉNY EMBEREK MAGYARORSZÁGÉRT PÁRT,1122.0
+798,2018-04-08,parliament,HU31,Észak-Magyarország,2,TENNI AKARÁS MOZGALOM,2151.0
+799,2018-04-08,parliament,HU31,Észak-Magyarország,2,ÖSSZEFOGÁS PÁRT,486.0
+800,2018-04-08,parliament,HU32,Észak-Alföld,0,eligible_voters,3593781.0
+801,2018-04-08,parliament,HU32,Észak-Alföld,1,issued_ballots,2378487.0
+802,2018-04-08,parliament,HU32,Észak-Alföld,2,CSALÁDOK PÁRTJA,4419.0
+803,2018-04-08,parliament,HU32,Észak-Alföld,2,DEMOKRATIKUS KOALÍCIÓ,95709.0
+804,2018-04-08,parliament,HU32,Észak-Alföld,2,EGYÜTT - A KORSZAKVÁLTÓK PÁRTJA,8703.0
+805,2018-04-08,parliament,HU32,Észak-Alföld,2,EURÓPAI ROMA KERESZTÉNYEK JOBBLÉTÉÉRT DEMOKRATIKUS PÁRT,441.0
+806,2018-04-08,parliament,HU32,Észak-Alföld,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,1211349.0
+807,2018-04-08,parliament,HU32,Észak-Alföld,2,IRÁNYTŰ PÁRT,1038.0
+808,2018-04-08,parliament,HU32,Észak-Alföld,2,JOBBIK MAGYARORSZÁGÉRT MOZGALOM,540273.0
+809,2018-04-08,parliament,HU32,Észak-Alföld,2,KELL AZ ÖSSZEFOGÁS PÁRT,1152.0
+810,2018-04-08,parliament,HU32,Észak-Alföld,2,KÖZÖS NEVEZŐ 2018,2553.0
+811,2018-04-08,parliament,HU32,Észak-Alföld,2,LEHET MÁS A POLITIKA,116250.0
+812,2018-04-08,parliament,HU32,Észak-Alföld,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA,4446.0
+813,2018-04-08,parliament,HU32,Észak-Alföld,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,28545.0
+814,2018-04-08,parliament,HU32,Észak-Alföld,2,MAGYAR MUNKÁSPÁRT,7815.0
+815,2018-04-08,parliament,HU32,Észak-Alföld,2,MAGYAR SZOCIALISTA PÁRT-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,254364.0
+816,2018-04-08,parliament,HU32,Észak-Alföld,2,MAGYARORSZÁGI CIGÁNYPÁRT,2589.0
+817,2018-04-08,parliament,HU32,Észak-Alföld,2,MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA,612.0
+818,2018-04-08,parliament,HU32,Észak-Alföld,2,MOMENTUM MOZGALOM,49677.0
+819,2018-04-08,parliament,HU32,Észak-Alföld,2,NET PÁRT,618.0
+820,2018-04-08,parliament,HU32,Észak-Alföld,2,REND ÉS ELSZÁMOLTATÁS PÁRT,768.0
+821,2018-04-08,parliament,HU32,Észak-Alföld,2,SPORTOS ÉS EGÉSZSÉGES MAGYARORSZÁGÉRT PÁRT,2733.0
+822,2018-04-08,parliament,HU32,Észak-Alföld,2,SZEGÉNY EMBEREK MAGYARORSZÁGÉRT PÁRT,1248.0
+823,2018-04-08,parliament,HU32,Észak-Alföld,2,TENNI AKARÁS MOZGALOM,2577.0
+824,2018-04-08,parliament,HU32,Észak-Alföld,2,ÖSSZEFOGÁS PÁRT,612.0
+825,2018-04-08,parliament,HU33,Dél-Alföld,0,eligible_voters,3137985.0
+826,2018-04-08,parliament,HU33,Dél-Alföld,1,issued_ballots,2139537.0
+827,2018-04-08,parliament,HU33,Dél-Alföld,2,CSALÁDOK PÁRTJA,4818.0
+828,2018-04-08,parliament,HU33,Dél-Alföld,2,DEMOKRATIKUS KOALÍCIÓ,89814.0
+829,2018-04-08,parliament,HU33,Dél-Alföld,2,EGYÜTT - A KORSZAKVÁLTÓK PÁRTJA,9639.0
+830,2018-04-08,parliament,HU33,Dél-Alföld,2,EURÓPAI ROMA KERESZTÉNYEK JOBBLÉTÉÉRT DEMOKRATIKUS PÁRT,252.0
+831,2018-04-08,parliament,HU33,Dél-Alföld,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,1049076.0
+832,2018-04-08,parliament,HU33,Dél-Alföld,2,IRÁNYTŰ PÁRT,837.0
+833,2018-04-08,parliament,HU33,Dél-Alföld,2,JOBBIK MAGYARORSZÁGÉRT MOZGALOM,439734.0
+834,2018-04-08,parliament,HU33,Dél-Alföld,2,KELL AZ ÖSSZEFOGÁS PÁRT,1104.0
+835,2018-04-08,parliament,HU33,Dél-Alföld,2,KÖZÖS NEVEZŐ 2018,1719.0
+836,2018-04-08,parliament,HU33,Dél-Alföld,2,LEHET MÁS A POLITIKA,142392.0
+837,2018-04-08,parliament,HU33,Dél-Alföld,2,MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA,2949.0
+838,2018-04-08,parliament,HU33,Dél-Alföld,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,37200.0
+839,2018-04-08,parliament,HU33,Dél-Alföld,2,MAGYAR MUNKÁSPÁRT,6480.0
+840,2018-04-08,parliament,HU33,Dél-Alföld,2,MAGYAR SZOCIALISTA PÁRT-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,249894.0
+841,2018-04-08,parliament,HU33,Dél-Alföld,2,MAGYARORSZÁGI CIGÁNYPÁRT,1359.0
+842,2018-04-08,parliament,HU33,Dél-Alföld,2,MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA,564.0
+843,2018-04-08,parliament,HU33,Dél-Alföld,2,MOMENTUM MOZGALOM,58683.0
+844,2018-04-08,parliament,HU33,Dél-Alföld,2,NET PÁRT,399.0
+845,2018-04-08,parliament,HU33,Dél-Alföld,2,REND ÉS ELSZÁMOLTATÁS PÁRT,741.0
+846,2018-04-08,parliament,HU33,Dél-Alföld,2,SPORTOS ÉS EGÉSZSÉGES MAGYARORSZÁGÉRT PÁRT,3249.0
+847,2018-04-08,parliament,HU33,Dél-Alföld,2,SZEGÉNY EMBEREK MAGYARORSZÁGÉRT PÁRT,1338.0
+848,2018-04-08,parliament,HU33,Dél-Alföld,2,TENNI AKARÁS MOZGALOM,2640.0
+849,2018-04-08,parliament,HU33,Dél-Alföld,2,ÖSSZEFOGÁS PÁRT,534.0
+850,2019-05-26,european,HU11,Budapest,0,eligible_voters,1313170.0
+851,2019-05-26,european,HU11,Budapest,1,issued_ballots,689169.0
+852,2019-05-26,european,HU11,Budapest,2,DK,135821.0
+853,2019-05-26,european,HU11,Budapest,2,FIDESZ,282583.0
+854,2019-05-26,european,HU11,Budapest,2,JOBBIK,21797.0
+855,2019-05-26,european,HU11,Budapest,2,LMP,20473.0
+856,2019-05-26,european,HU11,Budapest,2,MI HAZÁNK,15921.0
+857,2019-05-26,european,HU11,Budapest,2,MKKP,26290.0
+858,2019-05-26,european,HU11,Budapest,2,MOMENTUM,119088.0
+859,2019-05-26,european,HU11,Budapest,2,MSZP-PÁRBESZÉD,62019.0
+860,2019-05-26,european,HU11,Budapest,2,MUNKÁSPÁRT,2321.0
+861,2019-05-26,european,HU12,Pest,0,eligible_voters,1016355.0
+862,2019-05-26,european,HU12,Pest,1,issued_ballots,449088.0
+863,2019-05-26,european,HU12,Pest,2,DK,73977.0
+864,2019-05-26,european,HU12,Pest,2,FIDESZ,229711.0
+865,2019-05-26,european,HU12,Pest,2,JOBBIK,23667.0
+866,2019-05-26,european,HU12,Pest,2,LMP,11336.0
+867,2019-05-26,european,HU12,Pest,2,MI HAZÁNK,14914.0
+868,2019-05-26,european,HU12,Pest,2,MKKP,14429.0
+869,2019-05-26,european,HU12,Pest,2,MOMENTUM,52291.0
+870,2019-05-26,european,HU12,Pest,2,MSZP-PÁRBESZÉD,25237.0
+871,2019-05-26,european,HU12,Pest,2,MUNKÁSPÁRT,1526.0
+872,2019-05-26,european,HU21,Közép-Dunántúl,0,eligible_voters,2623488.0
+873,2019-05-26,european,HU21,Közép-Dunántúl,1,issued_ballots,1139673.0
+874,2019-05-26,european,HU21,Közép-Dunántúl,2,DK,189486.0
+875,2019-05-26,european,HU21,Közép-Dunántúl,2,FIDESZ,602622.0
+876,2019-05-26,european,HU21,Közép-Dunántúl,2,JOBBIK,82623.0
+877,2019-05-26,european,HU21,Közép-Dunántúl,2,LMP,23484.0
+878,2019-05-26,european,HU21,Közép-Dunántúl,2,MI HAZÁNK,40533.0
+879,2019-05-26,european,HU21,Közép-Dunántúl,2,MKKP,28629.0
+880,2019-05-26,european,HU21,Közép-Dunántúl,2,MOMENTUM,98391.0
+881,2019-05-26,european,HU21,Közép-Dunántúl,2,MSZP-PÁRBESZÉD,63576.0
+882,2019-05-26,european,HU21,Közép-Dunántúl,2,MUNKÁSPÁRT,4686.0
+883,2019-05-26,european,HU22,Nyugat-Dunántúl,0,eligible_voters,2368467.0
+884,2019-05-26,european,HU22,Nyugat-Dunántúl,1,issued_ballots,1101696.0
+885,2019-05-26,european,HU22,Nyugat-Dunántúl,2,DK,154242.0
+886,2019-05-26,european,HU22,Nyugat-Dunántúl,2,FIDESZ,651312.0
+887,2019-05-26,european,HU22,Nyugat-Dunántúl,2,JOBBIK,68442.0
+888,2019-05-26,european,HU22,Nyugat-Dunántúl,2,LMP,21258.0
+889,2019-05-26,european,HU22,Nyugat-Dunántúl,2,MI HAZÁNK,34149.0
+890,2019-05-26,european,HU22,Nyugat-Dunántúl,2,MKKP,22941.0
+891,2019-05-26,european,HU22,Nyugat-Dunántúl,2,MOMENTUM,84936.0
+892,2019-05-26,european,HU22,Nyugat-Dunántúl,2,MSZP-PÁRBESZÉD,55737.0
+893,2019-05-26,european,HU22,Nyugat-Dunántúl,2,MUNKÁSPÁRT,3636.0
+894,2019-05-26,european,HU23,Dél-Dunántúl,0,eligible_voters,2216424.0
+895,2019-05-26,european,HU23,Dél-Dunántúl,1,issued_ballots,904767.0
+896,2019-05-26,european,HU23,Dél-Dunántúl,2,DK,153381.0
+897,2019-05-26,european,HU23,Dél-Dunántúl,2,FIDESZ,486423.0
+898,2019-05-26,european,HU23,Dél-Dunántúl,2,JOBBIK,63360.0
+899,2019-05-26,european,HU23,Dél-Dunántúl,2,LMP,19872.0
+900,2019-05-26,european,HU23,Dél-Dunántúl,2,MI HAZÁNK,28245.0
+901,2019-05-26,european,HU23,Dél-Dunántúl,2,MKKP,20727.0
+902,2019-05-26,european,HU23,Dél-Dunántúl,2,MOMENTUM,69621.0
+903,2019-05-26,european,HU23,Dél-Dunántúl,2,MSZP-PÁRBESZÉD,54438.0
+904,2019-05-26,european,HU23,Dél-Dunántúl,2,MUNKÁSPÁRT,3993.0
+905,2019-05-26,european,HU31,Észak-Magyarország,0,eligible_voters,2781336.0
+906,2019-05-26,european,HU31,Észak-Magyarország,1,issued_ballots,1092552.0
+907,2019-05-26,european,HU31,Észak-Magyarország,2,DK,172131.0
+908,2019-05-26,european,HU31,Észak-Magyarország,2,FIDESZ,573678.0
+909,2019-05-26,european,HU31,Észak-Magyarország,2,JOBBIK,113640.0
+910,2019-05-26,european,HU31,Észak-Magyarország,2,LMP,16986.0
+911,2019-05-26,european,HU31,Észak-Magyarország,2,MI HAZÁNK,44298.0
+912,2019-05-26,european,HU31,Észak-Magyarország,2,MKKP,19491.0
+913,2019-05-26,european,HU31,Észak-Magyarország,2,MOMENTUM,65676.0
+914,2019-05-26,european,HU31,Észak-Magyarország,2,MSZP-PÁRBESZÉD,73911.0
+915,2019-05-26,european,HU31,Észak-Magyarország,2,MUNKÁSPÁRT,6513.0
+916,2019-05-26,european,HU32,Észak-Alföld,0,eligible_voters,3542940.0
+917,2019-05-26,european,HU32,Észak-Alföld,1,issued_ballots,1322463.0
+918,2019-05-26,european,HU32,Észak-Alföld,2,DK,185073.0
+919,2019-05-26,european,HU32,Észak-Alföld,2,FIDESZ,756897.0
+920,2019-05-26,european,HU32,Észak-Alföld,2,JOBBIK,107772.0
+921,2019-05-26,european,HU32,Észak-Alföld,2,LMP,20835.0
+922,2019-05-26,european,HU32,Észak-Alföld,2,MI HAZÁNK,47547.0
+923,2019-05-26,european,HU32,Észak-Alföld,2,MKKP,24228.0
+924,2019-05-26,european,HU32,Észak-Alföld,2,MOMENTUM,84603.0
+925,2019-05-26,european,HU32,Észak-Alföld,2,MSZP-PÁRBESZÉD,79809.0
+926,2019-05-26,european,HU32,Észak-Alföld,2,MUNKÁSPÁRT,6693.0
+927,2019-05-26,european,HU33,Dél-Alföld,0,eligible_voters,3096981.0
+928,2019-05-26,european,HU33,Dél-Alföld,1,issued_ballots,1263141.0
+929,2019-05-26,european,HU33,Dél-Alföld,2,DK,181473.0
+930,2019-05-26,european,HU33,Dél-Alföld,2,FIDESZ,677319.0
+931,2019-05-26,european,HU33,Dél-Alföld,2,JOBBIK,86562.0
+932,2019-05-26,european,HU33,Dél-Alföld,2,LMP,25908.0
+933,2019-05-26,european,HU33,Dél-Alföld,2,MI HAZÁNK,53010.0
+934,2019-05-26,european,HU33,Dél-Alföld,2,MKKP,30816.0
+935,2019-05-26,european,HU33,Dél-Alföld,2,MOMENTUM,99279.0
+936,2019-05-26,european,HU33,Dél-Alföld,2,MSZP-PÁRBESZÉD,95301.0
+937,2019-05-26,european,HU33,Dél-Alföld,2,MUNKÁSPÁRT,6024.0
+938,2022-04-03,parliament,HU11,Budapest,0,eligible_voters,1274341.0
+939,2022-04-03,parliament,HU11,Budapest,1,issued_ballots,958755.0
+940,2022-04-03,parliament,HU11,Budapest,2,BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT,79.0
+941,2022-04-03,parliament,HU11,Budapest,2,DEMOKRATIKUS KOALÍCIÓ-JOBBIK MAGYARORSZÁGÉRT MOZGALOM-MOMENTUM MOZGALOM-MAGYAR SZOCIALISTA PÁRT-LMP - MAGYARORSZÁG ZÖLD PÁRTJA-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,454840.0
+942,2022-04-03,parliament,HU11,Budapest,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,388310.0
+943,2022-04-03,parliament,HU11,Budapest,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,49364.0
+944,2022-04-03,parliament,HU11,Budapest,2,MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS ÖNKORMÁNYZATA,100.0
+945,2022-04-03,parliament,HU11,Budapest,2,MAGYARORSZÁGI NÉMETEK ORSZÁGOS ÖNKORMÁNYZATA,1307.0
+946,2022-04-03,parliament,HU11,Budapest,2,MAGYARORSZÁGI ROMÁNOK ORSZÁGOS ÖNKORMÁNYZATA,47.0
+947,2022-04-03,parliament,HU11,Budapest,2,MEGOLDÁS MOZGALOM,11934.0
+948,2022-04-03,parliament,HU11,Budapest,2,MI HAZÁNK MOZGALOM,39103.0
+949,2022-04-03,parliament,HU11,Budapest,2,NORMÁLIS ÉLET PÁRTJA,5016.0
+950,2022-04-03,parliament,HU11,Budapest,2,ORSZÁGOS HORVÁT ÖNKORMÁNYZAT,92.0
+951,2022-04-03,parliament,HU11,Budapest,2,ORSZÁGOS LENGYEL ÖNKORMÁNYZAT,91.0
+952,2022-04-03,parliament,HU11,Budapest,2,ORSZÁGOS RUSZIN ÖNKORMÁNYZAT,89.0
+953,2022-04-03,parliament,HU11,Budapest,2,ORSZÁGOS SZLOVÁK ÖNKORMÁNYZAT,79.0
+954,2022-04-03,parliament,HU11,Budapest,2,ORSZÁGOS SZLOVÉN ÖNKORMÁNYZAT,2.0
+955,2022-04-03,parliament,HU11,Budapest,2,ORSZÁGOS ÖRMÉNY ÖNKORMÁNYZAT,89.0
+956,2022-04-03,parliament,HU11,Budapest,2,SZERB ORSZÁGOS ÖNKORMÁNYZAT,82.0
+957,2022-04-03,parliament,HU11,Budapest,2,UKRÁN ORSZÁGOS ÖNKORMÁNYZAT,115.0
+958,2022-04-03,parliament,HU12,Pest,0,eligible_voters,1039597.0
+959,2022-04-03,parliament,HU12,Pest,1,issued_ballots,757108.0
+960,2022-04-03,parliament,HU12,Pest,2,BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT,36.0
+961,2022-04-03,parliament,HU12,Pest,2,DEMOKRATIKUS KOALÍCIÓ-JOBBIK MAGYARORSZÁGÉRT MOZGALOM-MOMENTUM MOZGALOM-MAGYAR SZOCIALISTA PÁRT-LMP - MAGYARORSZÁG ZÖLD PÁRTJA-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,273138.0
+962,2022-04-03,parliament,HU12,Pest,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,381348.0
+963,2022-04-03,parliament,HU12,Pest,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,30374.0
+964,2022-04-03,parliament,HU12,Pest,2,MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS ÖNKORMÁNYZATA,38.0
+965,2022-04-03,parliament,HU12,Pest,2,MAGYARORSZÁGI NÉMETEK ORSZÁGOS ÖNKORMÁNYZATA,6252.0
+966,2022-04-03,parliament,HU12,Pest,2,MAGYARORSZÁGI ROMÁNOK ORSZÁGOS ÖNKORMÁNYZATA,8.0
+967,2022-04-03,parliament,HU12,Pest,2,MEGOLDÁS MOZGALOM,9404.0
+968,2022-04-03,parliament,HU12,Pest,2,MI HAZÁNK MOZGALOM,43528.0
+969,2022-04-03,parliament,HU12,Pest,2,NORMÁLIS ÉLET PÁRTJA,4926.0
+970,2022-04-03,parliament,HU12,Pest,2,ORSZÁGOS HORVÁT ÖNKORMÁNYZAT,44.0
+971,2022-04-03,parliament,HU12,Pest,2,ORSZÁGOS LENGYEL ÖNKORMÁNYZAT,24.0
+972,2022-04-03,parliament,HU12,Pest,2,ORSZÁGOS RUSZIN ÖNKORMÁNYZAT,17.0
+973,2022-04-03,parliament,HU12,Pest,2,ORSZÁGOS SZLOVÁK ÖNKORMÁNYZAT,201.0
+974,2022-04-03,parliament,HU12,Pest,2,ORSZÁGOS SZLOVÉN ÖNKORMÁNYZAT,3.0
+975,2022-04-03,parliament,HU12,Pest,2,ORSZÁGOS ÖRMÉNY ÖNKORMÁNYZAT,11.0
+976,2022-04-03,parliament,HU12,Pest,2,SZERB ORSZÁGOS ÖNKORMÁNYZAT,148.0
+977,2022-04-03,parliament,HU12,Pest,2,UKRÁN ORSZÁGOS ÖNKORMÁNYZAT,47.0
+978,2022-04-03,parliament,HU21,Közép-Dunántúl,0,eligible_voters,2587308.0
+979,2022-04-03,parliament,HU21,Közép-Dunántúl,1,issued_ballots,1834866.0
+980,2022-04-03,parliament,HU21,Közép-Dunántúl,2,BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT,0.0
+981,2022-04-03,parliament,HU21,Közép-Dunántúl,2,DEMOKRATIKUS KOALÍCIÓ-JOBBIK MAGYARORSZÁGÉRT MOZGALOM-MOMENTUM MOZGALOM-MAGYAR SZOCIALISTA PÁRT-LMP - MAGYARORSZÁG ZÖLD PÁRTJA-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,630417.0
+982,2022-04-03,parliament,HU21,Közép-Dunántúl,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,951990.0
+983,2022-04-03,parliament,HU21,Közép-Dunántúl,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,62544.0
+984,2022-04-03,parliament,HU21,Közép-Dunántúl,2,MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS ÖNKORMÁNYZATA,81.0
+985,2022-04-03,parliament,HU21,Közép-Dunántúl,2,MAGYARORSZÁGI NÉMETEK ORSZÁGOS ÖNKORMÁNYZATA,13902.0
+986,2022-04-03,parliament,HU21,Közép-Dunántúl,2,MAGYARORSZÁGI ROMÁNOK ORSZÁGOS ÖNKORMÁNYZATA,3.0
+987,2022-04-03,parliament,HU21,Közép-Dunántúl,2,MEGOLDÁS MOZGALOM,19746.0
+988,2022-04-03,parliament,HU21,Közép-Dunántúl,2,MI HAZÁNK MOZGALOM,122319.0
+989,2022-04-03,parliament,HU21,Közép-Dunántúl,2,NORMÁLIS ÉLET PÁRTJA,14775.0
+990,2022-04-03,parliament,HU21,Közép-Dunántúl,2,ORSZÁGOS HORVÁT ÖNKORMÁNYZAT,63.0
+991,2022-04-03,parliament,HU21,Közép-Dunántúl,2,ORSZÁGOS LENGYEL ÖNKORMÁNYZAT,129.0
+992,2022-04-03,parliament,HU21,Közép-Dunántúl,2,ORSZÁGOS RUSZIN ÖNKORMÁNYZAT,114.0
+993,2022-04-03,parliament,HU21,Közép-Dunántúl,2,ORSZÁGOS SZLOVÁK ÖNKORMÁNYZAT,399.0
+994,2022-04-03,parliament,HU21,Közép-Dunántúl,2,ORSZÁGOS SZLOVÉN ÖNKORMÁNYZAT,0.0
+995,2022-04-03,parliament,HU21,Közép-Dunántúl,2,ORSZÁGOS ÖRMÉNY ÖNKORMÁNYZAT,33.0
+996,2022-04-03,parliament,HU21,Közép-Dunántúl,2,SZERB ORSZÁGOS ÖNKORMÁNYZAT,42.0
+997,2022-04-03,parliament,HU21,Közép-Dunántúl,2,UKRÁN ORSZÁGOS ÖNKORMÁNYZAT,177.0
+998,2022-04-03,parliament,HU22,Nyugat-Dunántúl,0,eligible_voters,2346579.0
+999,2022-04-03,parliament,HU22,Nyugat-Dunántúl,1,issued_ballots,1721424.0
+1000,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT,51.0
+1001,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,DEMOKRATIKUS KOALÍCIÓ-JOBBIK MAGYARORSZÁGÉRT MOZGALOM-MOMENTUM MOZGALOM-MAGYAR SZOCIALISTA PÁRT-LMP - MAGYARORSZÁG ZÖLD PÁRTJA-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,525144.0
+1002,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,984093.0
+1003,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,51402.0
+1004,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS ÖNKORMÁNYZATA,15.0
+1005,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,MAGYARORSZÁGI NÉMETEK ORSZÁGOS ÖNKORMÁNYZATA,4755.0
+1006,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,MAGYARORSZÁGI ROMÁNOK ORSZÁGOS ÖNKORMÁNYZATA,9.0
+1007,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,MEGOLDÁS MOZGALOM,18921.0
+1008,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,MI HAZÁNK MOZGALOM,105042.0
+1009,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,NORMÁLIS ÉLET PÁRTJA,13260.0
+1010,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,ORSZÁGOS HORVÁT ÖNKORMÁNYZAT,1137.0
+1011,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,ORSZÁGOS LENGYEL ÖNKORMÁNYZAT,33.0
+1012,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,ORSZÁGOS RUSZIN ÖNKORMÁNYZAT,12.0
+1013,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,ORSZÁGOS SZLOVÁK ÖNKORMÁNYZAT,12.0
+1014,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,ORSZÁGOS SZLOVÉN ÖNKORMÁNYZAT,642.0
+1015,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,ORSZÁGOS ÖRMÉNY ÖNKORMÁNYZAT,9.0
+1016,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,SZERB ORSZÁGOS ÖNKORMÁNYZAT,0.0
+1017,2022-04-03,parliament,HU22,Nyugat-Dunántúl,2,UKRÁN ORSZÁGOS ÖNKORMÁNYZAT,6.0
+1018,2022-04-03,parliament,HU23,Dél-Dunántúl,0,eligible_voters,2165589.0
+1019,2022-04-03,parliament,HU23,Dél-Dunántúl,1,issued_ballots,1472301.0
+1020,2022-04-03,parliament,HU23,Dél-Dunántúl,2,BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT,0.0
+1021,2022-04-03,parliament,HU23,Dél-Dunántúl,2,DEMOKRATIKUS KOALÍCIÓ-JOBBIK MAGYARORSZÁGÉRT MOZGALOM-MOMENTUM MOZGALOM-MAGYAR SZOCIALISTA PÁRT-LMP - MAGYARORSZÁG ZÖLD PÁRTJA-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,484278.0
+1022,2022-04-03,parliament,HU23,Dél-Dunántúl,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,788844.0
+1023,2022-04-03,parliament,HU23,Dél-Dunántúl,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,41016.0
+1024,2022-04-03,parliament,HU23,Dél-Dunántúl,2,MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS ÖNKORMÁNYZATA,15.0
+1025,2022-04-03,parliament,HU23,Dél-Dunántúl,2,MAGYARORSZÁGI NÉMETEK ORSZÁGOS ÖNKORMÁNYZATA,21987.0
+1026,2022-04-03,parliament,HU23,Dél-Dunántúl,2,MAGYARORSZÁGI ROMÁNOK ORSZÁGOS ÖNKORMÁNYZATA,21.0
+1027,2022-04-03,parliament,HU23,Dél-Dunántúl,2,MEGOLDÁS MOZGALOM,13896.0
+1028,2022-04-03,parliament,HU23,Dél-Dunántúl,2,MI HAZÁNK MOZGALOM,89103.0
+1029,2022-04-03,parliament,HU23,Dél-Dunántúl,2,NORMÁLIS ÉLET PÁRTJA,11310.0
+1030,2022-04-03,parliament,HU23,Dél-Dunántúl,2,ORSZÁGOS HORVÁT ÖNKORMÁNYZAT,3156.0
+1031,2022-04-03,parliament,HU23,Dél-Dunántúl,2,ORSZÁGOS LENGYEL ÖNKORMÁNYZAT,45.0
+1032,2022-04-03,parliament,HU23,Dél-Dunántúl,2,ORSZÁGOS RUSZIN ÖNKORMÁNYZAT,72.0
+1033,2022-04-03,parliament,HU23,Dél-Dunántúl,2,ORSZÁGOS SZLOVÁK ÖNKORMÁNYZAT,15.0
+1034,2022-04-03,parliament,HU23,Dél-Dunántúl,2,ORSZÁGOS ÖRMÉNY ÖNKORMÁNYZAT,30.0
+1035,2022-04-03,parliament,HU23,Dél-Dunántúl,2,SZERB ORSZÁGOS ÖNKORMÁNYZAT,84.0
+1036,2022-04-03,parliament,HU23,Dél-Dunántúl,2,UKRÁN ORSZÁGOS ÖNKORMÁNYZAT,57.0
+1037,2022-04-03,parliament,HU31,Észak-Magyarország,0,eligible_voters,2715723.0
+1038,2022-04-03,parliament,HU31,Észak-Magyarország,1,issued_ballots,1796037.0
+1039,2022-04-03,parliament,HU31,Észak-Magyarország,2,BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT,42.0
+1040,2022-04-03,parliament,HU31,Észak-Magyarország,2,DEMOKRATIKUS KOALÍCIÓ-JOBBIK MAGYARORSZÁGÉRT MOZGALOM-MOMENTUM MOZGALOM-MAGYAR SZOCIALISTA PÁRT-LMP - MAGYARORSZÁG ZÖLD PÁRTJA-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,588921.0
+1041,2022-04-03,parliament,HU31,Észak-Magyarország,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,982428.0
+1042,2022-04-03,parliament,HU31,Észak-Magyarország,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,41460.0
+1043,2022-04-03,parliament,HU31,Észak-Magyarország,2,MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS ÖNKORMÁNYZATA,99.0
+1044,2022-04-03,parliament,HU31,Észak-Magyarország,2,MAGYARORSZÁGI NÉMETEK ORSZÁGOS ÖNKORMÁNYZATA,3492.0
+1045,2022-04-03,parliament,HU31,Észak-Magyarország,2,MAGYARORSZÁGI ROMÁNOK ORSZÁGOS ÖNKORMÁNYZATA,6.0
+1046,2022-04-03,parliament,HU31,Észak-Magyarország,2,MEGOLDÁS MOZGALOM,16941.0
+1047,2022-04-03,parliament,HU31,Észak-Magyarország,2,MI HAZÁNK MOZGALOM,126729.0
+1048,2022-04-03,parliament,HU31,Észak-Magyarország,2,NORMÁLIS ÉLET PÁRTJA,13350.0
+1049,2022-04-03,parliament,HU31,Észak-Magyarország,2,ORSZÁGOS HORVÁT ÖNKORMÁNYZAT,3.0
+1050,2022-04-03,parliament,HU31,Észak-Magyarország,2,ORSZÁGOS LENGYEL ÖNKORMÁNYZAT,174.0
+1051,2022-04-03,parliament,HU31,Észak-Magyarország,2,ORSZÁGOS RUSZIN ÖNKORMÁNYZAT,948.0
+1052,2022-04-03,parliament,HU31,Észak-Magyarország,2,ORSZÁGOS SZLOVÁK ÖNKORMÁNYZAT,678.0
+1053,2022-04-03,parliament,HU31,Észak-Magyarország,2,ORSZÁGOS ÖRMÉNY ÖNKORMÁNYZAT,15.0
+1054,2022-04-03,parliament,HU31,Észak-Magyarország,2,SZERB ORSZÁGOS ÖNKORMÁNYZAT,9.0
+1055,2022-04-03,parliament,HU31,Észak-Magyarország,2,UKRÁN ORSZÁGOS ÖNKORMÁNYZAT,93.0
+1056,2022-04-03,parliament,HU32,Észak-Alföld,0,eligible_voters,3483441.0
+1057,2022-04-03,parliament,HU32,Észak-Alföld,1,issued_ballots,2290287.0
+1058,2022-04-03,parliament,HU32,Észak-Alföld,2,BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT,27.0
+1059,2022-04-03,parliament,HU32,Észak-Alföld,2,DEMOKRATIKUS KOALÍCIÓ-JOBBIK MAGYARORSZÁGÉRT MOZGALOM-MOMENTUM MOZGALOM-MAGYAR SZOCIALISTA PÁRT-LMP - MAGYARORSZÁG ZÖLD PÁRTJA-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,696051.0
+1060,2022-04-03,parliament,HU32,Észak-Alföld,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,1331583.0
+1061,2022-04-03,parliament,HU32,Észak-Alföld,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,50526.0
+1062,2022-04-03,parliament,HU32,Észak-Alföld,2,MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS ÖNKORMÁNYZATA,30.0
+1063,2022-04-03,parliament,HU32,Észak-Alföld,2,MAGYARORSZÁGI NÉMETEK ORSZÁGOS ÖNKORMÁNYZATA,1149.0
+1064,2022-04-03,parliament,HU32,Észak-Alföld,2,MAGYARORSZÁGI ROMÁNOK ORSZÁGOS ÖNKORMÁNYZATA,246.0
+1065,2022-04-03,parliament,HU32,Észak-Alföld,2,MEGOLDÁS MOZGALOM,21732.0
+1066,2022-04-03,parliament,HU32,Észak-Alföld,2,MI HAZÁNK MOZGALOM,144132.0
+1067,2022-04-03,parliament,HU32,Észak-Alföld,2,NORMÁLIS ÉLET PÁRTJA,18513.0
+1068,2022-04-03,parliament,HU32,Észak-Alföld,2,ORSZÁGOS HORVÁT ÖNKORMÁNYZAT,6.0
+1069,2022-04-03,parliament,HU32,Észak-Alföld,2,ORSZÁGOS LENGYEL ÖNKORMÁNYZAT,57.0
+1070,2022-04-03,parliament,HU32,Észak-Alföld,2,ORSZÁGOS RUSZIN ÖNKORMÁNYZAT,468.0
+1071,2022-04-03,parliament,HU32,Észak-Alföld,2,ORSZÁGOS SZLOVÁK ÖNKORMÁNYZAT,48.0
+1072,2022-04-03,parliament,HU32,Észak-Alföld,2,ORSZÁGOS ÖRMÉNY ÖNKORMÁNYZAT,30.0
+1073,2022-04-03,parliament,HU32,Észak-Alföld,2,SZERB ORSZÁGOS ÖNKORMÁNYZAT,3.0
+1074,2022-04-03,parliament,HU32,Észak-Alföld,2,UKRÁN ORSZÁGOS ÖNKORMÁNYZAT,312.0
+1075,2022-04-03,parliament,HU33,Dél-Alföld,0,eligible_voters,3037071.0
+1076,2022-04-03,parliament,HU33,Dél-Alföld,1,issued_ballots,2068023.0
+1077,2022-04-03,parliament,HU33,Dél-Alföld,2,BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT,6.0
+1078,2022-04-03,parliament,HU33,Dél-Alföld,2,DEMOKRATIKUS KOALÍCIÓ-JOBBIK MAGYARORSZÁGÉRT MOZGALOM-MOMENTUM MOZGALOM-MAGYAR SZOCIALISTA PÁRT-LMP - MAGYARORSZÁG ZÖLD PÁRTJA-PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT,700146.0
+1079,2022-04-03,parliament,HU33,Dél-Alföld,2,FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG-KERESZTÉNYDEMOKRATA NÉPPÁRT,1079802.0
+1080,2022-04-03,parliament,HU33,Dél-Alföld,2,MAGYAR KÉTFARKÚ KUTYA PÁRT,64086.0
+1081,2022-04-03,parliament,HU33,Dél-Alföld,2,MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS ÖNKORMÁNYZATA,42.0
+1082,2022-04-03,parliament,HU33,Dél-Alföld,2,MAGYARORSZÁGI NÉMETEK ORSZÁGOS ÖNKORMÁNYZATA,5928.0
+1083,2022-04-03,parliament,HU33,Dél-Alföld,2,MAGYARORSZÁGI ROMÁNOK ORSZÁGOS ÖNKORMÁNYZATA,1128.0
+1084,2022-04-03,parliament,HU33,Dél-Alföld,2,MEGOLDÁS MOZGALOM,20760.0
+1085,2022-04-03,parliament,HU33,Dél-Alföld,2,MI HAZÁNK MOZGALOM,153735.0
+1086,2022-04-03,parliament,HU33,Dél-Alföld,2,NORMÁLIS ÉLET PÁRTJA,16323.0
+1087,2022-04-03,parliament,HU33,Dél-Alföld,2,ORSZÁGOS HORVÁT ÖNKORMÁNYZAT,507.0
+1088,2022-04-03,parliament,HU33,Dél-Alföld,2,ORSZÁGOS LENGYEL ÖNKORMÁNYZAT,60.0
+1089,2022-04-03,parliament,HU33,Dél-Alföld,2,ORSZÁGOS RUSZIN ÖNKORMÁNYZAT,3.0
+1090,2022-04-03,parliament,HU33,Dél-Alföld,2,ORSZÁGOS SZLOVÁK ÖNKORMÁNYZAT,1632.0
+1091,2022-04-03,parliament,HU33,Dél-Alföld,2,ORSZÁGOS ÖRMÉNY ÖNKORMÁNYZAT,72.0
+1092,2022-04-03,parliament,HU33,Dél-Alföld,2,SZERB ORSZÁGOS ÖNKORMÁNYZAT,426.0
+1093,2022-04-03,parliament,HU33,Dél-Alföld,2,UKRÁN ORSZÁGOS ÖNKORMÁNYZAT,57.0
+1094,2024-06-09,european,HU11,Budapest,0,eligible_voters,1266011.0
+1095,2024-06-09,european,HU11,Budapest,1,issued_ballots,808879.0
+1096,2024-06-09,european,HU11,Budapest,2,2RK Párt,7266.0
+1097,2024-06-09,european,HU11,Budapest,2,DK-MSZP-Párbeszéd- ZÖLDEK,98348.0
+1098,2024-06-09,european,HU11,Budapest,2,FIDESZ-KDNP,264877.0
+1099,2024-06-09,european,HU11,Budapest,2,Jobbik,3183.0
+1100,2024-06-09,european,HU11,Budapest,2,LMP – Zöldek,11089.0
+1101,2024-06-09,european,HU11,Budapest,2,MEMO,2535.0
+1102,2024-06-09,european,HU11,Budapest,2,MKKP,47370.0
+1103,2024-06-09,european,HU11,Budapest,2,MMN,3992.0
+1104,2024-06-09,european,HU11,Budapest,2,Mi Hazánk,35675.0
+1105,2024-06-09,european,HU11,Budapest,2,Momentum,63081.0
+1106,2024-06-09,european,HU11,Budapest,2,TISZA,262393.0
+1107,2024-06-09,european,HU12,Pest,0,eligible_voters,1046159.0
+1108,2024-06-09,european,HU12,Pest,1,issued_ballots,616575.0
+1109,2024-06-09,european,HU12,Pest,2,2RK Párt,4880.0
+1110,2024-06-09,european,HU12,Pest,2,DK-MSZP-Párbeszéd- ZÖLDEK,43308.0
+1111,2024-06-09,european,HU12,Pest,2,FIDESZ-KDNP,252237.0
+1112,2024-06-09,european,HU12,Pest,2,Jobbik,3880.0
+1113,2024-06-09,european,HU12,Pest,2,LMP – Zöldek,5376.0
+1114,2024-06-09,european,HU12,Pest,2,MEMO,2541.0
+1115,2024-06-09,european,HU12,Pest,2,MKKP,27439.0
+1116,2024-06-09,european,HU12,Pest,2,MMN,3331.0
+1117,2024-06-09,european,HU12,Pest,2,Mi Hazánk,44025.0
+1118,2024-06-09,european,HU12,Pest,2,Momentum,26966.0
+1119,2024-06-09,european,HU12,Pest,2,TISZA,195591.0
+1120,2024-06-09,european,HU21,Közép-Dunántúl,0,eligible_voters,2557737.0
+1121,2024-06-09,european,HU21,Közép-Dunántúl,1,issued_ballots,1504470.0
+1122,2024-06-09,european,HU21,Közép-Dunántúl,2,2RK Párt,10560.0
+1123,2024-06-09,european,HU21,Közép-Dunántúl,2,DK-MSZP-Párbeszéd- ZÖLDEK,117441.0
+1124,2024-06-09,european,HU21,Közép-Dunántúl,2,FIDESZ-KDNP,666336.0
+1125,2024-06-09,european,HU21,Közép-Dunántúl,2,Jobbik,17178.0
+1126,2024-06-09,european,HU21,Közép-Dunántúl,2,LMP – Zöldek,12747.0
+1127,2024-06-09,european,HU21,Közép-Dunántúl,2,MEMO,5988.0
+1128,2024-06-09,european,HU21,Közép-Dunántúl,2,MKKP,53700.0
+1129,2024-06-09,european,HU21,Közép-Dunántúl,2,MMN,7260.0
+1130,2024-06-09,european,HU21,Közép-Dunántúl,2,Mi Hazánk,106362.0
+1131,2024-06-09,european,HU21,Közép-Dunántúl,2,Momentum,42483.0
+1132,2024-06-09,european,HU21,Közép-Dunántúl,2,TISZA,443841.0
+1133,2024-06-09,european,HU22,Nyugat-Dunántúl,0,eligible_voters,2325348.0
+1134,2024-06-09,european,HU22,Nyugat-Dunántúl,1,issued_ballots,1465551.0
+1135,2024-06-09,european,HU22,Nyugat-Dunántúl,2,2RK Párt,7956.0
+1136,2024-06-09,european,HU22,Nyugat-Dunántúl,2,DK-MSZP-Párbeszéd- ZÖLDEK,95382.0
+1137,2024-06-09,european,HU22,Nyugat-Dunántúl,2,FIDESZ-KDNP,713292.0
+1138,2024-06-09,european,HU22,Nyugat-Dunántúl,2,Jobbik,12780.0
+1139,2024-06-09,european,HU22,Nyugat-Dunántúl,2,LMP – Zöldek,11565.0
+1140,2024-06-09,european,HU22,Nyugat-Dunántúl,2,MEMO,5130.0
+1141,2024-06-09,european,HU22,Nyugat-Dunántúl,2,MKKP,41799.0
+1142,2024-06-09,european,HU22,Nyugat-Dunántúl,2,MMN,6882.0
+1143,2024-06-09,european,HU22,Nyugat-Dunántúl,2,Mi Hazánk,93120.0
+1144,2024-06-09,european,HU22,Nyugat-Dunántúl,2,Momentum,39252.0
+1145,2024-06-09,european,HU22,Nyugat-Dunántúl,2,TISZA,417276.0
+1146,2024-06-09,european,HU23,Dél-Dunántúl,0,eligible_voters,2117019.0
+1147,2024-06-09,european,HU23,Dél-Dunántúl,1,issued_ballots,1259679.0
+1148,2024-06-09,european,HU23,Dél-Dunántúl,2,2RK Párt,7116.0
+1149,2024-06-09,european,HU23,Dél-Dunántúl,2,DK-MSZP-Párbeszéd- ZÖLDEK,102435.0
+1150,2024-06-09,european,HU23,Dél-Dunántúl,2,FIDESZ-KDNP,607569.0
+1151,2024-06-09,european,HU23,Dél-Dunántúl,2,Jobbik,16485.0
+1152,2024-06-09,european,HU23,Dél-Dunántúl,2,LMP – Zöldek,11223.0
+1153,2024-06-09,european,HU23,Dél-Dunántúl,2,MEMO,5163.0
+1154,2024-06-09,european,HU23,Dél-Dunántúl,2,MKKP,36237.0
+1155,2024-06-09,european,HU23,Dél-Dunántúl,2,MMN,6588.0
+1156,2024-06-09,european,HU23,Dél-Dunántúl,2,Mi Hazánk,84459.0
+1157,2024-06-09,european,HU23,Dél-Dunántúl,2,Momentum,30099.0
+1158,2024-06-09,european,HU23,Dél-Dunántúl,2,TISZA,329253.0
+1159,2024-06-09,european,HU31,Észak-Magyarország,0,eligible_voters,2648073.0
+1160,2024-06-09,european,HU31,Észak-Magyarország,1,issued_ballots,1555845.0
+1161,2024-06-09,european,HU31,Észak-Magyarország,2,2RK Párt,10374.0
+1162,2024-06-09,european,HU31,Észak-Magyarország,2,DK-MSZP-Párbeszéd- ZÖLDEK,119667.0
+1163,2024-06-09,european,HU31,Észak-Magyarország,2,FIDESZ-KDNP,745962.0
+1164,2024-06-09,european,HU31,Észak-Magyarország,2,Jobbik,26346.0
+1165,2024-06-09,european,HU31,Észak-Magyarország,2,LMP – Zöldek,9447.0
+1166,2024-06-09,european,HU31,Észak-Magyarország,2,MEMO,6117.0
+1167,2024-06-09,european,HU31,Észak-Magyarország,2,MKKP,35826.0
+1168,2024-06-09,european,HU31,Észak-Magyarország,2,MMN,7797.0
+1169,2024-06-09,european,HU31,Észak-Magyarország,2,Mi Hazánk,118047.0
+1170,2024-06-09,european,HU31,Észak-Magyarország,2,Momentum,32985.0
+1171,2024-06-09,european,HU31,Észak-Magyarország,2,TISZA,415530.0
+1172,2024-06-09,european,HU32,Észak-Alföld,0,eligible_voters,3414054.0
+1173,2024-06-09,european,HU32,Észak-Alföld,1,issued_ballots,1935678.0
+1174,2024-06-09,european,HU32,Észak-Alföld,2,2RK Párt,9867.0
+1175,2024-06-09,european,HU32,Észak-Alföld,2,DK-MSZP-Párbeszéd- ZÖLDEK,121560.0
+1176,2024-06-09,european,HU32,Észak-Alföld,2,FIDESZ-KDNP,958743.0
+1177,2024-06-09,european,HU32,Észak-Alföld,2,Jobbik,26997.0
+1178,2024-06-09,european,HU32,Észak-Alföld,2,LMP – Zöldek,13524.0
+1179,2024-06-09,european,HU32,Észak-Alföld,2,MEMO,6183.0
+1180,2024-06-09,european,HU32,Észak-Alföld,2,MKKP,39846.0
+1181,2024-06-09,european,HU32,Észak-Alföld,2,MMN,8688.0
+1182,2024-06-09,european,HU32,Észak-Alföld,2,Mi Hazánk,130938.0
+1183,2024-06-09,european,HU32,Észak-Alföld,2,Momentum,38802.0
+1184,2024-06-09,european,HU32,Észak-Alföld,2,TISZA,546876.0
+1185,2024-06-09,european,HU33,Dél-Alföld,0,eligible_voters,2967291.0
+1186,2024-06-09,european,HU33,Dél-Alföld,1,issued_ballots,1676469.0
+1187,2024-06-09,european,HU33,Dél-Alföld,2,2RK Párt,9789.0
+1188,2024-06-09,european,HU33,Dél-Alföld,2,DK-MSZP-Párbeszéd- ZÖLDEK,116484.0
+1189,2024-06-09,european,HU33,Dél-Alföld,2,FIDESZ-KDNP,731589.0
+1190,2024-06-09,european,HU33,Dél-Alföld,2,Jobbik,14865.0
+1191,2024-06-09,european,HU33,Dél-Alföld,2,LMP – Zöldek,10206.0
+1192,2024-06-09,european,HU33,Dél-Alföld,2,MEMO,6270.0
+1193,2024-06-09,european,HU33,Dél-Alföld,2,MKKP,53028.0
+1194,2024-06-09,european,HU33,Dél-Alföld,2,MMN,28002.0
+1195,2024-06-09,european,HU33,Dél-Alföld,2,Mi Hazánk,142446.0
+1196,2024-06-09,european,HU33,Dél-Alföld,2,Momentum,45210.0
+1197,2024-06-09,european,HU33,Dél-Alföld,2,TISZA,495453.0
+1198,2026-04-12,parliament,HU11,Budapest,0,eligible_voters,1181603.0
+1199,2026-04-12,parliament,HU11,Budapest,1,issued_ballots,1023790.0
+1200,2026-04-12,parliament,HU11,Budapest,2,dk,17357.0
+1201,2026-04-12,parliament,HU11,Budapest,2,fidesz,290825.0
+1202,2026-04-12,parliament,HU11,Budapest,2,mi_hazank,47120.0
+1203,2026-04-12,parliament,HU11,Budapest,2,mkkp,14585.0
+1204,2026-04-12,parliament,HU11,Budapest,2,tisza,653903.0
+1205,2026-04-12,parliament,HU12,Pest,0,eligible_voters,1020204.0
+1206,2026-04-12,parliament,HU12,Pest,1,issued_ballots,863453.0
+1207,2026-04-12,parliament,HU12,Pest,2,dk,8870.0
+1208,2026-04-12,parliament,HU12,Pest,2,fidesz,298026.0
+1209,2026-04-12,parliament,HU12,Pest,2,mi_hazank,54442.0
+1210,2026-04-12,parliament,HU12,Pest,2,mkkp,7935.0
+1211,2026-04-12,parliament,HU12,Pest,2,tisza,494180.0
+1212,2026-04-12,parliament,HU21,Közép-Dunántúl,0,eligible_voters,2458884.0
+1213,2026-04-12,parliament,HU21,Közép-Dunántúl,1,issued_ballots,2041107.0
+1214,2026-04-12,parliament,HU21,Közép-Dunántúl,2,dk,24963.0
+1215,2026-04-12,parliament,HU21,Közép-Dunántúl,2,fidesz,753405.0
+1216,2026-04-12,parliament,HU21,Közép-Dunántúl,2,mi_hazank,125415.0
+1217,2026-04-12,parliament,HU21,Közép-Dunántúl,2,mkkp,17856.0
+1218,2026-04-12,parliament,HU21,Közép-Dunántúl,2,tisza,1119468.0
+1219,2026-04-12,parliament,HU22,Nyugat-Dunántúl,0,eligible_voters,2235261.0
+1220,2026-04-12,parliament,HU22,Nyugat-Dunántúl,1,issued_ballots,1903962.0
+1221,2026-04-12,parliament,HU22,Nyugat-Dunántúl,2,dk,19800.0
+1222,2026-04-12,parliament,HU22,Nyugat-Dunántúl,2,fidesz,773850.0
+1223,2026-04-12,parliament,HU22,Nyugat-Dunántúl,2,mi_hazank,114951.0
+1224,2026-04-12,parliament,HU22,Nyugat-Dunántúl,2,mkkp,13944.0
+1225,2026-04-12,parliament,HU22,Nyugat-Dunántúl,2,tisza,981417.0
+1226,2026-04-12,parliament,HU23,Dél-Dunántúl,0,eligible_voters,2006172.0
+1227,2026-04-12,parliament,HU23,Dél-Dunántúl,1,issued_ballots,1589013.0
+1228,2026-04-12,parliament,HU23,Dél-Dunántúl,2,dk,19401.0
+1229,2026-04-12,parliament,HU23,Dél-Dunántúl,2,fidesz,623214.0
+1230,2026-04-12,parliament,HU23,Dél-Dunántúl,2,mi_hazank,91563.0
+1231,2026-04-12,parliament,HU23,Dél-Dunántúl,2,mkkp,10398.0
+1232,2026-04-12,parliament,HU23,Dél-Dunántúl,2,tisza,844437.0
+1233,2026-04-12,parliament,HU31,Észak-Magyarország,0,eligible_voters,2515497.0
+1234,2026-04-12,parliament,HU31,Észak-Magyarország,1,issued_ballots,1951530.0
+1235,2026-04-12,parliament,HU31,Észak-Magyarország,2,dk,20028.0
+1236,2026-04-12,parliament,HU31,Észak-Magyarország,2,fidesz,756162.0
+1237,2026-04-12,parliament,HU31,Észak-Magyarország,2,mi_hazank,125784.0
+1238,2026-04-12,parliament,HU31,Észak-Magyarország,2,mkkp,10785.0
+1239,2026-04-12,parliament,HU31,Észak-Magyarország,2,tisza,1038771.0
+1240,2026-04-12,parliament,HU32,Észak-Alföld,0,eligible_voters,3263910.0
+1241,2026-04-12,parliament,HU32,Észak-Alföld,1,issued_ballots,2542386.0
+1242,2026-04-12,parliament,HU32,Észak-Alföld,2,dk,22545.0
+1243,2026-04-12,parliament,HU32,Észak-Alföld,2,fidesz,1035600.0
+1244,2026-04-12,parliament,HU32,Észak-Alföld,2,mi_hazank,145173.0
+1245,2026-04-12,parliament,HU32,Észak-Alföld,2,mkkp,14532.0
+1246,2026-04-12,parliament,HU32,Észak-Alföld,2,tisza,1324536.0
+1247,2026-04-12,parliament,HU33,Dél-Alföld,0,eligible_voters,2825628.0
+1248,2026-04-12,parliament,HU33,Dél-Alföld,1,issued_ballots,2278074.0
+1249,2026-04-12,parliament,HU33,Dél-Alföld,2,dk,23883.0
+1250,2026-04-12,parliament,HU33,Dél-Alföld,2,fidesz,818229.0
+1251,2026-04-12,parliament,HU33,Dél-Alföld,2,mi_hazank,152967.0
+1252,2026-04-12,parliament,HU33,Dél-Alföld,2,mkkp,17292.0
+1253,2026-04-12,parliament,HU33,Dél-Alföld,2,tisza,1265703.0

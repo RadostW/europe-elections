@@ -1,0 +1,108 @@
+,harmonised_code,harmonised_name,nuts_3_code,nuts_3_name,nuts_2_code,nuts_2_name,nuts_1_code,nuts_1_name
+824,ITG11,Trapani,ITG11,Trapani,ITG1,Sicilia,ITG,Isole
+825,ITG12,Palermo,ITG12,Palermo,ITG1,Sicilia,ITG,Isole
+826,ITG13,Messina,ITG13,Messina,ITG1,Sicilia,ITG,Isole
+827,ITG14,Agrigento,ITG14,Agrigento,ITG1,Sicilia,ITG,Isole
+828,ITG15,Caltanissetta,ITG15,Caltanissetta,ITG1,Sicilia,ITG,Isole
+829,ITG16,Enna,ITG16,Enna,ITG1,Sicilia,ITG,Isole
+830,ITG17,Catania,ITG17,Catania,ITG1,Sicilia,ITG,Isole
+831,ITG18,Ragusa,ITG18,Ragusa,ITG1,Sicilia,ITG,Isole
+832,ITG19,Siracusa,ITG19,Siracusa,ITG1,Sicilia,ITG,Isole
+833,ITG2D,Sassari,ITG2D,Sassari,ITG2,Sardegna,ITG,Isole
+834,ITG2E,Nuoro,ITG2E,Nuoro,ITG2,Sardegna,ITG,Isole
+835,ITG2F,Cagliari,ITG2F,Cagliari,ITG2,Sardegna,ITG,Isole
+836,ITG2G,Oristano,ITG2G,Oristano,ITG2,Sardegna,ITG,Isole
+837,ITG2H,Sud Sardegna,ITG2H,Sud Sardegna,ITG2,Sardegna,ITG,Isole
+846,ITF11,L’Aquila,ITF11,L’Aquila,ITF1,Abruzzo,ITF,Sud
+847,ITF12,Teramo,ITF12,Teramo,ITF1,Abruzzo,ITF,Sud
+848,ITF13,Pescara,ITF13,Pescara,ITF1,Abruzzo,ITF,Sud
+849,ITF14,Chieti,ITF14,Chieti,ITF1,Abruzzo,ITF,Sud
+850,ITF21,Isernia,ITF21,Isernia,ITF2,Molise,ITF,Sud
+851,ITF22,Campobasso,ITF22,Campobasso,ITF2,Molise,ITF,Sud
+852,ITF31,Caserta,ITF31,Caserta,ITF3,Campania,ITF,Sud
+853,ITF32,Benevento,ITF32,Benevento,ITF3,Campania,ITF,Sud
+854,ITF33,Napoli,ITF33,Napoli,ITF3,Campania,ITF,Sud
+855,ITF34,Avellino,ITF34,Avellino,ITF3,Campania,ITF,Sud
+856,ITF35,Salerno,ITF35,Salerno,ITF3,Campania,ITF,Sud
+857,ITF45,Lecce,ITF45,Lecce,ITF4,Puglia,ITF,Sud
+858,ITF46,Foggia,ITF46,Foggia,ITF4,Puglia,ITF,Sud
+859,ITF47,Bari,ITF47,Bari,ITF4,Puglia,ITF,Sud
+860,ITF48,Barletta-Andria-Trani,ITF48,Barletta-Andria-Trani,ITF4,Puglia,ITF,Sud
+861,ITF43,Taranto,ITF43,Taranto,ITF4,Puglia,ITF,Sud
+862,ITF44,Brindisi,ITF44,Brindisi,ITF4,Puglia,ITF,Sud
+863,ITF51,Potenza,ITF51,Potenza,ITF5,Basilicata,ITF,Sud
+864,ITF52,Matera,ITF52,Matera,ITF5,Basilicata,ITF,Sud
+865,ITF65,Reggio Calabria,ITF65,Reggio Calabria,ITF6,Calabria,ITF,Sud
+866,ITF63,Catanzaro,ITF63,Catanzaro,ITF6,Calabria,ITF,Sud
+867,ITF64,Vibo Valentia,ITF64,Vibo Valentia,ITF6,Calabria,ITF,Sud
+868,ITF61,Cosenza,ITF61,Cosenza,ITF6,Calabria,ITF,Sud
+869,ITF62,Crotone,ITF62,Crotone,ITF6,Calabria,ITF,Sud
+925,ITH31,Verona,ITH31,Verona,ITH3,Veneto,ITH,Nord-Est
+926,ITH32,Vicenza,ITH32,Vicenza,ITH3,Veneto,ITH,Nord-Est
+927,ITH33,Belluno,ITH33,Belluno,ITH3,Veneto,ITH,Nord-Est
+928,ITH34,Treviso,ITH34,Treviso,ITH3,Veneto,ITH,Nord-Est
+929,ITH35,Venezia,ITH35,Venezia,ITH3,Veneto,ITH,Nord-Est
+930,ITH36,Padova,ITH36,Padova,ITH3,Veneto,ITH,Nord-Est
+931,ITH37,Rovigo,ITH37,Rovigo,ITH3,Veneto,ITH,Nord-Est
+932,ITH41,Pordenone,ITH41,Pordenone,ITH4,Friuli-Venezia Giulia,ITH,Nord-Est
+933,ITH42,Udine,ITH42,Udine,ITH4,Friuli-Venezia Giulia,ITH,Nord-Est
+934,ITH43,Gorizia,ITH43,Gorizia,ITH4,Friuli-Venezia Giulia,ITH,Nord-Est
+935,ITH44,Trieste,ITH44,Trieste,ITH4,Friuli-Venezia Giulia,ITH,Nord-Est
+936,ITH54,Modena,ITH54,Modena,ITH5,Emilia-Romagna,ITH,Nord-Est
+937,ITH55,Bologna,ITH55,Bologna,ITH5,Emilia-Romagna,ITH,Nord-Est
+938,ITH56,Ferrara,ITH56,Ferrara,ITH5,Emilia-Romagna,ITH,Nord-Est
+939,ITH57,Ravenna,ITH57,Ravenna,ITH5,Emilia-Romagna,ITH,Nord-Est
+940,ITH58,Forlì-Cesena,ITH58,Forlì-Cesena,ITH5,Emilia-Romagna,ITH,Nord-Est
+941,ITH59,Rimini,ITH59,Rimini,ITH5,Emilia-Romagna,ITH,Nord-Est
+942,ITH51,Piacenza,ITH51,Piacenza,ITH5,Emilia-Romagna,ITH,Nord-Est
+943,ITH52,Parma,ITH52,Parma,ITH5,Emilia-Romagna,ITH,Nord-Est
+944,ITH53,Reggio nell’Emilia,ITH53,Reggio nell’Emilia,ITH5,Emilia-Romagna,ITH,Nord-Est
+945,ITH10,Bolzano-Bozen,ITH10,Bolzano-Bozen,ITH1,Provincia Autonoma di Bolzano/Bozen,ITH,Nord-Est
+946,ITH20,Trento,ITH20,Trento,ITH2,Provincia Autonoma di Trento,ITH,Nord-Est
+961,ITI31,Pesaro e Urbino,ITI31,Pesaro e Urbino,ITI3,Marche,ITI,Centro (IT)
+962,ITI32,Ancona,ITI32,Ancona,ITI3,Marche,ITI,Centro (IT)
+963,ITI33,Macerata,ITI33,Macerata,ITI3,Marche,ITI,Centro (IT)
+964,ITI34,Ascoli Piceno,ITI34,Ascoli Piceno,ITI3,Marche,ITI,Centro (IT)
+965,ITI35,Fermo,ITI35,Fermo,ITI3,Marche,ITI,Centro (IT)
+966,ITI44,Latina,ITI44,Latina,ITI4,Lazio,ITI,Centro (IT)
+967,ITI45,Frosinone,ITI45,Frosinone,ITI4,Lazio,ITI,Centro (IT)
+968,ITI41,Viterbo,ITI41,Viterbo,ITI4,Lazio,ITI,Centro (IT)
+969,ITI42,Rieti,ITI42,Rieti,ITI4,Lazio,ITI,Centro (IT)
+970,ITI43,Roma,ITI43,Roma,ITI4,Lazio,ITI,Centro (IT)
+971,ITI11,Massa-Carrara,ITI11,Massa-Carrara,ITI1,Toscana,ITI,Centro (IT)
+972,ITI12,Lucca,ITI12,Lucca,ITI1,Toscana,ITI,Centro (IT)
+973,ITI13,Pistoia,ITI13,Pistoia,ITI1,Toscana,ITI,Centro (IT)
+974,ITI14,Firenze,ITI14,Firenze,ITI1,Toscana,ITI,Centro (IT)
+975,ITI15,Prato,ITI15,Prato,ITI1,Toscana,ITI,Centro (IT)
+976,ITI16,Livorno,ITI16,Livorno,ITI1,Toscana,ITI,Centro (IT)
+977,ITI17,Pisa,ITI17,Pisa,ITI1,Toscana,ITI,Centro (IT)
+978,ITI18,Arezzo,ITI18,Arezzo,ITI1,Toscana,ITI,Centro (IT)
+979,ITI19,Siena,ITI19,Siena,ITI1,Toscana,ITI,Centro (IT)
+980,ITI1A,Grosseto,ITI1A,Grosseto,ITI1,Toscana,ITI,Centro (IT)
+981,ITI22,Terni,ITI22,Terni,ITI2,Umbria,ITI,Centro (IT)
+982,ITI21,Perugia,ITI21,Perugia,ITI2,Umbria,ITI,Centro (IT)
+1001,ITC46,Bergamo,ITC46,Bergamo,ITC4,Lombardia,ITC,Nord-Ovest
+1002,ITC47,Brescia,ITC47,Brescia,ITC4,Lombardia,ITC,Nord-Ovest
+1003,ITC41,Varese,ITC41,Varese,ITC4,Lombardia,ITC,Nord-Ovest
+1004,ITC48,Pavia,ITC48,Pavia,ITC4,Lombardia,ITC,Nord-Ovest
+1005,ITC42,Como,ITC42,Como,ITC4,Lombardia,ITC,Nord-Ovest
+1006,ITC43,Lecco,ITC43,Lecco,ITC4,Lombardia,ITC,Nord-Ovest
+1007,ITC49,Lodi,ITC49,Lodi,ITC4,Lombardia,ITC,Nord-Ovest
+1008,ITC44,Sondrio,ITC44,Sondrio,ITC4,Lombardia,ITC,Nord-Ovest
+1009,ITC4A,Cremona,ITC4A,Cremona,ITC4,Lombardia,ITC,Nord-Ovest
+1010,ITC4B,Mantova,ITC4B,Mantova,ITC4,Lombardia,ITC,Nord-Ovest
+1011,ITC4C,Milano,ITC4C,Milano,ITC4,Lombardia,ITC,Nord-Ovest
+1012,ITC4D,Monza e della Brianza,ITC4D,Monza e della Brianza,ITC4,Lombardia,ITC,Nord-Ovest
+1013,ITC11,Torino,ITC11,Torino,ITC1,Piemonte,ITC,Nord-Ovest
+1014,ITC12,Vercelli,ITC12,Vercelli,ITC1,Piemonte,ITC,Nord-Ovest
+1015,ITC13,Biella,ITC13,Biella,ITC1,Piemonte,ITC,Nord-Ovest
+1016,ITC14,Verbano-Cusio-Ossola,ITC14,Verbano-Cusio-Ossola,ITC1,Piemonte,ITC,Nord-Ovest
+1017,ITC15,Novara,ITC15,Novara,ITC1,Piemonte,ITC,Nord-Ovest
+1018,ITC16,Cuneo,ITC16,Cuneo,ITC1,Piemonte,ITC,Nord-Ovest
+1019,ITC17,Asti,ITC17,Asti,ITC1,Piemonte,ITC,Nord-Ovest
+1020,ITC18,Alessandria,ITC18,Alessandria,ITC1,Piemonte,ITC,Nord-Ovest
+1021,ITC20,Valle d’Aosta/Vallée d’Aoste,ITC20,Valle d’Aosta/Vallée d’Aoste,ITC2,Valle d’Aosta/Vallée d’Aoste,ITC,Nord-Ovest
+1022,ITC31,Imperia,ITC31,Imperia,ITC3,Liguria,ITC,Nord-Ovest
+1023,ITC32,Savona,ITC32,Savona,ITC3,Liguria,ITC,Nord-Ovest
+1024,ITC33,Genova,ITC33,Genova,ITC3,Liguria,ITC,Nord-Ovest
+1025,ITC34,La Spezia,ITC34,La Spezia,ITC3,Liguria,ITC,Nord-Ovest

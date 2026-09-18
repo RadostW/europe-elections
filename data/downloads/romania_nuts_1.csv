@@ -1,0 +1,2234 @@
+,election_date,election_type,nuts_1_code,nuts_1_name,type,name,votes
+0,1992-09-27,parliament,RO1,Macroregiunea Unu,0,eligible_voters,48536484
+1,1992-09-27,parliament,RO1,Macroregiunea Unu,1,issued_ballots,38429808
+2,1992-09-27,parliament,RO1,Macroregiunea Unu,2,A.D.N.,26328
+3,1992-09-27,parliament,RO1,Macroregiunea Unu,2,C.D.R,5761200
+4,1992-09-27,parliament,RO1,Macroregiunea Unu,2,C.I.,243600
+5,1992-09-27,parliament,RO1,Macroregiunea Unu,2,C.I.R.,13548
+6,1992-09-27,parliament,RO1,Macroregiunea Unu,2,C.R.L.R.,5796
+7,1992-09-27,parliament,RO1,Macroregiunea Unu,2,C.S.S.,74844
+8,1992-09-27,parliament,RO1,Macroregiunea Unu,2,F.D.R.16-20.XII.89.T,46248
+9,1992-09-27,parliament,RO1,Macroregiunea Unu,2,F.D.S.N.,3935904
+10,1992-09-27,parliament,RO1,Macroregiunea Unu,2,F.S.N.,2400480
+11,1992-09-27,parliament,RO1,Macroregiunea Unu,2,FDGR,222960
+12,1992-09-27,parliament,RO1,Macroregiunea Unu,2,L.N.E.R.,27804
+13,1992-09-27,parliament,RO1,Macroregiunea Unu,2,M.E.R.,708336
+14,1992-09-27,parliament,RO1,Macroregiunea Unu,2,N.P.L.,205044
+15,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.A.J.N.,13536
+16,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.C.E.R.S.N.,68856
+17,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.D.A.R.,618336
+18,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.D.C.,67428
+19,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.D.N.,21108
+20,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.D.S.(N.D.)N-V.R.,33300
+21,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.L.M.R.,71316
+22,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.L.REP.,37752
+23,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.L.S.,11172
+24,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.M.P.L.I.R.,7812
+25,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.N.P.L.R.,71520
+26,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.N.R.,8136
+27,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.N.T.C.D.I.,22704
+28,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.R.,546048
+29,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.R.I.R.,53376
+30,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.R.N.S.,5184
+31,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.R.U.R.,86076
+32,1992-09-27,parliament,RO1,Macroregiunea Unu,2,"P.S.D.""C.T.P.""",13680
+33,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.S.D.I.,4260
+34,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.S.D.T.,34968
+35,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.T.R.,7080
+36,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.TR.REP.,576
+37,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.U.N.R.,6562788
+38,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.U.S-D.,126072
+39,1992-09-27,parliament,RO1,Macroregiunea Unu,2,P.V.P.,15528
+40,1992-09-27,parliament,RO1,Macroregiunea Unu,2,PDSR-PUR-PSDR,143076
+41,1992-09-27,parliament,RO1,Macroregiunea Unu,2,PNL,730932
+42,1992-09-27,parliament,RO1,Macroregiunea Unu,2,PNTCD,136944
+43,1992-09-27,parliament,RO1,Macroregiunea Unu,2,PRM,842112
+44,1992-09-27,parliament,RO1,Macroregiunea Unu,2,PRO,153192
+45,1992-09-27,parliament,RO1,Macroregiunea Unu,2,PSM,343044
+46,1992-09-27,parliament,RO1,Macroregiunea Unu,2,PUR,42864
+47,1992-09-27,parliament,RO1,Macroregiunea Unu,2,S.N-D.,214596
+48,1992-09-27,parliament,RO1,Macroregiunea Unu,2,U.A.R.,10644
+49,1992-09-27,parliament,RO1,Macroregiunea Unu,2,U.D.C.,1920
+50,1992-09-27,parliament,RO1,Macroregiunea Unu,2,U.D.SL.CE.R.,22908
+51,1992-09-27,parliament,RO1,Macroregiunea Unu,2,U.E.R.,9108
+52,1992-09-27,parliament,RO1,Macroregiunea Unu,2,U.G.R.R.,85656
+53,1992-09-27,parliament,RO1,Macroregiunea Unu,2,U.L.B.,150492
+54,1992-09-27,parliament,RO1,Macroregiunea Unu,2,U.L.D.R.R.,127020
+55,1992-09-27,parliament,RO1,Macroregiunea Unu,2,U.U.R.,46704
+56,1992-09-27,parliament,RO1,Macroregiunea Unu,2,UDMR,8686344
+57,1992-09-27,parliament,RO2,Macroregiunea Doi,0,eligible_voters,55989900
+58,1992-09-27,parliament,RO2,Macroregiunea Doi,1,issued_ballots,44498856
+59,1992-09-27,parliament,RO2,Macroregiunea Doi,2,A.D.N.,31632
+60,1992-09-27,parliament,RO2,Macroregiunea Doi,2,C.D.R,6371520
+61,1992-09-27,parliament,RO2,Macroregiunea Doi,2,C.D.U.,16668
+62,1992-09-27,parliament,RO2,Macroregiunea Doi,2,C.I.,129768
+63,1992-09-27,parliament,RO2,Macroregiunea Doi,2,C.I.R.,4872
+64,1992-09-27,parliament,RO2,Macroregiunea Doi,2,C.R.L.R.,155244
+65,1992-09-27,parliament,RO2,Macroregiunea Doi,2,C.S.S.,134976
+66,1992-09-27,parliament,RO2,Macroregiunea Doi,2,F.D.R.16-20.XII.89.T,22932
+67,1992-09-27,parliament,RO2,Macroregiunea Doi,2,F.D.S.N.,15006552
+68,1992-09-27,parliament,RO2,Macroregiunea Doi,2,F.S.N.,4450704
+69,1992-09-27,parliament,RO2,Macroregiunea Doi,2,FDGR,34548
+70,1992-09-27,parliament,RO2,Macroregiunea Doi,2,L.N.E.R.,18228
+71,1992-09-27,parliament,RO2,Macroregiunea Doi,2,M.E.R.,1021524
+72,1992-09-27,parliament,RO2,Macroregiunea Doi,2,M.I.E.,16404
+73,1992-09-27,parliament,RO2,Macroregiunea Doi,2,N.P.L.,243228
+74,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.A.J.N.,28164
+75,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.C.E.R.S.N.,156360
+76,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.D.A.R.,1716924
+77,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.D.C.,146400
+78,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.D.I.,8244
+79,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.D.N.,5088
+80,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.D.S.D.R.,32244
+81,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.L.M.R.,129480
+82,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.L.REP.,82704
+83,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.L.S.,34548
+84,1992-09-27,parliament,RO2,Macroregiunea Doi,2,"P.M.N.""S.P.""",540
+85,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.N.D.C.,46140
+86,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.N.P.L.R.,134400
+87,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.N.R.,5328
+88,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.N.T.C.D.I.,41472
+89,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.R.,634032
+90,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.R.C.R.,93180
+91,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.R.D.P.R.R.,4920
+92,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.R.I.R.,12276
+93,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.R.N.S.,33600
+94,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.R.U.R.,92172
+95,1992-09-27,parliament,RO2,Macroregiunea Doi,2,"P.S.D.""C.T.P.""",14832
+96,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.S.D.I.,81360
+97,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.S.D.T.,111864
+98,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.T.R.,31728
+99,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.U.D.M.,28296
+100,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.U.N.R.,1187724
+101,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.U.P.,14076
+102,1992-09-27,parliament,RO2,Macroregiunea Doi,2,P.U.S-D.,165468
+103,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PDSR,18876
+104,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PDSR-PUR-PSDR,275088
+105,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PLR,81240
+106,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PNL,1062144
+107,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PNTCD,122172
+108,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PO,31980
+109,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PRM,1473336
+110,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PRO,146988
+111,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PSM,908844
+112,1992-09-27,parliament,RO2,Macroregiunea Doi,2,PUR,92064
+113,1992-09-27,parliament,RO2,Macroregiunea Doi,2,S.N-D.,245880
+114,1992-09-27,parliament,RO2,Macroregiunea Doi,2,U.A.R.,44412
+115,1992-09-27,parliament,RO2,Macroregiunea Doi,2,U.D.C.,40440
+116,1992-09-27,parliament,RO2,Macroregiunea Doi,2,U.D.T.R.,30828
+117,1992-09-27,parliament,RO2,Macroregiunea Doi,2,U.D.T.T-M.R.,87228
+118,1992-09-27,parliament,RO2,Macroregiunea Doi,2,U.E.R.,53640
+119,1992-09-27,parliament,RO2,Macroregiunea Doi,2,U.G.R.R.,48240
+120,1992-09-27,parliament,RO2,Macroregiunea Doi,2,U.L.B.,200844
+121,1992-09-27,parliament,RO2,Macroregiunea Doi,2,U.L.D.R.R.,90396
+122,1992-09-27,parliament,RO2,Macroregiunea Doi,2,U.U.R.,25152
+123,1992-09-27,parliament,RO2,Macroregiunea Doi,2,UDMR,166860
+124,1992-09-27,parliament,RO3,Macroregiunea Trei,0,eligible_voters,39388698
+125,1992-09-27,parliament,RO3,Macroregiunea Trei,1,issued_ballots,28503477
+126,1992-09-27,parliament,RO3,Macroregiunea Trei,2,A.D.N.,9846
+127,1992-09-27,parliament,RO3,Macroregiunea Trei,2,C.D.R,5946813
+128,1992-09-27,parliament,RO3,Macroregiunea Trei,2,C.D.U.,58761
+129,1992-09-27,parliament,RO3,Macroregiunea Trei,2,C.I.,68409
+130,1992-09-27,parliament,RO3,Macroregiunea Trei,2,C.I.R.,14976
+131,1992-09-27,parliament,RO3,Macroregiunea Trei,2,C.R.L.R.,7812
+132,1992-09-27,parliament,RO3,Macroregiunea Trei,2,C.S.S.,92754
+133,1992-09-27,parliament,RO3,Macroregiunea Trei,2,F.D.R.16-20.XII.89.T,27261
+134,1992-09-27,parliament,RO3,Macroregiunea Trei,2,F.D.S.N.,8167455
+135,1992-09-27,parliament,RO3,Macroregiunea Trei,2,F.D.U.N.R.,27072
+136,1992-09-27,parliament,RO3,Macroregiunea Trei,2,F.S.N.,2844756
+137,1992-09-27,parliament,RO3,Macroregiunea Trei,2,FDGR,22194
+138,1992-09-27,parliament,RO3,Macroregiunea Trei,2,L.N.E.R.,12051
+139,1992-09-27,parliament,RO3,Macroregiunea Trei,2,M.E.R.,460746
+140,1992-09-27,parliament,RO3,Macroregiunea Trei,2,N.P.L.,137970
+141,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.A.J.N.,9954
+142,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.C.E.R.S.N.,29844
+143,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.D.A.R.,616464
+144,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.D.C.,72504
+145,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.D.I.,24327
+146,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.D.M.R.,20727
+147,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.D.N.,18765
+148,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.L.M.R.,134190
+149,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.L.REP.,29457
+150,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.L.S.,73899
+151,1992-09-27,parliament,RO3,Macroregiunea Trei,2,"P.M.N.""S.P.""",14193
+152,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.N.D.C.,51930
+153,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.N.P.L.R.,56034
+154,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.N.R.,9234
+155,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.N.T.C.D.I.,48330
+156,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.R.,376668
+157,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.R.C.D.,9180
+158,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.R.C.R.,64152
+159,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.R.D.P.R.R.,4761
+160,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.R.I.R.,7569
+161,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.R.N.S.,16695
+162,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.R.U.R.,37899
+163,1992-09-27,parliament,RO3,Macroregiunea Trei,2,"P.S.D.""C.T.P.""",38394
+164,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.S.D.I.,31887
+165,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.S.D.T.,34191
+166,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.T.R.,42381
+167,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.U.N.R.,742230
+168,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.U.S-D.,114255
+169,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.V.D.P.,25551
+170,1992-09-27,parliament,RO3,Macroregiunea Trei,2,P.V.P.,6516
+171,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PDSR-PUR-PSDR,291132
+172,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PLR,86283
+173,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PNL,679680
+174,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PNTCD,154512
+175,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PO,2853
+176,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PPMT,22320
+177,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PRM,1378962
+178,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PRO,170946
+179,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PSM,755748
+180,1992-09-27,parliament,RO3,Macroregiunea Trei,2,PUR,48717
+181,1992-09-27,parliament,RO3,Macroregiunea Trei,2,S.N-D.,212931
+182,1992-09-27,parliament,RO3,Macroregiunea Trei,2,U.A.R.,15615
+183,1992-09-27,parliament,RO3,Macroregiunea Trei,2,U.D.C.,18675
+184,1992-09-27,parliament,RO3,Macroregiunea Trei,2,U.D.T.T-M.R.,3411
+185,1992-09-27,parliament,RO3,Macroregiunea Trei,2,U.E.R.,28845
+186,1992-09-27,parliament,RO3,Macroregiunea Trei,2,U.G.R.R.,40131
+187,1992-09-27,parliament,RO3,Macroregiunea Trei,2,U.L.B.,162099
+188,1992-09-27,parliament,RO3,Macroregiunea Trei,2,U.L.D.R.R.,70398
+189,1992-09-27,parliament,RO3,Macroregiunea Trei,2,UDMR,107946
+190,1992-09-27,parliament,RO4,Macroregiunea Patru,0,eligible_voters,29642481
+191,1992-09-27,parliament,RO4,Macroregiunea Patru,1,issued_ballots,21372957
+192,1992-09-27,parliament,RO4,Macroregiunea Patru,2,A.D.N.,657
+193,1992-09-27,parliament,RO4,Macroregiunea Patru,2,C.D.R,4372362
+194,1992-09-27,parliament,RO4,Macroregiunea Patru,2,C.D.U.,5787
+195,1992-09-27,parliament,RO4,Macroregiunea Patru,2,C.I.,172260
+196,1992-09-27,parliament,RO4,Macroregiunea Patru,2,C.I.R.,7884
+197,1992-09-27,parliament,RO4,Macroregiunea Patru,2,C.R.L.R.,4041
+198,1992-09-27,parliament,RO4,Macroregiunea Patru,2,C.S.S.,66384
+199,1992-09-27,parliament,RO4,Macroregiunea Patru,2,F.D.R.16-20.XII.89.T,53478
+200,1992-09-27,parliament,RO4,Macroregiunea Patru,2,F.D.S.N.,4597371
+201,1992-09-27,parliament,RO4,Macroregiunea Patru,2,F.S.N.,1908666
+202,1992-09-27,parliament,RO4,Macroregiunea Patru,2,FDGR,94248
+203,1992-09-27,parliament,RO4,Macroregiunea Patru,2,L.N.E.R.,15246
+204,1992-09-27,parliament,RO4,Macroregiunea Patru,2,M.E.R.,428625
+205,1992-09-27,parliament,RO4,Macroregiunea Patru,2,N.P.L.,92250
+206,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.C.E.R.S.N.,32976
+207,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.D.A.R.,534744
+208,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.D.C.,58923
+209,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.D.I.,15435
+210,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.D.M.R.,13761
+211,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.D.N.,11466
+212,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.D.S.(N.D.)N-V.R.,2592
+213,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.L.M.R.,59337
+214,1992-09-27,parliament,RO4,Macroregiunea Patru,2,"P.M.N.""S.P.""",153
+215,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.N.D.C.,14706
+216,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.N.P.L.R.,55881
+217,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.N.T.C.D.I.,35532
+218,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.R.,329481
+219,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.R.C.R.,30501
+220,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.R.D.P.R.R.,1485
+221,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.R.I.R.,64989
+222,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.R.N.S.,1197
+223,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.R.U.R.,38709
+224,1992-09-27,parliament,RO4,Macroregiunea Patru,2,"P.S.D.""C.T.P.""",3249
+225,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.S.D.I.,6993
+226,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.S.D.T.,51543
+227,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.T.R.,15624
+228,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.U.C.,909
+229,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.U.N.R.,959139
+230,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.U.S-D.,117585
+231,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.V.D.P.,13275
+232,1992-09-27,parliament,RO4,Macroregiunea Patru,2,P.V.P.,6174
+233,1992-09-27,parliament,RO4,Macroregiunea Patru,2,PDSR,8568
+234,1992-09-27,parliament,RO4,Macroregiunea Patru,2,PDSR-PUR-PSDR,237186
+235,1992-09-27,parliament,RO4,Macroregiunea Patru,2,PNL,525384
+236,1992-09-27,parliament,RO4,Macroregiunea Patru,2,PNTCD,80451
+237,1992-09-27,parliament,RO4,Macroregiunea Patru,2,PRM,668061
+238,1992-09-27,parliament,RO4,Macroregiunea Patru,2,PRO,69237
+239,1992-09-27,parliament,RO4,Macroregiunea Patru,2,PSM,1254951
+240,1992-09-27,parliament,RO4,Macroregiunea Patru,2,PUR,55899
+241,1992-09-27,parliament,RO4,Macroregiunea Patru,2,S.N-D.,148284
+242,1992-09-27,parliament,RO4,Macroregiunea Patru,2,U.A.R.,6228
+243,1992-09-27,parliament,RO4,Macroregiunea Patru,2,U.B.B-R.,16974
+244,1992-09-27,parliament,RO4,Macroregiunea Patru,2,U.D.SI.CR.R.,47754
+245,1992-09-27,parliament,RO4,Macroregiunea Patru,2,U.D.SL.CE.R.,24777
+246,1992-09-27,parliament,RO4,Macroregiunea Patru,2,U.E.R.,3942
+247,1992-09-27,parliament,RO4,Macroregiunea Patru,2,U.G.R.R.,53514
+248,1992-09-27,parliament,RO4,Macroregiunea Patru,2,U.L.B.,63927
+249,1992-09-27,parliament,RO4,Macroregiunea Patru,2,U.L.D.R.R.,44397
+250,1992-09-27,parliament,RO4,Macroregiunea Patru,2,U.U.R.,14877
+251,1992-09-27,parliament,RO4,Macroregiunea Patru,2,UDMR,593073
+252,1992-09-27,parliament,RO4,Macroregiunea Patru,2,UUR,1953
+253,1992-09-27,president_a,RO1,Macroregiunea Unu,0,eligible_voters,48536484
+254,1992-09-27,president_a,RO1,Macroregiunea Unu,1,issued_ballots,38429808
+255,1992-09-27,president_a,RO1,Macroregiunea Unu,2,CAIUS TRAIAN DRAGOMIR,1233672
+256,1992-09-27,president_a,RO1,Macroregiunea Unu,2,EMIL CONSTANTINESCU,16853844
+257,1992-09-27,president_a,RO1,Macroregiunea Unu,2,GHEORGHE FUNAR,8544420
+258,1992-09-27,president_a,RO1,Macroregiunea Unu,2,IOAN MANZATU,1183248
+259,1992-09-27,president_a,RO1,Macroregiunea Unu,2,ION ILIESCU,8256972
+260,1992-09-27,president_a,RO1,Macroregiunea Unu,2,MIRCEA DRUC,782184
+261,1992-09-27,president_a,RO2,Macroregiunea Doi,0,eligible_voters,55989900
+262,1992-09-27,president_a,RO2,Macroregiunea Doi,1,issued_ballots,44498856
+263,1992-09-27,president_a,RO2,Macroregiunea Doi,2,CAIUS TRAIAN DRAGOMIR,2237712
+264,1992-09-27,president_a,RO2,Macroregiunea Doi,2,EMIL CONSTANTINESCU,8588400
+265,1992-09-27,president_a,RO2,Macroregiunea Doi,2,GHEORGHE FUNAR,2394744
+266,1992-09-27,president_a,RO2,Macroregiunea Doi,2,IOAN MANZATU,1364592
+267,1992-09-27,president_a,RO2,Macroregiunea Doi,2,ION ILIESCU,26106960
+268,1992-09-27,president_a,RO2,Macroregiunea Doi,2,MIRCEA DRUC,1416132
+269,1992-09-27,president_a,RO3,Macroregiunea Trei,0,eligible_voters,39388698
+270,1992-09-27,president_a,RO3,Macroregiunea Trei,1,issued_ballots,28503477
+271,1992-09-27,president_a,RO3,Macroregiunea Trei,2,CAIUS TRAIAN DRAGOMIR,1487160
+272,1992-09-27,president_a,RO3,Macroregiunea Trei,2,EMIL CONSTANTINESCU,7918182
+273,1992-09-27,president_a,RO3,Macroregiunea Trei,2,GHEORGHE FUNAR,1420758
+274,1992-09-27,president_a,RO3,Macroregiunea Trei,2,IOAN MANZATU,681498
+275,1992-09-27,president_a,RO3,Macroregiunea Trei,2,ION ILIESCU,14875002
+276,1992-09-27,president_a,RO3,Macroregiunea Trei,2,MIRCEA DRUC,753570
+277,1992-09-27,president_a,RO4,Macroregiunea Patru,0,eligible_voters,29642481
+278,1992-09-27,president_a,RO4,Macroregiunea Patru,1,issued_ballots,21372957
+279,1992-09-27,president_a,RO4,Macroregiunea Patru,2,CAIUS TRAIAN DRAGOMIR,970083
+280,1992-09-27,president_a,RO4,Macroregiunea Patru,2,EMIL CONSTANTINESCU,6219477
+281,1992-09-27,president_a,RO4,Macroregiunea Patru,2,GHEORGHE FUNAR,1987623
+282,1992-09-27,president_a,RO4,Macroregiunea Patru,2,IOAN MANZATU,659502
+283,1992-09-27,president_a,RO4,Macroregiunea Patru,2,ION ILIESCU,9902205
+284,1992-09-27,president_a,RO4,Macroregiunea Patru,2,MIRCEA DRUC,525501
+285,1992-09-27,president_b,RO1,Macroregiunea Unu,0,eligible_voters,48856680
+286,1992-09-27,president_b,RO1,Macroregiunea Unu,1,issued_ballots,36883344
+287,1992-09-27,president_b,RO1,Macroregiunea Unu,2,EMIL CONSTANTINESCU,20987760
+288,1992-09-27,president_b,RO1,Macroregiunea Unu,2,ION ILIESCU,15563664
+289,1992-09-27,president_b,RO2,Macroregiunea Doi,0,eligible_voters,56682792
+290,1992-09-27,president_b,RO2,Macroregiunea Doi,1,issued_ballots,43130580
+291,1992-09-27,president_b,RO2,Macroregiunea Doi,2,EMIL CONSTANTINESCU,11203080
+292,1992-09-27,president_b,RO2,Macroregiunea Doi,2,ION ILIESCU,31479996
+293,1992-09-27,president_b,RO3,Macroregiunea Trei,0,eligible_voters,40254777
+294,1992-09-27,president_b,RO3,Macroregiunea Trei,1,issued_ballots,27933858
+295,1992-09-27,president_b,RO3,Macroregiunea Trei,2,EMIL CONSTANTINESCU,9430884
+296,1992-09-27,president_b,RO3,Macroregiunea Trei,2,ION ILIESCU,18249102
+297,1992-09-27,president_b,RO4,Macroregiunea Patru,0,eligible_voters,29968191
+298,1992-09-27,president_b,RO4,Macroregiunea Patru,1,issued_ballots,21025035
+299,1992-09-27,president_b,RO4,Macroregiunea Patru,2,EMIL CONSTANTINESCU,7939818
+300,1992-09-27,president_b,RO4,Macroregiunea Patru,2,ION ILIESCU,12857193
+301,1996-11-03,parliament,RO1,Macroregiunea Unu,0,eligible_voters,50222412
+302,1996-11-03,parliament,RO1,Macroregiunea Unu,1,issued_ballots,39620088
+303,1996-11-03,parliament,RO1,Macroregiunea Unu,2,ANL,499740
+304,1996-11-03,parliament,RO1,Macroregiunea Unu,2,ANLE,304824
+305,1996-11-03,parliament,RO1,Macroregiunea Unu,2,ASCR,5268
+306,1996-11-03,parliament,RO1,Macroregiunea Unu,2,CDR,9550500
+307,1996-11-03,parliament,RO1,Macroregiunea Unu,2,CERR,23724
+308,1996-11-03,parliament,RO1,Macroregiunea Unu,2,CITRO-IS14,53268
+309,1996-11-03,parliament,RO1,Macroregiunea Unu,2,CRLR,6204
+310,1996-11-03,parliament,RO1,Macroregiunea Unu,2,FCER,21624
+311,1996-11-03,parliament,RO1,Macroregiunea Unu,2,FDGR,141984
+312,1996-11-03,parliament,RO1,Macroregiunea Unu,2,FITR,3492
+313,1996-11-03,parliament,RO1,Macroregiunea Unu,2,FTSEC,25704
+314,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PCER,69540
+315,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PDSR,3912120
+316,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PFNDP,27492
+317,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PLDMRO,138036
+318,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PLR,91608
+319,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PMR,35904
+320,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PNA,179424
+321,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PNDC,189300
+322,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PNRO,86952
+323,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PNTCD,257292
+324,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PPDD,54372
+325,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PPR,420312
+326,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PPSR,57072
+327,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PPU,736116
+328,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PRM,1130256
+329,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PRO,41256
+330,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PROD,73044
+331,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PRRO,16656
+332,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PRROM,23640
+333,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PSM,1169952
+334,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PSMR,318384
+335,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PTP,8196
+336,1996-11-03,parliament,RO1,Macroregiunea Unu,2,PUNR,4061340
+337,1996-11-03,parliament,RO1,Macroregiunea Unu,2,RO.AS.IT,34104
+338,1996-11-03,parliament,RO1,Macroregiunea Unu,2,ROMII,215976
+339,1996-11-03,parliament,RO1,Macroregiunea Unu,2,U-ROMI,366792
+340,1996-11-03,parliament,RO1,Macroregiunea Unu,2,U-SLOVACI,42240
+341,1996-11-03,parliament,RO1,Macroregiunea Unu,2,U-UCRAINIENI,18168
+342,1996-11-03,parliament,RO1,Macroregiunea Unu,2,UAR,2340
+343,1996-11-03,parliament,RO1,Macroregiunea Unu,2,UCAR,8196
+344,1996-11-03,parliament,RO1,Macroregiunea Unu,2,UDC,26268
+345,1996-11-03,parliament,RO1,Macroregiunea Unu,2,UDMR,8836788
+346,1996-11-03,parliament,RO1,Macroregiunea Unu,2,UDUR,37872
+347,1996-11-03,parliament,RO1,Macroregiunea Unu,2,USD,4193316
+348,1996-11-03,parliament,RO2,Macroregiunea Doi,0,eligible_voters,60632940
+349,1996-11-03,parliament,RO2,Macroregiunea Doi,1,issued_ballots,46296036
+350,1996-11-03,parliament,RO2,Macroregiunea Doi,2,ANL,817944
+351,1996-11-03,parliament,RO2,Macroregiunea Doi,2,ANLE,305136
+352,1996-11-03,parliament,RO2,Macroregiunea Doi,2,BRATSVO,16584
+353,1996-11-03,parliament,RO2,Macroregiunea Doi,2,CDR,11667228
+354,1996-11-03,parliament,RO2,Macroregiunea Doi,2,CERR,12132
+355,1996-11-03,parliament,RO2,Macroregiunea Doi,2,CIG,9492
+356,1996-11-03,parliament,RO2,Macroregiunea Doi,2,CITRO-IS14,47616
+357,1996-11-03,parliament,RO2,Macroregiunea Doi,2,CRLR,121680
+358,1996-11-03,parliament,RO2,Macroregiunea Doi,2,FCER,49788
+359,1996-11-03,parliament,RO2,Macroregiunea Doi,2,FDGR,10332
+360,1996-11-03,parliament,RO2,Macroregiunea Doi,2,FITR,7080
+361,1996-11-03,parliament,RO2,Macroregiunea Doi,2,OVI,3732
+362,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PCER,128724
+363,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PDSR,12469320
+364,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PFNDP,113940
+365,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PLC,17100
+366,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PLDMRO,1332
+367,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PLR,132540
+368,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PMR,174144
+369,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PNA,178944
+370,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PNDC,356460
+371,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PNRO,125520
+372,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PNTCD,293328
+373,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PO,15624
+374,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PPDD,72936
+375,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PPR,612468
+376,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PPSR,54456
+377,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PPU,838212
+378,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PRM,2272572
+379,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PRO,77544
+380,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PROD,87648
+381,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PRRO,40044
+382,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PRROM,3132
+383,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PSM,2289936
+384,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PSMR,1180536
+385,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PSR,27060
+386,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PTP,44340
+387,1996-11-03,parliament,RO2,Macroregiunea Doi,2,PUNR,822876
+388,1996-11-03,parliament,RO2,Macroregiunea Doi,2,RO.AS.IT,34452
+389,1996-11-03,parliament,RO2,Macroregiunea Doi,2,ROMII,353688
+390,1996-11-03,parliament,RO2,Macroregiunea Doi,2,U-ELENA,64548
+391,1996-11-03,parliament,RO2,Macroregiunea Doi,2,U-HUTULE,7752
+392,1996-11-03,parliament,RO2,Macroregiunea Doi,2,U-ROMI,133368
+393,1996-11-03,parliament,RO2,Macroregiunea Doi,2,U-TATARI,67308
+394,1996-11-03,parliament,RO2,Macroregiunea Doi,2,U-TURCA,51912
+395,1996-11-03,parliament,RO2,Macroregiunea Doi,2,U-UCRAINIENI,48912
+396,1996-11-03,parliament,RO2,Macroregiunea Doi,2,UAR,86724
+397,1996-11-03,parliament,RO2,Macroregiunea Doi,2,UCAR,33432
+398,1996-11-03,parliament,RO2,Macroregiunea Doi,2,UDC,100452
+399,1996-11-03,parliament,RO2,Macroregiunea Doi,2,UDMR,100644
+400,1996-11-03,parliament,RO2,Macroregiunea Doi,2,UDUR,11712
+401,1996-11-03,parliament,RO2,Macroregiunea Doi,2,URCT,7680
+402,1996-11-03,parliament,RO2,Macroregiunea Doi,2,USD,6143028
+403,1996-11-03,parliament,RO3,Macroregiunea Trei,0,eligible_voters,40986693
+404,1996-11-03,parliament,RO3,Macroregiunea Trei,1,issued_ballots,29920140
+405,1996-11-03,parliament,RO3,Macroregiunea Trei,2,ANL,347463
+406,1996-11-03,parliament,RO3,Macroregiunea Trei,2,ANLE,208152
+407,1996-11-03,parliament,RO3,Macroregiunea Trei,2,BRATSVO,33291
+408,1996-11-03,parliament,RO3,Macroregiunea Trei,2,CDR,10057428
+409,1996-11-03,parliament,RO3,Macroregiunea Trei,2,CERR,8550
+410,1996-11-03,parliament,RO3,Macroregiunea Trei,2,CIPH,3933
+411,1996-11-03,parliament,RO3,Macroregiunea Trei,2,CIPR,6255
+412,1996-11-03,parliament,RO3,Macroregiunea Trei,2,CITRO-IS14,15588
+413,1996-11-03,parliament,RO3,Macroregiunea Trei,2,CRLR,7587
+414,1996-11-03,parliament,RO3,Macroregiunea Trei,2,FCER,37575
+415,1996-11-03,parliament,RO3,Macroregiunea Trei,2,FDGR,17145
+416,1996-11-03,parliament,RO3,Macroregiunea Trei,2,FITR,2565
+417,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PCER,63288
+418,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PDSR,6790401
+419,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PFNDP,54162
+420,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PLC,46791
+421,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PLR,51309
+422,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PMR,174798
+423,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PNA,142272
+424,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PNDC,125136
+425,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PNRO,42867
+426,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PNTCD,346239
+427,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PO,4401
+428,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PPDD,45081
+429,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PPR,413874
+430,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PPSR,35793
+431,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PPU,319527
+432,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PRM,1438497
+433,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PRO,39456
+434,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PROD,53955
+435,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PRRO,17721
+436,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PRROM,29556
+437,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PSM,1657296
+438,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PSMR,483435
+439,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PSR,39267
+440,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PTP,42453
+441,1996-11-03,parliament,RO3,Macroregiunea Trei,2,PUNR,526392
+442,1996-11-03,parliament,RO3,Macroregiunea Trei,2,RO.AS.IT,31986
+443,1996-11-03,parliament,RO3,Macroregiunea Trei,2,ROMII,197937
+444,1996-11-03,parliament,RO3,Macroregiunea Trei,2,U-ELENA,21078
+445,1996-11-03,parliament,RO3,Macroregiunea Trei,2,U-ROMI,151290
+446,1996-11-03,parliament,RO3,Macroregiunea Trei,2,U-TATARI,5418
+447,1996-11-03,parliament,RO3,Macroregiunea Trei,2,U-UCRAINIENI,2565
+448,1996-11-03,parliament,RO3,Macroregiunea Trei,2,UAR,35460
+449,1996-11-03,parliament,RO3,Macroregiunea Trei,2,UBBR,7749
+450,1996-11-03,parliament,RO3,Macroregiunea Trei,2,UCAR,25767
+451,1996-11-03,parliament,RO3,Macroregiunea Trei,2,UDC,60327
+452,1996-11-03,parliament,RO3,Macroregiunea Trei,2,UDMR,55899
+453,1996-11-03,parliament,RO3,Macroregiunea Trei,2,UEPH,13581
+454,1996-11-03,parliament,RO3,Macroregiunea Trei,2,USD,3724425
+455,1996-11-03,parliament,RO4,Macroregiunea Patru,0,eligible_voters,30839679
+456,1996-11-03,parliament,RO4,Macroregiunea Patru,1,issued_ballots,22787037
+457,1996-11-03,parliament,RO4,Macroregiunea Patru,2,ANL,384525
+458,1996-11-03,parliament,RO4,Macroregiunea Patru,2,ANLE,194400
+459,1996-11-03,parliament,RO4,Macroregiunea Patru,2,BRATSVO,2124
+460,1996-11-03,parliament,RO4,Macroregiunea Patru,2,CDR,6969591
+461,1996-11-03,parliament,RO4,Macroregiunea Patru,2,CERR,10863
+462,1996-11-03,parliament,RO4,Macroregiunea Patru,2,CITRO-IS14,11367
+463,1996-11-03,parliament,RO4,Macroregiunea Patru,2,CRLR,1125
+464,1996-11-03,parliament,RO4,Macroregiunea Patru,2,FCER,15633
+465,1996-11-03,parliament,RO4,Macroregiunea Patru,2,FDGR,82530
+466,1996-11-03,parliament,RO4,Macroregiunea Patru,2,FITR,4905
+467,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PCER,33543
+468,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PDSR,4561308
+469,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PFNDP,27990
+470,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PLC,29106
+471,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PLDMRO,24471
+472,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PLR,45450
+473,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PMR,116154
+474,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PNA,90612
+475,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PNDC,86607
+476,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PNRO,99963
+477,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PNTCD,146907
+478,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PPDD,19458
+479,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PPR,384993
+480,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PPSR,29610
+481,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PPU,736839
+482,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PRM,905121
+483,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PRO,25362
+484,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PROD,54900
+485,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PRRO,4698
+486,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PRROM,19386
+487,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PSM,1567143
+488,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PSMR,296730
+489,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PSR,21501
+490,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PTP,23814
+491,1996-11-03,parliament,RO4,Macroregiunea Patru,2,PUNR,590661
+492,1996-11-03,parliament,RO4,Macroregiunea Patru,2,RO.AS.IT,4320
+493,1996-11-03,parliament,RO4,Macroregiunea Patru,2,ROMII,112284
+494,1996-11-03,parliament,RO4,Macroregiunea Patru,2,U-CROATI,4374
+495,1996-11-03,parliament,RO4,Macroregiunea Patru,2,U-ELENA,5499
+496,1996-11-03,parliament,RO4,Macroregiunea Patru,2,U-ROMI,110511
+497,1996-11-03,parliament,RO4,Macroregiunea Patru,2,U-SARBI,61659
+498,1996-11-03,parliament,RO4,Macroregiunea Patru,2,U-SLOVACI,27099
+499,1996-11-03,parliament,RO4,Macroregiunea Patru,2,U-UCRAINIENI,11376
+500,1996-11-03,parliament,RO4,Macroregiunea Patru,2,UBBR,28656
+501,1996-11-03,parliament,RO4,Macroregiunea Patru,2,UCAR,20673
+502,1996-11-03,parliament,RO4,Macroregiunea Patru,2,UDC,20016
+503,1996-11-03,parliament,RO4,Macroregiunea Patru,2,UDMR,523053
+504,1996-11-03,parliament,RO4,Macroregiunea Patru,2,USD,2702448
+505,1996-11-03,president_a,RO1,Macroregiunea Unu,0,eligible_voters,50222412
+506,1996-11-03,president_a,RO1,Macroregiunea Unu,1,issued_ballots,39620088
+507,1996-11-03,president_a,RO1,Macroregiunea Unu,2,ADRIAN PAUNESCU,160032
+508,1996-11-03,president_a,RO1,Macroregiunea Unu,2,CONSTANTIN MUDAVA,94056
+509,1996-11-03,president_a,RO1,Macroregiunea Unu,2,CONSTANTIN NICULESCU,98376
+510,1996-11-03,president_a,RO1,Macroregiunea Unu,2,CORNELIU VADIM TUDOR,1241412
+511,1996-11-03,president_a,RO1,Macroregiunea Unu,2,EMIL CONSTANTINESCU,10225548
+512,1996-11-03,president_a,RO1,Macroregiunea Unu,2,GEORGE MUNTEAN,150300
+513,1996-11-03,president_a,RO1,Macroregiunea Unu,2,GHEORGHE FUNAR,2904228
+514,1996-11-03,president_a,RO1,Macroregiunea Unu,2,GYORGY FRUNDA,8361540
+515,1996-11-03,president_a,RO1,Macroregiunea Unu,2,IOAN POP DE POPA,141468
+516,1996-11-03,president_a,RO1,Macroregiunea Unu,2,ION ILIESCU,6755808
+517,1996-11-03,president_a,RO1,Macroregiunea Unu,2,NICOLAE MANOLESCU,218400
+518,1996-11-03,president_a,RO1,Macroregiunea Unu,2,NICOLAE MILITARU,95832
+519,1996-11-03,president_a,RO1,Macroregiunea Unu,2,NUTU ANGHELINA,106260
+520,1996-11-03,president_a,RO1,Macroregiunea Unu,2,PETRE ROMAN,7524312
+521,1996-11-03,president_a,RO1,Macroregiunea Unu,2,RADU CAMPEANU,120096
+522,1996-11-03,president_a,RO1,Macroregiunea Unu,2,TUDOR MOHORA,258264
+523,1996-11-03,president_a,RO2,Macroregiunea Doi,0,eligible_voters,60632940
+524,1996-11-03,president_a,RO2,Macroregiunea Doi,1,issued_ballots,46296036
+525,1996-11-03,president_a,RO2,Macroregiunea Doi,2,ADRIAN PAUNESCU,312972
+526,1996-11-03,president_a,RO2,Macroregiunea Doi,2,CONSTANTIN MUDAVA,159216
+527,1996-11-03,president_a,RO2,Macroregiunea Doi,2,CONSTANTIN NICULESCU,109332
+528,1996-11-03,president_a,RO2,Macroregiunea Doi,2,CORNELIU VADIM TUDOR,2636556
+529,1996-11-03,president_a,RO2,Macroregiunea Doi,2,EMIL CONSTANTINESCU,10878936
+530,1996-11-03,president_a,RO2,Macroregiunea Doi,2,GEORGE MUNTEAN,190632
+531,1996-11-03,president_a,RO2,Macroregiunea Doi,2,GHEORGHE FUNAR,724656
+532,1996-11-03,president_a,RO2,Macroregiunea Doi,2,GYORGY FRUNDA,88248
+533,1996-11-03,president_a,RO2,Macroregiunea Doi,2,IOAN POP DE POPA,208080
+534,1996-11-03,president_a,RO2,Macroregiunea Doi,2,ION ILIESCU,18555636
+535,1996-11-03,president_a,RO2,Macroregiunea Doi,2,NICOLAE MANOLESCU,359196
+536,1996-11-03,president_a,RO2,Macroregiunea Doi,2,NICOLAE MILITARU,108480
+537,1996-11-03,president_a,RO2,Macroregiunea Doi,2,NUTU ANGHELINA,203760
+538,1996-11-03,president_a,RO2,Macroregiunea Doi,2,PETRE ROMAN,9287028
+539,1996-11-03,president_a,RO2,Macroregiunea Doi,2,RADU CAMPEANU,162384
+540,1996-11-03,president_a,RO2,Macroregiunea Doi,2,TUDOR MOHORA,567924
+541,1996-11-03,president_a,RO3,Macroregiunea Trei,0,eligible_voters,40986693
+542,1996-11-03,president_a,RO3,Macroregiunea Trei,1,issued_ballots,29920140
+543,1996-11-03,president_a,RO3,Macroregiunea Trei,2,ADRIAN PAUNESCU,198162
+544,1996-11-03,president_a,RO3,Macroregiunea Trei,2,CONSTANTIN MUDAVA,89406
+545,1996-11-03,president_a,RO3,Macroregiunea Trei,2,CONSTANTIN NICULESCU,60957
+546,1996-11-03,president_a,RO3,Macroregiunea Trei,2,CORNELIU VADIM TUDOR,1420569
+547,1996-11-03,president_a,RO3,Macroregiunea Trei,2,EMIL CONSTANTINESCU,9236925
+548,1996-11-03,president_a,RO3,Macroregiunea Trei,2,GEORGE MUNTEAN,115353
+549,1996-11-03,president_a,RO3,Macroregiunea Trei,2,GHEORGHE FUNAR,424323
+550,1996-11-03,president_a,RO3,Macroregiunea Trei,2,GYORGY FRUNDA,64854
+551,1996-11-03,president_a,RO3,Macroregiunea Trei,2,IOAN POP DE POPA,163593
+552,1996-11-03,president_a,RO3,Macroregiunea Trei,2,ION ILIESCU,10132587
+553,1996-11-03,president_a,RO3,Macroregiunea Trei,2,NICOLAE MANOLESCU,200313
+554,1996-11-03,president_a,RO3,Macroregiunea Trei,2,NICOLAE MILITARU,55170
+555,1996-11-03,president_a,RO3,Macroregiunea Trei,2,NUTU ANGHELINA,88983
+556,1996-11-03,president_a,RO3,Macroregiunea Trei,2,PETRE ROMAN,6184233
+557,1996-11-03,president_a,RO3,Macroregiunea Trei,2,RADU CAMPEANU,92601
+558,1996-11-03,president_a,RO3,Macroregiunea Trei,2,TUDOR MOHORA,457956
+559,1996-11-03,president_a,RO4,Macroregiunea Patru,0,eligible_voters,30839679
+560,1996-11-03,president_a,RO4,Macroregiunea Patru,1,issued_ballots,22787037
+561,1996-11-03,president_a,RO4,Macroregiunea Patru,2,ADRIAN PAUNESCU,225891
+562,1996-11-03,president_a,RO4,Macroregiunea Patru,2,CONSTANTIN MUDAVA,74430
+563,1996-11-03,president_a,RO4,Macroregiunea Patru,2,CONSTANTIN NICULESCU,50913
+564,1996-11-03,president_a,RO4,Macroregiunea Patru,2,CORNELIU VADIM TUDOR,1024722
+565,1996-11-03,president_a,RO4,Macroregiunea Patru,2,EMIL CONSTANTINESCU,6765615
+566,1996-11-03,president_a,RO4,Macroregiunea Patru,2,GEORGE MUNTEAN,115866
+567,1996-11-03,president_a,RO4,Macroregiunea Patru,2,GHEORGHE FUNAR,508779
+568,1996-11-03,president_a,RO4,Macroregiunea Patru,2,GYORGY FRUNDA,421407
+569,1996-11-03,president_a,RO4,Macroregiunea Patru,2,IOAN POP DE POPA,107847
+570,1996-11-03,president_a,RO4,Macroregiunea Patru,2,ION ILIESCU,7489584
+571,1996-11-03,president_a,RO4,Macroregiunea Patru,2,NICOLAE MANOLESCU,169911
+572,1996-11-03,president_a,RO4,Macroregiunea Patru,2,NICOLAE MILITARU,45234
+573,1996-11-03,president_a,RO4,Macroregiunea Patru,2,NUTU ANGHELINA,66474
+574,1996-11-03,president_a,RO4,Macroregiunea Patru,2,PETRE ROMAN,4476114
+575,1996-11-03,president_a,RO4,Macroregiunea Patru,2,RADU CAMPEANU,86985
+576,1996-11-03,president_a,RO4,Macroregiunea Patru,2,TUDOR MOHORA,361935
+577,1996-11-03,president_b,RO1,Macroregiunea Unu,0,eligible_voters,50229720
+578,1996-11-03,president_b,RO1,Macroregiunea Unu,1,issued_ballots,39591936
+579,1996-11-03,president_b,RO1,Macroregiunea Unu,2,EMIL CONSTANTINESCU,27475860
+580,1996-11-03,president_b,RO1,Macroregiunea Unu,2,ION ILIESCU,11853312
+581,1996-11-03,president_b,RO2,Macroregiunea Doi,0,eligible_voters,60710904
+582,1996-11-03,president_b,RO2,Macroregiunea Doi,1,issued_ballots,45830916
+583,1996-11-03,president_b,RO2,Macroregiunea Doi,2,EMIL CONSTANTINESCU,20253156
+584,1996-11-03,president_b,RO2,Macroregiunea Doi,2,ION ILIESCU,25131624
+585,1996-11-03,president_b,RO3,Macroregiunea Trei,0,eligible_voters,40986648
+586,1996-11-03,president_b,RO3,Macroregiunea Trei,1,issued_ballots,29928609
+587,1996-11-03,president_b,RO3,Macroregiunea Trei,2,EMIL CONSTANTINESCU,15159627
+588,1996-11-03,president_b,RO3,Macroregiunea Trei,2,ION ILIESCU,14531022
+589,1996-11-03,president_b,RO4,Macroregiunea Patru,0,eligible_voters,30883770
+590,1996-11-03,president_b,RO4,Macroregiunea Patru,1,issued_ballots,22949586
+591,1996-11-03,president_b,RO4,Macroregiunea Patru,2,EMIL CONSTANTINESCU,11978361
+592,1996-11-03,president_b,RO4,Macroregiunea Patru,2,ION ILIESCU,10789056
+593,2000-11-26,parliament,RO1,Macroregiunea Unu,0,eligible_voters,51735900
+594,2000-11-26,parliament,RO1,Macroregiunea Unu,1,issued_ballots,34098600
+595,2000-11-26,parliament,RO1,Macroregiunea Unu,2,AMSR,13080
+596,2000-11-26,parliament,RO1,Macroregiunea Unu,2,ApR,1393188
+597,2000-11-26,parliament,RO1,Macroregiunea Unu,2,BRATSTVO,1128
+598,2000-11-26,parliament,RO1,Macroregiunea Unu,2,C - ROMII,90852
+599,2000-11-26,parliament,RO1,Macroregiunea Unu,2,C ELENA PH,2448
+600,2000-11-26,parliament,RO1,Macroregiunea Unu,2,C ITRO - IS2,76836
+601,2000-11-26,parliament,RO1,Macroregiunea Unu,2,C LIPOVENI,1536
+602,2000-11-26,parliament,RO1,Macroregiunea Unu,2,CDR,1524672
+603,2000-11-26,parliament,RO1,Macroregiunea Unu,2,ECOLOGISTII,303096
+604,2000-11-26,parliament,RO1,Macroregiunea Unu,2,F - EVREI,34308
+605,2000-11-26,parliament,RO1,Macroregiunea Unu,2,FDGR,339564
+606,2000-11-26,parliament,RO1,Macroregiunea Unu,2,G2K,38268
+607,2000-11-26,parliament,RO1,Macroregiunea Unu,2,L C- ITALIENI,10848
+608,2000-11-26,parliament,RO1,Macroregiunea Unu,2,LDCR,15948
+609,2000-11-26,parliament,RO1,Macroregiunea Unu,2,P ROMII,279240
+610,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PD,2086860
+611,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PDPRD,59892
+612,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PDSR,6376776
+613,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PLDMRO,4536
+614,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PLDR,133272
+615,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PLRSD,101892
+616,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PMP,29772
+617,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PMR,129120
+618,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PNDC,132000
+619,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PNG,77124
+620,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PNL,2641632
+621,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PNTCD,130416
+622,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PO,2064
+623,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PPDD,50388
+624,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PPU,546636
+625,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PRM,5819568
+626,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PRN,84972
+627,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PRO,22572
+628,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PSAP,192396
+629,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PSDCTP,37356
+630,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PSM,189060
+631,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PSR,25680
+632,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PUNR,899292
+633,2000-11-26,parliament,RO1,Macroregiunea Unu,2,PVR,134184
+634,2000-11-26,parliament,RO1,Macroregiunea Unu,2,U - ARMENI,32748
+635,2000-11-26,parliament,RO1,Macroregiunea Unu,2,U - CEHI,26904
+636,2000-11-26,parliament,RO1,Macroregiunea Unu,2,U - CROATI,44472
+637,2000-11-26,parliament,RO1,Macroregiunea Unu,2,U - ELENA,24276
+638,2000-11-26,parliament,RO1,Macroregiunea Unu,2,U - POLONEZI,6180
+639,2000-11-26,parliament,RO1,Macroregiunea Unu,2,U - RUTENI,27720
+640,2000-11-26,parliament,RO1,Macroregiunea Unu,2,U - UCRAINENI,42192
+641,2000-11-26,parliament,RO1,Macroregiunea Unu,2,U D - UCRAINENI,24156
+642,2000-11-26,parliament,RO1,Macroregiunea Unu,2,UBBR,62640
+643,2000-11-26,parliament,RO1,Macroregiunea Unu,2,UCAR,14064
+644,2000-11-26,parliament,RO1,Macroregiunea Unu,2,UDMR,7923384
+645,2000-11-26,parliament,RO2,Macroregiunea Doi,0,eligible_voters,62911968
+646,2000-11-26,parliament,RO2,Macroregiunea Doi,1,issued_ballots,41243736
+647,2000-11-26,parliament,RO2,Macroregiunea Doi,2,A - BULGARI,56508
+648,2000-11-26,parliament,RO2,Macroregiunea Doi,2,ApR,1655148
+649,2000-11-26,parliament,RO2,Macroregiunea Doi,2,BRATSTVO,11376
+650,2000-11-26,parliament,RO2,Macroregiunea Doi,2,C - ELPIS CT,5388
+651,2000-11-26,parliament,RO2,Macroregiunea Doi,2,C - TURCA,26292
+652,2000-11-26,parliament,RO2,Macroregiunea Doi,2,C ELENA PH,1464
+653,2000-11-26,parliament,RO2,Macroregiunea Doi,2,C ITRO - IS2,72060
+654,2000-11-26,parliament,RO2,Macroregiunea Doi,2,C LIPOVENI,113736
+655,2000-11-26,parliament,RO2,Macroregiunea Doi,2,C- ELENA IS,24864
+656,2000-11-26,parliament,RO2,Macroregiunea Doi,2,CDR,1431132
+657,2000-11-26,parliament,RO2,Macroregiunea Doi,2,ECOLOGISTII,411876
+658,2000-11-26,parliament,RO2,Macroregiunea Doi,2,F - EVREI,40464
+659,2000-11-26,parliament,RO2,Macroregiunea Doi,2,FDGR,19968
+660,2000-11-26,parliament,RO2,Macroregiunea Doi,2,G2K,32700
+661,2000-11-26,parliament,RO2,Macroregiunea Doi,2,L C- ITALIENI,24144
+662,2000-11-26,parliament,RO2,Macroregiunea Doi,2,P ROMII,212604
+663,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PD,2154312
+664,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PDPRD,97260
+665,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PDSR,17719908
+666,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PLDMRO,4656
+667,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PLDR,184152
+668,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PLRSD,125592
+669,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PMP,41388
+670,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PMR,275028
+671,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PNDC,113652
+672,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PNG,63792
+673,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PNL,3113820
+674,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PNTCD,212136
+675,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PO,2544
+676,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PP,4812
+677,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PPDD,66048
+678,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PPU,578700
+679,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PRM,7305168
+680,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PRN,84444
+681,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PRO,64248
+682,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PSAP,237816
+683,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PSDCTP,65664
+684,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PSM,347592
+685,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PSR,44820
+686,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PUNR,322296
+687,2000-11-26,parliament,RO2,Macroregiunea Doi,2,PVR,167604
+688,2000-11-26,parliament,RO2,Macroregiunea Doi,2,U - ARMENI,135396
+689,2000-11-26,parliament,RO2,Macroregiunea Doi,2,U - ELENA,68388
+690,2000-11-26,parliament,RO2,Macroregiunea Doi,2,U - POLONEZI,53112
+691,2000-11-26,parliament,RO2,Macroregiunea Doi,2,U - RUTENI,14940
+692,2000-11-26,parliament,RO2,Macroregiunea Doi,2,U - TATARI,119448
+693,2000-11-26,parliament,RO2,Macroregiunea Doi,2,U - TURCA,59028
+694,2000-11-26,parliament,RO2,Macroregiunea Doi,2,U - UCRAINENI,37704
+695,2000-11-26,parliament,RO2,Macroregiunea Doi,2,U D - UCRAINENI,18672
+696,2000-11-26,parliament,RO2,Macroregiunea Doi,2,U-HUTULI,14700
+697,2000-11-26,parliament,RO2,Macroregiunea Doi,2,UBBR,42720
+698,2000-11-26,parliament,RO2,Macroregiunea Doi,2,UCAR,31152
+699,2000-11-26,parliament,RO2,Macroregiunea Doi,2,UDC,20160
+700,2000-11-26,parliament,RO2,Macroregiunea Doi,2,UDMR,71604
+701,2000-11-26,parliament,RO2,Macroregiunea Doi,2,ULB,3588
+702,2000-11-26,parliament,RO3,Macroregiunea Trei,0,eligible_voters,41779368
+703,2000-11-26,parliament,RO3,Macroregiunea Trei,1,issued_ballots,26721999
+704,2000-11-26,parliament,RO3,Macroregiunea Trei,2,A - BULGARI,17307
+705,2000-11-26,parliament,RO3,Macroregiunea Trei,2,AMSR,55755
+706,2000-11-26,parliament,RO3,Macroregiunea Trei,2,ApR,887301
+707,2000-11-26,parliament,RO3,Macroregiunea Trei,2,BRATSTVO,21096
+708,2000-11-26,parliament,RO3,Macroregiunea Trei,2,C - ROMII,33138
+709,2000-11-26,parliament,RO3,Macroregiunea Trei,2,C - TURCA,11331
+710,2000-11-26,parliament,RO3,Macroregiunea Trei,2,C ELENA PH,14832
+711,2000-11-26,parliament,RO3,Macroregiunea Trei,2,C ITRO - IS2,53136
+712,2000-11-26,parliament,RO3,Macroregiunea Trei,2,C LIPOVENI,12519
+713,2000-11-26,parliament,RO3,Macroregiunea Trei,2,CDR,1744785
+714,2000-11-26,parliament,RO3,Macroregiunea Trei,2,ECOLOGISTII,167436
+715,2000-11-26,parliament,RO3,Macroregiunea Trei,2,F - EVREI,31266
+716,2000-11-26,parliament,RO3,Macroregiunea Trei,2,FDGR,18864
+717,2000-11-26,parliament,RO3,Macroregiunea Trei,2,G2K,41202
+718,2000-11-26,parliament,RO3,Macroregiunea Trei,2,L C- ITALIENI,100917
+719,2000-11-26,parliament,RO3,Macroregiunea Trei,2,LIR,4356
+720,2000-11-26,parliament,RO3,Macroregiunea Trei,2,P ROMII,169281
+721,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PD,2204208
+722,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PDPRD,54198
+723,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PDSR,10442313
+724,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PLDMRO,18171
+725,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PLDR,116001
+726,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PLRSD,64215
+727,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PMP,18684
+728,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PMR,139788
+729,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PNDC,53397
+730,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PNG,36531
+731,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PNL,2243970
+732,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PNTCD,125901
+733,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PO,9450
+734,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PPDD,45657
+735,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PPU,228366
+736,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PREV,14292
+737,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PRM,4828446
+738,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PRN,39177
+739,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PRO,5508
+740,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PSAP,200124
+741,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PSDCTP,49428
+742,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PSM,186066
+743,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PSR,45189
+744,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PUNR,175059
+745,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PUPPD,4401
+746,2000-11-26,parliament,RO3,Macroregiunea Trei,2,PVR,116964
+747,2000-11-26,parliament,RO3,Macroregiunea Trei,2,U - ARMENI,52929
+748,2000-11-26,parliament,RO3,Macroregiunea Trei,2,U - CROATI,23805
+749,2000-11-26,parliament,RO3,Macroregiunea Trei,2,U - ELENA,33372
+750,2000-11-26,parliament,RO3,Macroregiunea Trei,2,U - RUTENI,18945
+751,2000-11-26,parliament,RO3,Macroregiunea Trei,2,U - TATARI,3501
+752,2000-11-26,parliament,RO3,Macroregiunea Trei,2,U - TURCA,15408
+753,2000-11-26,parliament,RO3,Macroregiunea Trei,2,U - UCRAINENI,4608
+754,2000-11-26,parliament,RO3,Macroregiunea Trei,2,U D - UCRAINENI,10800
+755,2000-11-26,parliament,RO3,Macroregiunea Trei,2,UBBR,41913
+756,2000-11-26,parliament,RO3,Macroregiunea Trei,2,UCAR,18621
+757,2000-11-26,parliament,RO3,Macroregiunea Trei,2,UDC,14085
+758,2000-11-26,parliament,RO3,Macroregiunea Trei,2,UDMR,70011
+759,2000-11-26,parliament,RO3,Macroregiunea Trei,2,ULB,23877
+760,2000-11-26,parliament,RO4,Macroregiunea Patru,0,eligible_voters,31532274
+761,2000-11-26,parliament,RO4,Macroregiunea Patru,1,issued_ballots,20507850
+762,2000-11-26,parliament,RO4,Macroregiunea Patru,2,A - BULGARI,13014
+763,2000-11-26,parliament,RO4,Macroregiunea Patru,2,AMSR,13311
+764,2000-11-26,parliament,RO4,Macroregiunea Patru,2,ApR,792099
+765,2000-11-26,parliament,RO4,Macroregiunea Patru,2,BRATSTVO,22833
+766,2000-11-26,parliament,RO4,Macroregiunea Patru,2,C - ROMII,7956
+767,2000-11-26,parliament,RO4,Macroregiunea Patru,2,C - TURCA,4149
+768,2000-11-26,parliament,RO4,Macroregiunea Patru,2,C ITRO - IS2,25740
+769,2000-11-26,parliament,RO4,Macroregiunea Patru,2,C LIPOVENI,4608
+770,2000-11-26,parliament,RO4,Macroregiunea Patru,2,CDR,884322
+771,2000-11-26,parliament,RO4,Macroregiunea Patru,2,ECOLOGISTII,202716
+772,2000-11-26,parliament,RO4,Macroregiunea Patru,2,F - EVREI,19404
+773,2000-11-26,parliament,RO4,Macroregiunea Patru,2,FDGR,77526
+774,2000-11-26,parliament,RO4,Macroregiunea Patru,2,G2K,26262
+775,2000-11-26,parliament,RO4,Macroregiunea Patru,2,L C- ITALIENI,19035
+776,2000-11-26,parliament,RO4,Macroregiunea Patru,2,P ROMII,107298
+777,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PD,1458081
+778,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PDPRD,15876
+779,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PDSR,7165035
+780,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PLDMRO,4635
+781,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PLDR,116703
+782,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PLRSD,59382
+783,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PMP,22527
+784,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PMR,175158
+785,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PNDC,61812
+786,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PNG,34740
+787,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PNL,1600452
+788,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PNTCD,49725
+789,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PO,1512
+790,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PPDD,19467
+791,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PPU,163926
+792,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PRM,4308633
+793,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PRN,34488
+794,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PRO,26937
+795,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PSAP,165591
+796,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PSDCTP,31977
+797,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PSM,229248
+798,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PSR,8964
+799,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PUNR,249453
+800,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PUPPD,27018
+801,2000-11-26,parliament,RO4,Macroregiunea Patru,2,PVR,70722
+802,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U - ARMENI,12186
+803,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U - CEHI,30996
+804,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U - CROATI,42201
+805,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U - ELENA,31716
+806,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U - POLONEZI,1026
+807,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U - RUTENI,11502
+808,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U - SARBI,78732
+809,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U - UCRAINENI,19872
+810,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U D - UCRAINENI,8874
+811,2000-11-26,parliament,RO4,Macroregiunea Patru,2,U-CEHIR,13851
+812,2000-11-26,parliament,RO4,Macroregiunea Patru,2,UBBR,59382
+813,2000-11-26,parliament,RO4,Macroregiunea Patru,2,UBPR,4473
+814,2000-11-26,parliament,RO4,Macroregiunea Patru,2,UCAR,17532
+815,2000-11-26,parliament,RO4,Macroregiunea Patru,2,UDCR,18531
+816,2000-11-26,parliament,RO4,Macroregiunea Patru,2,UDMR,534213
+817,2000-11-26,parliament,RO4,Macroregiunea Patru,2,ULB,6912
+818,2000-11-26,president_a,RO1,Macroregiunea Unu,0,eligible_voters,51735900
+819,2000-11-26,president_a,RO1,Macroregiunea Unu,1,issued_ballots,34098600
+820,2000-11-26,president_a,RO1,Macroregiunea Unu,2,CONSTANTIN MUGUREL ISARESCU,2950440
+821,2000-11-26,president_a,RO1,Macroregiunea Unu,2,CORNELIU VADIM TUDOR,9315228
+822,2000-11-26,president_a,RO1,Macroregiunea Unu,2,GHEORGHE EDUARD MANOLE,425604
+823,2000-11-26,president_a,RO1,Macroregiunea Unu,2,GRAZIELA-ELENA BIRLA,183360
+824,2000-11-26,president_a,RO1,Macroregiunea Unu,2,GYORGY FRUNDA,7519704
+825,2000-11-26,president_a,RO1,Macroregiunea Unu,2,ION ILIESCU,6476352
+826,2000-11-26,president_a,RO1,Macroregiunea Unu,2,ION SASU,103848
+827,2000-11-26,president_a,RO1,Macroregiunea Unu,2,NICULAE CERVENI,87876
+828,2000-11-26,president_a,RO1,Macroregiunea Unu,2,PAUL-PHILIPPE HOHENZOLLERN,196104
+829,2000-11-26,president_a,RO1,Macroregiunea Unu,2,PETRE ROMAN,930288
+830,2000-11-26,president_a,RO1,Macroregiunea Unu,2,TEODOR VIOREL MELESCANU,696624
+831,2000-11-26,president_a,RO1,Macroregiunea Unu,2,THEODOR DUMITRU STOLOJAN,4335564
+832,2000-11-26,president_a,RO2,Macroregiunea Doi,0,eligible_voters,62911968
+833,2000-11-26,president_a,RO2,Macroregiunea Doi,1,issued_ballots,41243736
+834,2000-11-26,president_a,RO2,Macroregiunea Doi,2,CONSTANTIN MUGUREL ISARESCU,3073848
+835,2000-11-26,president_a,RO2,Macroregiunea Doi,2,CORNELIU VADIM TUDOR,11059860
+836,2000-11-26,president_a,RO2,Macroregiunea Doi,2,GHEORGHE EDUARD MANOLE,448728
+837,2000-11-26,president_a,RO2,Macroregiunea Doi,2,GRAZIELA-ELENA BIRLA,243612
+838,2000-11-26,president_a,RO2,Macroregiunea Doi,2,GYORGY FRUNDA,103104
+839,2000-11-26,president_a,RO2,Macroregiunea Doi,2,ION ILIESCU,18291540
+840,2000-11-26,president_a,RO2,Macroregiunea Doi,2,ION SASU,141672
+841,2000-11-26,president_a,RO2,Macroregiunea Doi,2,NICULAE CERVENI,112128
+842,2000-11-26,president_a,RO2,Macroregiunea Doi,2,PAUL-PHILIPPE HOHENZOLLERN,187488
+843,2000-11-26,president_a,RO2,Macroregiunea Doi,2,PETRE ROMAN,1052064
+844,2000-11-26,president_a,RO2,Macroregiunea Doi,2,TEODOR VIOREL MELESCANU,748344
+845,2000-11-26,president_a,RO2,Macroregiunea Doi,2,THEODOR DUMITRU STOLOJAN,4310808
+846,2000-11-26,president_a,RO3,Macroregiunea Trei,0,eligible_voters,41779368
+847,2000-11-26,president_a,RO3,Macroregiunea Trei,1,issued_ballots,26721999
+848,2000-11-26,president_a,RO3,Macroregiunea Trei,2,CONSTANTIN MUGUREL ISARESCU,3166758
+849,2000-11-26,president_a,RO3,Macroregiunea Trei,2,CORNELIU VADIM TUDOR,6921036
+850,2000-11-26,president_a,RO3,Macroregiunea Trei,2,GHEORGHE EDUARD MANOLE,307080
+851,2000-11-26,president_a,RO3,Macroregiunea Trei,2,GRAZIELA-ELENA BIRLA,120753
+852,2000-11-26,president_a,RO3,Macroregiunea Trei,2,GYORGY FRUNDA,76977
+853,2000-11-26,president_a,RO3,Macroregiunea Trei,2,ION ILIESCU,10695231
+854,2000-11-26,president_a,RO3,Macroregiunea Trei,2,ION SASU,79830
+855,2000-11-26,president_a,RO3,Macroregiunea Trei,2,NICULAE CERVENI,80622
+856,2000-11-26,president_a,RO3,Macroregiunea Trei,2,PAUL-PHILIPPE HOHENZOLLERN,87687
+857,2000-11-26,president_a,RO3,Macroregiunea Trei,2,PETRE ROMAN,904923
+858,2000-11-26,president_a,RO3,Macroregiunea Trei,2,TEODOR VIOREL MELESCANU,411516
+859,2000-11-26,president_a,RO3,Macroregiunea Trei,2,THEODOR DUMITRU STOLOJAN,3129885
+860,2000-11-26,president_a,RO4,Macroregiunea Patru,0,eligible_voters,31532274
+861,2000-11-26,president_a,RO4,Macroregiunea Patru,1,issued_ballots,20507850
+862,2000-11-26,president_a,RO4,Macroregiunea Patru,2,CONSTANTIN MUGUREL ISARESCU,1825308
+863,2000-11-26,president_a,RO4,Macroregiunea Patru,2,CORNELIU VADIM TUDOR,6370767
+864,2000-11-26,president_a,RO4,Macroregiunea Patru,2,GHEORGHE EDUARD MANOLE,241650
+865,2000-11-26,president_a,RO4,Macroregiunea Patru,2,GRAZIELA-ELENA BIRLA,110970
+866,2000-11-26,president_a,RO4,Macroregiunea Patru,2,GYORGY FRUNDA,450927
+867,2000-11-26,president_a,RO4,Macroregiunea Patru,2,ION ILIESCU,7379208
+868,2000-11-26,president_a,RO4,Macroregiunea Patru,2,ION SASU,81144
+869,2000-11-26,president_a,RO4,Macroregiunea Patru,2,NICULAE CERVENI,56367
+870,2000-11-26,president_a,RO4,Macroregiunea Patru,2,PAUL-PHILIPPE HOHENZOLLERN,120294
+871,2000-11-26,president_a,RO4,Macroregiunea Patru,2,PETRE ROMAN,610362
+872,2000-11-26,president_a,RO4,Macroregiunea Patru,2,TEODOR VIOREL MELESCANU,431388
+873,2000-11-26,president_a,RO4,Macroregiunea Patru,2,THEODOR DUMITRU STOLOJAN,2214495
+874,2000-11-26,president_b,RO1,Macroregiunea Unu,0,eligible_voters,51763884
+875,2000-11-26,president_b,RO1,Macroregiunea Unu,1,issued_ballots,28070820
+876,2000-11-26,president_b,RO1,Macroregiunea Unu,2,CORNELIU VADIM TUDOR,9919956
+877,2000-11-26,president_b,RO1,Macroregiunea Unu,2,ION ILIESCU,17684916
+878,2000-11-26,president_b,RO2,Macroregiunea Doi,0,eligible_voters,62928348
+879,2000-11-26,president_b,RO2,Macroregiunea Doi,1,issued_ballots,38799948
+880,2000-11-26,president_b,RO2,Macroregiunea Doi,2,CORNELIU VADIM TUDOR,11853228
+881,2000-11-26,president_b,RO2,Macroregiunea Doi,2,ION ILIESCU,26357364
+882,2000-11-26,president_b,RO3,Macroregiunea Trei,0,eligible_voters,41819310
+883,2000-11-26,president_b,RO3,Macroregiunea Trei,1,issued_ballots,23353299
+884,2000-11-26,president_b,RO3,Macroregiunea Trei,2,CORNELIU VADIM TUDOR,6753744
+885,2000-11-26,president_b,RO3,Macroregiunea Trei,2,ION ILIESCU,16208127
+886,2000-11-26,president_b,RO4,Macroregiunea Patru,0,eligible_voters,31567329
+887,2000-11-26,president_b,RO4,Macroregiunea Patru,1,issued_ballots,18009081
+888,2000-11-26,president_b,RO4,Macroregiunea Patru,2,CORNELIU VADIM TUDOR,6791553
+889,2000-11-26,president_b,RO4,Macroregiunea Patru,2,ION ILIESCU,10929303
+890,2004-11-28,parliament,RO1,Macroregiunea Unu,0,eligible_voters,53550684
+891,2004-11-28,parliament,RO1,Macroregiunea Unu,1,issued_ballots,30420924
+892,2004-11-28,parliament,RO1,Macroregiunea Unu,2,A-BULGARI,19140
+893,2004-11-28,parliament,RO1,Macroregiunea Unu,2,A-POLONEZI,20244
+894,2004-11-28,parliament,RO1,Macroregiunea Unu,2,A-RROMI,57180
+895,2004-11-28,parliament,RO1,Macroregiunea Unu,2,A-TURCI,10008
+896,2004-11-28,parliament,RO1,Macroregiunea Unu,2,AC-MACEDONENI,11580
+897,2004-11-28,parliament,RO1,Macroregiunea Unu,2,AD,5736
+898,2004-11-28,parliament,RO1,Macroregiunea Unu,2,AMR,28536
+899,2004-11-28,parliament,RO1,Macroregiunea Unu,2,APCD,12576
+900,2004-11-28,parliament,RO1,Macroregiunea Unu,2,AUR,192576
+901,2004-11-28,parliament,RO1,Macroregiunea Unu,2,BRATSTVO,11664
+902,2004-11-28,parliament,RO1,Macroregiunea Unu,2,C-ITALIANA,13200
+903,2004-11-28,parliament,RO1,Macroregiunea Unu,2,C-RUSI LIPOVENI,8532
+904,2004-11-28,parliament,RO1,Macroregiunea Unu,2,D.A. PNL-PD,7833576
+905,2004-11-28,parliament,RO1,Macroregiunea Unu,2,F-EVREI,19524
+906,2004-11-28,parliament,RO1,Macroregiunea Unu,2,FDGR,340740
+907,2004-11-28,parliament,RO1,Macroregiunea Unu,2,FDR,179772
+908,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PAS,66228
+909,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PER,212004
+910,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PM3,47532
+911,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PMR,41628
+912,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PND,35664
+913,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PNDC,58296
+914,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PNG,499992
+915,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PNL-Aripa tânără,10800
+916,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PNTCD,558492
+917,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PO,11472
+918,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PPP,37260
+919,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PPU,203808
+920,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PRM,3240504
+921,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PSD,7420188
+922,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PSDCTP,54360
+923,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PSR,55320
+924,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PSU,104592
+925,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PTD,49044
+926,2004-11-28,parliament,RO1,Macroregiunea Unu,2,PUNR,201876
+927,2004-11-28,parliament,RO1,Macroregiunea Unu,2,RO.AS.IT.,17964
+928,2004-11-28,parliament,RO1,Macroregiunea Unu,2,ROMII,203292
+929,2004-11-28,parliament,RO1,Macroregiunea Unu,2,U- TATARI,2016
+930,2004-11-28,parliament,RO1,Macroregiunea Unu,2,U-CROATI,29376
+931,2004-11-28,parliament,RO1,Macroregiunea Unu,2,U-ELENA,19848
+932,2004-11-28,parliament,RO1,Macroregiunea Unu,2,U-RUTENI,10032
+933,2004-11-28,parliament,RO1,Macroregiunea Unu,2,U-SARBI,1140
+934,2004-11-28,parliament,RO1,Macroregiunea Unu,2,U-SLOVACI,30072
+935,2004-11-28,parliament,RO1,Macroregiunea Unu,2,U-TURCA,17004
+936,2004-11-28,parliament,RO1,Macroregiunea Unu,2,U-UCRAINENI,48312
+937,2004-11-28,parliament,RO1,Macroregiunea Unu,2,UAR,30000
+938,2004-11-28,parliament,RO1,Macroregiunea Unu,2,UBBR,42840
+939,2004-11-28,parliament,RO1,Macroregiunea Unu,2,UCR,7776
+940,2004-11-28,parliament,RO1,Macroregiunea Unu,2,UDMR,6657408
+941,2004-11-28,parliament,RO1,Macroregiunea Unu,2,URR,109752
+942,2004-11-28,parliament,RO1,Macroregiunea Unu,2,UTM,8772
+943,2004-11-28,parliament,RO2,Macroregiunea Doi,0,eligible_voters,65946612
+944,2004-11-28,parliament,RO2,Macroregiunea Doi,1,issued_ballots,39231960
+945,2004-11-28,parliament,RO2,Macroregiunea Doi,2,A-BULGARI,22644
+946,2004-11-28,parliament,RO2,Macroregiunea Doi,2,A-POLONEZI,20088
+947,2004-11-28,parliament,RO2,Macroregiunea Doi,2,A-RROMI,38880
+948,2004-11-28,parliament,RO2,Macroregiunea Doi,2,A-TURCI,42624
+949,2004-11-28,parliament,RO2,Macroregiunea Doi,2,AC-MACEDONENI,17028
+950,2004-11-28,parliament,RO2,Macroregiunea Doi,2,AD,41844
+951,2004-11-28,parliament,RO2,Macroregiunea Doi,2,AMR,36720
+952,2004-11-28,parliament,RO2,Macroregiunea Doi,2,APCD,88404
+953,2004-11-28,parliament,RO2,Macroregiunea Doi,2,AUR,132780
+954,2004-11-28,parliament,RO2,Macroregiunea Doi,2,BRATSTVO,12468
+955,2004-11-28,parliament,RO2,Macroregiunea Doi,2,C-ITALIANA,21108
+956,2004-11-28,parliament,RO2,Macroregiunea Doi,2,C-RUSI LIPOVENI,100068
+957,2004-11-28,parliament,RO2,Macroregiunea Doi,2,D.A. PNL-PD,11088000
+958,2004-11-28,parliament,RO2,Macroregiunea Doi,2,F-EVREI,39408
+959,2004-11-28,parliament,RO2,Macroregiunea Doi,2,FDGR,15564
+960,2004-11-28,parliament,RO2,Macroregiunea Doi,2,FDR,247560
+961,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PAS,102780
+962,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PER,297588
+963,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PM3,66132
+964,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PMR,125592
+965,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PND,109980
+966,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PNDC,126888
+967,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PNG,885408
+968,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PNL-Aripa tânără,17532
+969,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PNTCD,379968
+970,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PO,38184
+971,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PPP,53292
+972,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PPR,2952
+973,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PPU,88428
+974,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PRM,4886196
+975,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PSD,15944340
+976,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PSDCTP,83592
+977,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PSR,141768
+978,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PSU,207792
+979,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PTD,63696
+980,2004-11-28,parliament,RO2,Macroregiunea Doi,2,PUNR,178224
+981,2004-11-28,parliament,RO2,Macroregiunea Doi,2,RO.AS.IT.,29700
+982,2004-11-28,parliament,RO2,Macroregiunea Doi,2,ROMII,193932
+983,2004-11-28,parliament,RO2,Macroregiunea Doi,2,U- TATARI,66336
+984,2004-11-28,parliament,RO2,Macroregiunea Doi,2,U-CROATI,34920
+985,2004-11-28,parliament,RO2,Macroregiunea Doi,2,U-ELENA,30528
+986,2004-11-28,parliament,RO2,Macroregiunea Doi,2,U-RUTENI,10800
+987,2004-11-28,parliament,RO2,Macroregiunea Doi,2,U-TURCA,53688
+988,2004-11-28,parliament,RO2,Macroregiunea Doi,2,U-UCRAINENI,39924
+989,2004-11-28,parliament,RO2,Macroregiunea Doi,2,UAR,45672
+990,2004-11-28,parliament,RO2,Macroregiunea Doi,2,UBBR,43308
+991,2004-11-28,parliament,RO2,Macroregiunea Doi,2,UCR,16800
+992,2004-11-28,parliament,RO2,Macroregiunea Doi,2,UDMR,79740
+993,2004-11-28,parliament,RO2,Macroregiunea Doi,2,UFD,10536
+994,2004-11-28,parliament,RO2,Macroregiunea Doi,2,URR,116112
+995,2004-11-28,parliament,RO2,Macroregiunea Doi,2,UTM,50100
+996,2004-11-28,parliament,RO3,Macroregiunea Trei,0,eligible_voters,43703667
+997,2004-11-28,parliament,RO3,Macroregiunea Trei,1,issued_ballots,25700202
+998,2004-11-28,parliament,RO3,Macroregiunea Trei,2,A-BULGARI,16056
+999,2004-11-28,parliament,RO3,Macroregiunea Trei,2,A-POLONEZI,9504
+1000,2004-11-28,parliament,RO3,Macroregiunea Trei,2,A-RROMI,36153
+1001,2004-11-28,parliament,RO3,Macroregiunea Trei,2,A-TURCI,12213
+1002,2004-11-28,parliament,RO3,Macroregiunea Trei,2,AC-MACEDONENI,2502
+1003,2004-11-28,parliament,RO3,Macroregiunea Trei,2,AD,9981
+1004,2004-11-28,parliament,RO3,Macroregiunea Trei,2,AMR,21141
+1005,2004-11-28,parliament,RO3,Macroregiunea Trei,2,APCD,55206
+1006,2004-11-28,parliament,RO3,Macroregiunea Trei,2,AUR,119583
+1007,2004-11-28,parliament,RO3,Macroregiunea Trei,2,BRATSTVO,7272
+1008,2004-11-28,parliament,RO3,Macroregiunea Trei,2,C-ITALIANA,10719
+1009,2004-11-28,parliament,RO3,Macroregiunea Trei,2,C-RUSI LIPOVENI,8604
+1010,2004-11-28,parliament,RO3,Macroregiunea Trei,2,D.A. PNL-PD,9050940
+1011,2004-11-28,parliament,RO3,Macroregiunea Trei,2,F-EVREI,18963
+1012,2004-11-28,parliament,RO3,Macroregiunea Trei,2,FDGR,9252
+1013,2004-11-28,parliament,RO3,Macroregiunea Trei,2,FDR,258327
+1014,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PAS,61128
+1015,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PER,132003
+1016,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PM3,31185
+1017,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PMR,121104
+1018,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PND,49617
+1019,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PNDC,49140
+1020,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PNG,593730
+1021,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PNL-Aripa tânără,15642
+1022,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PNTCD,362754
+1023,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PO,7200
+1024,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PPP,38817
+1025,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PPR,18072
+1026,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PPU,7587
+1027,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PRM,3023982
+1028,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PSD,9518805
+1029,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PSDCTP,39501
+1030,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PSR,79767
+1031,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PSU,80478
+1032,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PTD,28665
+1033,2004-11-28,parliament,RO3,Macroregiunea Trei,2,PUNR,92835
+1034,2004-11-28,parliament,RO3,Macroregiunea Trei,2,RO.AS.IT.,9468
+1035,2004-11-28,parliament,RO3,Macroregiunea Trei,2,ROMII,116406
+1036,2004-11-28,parliament,RO3,Macroregiunea Trei,2,U- TATARI,3744
+1037,2004-11-28,parliament,RO3,Macroregiunea Trei,2,U-CROATI,17010
+1038,2004-11-28,parliament,RO3,Macroregiunea Trei,2,U-ELENA,17028
+1039,2004-11-28,parliament,RO3,Macroregiunea Trei,2,U-RUTENI,3555
+1040,2004-11-28,parliament,RO3,Macroregiunea Trei,2,U-SARBI,3051
+1041,2004-11-28,parliament,RO3,Macroregiunea Trei,2,U-SLOVACI,1404
+1042,2004-11-28,parliament,RO3,Macroregiunea Trei,2,U-TURCA,7920
+1043,2004-11-28,parliament,RO3,Macroregiunea Trei,2,U-UCRAINENI,11754
+1044,2004-11-28,parliament,RO3,Macroregiunea Trei,2,UAR,18198
+1045,2004-11-28,parliament,RO3,Macroregiunea Trei,2,UBBR,16731
+1046,2004-11-28,parliament,RO3,Macroregiunea Trei,2,UCR,15858
+1047,2004-11-28,parliament,RO3,Macroregiunea Trei,2,UDMR,146214
+1048,2004-11-28,parliament,RO3,Macroregiunea Trei,2,URR,60003
+1049,2004-11-28,parliament,RO3,Macroregiunea Trei,2,UTM,5805
+1050,2004-11-28,parliament,RO4,Macroregiunea Patru,0,eligible_voters,32674257
+1051,2004-11-28,parliament,RO4,Macroregiunea Patru,1,issued_ballots,18844191
+1052,2004-11-28,parliament,RO4,Macroregiunea Patru,2,A-BULGARI,8712
+1053,2004-11-28,parliament,RO4,Macroregiunea Patru,2,A-POLONEZI,6462
+1054,2004-11-28,parliament,RO4,Macroregiunea Patru,2,A-RROMI,26811
+1055,2004-11-28,parliament,RO4,Macroregiunea Patru,2,A-TURCI,14742
+1056,2004-11-28,parliament,RO4,Macroregiunea Patru,2,AC-MACEDONENI,62370
+1057,2004-11-28,parliament,RO4,Macroregiunea Patru,2,AD,11340
+1058,2004-11-28,parliament,RO4,Macroregiunea Patru,2,AMR,17460
+1059,2004-11-28,parliament,RO4,Macroregiunea Patru,2,APCD,36405
+1060,2004-11-28,parliament,RO4,Macroregiunea Patru,2,AUR,68166
+1061,2004-11-28,parliament,RO4,Macroregiunea Patru,2,BRATSTVO,11133
+1062,2004-11-28,parliament,RO4,Macroregiunea Patru,2,C-ITALIANA,10035
+1063,2004-11-28,parliament,RO4,Macroregiunea Patru,2,C-RUSI LIPOVENI,4725
+1064,2004-11-28,parliament,RO4,Macroregiunea Patru,2,D.A. PNL-PD,5301432
+1065,2004-11-28,parliament,RO4,Macroregiunea Patru,2,F-EVREI,10962
+1066,2004-11-28,parliament,RO4,Macroregiunea Patru,2,FDGR,48078
+1067,2004-11-28,parliament,RO4,Macroregiunea Patru,2,FDR,132903
+1068,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PAS,67410
+1069,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PER,138483
+1070,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PM3,19323
+1071,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PMR,69849
+1072,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PND,28791
+1073,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PNDC,58383
+1074,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PNG,411534
+1075,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PNL-Aripa tânără,8082
+1076,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PNTCD,611226
+1077,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PO,4752
+1078,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PPP,26271
+1079,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PPU,238050
+1080,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PRM,2703501
+1081,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PSD,6452361
+1082,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PSDCTP,39042
+1083,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PSR,24381
+1084,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PSU,85185
+1085,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PTD,32391
+1086,2004-11-28,parliament,RO4,Macroregiunea Patru,2,PUNR,99747
+1087,2004-11-28,parliament,RO4,Macroregiunea Patru,2,RO.AS.IT.,10206
+1088,2004-11-28,parliament,RO4,Macroregiunea Patru,2,ROMII,89946
+1089,2004-11-28,parliament,RO4,Macroregiunea Patru,2,U- TATARI,2529
+1090,2004-11-28,parliament,RO4,Macroregiunea Patru,2,U-CROATI,27621
+1091,2004-11-28,parliament,RO4,Macroregiunea Patru,2,U-ELENA,9387
+1092,2004-11-28,parliament,RO4,Macroregiunea Patru,2,U-RUTENI,6660
+1093,2004-11-28,parliament,RO4,Macroregiunea Patru,2,U-SARBI,55827
+1094,2004-11-28,parliament,RO4,Macroregiunea Patru,2,U-SLOVACI,29358
+1095,2004-11-28,parliament,RO4,Macroregiunea Patru,2,U-TURCA,8433
+1096,2004-11-28,parliament,RO4,Macroregiunea Patru,2,U-UCRAINENI,19773
+1097,2004-11-28,parliament,RO4,Macroregiunea Patru,2,UAR,13122
+1098,2004-11-28,parliament,RO4,Macroregiunea Patru,2,UBBR,56133
+1099,2004-11-28,parliament,RO4,Macroregiunea Patru,2,UCR,35505
+1100,2004-11-28,parliament,RO4,Macroregiunea Patru,2,UDMR,425727
+1101,2004-11-28,parliament,RO4,Macroregiunea Patru,2,UFD,2205
+1102,2004-11-28,parliament,RO4,Macroregiunea Patru,2,URR,63495
+1103,2004-11-28,parliament,RO4,Macroregiunea Patru,2,UTM,8640
+1104,2004-11-28,president_a,RO1,Macroregiunea Unu,0,eligible_voters,53550684
+1105,2004-11-28,president_a,RO1,Macroregiunea Unu,1,issued_ballots,30420924
+1106,2004-11-28,president_a,RO1,Macroregiunea Unu,2,ADRIAN NASTASE,9135996
+1107,2004-11-28,president_a,RO1,Macroregiunea Unu,2,ALEXANDRU RAJ TUNARU,64428
+1108,2004-11-28,president_a,RO1,Macroregiunea Unu,2,AUREL RADULESCU,79476
+1109,2004-11-28,president_a,RO1,Macroregiunea Unu,2,CORNELIU VADIM TUDOR,3104460
+1110,2004-11-28,president_a,RO1,Macroregiunea Unu,2,GEORGE BECALI,442920
+1111,2004-11-28,president_a,RO1,Macroregiunea Unu,2,GHEORGHE CORIOLAN CIUHANDU,559992
+1112,2004-11-28,president_a,RO1,Macroregiunea Unu,2,GHEORGHE DINU,266412
+1113,2004-11-28,president_a,RO1,Macroregiunea Unu,2,MARIAN PETRE MILUT,122184
+1114,2004-11-28,president_a,RO1,Macroregiunea Unu,2,MARKO BELA,5899524
+1115,2004-11-28,president_a,RO1,Macroregiunea Unu,2,OVIDIU TUDORICI,109740
+1116,2004-11-28,president_a,RO1,Macroregiunea Unu,2,PETRE ROMAN,354720
+1117,2004-11-28,president_a,RO1,Macroregiunea Unu,2,TRAIAN BASESCU,9413700
+1118,2004-11-28,president_a,RO2,Macroregiunea Doi,0,eligible_voters,65946612
+1119,2004-11-28,president_a,RO2,Macroregiunea Doi,1,issued_ballots,39231960
+1120,2004-11-28,president_a,RO2,Macroregiunea Doi,2,ADRIAN NASTASE,18076332
+1121,2004-11-28,president_a,RO2,Macroregiunea Doi,2,ALEXANDRU RAJ TUNARU,111876
+1122,2004-11-28,president_a,RO2,Macroregiunea Doi,2,AUREL RADULESCU,171492
+1123,2004-11-28,president_a,RO2,Macroregiunea Doi,2,CORNELIU VADIM TUDOR,4867044
+1124,2004-11-28,president_a,RO2,Macroregiunea Doi,2,GEORGE BECALI,660312
+1125,2004-11-28,president_a,RO2,Macroregiunea Doi,2,GHEORGHE CORIOLAN CIUHANDU,316920
+1126,2004-11-28,president_a,RO2,Macroregiunea Doi,2,GHEORGHE DINU,458820
+1127,2004-11-28,president_a,RO2,Macroregiunea Doi,2,MARIAN PETRE MILUT,138960
+1128,2004-11-28,president_a,RO2,Macroregiunea Doi,2,MARKO BELA,54936
+1129,2004-11-28,president_a,RO2,Macroregiunea Doi,2,OVIDIU TUDORICI,163692
+1130,2004-11-28,president_a,RO2,Macroregiunea Doi,2,PETRE ROMAN,471300
+1131,2004-11-28,president_a,RO2,Macroregiunea Doi,2,TRAIAN BASESCU,12229848
+1132,2004-11-28,president_a,RO3,Macroregiunea Trei,0,eligible_voters,43703667
+1133,2004-11-28,president_a,RO3,Macroregiunea Trei,1,issued_ballots,25700202
+1134,2004-11-28,president_a,RO3,Macroregiunea Trei,2,ADRIAN NASTASE,10576206
+1135,2004-11-28,president_a,RO3,Macroregiunea Trei,2,ALEXANDRU RAJ TUNARU,54531
+1136,2004-11-28,president_a,RO3,Macroregiunea Trei,2,AUREL RADULESCU,67887
+1137,2004-11-28,president_a,RO3,Macroregiunea Trei,2,CORNELIU VADIM TUDOR,2975175
+1138,2004-11-28,president_a,RO3,Macroregiunea Trei,2,GEORGE BECALI,537156
+1139,2004-11-28,president_a,RO3,Macroregiunea Trei,2,GHEORGHE CORIOLAN CIUHANDU,353484
+1140,2004-11-28,president_a,RO3,Macroregiunea Trei,2,GHEORGHE DINU,280314
+1141,2004-11-28,president_a,RO3,Macroregiunea Trei,2,MARIAN PETRE MILUT,125172
+1142,2004-11-28,president_a,RO3,Macroregiunea Trei,2,MARKO BELA,33759
+1143,2004-11-28,president_a,RO3,Macroregiunea Trei,2,OVIDIU TUDORICI,66906
+1144,2004-11-28,president_a,RO3,Macroregiunea Trei,2,PETRE ROMAN,420003
+1145,2004-11-28,president_a,RO3,Macroregiunea Trei,2,TRAIAN BASESCU,9516528
+1146,2004-11-28,president_a,RO4,Macroregiunea Patru,0,eligible_voters,32674257
+1147,2004-11-28,president_a,RO4,Macroregiunea Patru,1,issued_ballots,18844191
+1148,2004-11-28,president_a,RO4,Macroregiunea Patru,2,ADRIAN NASTASE,7430112
+1149,2004-11-28,president_a,RO4,Macroregiunea Patru,2,ALEXANDRU RAJ TUNARU,57789
+1150,2004-11-28,president_a,RO4,Macroregiunea Patru,2,AUREL RADULESCU,62433
+1151,2004-11-28,president_a,RO4,Macroregiunea Patru,2,CORNELIU VADIM TUDOR,2845827
+1152,2004-11-28,president_a,RO4,Macroregiunea Patru,2,GEORGE BECALI,293589
+1153,2004-11-28,president_a,RO4,Macroregiunea Patru,2,GHEORGHE CORIOLAN CIUHANDU,759105
+1154,2004-11-28,president_a,RO4,Macroregiunea Patru,2,GHEORGHE DINU,193509
+1155,2004-11-28,president_a,RO4,Macroregiunea Patru,2,MARIAN PETRE MILUT,67896
+1156,2004-11-28,president_a,RO4,Macroregiunea Patru,2,MARKO BELA,280719
+1157,2004-11-28,president_a,RO4,Macroregiunea Patru,2,OVIDIU TUDORICI,68328
+1158,2004-11-28,president_a,RO4,Macroregiunea Patru,2,PETRE ROMAN,221013
+1159,2004-11-28,president_a,RO4,Macroregiunea Patru,2,TRAIAN BASESCU,5960052
+1160,2004-11-28,president_b,RO1,Macroregiunea Unu,0,eligible_voters,53290428
+1161,2004-11-28,president_b,RO1,Macroregiunea Unu,1,issued_ballots,27039024
+1162,2004-11-28,president_b,RO1,Macroregiunea Unu,2,ADRIAN NASTASE,12497340
+1163,2004-11-28,president_b,RO1,Macroregiunea Unu,2,TRAIAN BASESCU,14291592
+1164,2004-11-28,president_b,RO2,Macroregiunea Doi,0,eligible_voters,65474868
+1165,2004-11-28,president_b,RO2,Macroregiunea Doi,1,issued_ballots,37749768
+1166,2004-11-28,president_b,RO2,Macroregiunea Doi,2,ADRIAN NASTASE,19858836
+1167,2004-11-28,president_b,RO2,Macroregiunea Doi,2,TRAIAN BASESCU,17459796
+1168,2004-11-28,president_b,RO3,Macroregiunea Trei,0,eligible_voters,43335954
+1169,2004-11-28,president_b,RO3,Macroregiunea Trei,1,issued_ballots,24437790
+1170,2004-11-28,president_b,RO3,Macroregiunea Trei,2,ADRIAN NASTASE,11304819
+1171,2004-11-28,president_b,RO3,Macroregiunea Trei,2,TRAIAN BASESCU,12889611
+1172,2004-11-28,president_b,RO4,Macroregiunea Patru,0,eligible_voters,32411187
+1173,2004-11-28,president_b,RO4,Macroregiunea Patru,1,issued_ballots,17619633
+1174,2004-11-28,president_b,RO4,Macroregiunea Patru,2,ADRIAN NASTASE,8261397
+1175,2004-11-28,president_b,RO4,Macroregiunea Patru,2,TRAIAN BASESCU,9178452
+1176,2007-11-25,european,RO1,Macroregiunea Unu,0,eligible_voters,53383188
+1177,2007-11-25,european,RO1,Macroregiunea Unu,1,issued_ballots,16886952
+1178,2007-11-25,european,RO1,Macroregiunea Unu,2,CANDIDAT INDEPENDENT,1830624
+1179,2007-11-25,european,RO1,Macroregiunea Unu,2,PAS,85008
+1180,2007-11-25,european,RO1,Macroregiunea Unu,2,PC,293880
+1181,2007-11-25,european,RO1,Macroregiunea Unu,2,PD,4141620
+1182,2007-11-25,european,RO1,Macroregiunea Unu,2,PIN,355512
+1183,2007-11-25,european,RO1,Macroregiunea Unu,2,PLD,799164
+1184,2007-11-25,european,RO1,Macroregiunea Unu,2,PNG-CD,551748
+1185,2007-11-25,european,RO1,Macroregiunea Unu,2,PNL,1693476
+1186,2007-11-25,european,RO1,Macroregiunea Unu,2,PNTCD,222444
+1187,2007-11-25,european,RO1,Macroregiunea Unu,2,PRM,618456
+1188,2007-11-25,european,RO1,Macroregiunea Unu,2,PRPE,180624
+1189,2007-11-25,european,RO1,Macroregiunea Unu,2,PSD,2402088
+1190,2007-11-25,european,RO1,Macroregiunea Unu,2,PV,50676
+1191,2007-11-25,european,RO1,Macroregiunea Unu,2,UDMR,3016068
+1192,2007-11-25,european,RO2,Macroregiunea Doi,0,eligible_voters,65173476
+1193,2007-11-25,european,RO2,Macroregiunea Doi,1,issued_ballots,19950312
+1194,2007-11-25,european,RO2,Macroregiunea Doi,2,CANDIDAT INDEPENDENT,120576
+1195,2007-11-25,european,RO2,Macroregiunea Doi,2,PAS,134304
+1196,2007-11-25,european,RO2,Macroregiunea Doi,2,PC,615144
+1197,2007-11-25,european,RO2,Macroregiunea Doi,2,PD,4985196
+1198,2007-11-25,european,RO2,Macroregiunea Doi,2,PIN,478092
+1199,2007-11-25,european,RO2,Macroregiunea Doi,2,PLD,1932036
+1200,2007-11-25,european,RO2,Macroregiunea Doi,2,PNG-CD,961716
+1201,2007-11-25,european,RO2,Macroregiunea Doi,2,PNL,2806992
+1202,2007-11-25,european,RO2,Macroregiunea Doi,2,PNTCD,174972
+1203,2007-11-25,european,RO2,Macroregiunea Doi,2,PRM,802776
+1204,2007-11-25,european,RO2,Macroregiunea Doi,2,PRPE,215304
+1205,2007-11-25,european,RO2,Macroregiunea Doi,2,PSD,5470728
+1206,2007-11-25,european,RO2,Macroregiunea Doi,2,PV,75960
+1207,2007-11-25,european,RO2,Macroregiunea Doi,2,UDMR,49956
+1208,2007-11-25,european,RO3,Macroregiunea Trei,0,eligible_voters,42973596
+1209,2007-11-25,european,RO3,Macroregiunea Trei,1,issued_ballots,11071134
+1210,2007-11-25,european,RO3,Macroregiunea Trei,2,CANDIDAT INDEPENDENT,42714
+1211,2007-11-25,european,RO3,Macroregiunea Trei,2,PAS,45081
+1212,2007-11-25,european,RO3,Macroregiunea Trei,2,PC,368046
+1213,2007-11-25,european,RO3,Macroregiunea Trei,2,PD,3345633
+1214,2007-11-25,european,RO3,Macroregiunea Trei,2,PIN,277326
+1215,2007-11-25,european,RO3,Macroregiunea Trei,2,PLD,938304
+1216,2007-11-25,european,RO3,Macroregiunea Trei,2,PNG-CD,674847
+1217,2007-11-25,european,RO3,Macroregiunea Trei,2,PNL,1553814
+1218,2007-11-25,european,RO3,Macroregiunea Trei,2,PNTCD,168300
+1219,2007-11-25,european,RO3,Macroregiunea Trei,2,PRM,417096
+1220,2007-11-25,european,RO3,Macroregiunea Trei,2,PRPE,134343
+1221,2007-11-25,european,RO3,Macroregiunea Trei,2,PSD,2528460
+1222,2007-11-25,european,RO3,Macroregiunea Trei,2,PV,48501
+1223,2007-11-25,european,RO3,Macroregiunea Trei,2,UDMR,32256
+1224,2007-11-25,european,RO4,Macroregiunea Patru,0,eligible_voters,32130279
+1225,2007-11-25,european,RO4,Macroregiunea Patru,1,issued_ballots,9429444
+1226,2007-11-25,european,RO4,Macroregiunea Patru,2,CANDIDAT INDEPENDENT,65439
+1227,2007-11-25,european,RO4,Macroregiunea Patru,2,PAS,46305
+1228,2007-11-25,european,RO4,Macroregiunea Patru,2,PC,301410
+1229,2007-11-25,european,RO4,Macroregiunea Patru,2,PD,3006108
+1230,2007-11-25,european,RO4,Macroregiunea Patru,2,PIN,216018
+1231,2007-11-25,european,RO4,Macroregiunea Patru,2,PLD,582075
+1232,2007-11-25,european,RO4,Macroregiunea Patru,2,PNG-CD,423297
+1233,2007-11-25,european,RO4,Macroregiunea Patru,2,PNL,1249965
+1234,2007-11-25,european,RO4,Macroregiunea Patru,2,PNTCD,167571
+1235,2007-11-25,european,RO4,Macroregiunea Patru,2,PRM,424017
+1236,2007-11-25,european,RO4,Macroregiunea Patru,2,PRPE,97560
+1237,2007-11-25,european,RO4,Macroregiunea Patru,2,PSD,2205441
+1238,2007-11-25,european,RO4,Macroregiunea Patru,2,PV,32472
+1239,2007-11-25,european,RO4,Macroregiunea Patru,2,UDMR,209043
+1240,2008-11-30,parliament,RO1,Macroregiunea Unu,0,eligible_voters,53913240
+1241,2008-11-30,parliament,RO1,Macroregiunea Unu,1,issued_ballots,20959236
+1242,2008-11-30,parliament,RO1,Macroregiunea Unu,2,A-Albanezi,14784
+1243,2008-11-30,parliament,RO1,Macroregiunea Unu,2,A-Macedoni,21780
+1244,2008-11-30,parliament,RO1,Macroregiunea Unu,2,C-Rusi,13092
+1245,2008-11-30,parliament,RO1,Macroregiunea Unu,2,FC-Evrei,34344
+1246,2008-11-30,parliament,RO1,Macroregiunea Unu,2,FDGR,121848
+1247,2008-11-30,parliament,RO1,Macroregiunea Unu,2,PD,5963232
+1248,2008-11-30,parliament,RO1,Macroregiunea Unu,2,PHR,141240
+1249,2008-11-30,parliament,RO1,Macroregiunea Unu,2,PNG,355536
+1250,2008-11-30,parliament,RO1,Macroregiunea Unu,2,PNL,3412308
+1251,2008-11-30,parliament,RO1,Macroregiunea Unu,2,PPPS,8412
+1252,2008-11-30,parliament,RO1,Macroregiunea Unu,2,PPU,200388
+1253,2008-11-30,parliament,RO1,Macroregiunea Unu,2,PRM,629184
+1254,2008-11-30,parliament,RO1,Macroregiunea Unu,2,PSD,4241916
+1255,2008-11-30,parliament,RO1,Macroregiunea Unu,2,PVE,56664
+1256,2008-11-30,parliament,RO1,Macroregiunea Unu,2,RO.AS.IT,18168
+1257,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Armeni,26424
+1258,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Croati,17904
+1259,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Eleni,19152
+1260,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Polonezi,11052
+1261,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Ruteni,12072
+1262,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Sirbi,12636
+1263,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Slovaci,57504
+1264,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Tatari,16536
+1265,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Turca,16260
+1266,2008-11-30,parliament,RO1,Macroregiunea Unu,2,U-Ucrainen,26160
+1267,2008-11-30,parliament,RO1,Macroregiunea Unu,2,UBBR,33864
+1268,2008-11-30,parliament,RO1,Macroregiunea Unu,2,UDMR,4616688
+1269,2008-11-30,parliament,RO2,Macroregiunea Doi,0,eligible_voters,66028992
+1270,2008-11-30,parliament,RO2,Macroregiunea Doi,1,issued_ballots,26520900
+1271,2008-11-30,parliament,RO2,Macroregiunea Doi,2,A-Albanezi,45024
+1272,2008-11-30,parliament,RO2,Macroregiunea Doi,2,A-Macedoni,73056
+1273,2008-11-30,parliament,RO2,Macroregiunea Doi,2,C-Rusi,69876
+1274,2008-11-30,parliament,RO2,Macroregiunea Doi,2,FC-Evrei,135324
+1275,2008-11-30,parliament,RO2,Macroregiunea Doi,2,FDGR,65724
+1276,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PD,7706604
+1277,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PHR,200172
+1278,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PNDC,3792
+1279,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PNG,534492
+1280,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PNL,4704096
+1281,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PPPS,46236
+1282,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PPU,50112
+1283,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PRM,756672
+1284,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PSD,9857688
+1285,2008-11-30,parliament,RO2,Macroregiunea Doi,2,PVE,33456
+1286,2008-11-30,parliament,RO2,Macroregiunea Doi,2,RO.AS.IT,51876
+1287,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Armeni,58980
+1288,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Croati,41580
+1289,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Eleni,43140
+1290,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Polonezi,59700
+1291,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Ruteni,17172
+1292,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Sirbi,33660
+1293,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Slovaci,64380
+1294,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Tatari,90516
+1295,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Turca,60780
+1296,2008-11-30,parliament,RO2,Macroregiunea Doi,2,U-Ucrainen,42756
+1297,2008-11-30,parliament,RO2,Macroregiunea Doi,2,UBBR,61884
+1298,2008-11-30,parliament,RO2,Macroregiunea Doi,2,UDMR,58656
+1299,2008-11-30,parliament,RO3,Macroregiunea Trei,0,eligible_voters,43532118
+1300,2008-11-30,parliament,RO3,Macroregiunea Trei,1,issued_ballots,16184817
+1301,2008-11-30,parliament,RO3,Macroregiunea Trei,2,A-Albanezi,15354
+1302,2008-11-30,parliament,RO3,Macroregiunea Trei,2,A-Macedoni,18270
+1303,2008-11-30,parliament,RO3,Macroregiunea Trei,2,C-Rusi,11610
+1304,2008-11-30,parliament,RO3,Macroregiunea Trei,2,FC-Evrei,41220
+1305,2008-11-30,parliament,RO3,Macroregiunea Trei,2,FDGR,25875
+1306,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PD,5351004
+1307,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PHR,76167
+1308,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PNG,504072
+1309,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PNL,3183552
+1310,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PPPS,33111
+1311,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PPU,54558
+1312,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PRE,783
+1313,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PRM,520317
+1314,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PSD,5310414
+1315,2008-11-30,parliament,RO3,Macroregiunea Trei,2,PVE,40086
+1316,2008-11-30,parliament,RO3,Macroregiunea Trei,2,RO.AS.IT,19224
+1317,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Armeni,39024
+1318,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Croati,19413
+1319,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Eleni,22617
+1320,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Polonezi,9405
+1321,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Ruteni,5949
+1322,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Sirbi,19719
+1323,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Slovaci,18414
+1324,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Tatari,13410
+1325,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Turca,13437
+1326,2008-11-30,parliament,RO3,Macroregiunea Trei,2,U-Ucrainen,14742
+1327,2008-11-30,parliament,RO3,Macroregiunea Trei,2,UBBR,15480
+1328,2008-11-30,parliament,RO3,Macroregiunea Trei,2,UDMR,35361
+1329,2008-11-30,parliament,RO4,Macroregiunea Patru,0,eligible_voters,32473602
+1330,2008-11-30,parliament,RO4,Macroregiunea Patru,1,issued_ballots,13138848
+1331,2008-11-30,parliament,RO4,Macroregiunea Patru,2,A-Albanezi,18729
+1332,2008-11-30,parliament,RO4,Macroregiunea Patru,2,A-Macedoni,16569
+1333,2008-11-30,parliament,RO4,Macroregiunea Patru,2,C-Rusi,8622
+1334,2008-11-30,parliament,RO4,Macroregiunea Patru,2,FC-Evrei,31518
+1335,2008-11-30,parliament,RO4,Macroregiunea Patru,2,FDGR,40743
+1336,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PD,4357728
+1337,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PHR,63405
+1338,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PNG,234315
+1339,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PNL,2195712
+1340,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PPPS,1395
+1341,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PPU,9603
+1342,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PRM,389475
+1343,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PSD,4597749
+1344,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PSR,5265
+1345,2008-11-30,parliament,RO4,Macroregiunea Patru,2,PVE,56835
+1346,2008-11-30,parliament,RO4,Macroregiunea Patru,2,RO.AS.IT,13437
+1347,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Armeni,20205
+1348,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Croati,17226
+1349,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Eleni,10233
+1350,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Polonezi,6363
+1351,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Ruteni,12663
+1352,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Sirbi,43245
+1353,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Slovaci,28413
+1354,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Tatari,12681
+1355,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Turca,13905
+1356,2008-11-30,parliament,RO4,Macroregiunea Patru,2,U-Ucrainen,17442
+1357,2008-11-30,parliament,RO4,Macroregiunea Patru,2,UBBR,38862
+1358,2008-11-30,parliament,RO4,Macroregiunea Patru,2,UDMR,274266
+1359,2009-06-07,european,RO1,Macroregiunea Unu,0,eligible_voters,53326944
+1360,2009-06-07,european,RO1,Macroregiunea Unu,1,issued_ballots,15762192
+1361,2009-06-07,european,RO1,Macroregiunea Unu,2,CANDIDAT INDEPENDENT,669684
+1362,2009-06-07,european,RO1,Macroregiunea Unu,2,PD,3750948
+1363,2009-06-07,european,RO1,Macroregiunea Unu,2,PNL,1796856
+1364,2009-06-07,european,RO1,Macroregiunea Unu,2,PNTCD,209808
+1365,2009-06-07,european,RO1,Macroregiunea Unu,2,PRM,974340
+1366,2009-06-07,european,RO1,Macroregiunea Unu,2,PSD,3050316
+1367,2009-06-07,european,RO1,Macroregiunea Unu,2,UDMR,4766424
+1368,2009-06-07,european,RO2,Macroregiunea Doi,0,eligible_voters,65051784
+1369,2009-06-07,european,RO2,Macroregiunea Doi,1,issued_ballots,16630752
+1370,2009-06-07,european,RO2,Macroregiunea Doi,2,CANDIDAT INDEPENDENT,1015488
+1371,2009-06-07,european,RO2,Macroregiunea Doi,2,PD,4807416
+1372,2009-06-07,european,RO2,Macroregiunea Doi,2,PNL,2474976
+1373,2009-06-07,european,RO2,Macroregiunea Doi,2,PNTCD,200988
+1374,2009-06-07,european,RO2,Macroregiunea Doi,2,PRM,1462836
+1375,2009-06-07,european,RO2,Macroregiunea Doi,2,PSD,5714256
+1376,2009-06-07,european,RO2,Macroregiunea Doi,2,UDMR,49596
+1377,2009-06-07,european,RO3,Macroregiunea Trei,0,eligible_voters,42958800
+1378,2009-06-07,european,RO3,Macroregiunea Trei,1,issued_ballots,11470311
+1379,2009-06-07,european,RO3,Macroregiunea Trei,2,CANDIDAT INDEPENDENT,580833
+1380,2009-06-07,european,RO3,Macroregiunea Trei,2,PD,3462381
+1381,2009-06-07,european,RO3,Macroregiunea Trei,2,PNL,1787436
+1382,2009-06-07,european,RO3,Macroregiunea Trei,2,PNTCD,180918
+1383,2009-06-07,european,RO3,Macroregiunea Trei,2,PRM,1145565
+1384,2009-06-07,european,RO3,Macroregiunea Trei,2,PSD,3785238
+1385,2009-06-07,european,RO3,Macroregiunea Trei,2,UDMR,29916
+1386,2009-06-07,european,RO4,Macroregiunea Patru,0,eligible_voters,32032998
+1387,2009-06-07,european,RO4,Macroregiunea Patru,1,issued_ballots,9423702
+1388,2009-06-07,european,RO4,Macroregiunea Patru,2,CANDIDAT INDEPENDENT,427203
+1389,2009-06-07,european,RO4,Macroregiunea Patru,2,PD,3014838
+1390,2009-06-07,european,RO4,Macroregiunea Patru,2,PNL,1316025
+1391,2009-06-07,european,RO4,Macroregiunea Patru,2,PNTCD,142299
+1392,2009-06-07,european,RO4,Macroregiunea Patru,2,PRM,785952
+1393,2009-06-07,european,RO4,Macroregiunea Patru,2,PSD,3160863
+1394,2009-06-07,european,RO4,Macroregiunea Patru,2,UDMR,234846
+1395,2009-11-22,president_a,RO1,Macroregiunea Unu,0,eligible_voters,53611740
+1396,2009-11-22,president_a,RO1,Macroregiunea Unu,1,issued_ballots,27614976
+1397,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Constantin Ninel Potarca,74172
+1398,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Constantin Rotaru,114492
+1399,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Corneliu Vadim Tudor,1183968
+1400,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Crin Antonescu,5251524
+1401,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Gheorghe-Eduard Manole,83640
+1402,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Hunor Kelemen,4095684
+1403,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Mircea Geoana,5660244
+1404,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Ovidiu Cristian Iane,73428
+1405,2009-11-22,president_a,RO1,Macroregiunea Unu,2,PNG,416652
+1406,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Remus Cernea,187896
+1407,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Sorin Oprescu,559032
+1408,2009-11-22,president_a,RO1,Macroregiunea Unu,2,Traian Basescu,9292740
+1409,2009-11-22,president_a,RO2,Macroregiunea Doi,0,eligible_voters,65444652
+1410,2009-11-22,president_a,RO2,Macroregiunea Doi,1,issued_ballots,34635048
+1411,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Constantin Ninel Potarca,76896
+1412,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Constantin Rotaru,174732
+1413,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Corneliu Vadim Tudor,2058768
+1414,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Crin Antonescu,6331368
+1415,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Gheorghe-Eduard Manole,121476
+1416,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Hunor Kelemen,57684
+1417,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Mircea Geoana,12244512
+1418,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Ovidiu Cristian Iane,83448
+1419,2009-11-22,president_a,RO2,Macroregiunea Doi,2,PNG,749448
+1420,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Remus Cernea,190680
+1421,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Sorin Oprescu,1206192
+1422,2009-11-22,president_a,RO2,Macroregiunea Doi,2,Traian Basescu,10378596
+1423,2009-11-22,president_a,RO3,Macroregiunea Trei,0,eligible_voters,43154514
+1424,2009-11-22,president_a,RO3,Macroregiunea Trei,1,issued_ballots,24082821
+1425,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Constantin Ninel Potarca,42651
+1426,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Constantin Rotaru,95427
+1427,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Corneliu Vadim Tudor,1397970
+1428,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Crin Antonescu,5230674
+1429,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Gheorghe-Eduard Manole,96570
+1430,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Hunor Kelemen,28584
+1431,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Mircea Geoana,7647255
+1432,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Ovidiu Cristian Iane,45675
+1433,2009-11-22,president_a,RO3,Macroregiunea Trei,2,PNG,482031
+1434,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Remus Cernea,159246
+1435,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Sorin Oprescu,999099
+1436,2009-11-22,president_a,RO3,Macroregiunea Trei,2,Traian Basescu,7352739
+1437,2009-11-22,president_a,RO4,Macroregiunea Patru,0,eligible_voters,32192685
+1438,2009-11-22,president_a,RO4,Macroregiunea Patru,1,issued_ballots,17894781
+1439,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Constantin Ninel Potarca,34812
+1440,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Constantin Rotaru,79893
+1441,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Corneliu Vadim Tudor,987678
+1442,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Crin Antonescu,3446595
+1443,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Gheorghe-Eduard Manole,53991
+1444,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Hunor Kelemen,202275
+1445,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Mircea Geoana,6069267
+1446,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Ovidiu Cristian Iane,37224
+1447,2009-11-22,president_a,RO4,Macroregiunea Patru,2,PNG,300339
+1448,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Remus Cernea,93132
+1449,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Sorin Oprescu,436149
+1450,2009-11-22,president_a,RO4,Macroregiunea Patru,2,Traian Basescu,5800383
+1451,2009-11-22,president_b,RO1,Macroregiunea Unu,0,eligible_voters,53618580
+1452,2009-11-22,president_b,RO1,Macroregiunea Unu,1,issued_ballots,28655352
+1453,2009-11-22,president_b,RO1,Macroregiunea Unu,2,PSD,12345492
+1454,2009-11-22,president_b,RO1,Macroregiunea Unu,2,Traian Basescu,15963612
+1455,2009-11-22,president_b,RO2,Macroregiunea Doi,0,eligible_voters,65447892
+1456,2009-11-22,president_b,RO2,Macroregiunea Doi,1,issued_ballots,36478500
+1457,2009-11-22,president_b,RO2,Macroregiunea Doi,2,PSD,18930696
+1458,2009-11-22,president_b,RO2,Macroregiunea Doi,2,Traian Basescu,17033064
+1459,2009-11-22,president_b,RO3,Macroregiunea Trei,0,eligible_voters,43225812
+1460,2009-11-22,president_b,RO3,Macroregiunea Trei,1,issued_ballots,25963191
+1461,2009-11-22,president_b,RO3,Macroregiunea Trei,2,PSD,13262211
+1462,2009-11-22,president_b,RO3,Macroregiunea Trei,2,Traian Basescu,12333618
+1463,2009-11-22,president_b,RO4,Macroregiunea Patru,0,eligible_voters,32203350
+1464,2009-11-22,president_b,RO4,Macroregiunea Patru,1,issued_ballots,19437678
+1465,2009-11-22,president_b,RO4,Macroregiunea Patru,2,PSD,9853083
+1466,2009-11-22,president_b,RO4,Macroregiunea Patru,2,Traian Basescu,9358668
+1467,2012-12-09,parliament,RO1,Macroregiunea Unu,0,eligible_voters,53691660
+1468,2012-12-09,parliament,RO1,Macroregiunea Unu,1,issued_ballots,21137652
+1469,2012-12-09,parliament,RO1,Macroregiunea Unu,2,AMR,32664
+1470,2012-12-09,parliament,RO1,Macroregiunea Unu,2,ARD,3472452
+1471,2012-12-09,parliament,RO1,Macroregiunea Unu,2,C.R.L.R.,9360
+1472,2012-12-09,parliament,RO1,Macroregiunea Unu,2,EMNP-PPMT,575460
+1473,2012-12-09,parliament,RO1,Macroregiunea Unu,2,FCER,24888
+1474,2012-12-09,parliament,RO1,Macroregiunea Unu,2,FDGR,244320
+1475,2012-12-09,parliament,RO1,Macroregiunea Unu,2,PER,165576
+1476,2012-12-09,parliament,RO1,Macroregiunea Unu,2,PHR,89244
+1477,2012-12-09,parliament,RO1,Macroregiunea Unu,2,PNL-Aripa tânără,26676
+1478,2012-12-09,parliament,RO1,Macroregiunea Unu,2,PPDD,2038848
+1479,2012-12-09,parliament,RO1,Macroregiunea Unu,2,PPU,53100
+1480,2012-12-09,parliament,RO1,Macroregiunea Unu,2,PRM,204120
+1481,2012-12-09,parliament,RO1,Macroregiunea Unu,2,RO.AS.IT.,21672
+1482,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UAR,21852
+1483,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UBBR,20256
+1484,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UCRR,22224
+1485,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UDMR,4162308
+1486,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UDSCR,44640
+1487,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UDTR,14124
+1488,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UDTTMR,13596
+1489,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UER,21756
+1490,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UPR,12552
+1491,2012-12-09,parliament,RO1,Macroregiunea Unu,2,USL,9045396
+1492,2012-12-09,parliament,RO1,Macroregiunea Unu,2,USR-PLUS,13380
+1493,2012-12-09,parliament,RO1,Macroregiunea Unu,2,UUR,39684
+1494,2012-12-09,parliament,RO2,Macroregiunea Doi,0,eligible_voters,65871216
+1495,2012-12-09,parliament,RO2,Macroregiunea Doi,1,issued_ballots,26550444
+1496,2012-12-09,parliament,RO2,Macroregiunea Doi,2,AMR,52044
+1497,2012-12-09,parliament,RO2,Macroregiunea Doi,2,ARD,3807492
+1498,2012-12-09,parliament,RO2,Macroregiunea Doi,2,C.R.L.R.,66720
+1499,2012-12-09,parliament,RO2,Macroregiunea Doi,2,FCER,35016
+1500,2012-12-09,parliament,RO2,Macroregiunea Doi,2,FDGR,73416
+1501,2012-12-09,parliament,RO2,Macroregiunea Doi,2,PAS,2736
+1502,2012-12-09,parliament,RO2,Macroregiunea Doi,2,PER,346860
+1503,2012-12-09,parliament,RO2,Macroregiunea Doi,2,PHR,68724
+1504,2012-12-09,parliament,RO2,Macroregiunea Doi,2,PNL-Aripa tânără,40044
+1505,2012-12-09,parliament,RO2,Macroregiunea Doi,2,PPDD,4057356
+1506,2012-12-09,parliament,RO2,Macroregiunea Doi,2,PPPS,1224
+1507,2012-12-09,parliament,RO2,Macroregiunea Doi,2,PPU,5736
+1508,2012-12-09,parliament,RO2,Macroregiunea Doi,2,PRM,299664
+1509,2012-12-09,parliament,RO2,Macroregiunea Doi,2,PSDM,2772
+1510,2012-12-09,parliament,RO2,Macroregiunea Doi,2,RO.AS.IT.,30600
+1511,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UAR,37992
+1512,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UBBR,29076
+1513,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UCRR,14772
+1514,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UDMR,69540
+1515,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UDSCR,21276
+1516,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UDTR,41268
+1517,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UDTTMR,75864
+1518,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UER,45312
+1519,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UPR,53172
+1520,2012-12-09,parliament,RO2,Macroregiunea Doi,2,USL,16051872
+1521,2012-12-09,parliament,RO2,Macroregiunea Doi,2,USR-PLUS,23844
+1522,2012-12-09,parliament,RO2,Macroregiunea Doi,2,UUR,50364
+1523,2012-12-09,parliament,RO3,Macroregiunea Trei,0,eligible_voters,43450560
+1524,2012-12-09,parliament,RO3,Macroregiunea Trei,1,issued_ballots,19205289
+1525,2012-12-09,parliament,RO3,Macroregiunea Trei,2,AMR,23661
+1526,2012-12-09,parliament,RO3,Macroregiunea Trei,2,ARD,3236796
+1527,2012-12-09,parliament,RO3,Macroregiunea Trei,2,C.R.L.R.,10251
+1528,2012-12-09,parliament,RO3,Macroregiunea Trei,2,FCER,25650
+1529,2012-12-09,parliament,RO3,Macroregiunea Trei,2,FDGR,54459
+1530,2012-12-09,parliament,RO3,Macroregiunea Trei,2,PAS,2250
+1531,2012-12-09,parliament,RO3,Macroregiunea Trei,2,PER,102294
+1532,2012-12-09,parliament,RO3,Macroregiunea Trei,2,PHR,50589
+1533,2012-12-09,parliament,RO3,Macroregiunea Trei,2,PNL-Aripa tânără,22707
+1534,2012-12-09,parliament,RO3,Macroregiunea Trei,2,PPDD,2410191
+1535,2012-12-09,parliament,RO3,Macroregiunea Trei,2,PPPS,6543
+1536,2012-12-09,parliament,RO3,Macroregiunea Trei,2,PPU,18855
+1537,2012-12-09,parliament,RO3,Macroregiunea Trei,2,PRM,247932
+1538,2012-12-09,parliament,RO3,Macroregiunea Trei,2,RO.AS.IT.,19971
+1539,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UAR,35838
+1540,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UBBR,17244
+1541,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UCRR,7920
+1542,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UDMR,44217
+1543,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UDSCR,8451
+1544,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UDTR,14310
+1545,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UDTTMR,10206
+1546,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UER,27072
+1547,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UPR,12537
+1548,2012-12-09,parliament,RO3,Macroregiunea Trei,2,USL,12090447
+1549,2012-12-09,parliament,RO3,Macroregiunea Trei,2,USR-PLUS,10791
+1550,2012-12-09,parliament,RO3,Macroregiunea Trei,2,UUR,20961
+1551,2012-12-09,parliament,RO4,Macroregiunea Patru,0,eligible_voters,32135751
+1552,2012-12-09,parliament,RO4,Macroregiunea Patru,1,issued_ballots,13728357
+1553,2012-12-09,parliament,RO4,Macroregiunea Patru,2,AMR,22266
+1554,2012-12-09,parliament,RO4,Macroregiunea Patru,2,ARD,2081547
+1555,2012-12-09,parliament,RO4,Macroregiunea Patru,2,C.R.L.R.,7011
+1556,2012-12-09,parliament,RO4,Macroregiunea Patru,2,FCER,17775
+1557,2012-12-09,parliament,RO4,Macroregiunea Patru,2,FDGR,56988
+1558,2012-12-09,parliament,RO4,Macroregiunea Patru,2,PAS,16677
+1559,2012-12-09,parliament,RO4,Macroregiunea Patru,2,PER,32994
+1560,2012-12-09,parliament,RO4,Macroregiunea Patru,2,PHR,29097
+1561,2012-12-09,parliament,RO4,Macroregiunea Patru,2,PNL-Aripa tânără,17154
+1562,2012-12-09,parliament,RO4,Macroregiunea Patru,2,PPDD,2310678
+1563,2012-12-09,parliament,RO4,Macroregiunea Patru,2,PPPS,900
+1564,2012-12-09,parliament,RO4,Macroregiunea Patru,2,PPU,48519
+1565,2012-12-09,parliament,RO4,Macroregiunea Patru,2,PRM,195237
+1566,2012-12-09,parliament,RO4,Macroregiunea Patru,2,RO.AS.IT.,11025
+1567,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UAR,14652
+1568,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UBBR,36567
+1569,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UCRR,11556
+1570,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UDMR,197415
+1571,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UDSCR,19809
+1572,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UDTR,9756
+1573,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UDTTMR,5877
+1574,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UER,10791
+1575,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UPR,10233
+1576,2012-12-09,parliament,RO4,Macroregiunea Patru,2,USL,8035020
+1577,2012-12-09,parliament,RO4,Macroregiunea Patru,2,USR-PLUS,34794
+1578,2012-12-09,parliament,RO4,Macroregiunea Patru,2,UUR,33579
+1579,2014-11-02,president_a,RO1,Macroregiunea Unu,0,eligible_voters,53570604
+1580,2014-11-02,president_a,RO1,Macroregiunea Unu,1,issued_ballots,27162540
+1581,2014-11-02,president_a,RO1,Macroregiunea Unu,2,AMARITEI MIREL-MIRCEA,18828
+1582,2014-11-02,president_a,RO1,Macroregiunea Unu,2,BRINZA WILLIAM GABRIEL,107496
+1583,2014-11-02,president_a,RO1,Macroregiunea Unu,2,DIACONESCU CRISTIAN-DAN,691344
+1584,2014-11-02,president_a,RO1,Macroregiunea Unu,2,FUNAR GHEORGHE,197556
+1585,2014-11-02,president_a,RO1,Macroregiunea Unu,2,IOHANNIS KLAUS-WERNER,10616724
+1586,2014-11-02,president_a,RO1,Macroregiunea Unu,2,KELEMEN HUNOR,3448776
+1587,2014-11-02,president_a,RO1,Macroregiunea Unu,2,MACOVEI MONICA-LUISA,898452
+1588,2014-11-02,president_a,RO1,Macroregiunea Unu,2,MELESCANU TEODOR-VIOREL,193908
+1589,2014-11-02,president_a,RO1,Macroregiunea Unu,2,PONTA VICTOR-VIOREL,7242516
+1590,2014-11-02,president_a,RO1,Macroregiunea Unu,2,POPESCU-TARICEANU CALIN-CONSTANTIN-ANTON,1017456
+1591,2014-11-02,president_a,RO1,Macroregiunea Unu,2,ROTARU CONSTANTIN,65892
+1592,2014-11-02,president_a,RO1,Macroregiunea Unu,2,SZILAGYI ZSOLT,533964
+1593,2014-11-02,president_a,RO1,Macroregiunea Unu,2,UDREA ELENA-GABRIELA,1004160
+1594,2014-11-02,president_a,RO1,Macroregiunea Unu,2,VADIM-TUDOR CORNELIU,559644
+1595,2014-11-02,president_a,RO2,Macroregiunea Doi,0,eligible_voters,65830272
+1596,2014-11-02,president_a,RO2,Macroregiunea Doi,1,issued_ballots,33107304
+1597,2014-11-02,president_a,RO2,Macroregiunea Doi,2,AMARITEI MIREL-MIRCEA,31476
+1598,2014-11-02,president_a,RO2,Macroregiunea Doi,2,BRINZA WILLIAM GABRIEL,172116
+1599,2014-11-02,president_a,RO2,Macroregiunea Doi,2,DIACONESCU CRISTIAN-DAN,1487988
+1600,2014-11-02,president_a,RO2,Macroregiunea Doi,2,FUNAR GHEORGHE,138072
+1601,2014-11-02,president_a,RO2,Macroregiunea Doi,2,IOHANNIS KLAUS-WERNER,8345232
+1602,2014-11-02,president_a,RO2,Macroregiunea Doi,2,KELEMEN HUNOR,147072
+1603,2014-11-02,president_a,RO2,Macroregiunea Doi,2,MACOVEI MONICA-LUISA,1249068
+1604,2014-11-02,president_a,RO2,Macroregiunea Doi,2,MELESCANU TEODOR-VIOREL,353904
+1605,2014-11-02,president_a,RO2,Macroregiunea Doi,2,PONTA VICTOR-VIOREL,15261888
+1606,2014-11-02,president_a,RO2,Macroregiunea Doi,2,POPESCU-TARICEANU CALIN-CONSTANTIN-ANTON,1554132
+1607,2014-11-02,president_a,RO2,Macroregiunea Doi,2,ROTARU CONSTANTIN,108396
+1608,2014-11-02,president_a,RO2,Macroregiunea Doi,2,SZILAGYI ZSOLT,37116
+1609,2014-11-02,president_a,RO2,Macroregiunea Doi,2,UDREA ELENA-GABRIELA,1872420
+1610,2014-11-02,president_a,RO2,Macroregiunea Doi,2,VADIM-TUDOR CORNELIU,1425804
+1611,2014-11-02,president_a,RO3,Macroregiunea Trei,0,eligible_voters,43208667
+1612,2014-11-02,president_a,RO3,Macroregiunea Trei,1,issued_ballots,23889321
+1613,2014-11-02,president_a,RO3,Macroregiunea Trei,2,AMARITEI MIREL-MIRCEA,19413
+1614,2014-11-02,president_a,RO3,Macroregiunea Trei,2,BRINZA WILLIAM GABRIEL,113175
+1615,2014-11-02,president_a,RO3,Macroregiunea Trei,2,DIACONESCU CRISTIAN-DAN,985563
+1616,2014-11-02,president_a,RO3,Macroregiunea Trei,2,FUNAR GHEORGHE,88452
+1617,2014-11-02,president_a,RO3,Macroregiunea Trei,2,IOHANNIS KLAUS-WERNER,5899122
+1618,2014-11-02,president_a,RO3,Macroregiunea Trei,2,KELEMEN HUNOR,62568
+1619,2014-11-02,president_a,RO3,Macroregiunea Trei,2,MACOVEI MONICA-LUISA,1519191
+1620,2014-11-02,president_a,RO3,Macroregiunea Trei,2,MELESCANU TEODOR-VIOREL,374706
+1621,2014-11-02,president_a,RO3,Macroregiunea Trei,2,PONTA VICTOR-VIOREL,9887355
+1622,2014-11-02,president_a,RO3,Macroregiunea Trei,2,POPESCU-TARICEANU CALIN-CONSTANTIN-ANTON,1793178
+1623,2014-11-02,president_a,RO3,Macroregiunea Trei,2,ROTARU CONSTANTIN,64737
+1624,2014-11-02,president_a,RO3,Macroregiunea Trei,2,SZILAGYI ZSOLT,18072
+1625,2014-11-02,president_a,RO3,Macroregiunea Trei,2,UDREA ELENA-GABRIELA,1348227
+1626,2014-11-02,president_a,RO3,Macroregiunea Trei,2,VADIM-TUDOR CORNELIU,1081953
+1627,2014-11-02,president_a,RO4,Macroregiunea Patru,0,eligible_voters,31797270
+1628,2014-11-02,president_a,RO4,Macroregiunea Patru,1,issued_ballots,16966026
+1629,2014-11-02,president_a,RO4,Macroregiunea Patru,2,AMARITEI MIREL-MIRCEA,13104
+1630,2014-11-02,president_a,RO4,Macroregiunea Patru,2,BRINZA WILLIAM GABRIEL,58158
+1631,2014-11-02,president_a,RO4,Macroregiunea Patru,2,DIACONESCU CRISTIAN-DAN,761319
+1632,2014-11-02,president_a,RO4,Macroregiunea Patru,2,FUNAR GHEORGHE,60624
+1633,2014-11-02,president_a,RO4,Macroregiunea Patru,2,IOHANNIS KLAUS-WERNER,5146857
+1634,2014-11-02,president_a,RO4,Macroregiunea Patru,2,KELEMEN HUNOR,200178
+1635,2014-11-02,president_a,RO4,Macroregiunea Patru,2,MACOVEI MONICA-LUISA,445923
+1636,2014-11-02,president_a,RO4,Macroregiunea Patru,2,MELESCANU TEODOR-VIOREL,139248
+1637,2014-11-02,president_a,RO4,Macroregiunea Patru,2,PONTA VICTOR-VIOREL,7529985
+1638,2014-11-02,president_a,RO4,Macroregiunea Patru,2,POPESCU-TARICEANU CALIN-CONSTANTIN-ANTON,812781
+1639,2014-11-02,president_a,RO4,Macroregiunea Patru,2,ROTARU CONSTANTIN,62154
+1640,2014-11-02,president_a,RO4,Macroregiunea Patru,2,SZILAGYI ZSOLT,29349
+1641,2014-11-02,president_a,RO4,Macroregiunea Patru,2,UDREA ELENA-GABRIELA,793818
+1642,2014-11-02,president_a,RO4,Macroregiunea Patru,2,VADIM-TUDOR CORNELIU,532215
+1643,2014-11-02,president_b,RO1,Macroregiunea Unu,0,eligible_voters,53562324
+1644,2014-11-02,president_b,RO1,Macroregiunea Unu,1,issued_ballots,32702772
+1645,2014-11-02,president_b,RO1,Macroregiunea Unu,2,IOHANNIS KLAUS-WERNER,22157472
+1646,2014-11-02,president_b,RO1,Macroregiunea Unu,2,PONTA VICTOR-VIOREL,10195080
+1647,2014-11-02,president_b,RO2,Macroregiunea Doi,0,eligible_voters,65827296
+1648,2014-11-02,president_b,RO2,Macroregiunea Doi,1,issued_ballots,38383284
+1649,2014-11-02,president_b,RO2,Macroregiunea Doi,2,IOHANNIS KLAUS-WERNER,17812008
+1650,2014-11-02,president_b,RO2,Macroregiunea Doi,2,PONTA VICTOR-VIOREL,19991316
+1651,2014-11-02,president_b,RO3,Macroregiunea Trei,0,eligible_voters,43198353
+1652,2014-11-02,president_b,RO3,Macroregiunea Trei,1,issued_ballots,28536624
+1653,2014-11-02,president_b,RO3,Macroregiunea Trei,2,IOHANNIS KLAUS-WERNER,13696110
+1654,2014-11-02,president_b,RO3,Macroregiunea Trei,2,PONTA VICTOR-VIOREL,14326290
+1655,2014-11-02,president_b,RO4,Macroregiunea Patru,0,eligible_voters,31788378
+1656,2014-11-02,president_b,RO4,Macroregiunea Patru,1,issued_ballots,20210886
+1657,2014-11-02,president_b,RO4,Macroregiunea Patru,2,IOHANNIS KLAUS-WERNER,9875844
+1658,2014-11-02,president_b,RO4,Macroregiunea Patru,2,PONTA VICTOR-VIOREL,10064358
+1659,2016-12-11,parliament,RO1,Macroregiunea Unu,0,eligible_voters,53502900
+1660,2016-12-11,parliament,RO1,Macroregiunea Unu,1,issued_ballots,20814660
+1661,2016-12-11,parliament,RO1,Macroregiunea Unu,2,(CRLR),5508
+1662,2016-12-11,parliament,RO1,Macroregiunea Unu,2,ALDE,925116
+1663,2016-12-11,parliament,RO1,Macroregiunea Unu,2,AMR,15564
+1664,2016-12-11,parliament,RO1,Macroregiunea Unu,2,ANR,146496
+1665,2016-12-11,parliament,RO1,Macroregiunea Unu,2,COSTEL NEACSU,10728
+1666,2016-12-11,parliament,RO1,Macroregiunea Unu,2,DUMITRU FLUCUS,36036
+1667,2016-12-11,parliament,RO1,Macroregiunea Unu,2,FCER,14424
+1668,2016-12-11,parliament,RO1,Macroregiunea Unu,2,FDGR,67716
+1669,2016-12-11,parliament,RO1,Macroregiunea Unu,2,GHEORGHE BLEDEA,5688
+1670,2016-12-11,parliament,RO1,Macroregiunea Unu,2,NICU RADULESCU,10692
+1671,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PER,199716
+1672,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PMP,761868
+1673,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PNL,4611240
+1674,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PNL-Aripa tânără,10692
+1675,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PNR,3624
+1676,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PO,5064
+1677,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PRM,142404
+1678,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PRO,41376
+1679,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PRU,579168
+1680,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PSD,6023496
+1681,2016-12-11,parliament,RO1,Macroregiunea Unu,2,PSR,29532
+1682,2016-12-11,parliament,RO1,Macroregiunea Unu,2,ROASIT,7308
+1683,2016-12-11,parliament,RO1,Macroregiunea Unu,2,UAR,11700
+1684,2016-12-11,parliament,RO1,Macroregiunea Unu,2,UBBR,8640
+1685,2016-12-11,parliament,RO1,Macroregiunea Unu,2,UCRR,10704
+1686,2016-12-11,parliament,RO1,Macroregiunea Unu,2,UDMR,4787184
+1687,2016-12-11,parliament,RO1,Macroregiunea Unu,2,UDSCR,25488
+1688,2016-12-11,parliament,RO1,Macroregiunea Unu,2,UDTR,7524
+1689,2016-12-11,parliament,RO1,Macroregiunea Unu,2,UER,13068
+1690,2016-12-11,parliament,RO1,Macroregiunea Unu,2,USR-PLUS,1623192
+1691,2016-12-11,parliament,RO1,Macroregiunea Unu,2,UUR,19068
+1692,2016-12-11,parliament,RO1,Macroregiunea Unu,2,VASILE-MARINEL REVNIC,17076
+1693,2016-12-11,parliament,RO1,Macroregiunea Unu,2,VERZII,3504
+1694,2016-12-11,parliament,RO2,Macroregiunea Doi,0,eligible_voters,66319308
+1695,2016-12-11,parliament,RO2,Macroregiunea Doi,1,issued_ballots,24880368
+1696,2016-12-11,parliament,RO2,Macroregiunea Doi,2,(CRLR),54864
+1697,2016-12-11,parliament,RO2,Macroregiunea Doi,2,ALDE,1352544
+1698,2016-12-11,parliament,RO2,Macroregiunea Doi,2,ALEXANDRU PAZIUC,37704
+1699,2016-12-11,parliament,RO2,Macroregiunea Doi,2,AMR,19968
+1700,2016-12-11,parliament,RO2,Macroregiunea Doi,2,ANR,230028
+1701,2016-12-11,parliament,RO2,Macroregiunea Doi,2,COSTEL MARIN,4284
+1702,2016-12-11,parliament,RO2,Macroregiunea Doi,2,COSTEL-IOAN CIOBAN,12924
+1703,2016-12-11,parliament,RO2,Macroregiunea Doi,2,DANIELA PEPENE,24372
+1704,2016-12-11,parliament,RO2,Macroregiunea Doi,2,DANIELA-SIMONA VREME,28920
+1705,2016-12-11,parliament,RO2,Macroregiunea Doi,2,FCER,21768
+1706,2016-12-11,parliament,RO2,Macroregiunea Doi,2,FDGR,28500
+1707,2016-12-11,parliament,RO2,Macroregiunea Doi,2,GHEORGHE DINU,54456
+1708,2016-12-11,parliament,RO2,Macroregiunea Doi,2,GICA DUTA,17100
+1709,2016-12-11,parliament,RO2,Macroregiunea Doi,2,IOAN SPIRIDON,10788
+1710,2016-12-11,parliament,RO2,Macroregiunea Doi,2,IOAN-COSMIN CURELEA,14424
+1711,2016-12-11,parliament,RO2,Macroregiunea Doi,2,MIRCEA ION,12468
+1712,2016-12-11,parliament,RO2,Macroregiunea Doi,2,NECULAI GALATANU,5580
+1713,2016-12-11,parliament,RO2,Macroregiunea Doi,2,NEVISER ZAHARCU,19908
+1714,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PER,247176
+1715,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PMP,1355892
+1716,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PNL,4605444
+1717,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PNL-Aripa tânără,19416
+1718,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PNR,6180
+1719,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PO,24528
+1720,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PRD,6276
+1721,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PRM,322692
+1722,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PRO,50160
+1723,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PRU,613560
+1724,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PSD,12562860
+1725,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PSR,107448
+1726,2016-12-11,parliament,RO2,Macroregiunea Doi,2,PVN,6132
+1727,2016-12-11,parliament,RO2,Macroregiunea Doi,2,ROASIT,17172
+1728,2016-12-11,parliament,RO2,Macroregiunea Doi,2,SEBASTIAN-IOAN BURDUJA,77160
+1729,2016-12-11,parliament,RO2,Macroregiunea Doi,2,SERGIU-SORIN CHELMU,15108
+1730,2016-12-11,parliament,RO2,Macroregiunea Doi,2,SORIN SOVA,24348
+1731,2016-12-11,parliament,RO2,Macroregiunea Doi,2,TIBERIU-MIHAI-ANTONIU JALBA,20244
+1732,2016-12-11,parliament,RO2,Macroregiunea Doi,2,UAR,24636
+1733,2016-12-11,parliament,RO2,Macroregiunea Doi,2,UBBR,16164
+1734,2016-12-11,parliament,RO2,Macroregiunea Doi,2,UCRR,8796
+1735,2016-12-11,parliament,RO2,Macroregiunea Doi,2,UDMR,57924
+1736,2016-12-11,parliament,RO2,Macroregiunea Doi,2,UDSCR,21792
+1737,2016-12-11,parliament,RO2,Macroregiunea Doi,2,UDTR,41412
+1738,2016-12-11,parliament,RO2,Macroregiunea Doi,2,UER,25020
+1739,2016-12-11,parliament,RO2,Macroregiunea Doi,2,USR-PLUS,1479612
+1740,2016-12-11,parliament,RO2,Macroregiunea Doi,2,UUR,12288
+1741,2016-12-11,parliament,RO2,Macroregiunea Doi,2,VERZII,3288
+1742,2016-12-11,parliament,RO3,Macroregiunea Trei,0,eligible_voters,43046487
+1743,2016-12-11,parliament,RO3,Macroregiunea Trei,1,issued_ballots,17734437
+1744,2016-12-11,parliament,RO3,Macroregiunea Trei,2,(CRLR),6075
+1745,2016-12-11,parliament,RO3,Macroregiunea Trei,2,ALDE,1113732
+1746,2016-12-11,parliament,RO3,Macroregiunea Trei,2,AMR,10980
+1747,2016-12-11,parliament,RO3,Macroregiunea Trei,2,ANR,172818
+1748,2016-12-11,parliament,RO3,Macroregiunea Trei,2,DANUT DINU,34047
+1749,2016-12-11,parliament,RO3,Macroregiunea Trei,2,ELENA NICOLACHE,8640
+1750,2016-12-11,parliament,RO3,Macroregiunea Trei,2,ELENA-GABRIELA UDREA,28566
+1751,2016-12-11,parliament,RO3,Macroregiunea Trei,2,FCER,10854
+1752,2016-12-11,parliament,RO3,Macroregiunea Trei,2,FDGR,14850
+1753,2016-12-11,parliament,RO3,Macroregiunea Trei,2,GEORGE-ALEXANDRU MANCIU,13608
+1754,2016-12-11,parliament,RO3,Macroregiunea Trei,2,ION-GABRIEL LINTA,4293
+1755,2016-12-11,parliament,RO3,Macroregiunea Trei,2,ION-MARIUS FENICHIU,15750
+1756,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PACT Galați,5481
+1757,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PER,143577
+1758,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PMP,978552
+1759,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PNL,2903373
+1760,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PNL-Aripa tânără,7461
+1761,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PO,4401
+1762,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PPU,4176
+1763,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PRM,173745
+1764,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PRO,32301
+1765,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PRU,513783
+1766,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PSD,8291592
+1767,2016-12-11,parliament,RO3,Macroregiunea Trei,2,PSR,58590
+1768,2016-12-11,parliament,RO3,Macroregiunea Trei,2,REMUS-FLORINEL CERNEA,38655
+1769,2016-12-11,parliament,RO3,Macroregiunea Trei,2,ROASIT,6057
+1770,2016-12-11,parliament,RO3,Macroregiunea Trei,2,THEODOR PALEOLOGU,75168
+1771,2016-12-11,parliament,RO3,Macroregiunea Trei,2,UAR,9783
+1772,2016-12-11,parliament,RO3,Macroregiunea Trei,2,UBBR,6444
+1773,2016-12-11,parliament,RO3,Macroregiunea Trei,2,UCRR,2574
+1774,2016-12-11,parliament,RO3,Macroregiunea Trei,2,UDMR,26865
+1775,2016-12-11,parliament,RO3,Macroregiunea Trei,2,UDSCR,5346
+1776,2016-12-11,parliament,RO3,Macroregiunea Trei,2,UDTR,7659
+1777,2016-12-11,parliament,RO3,Macroregiunea Trei,2,UER,15318
+1778,2016-12-11,parliament,RO3,Macroregiunea Trei,2,USR-PLUS,2311281
+1779,2016-12-11,parliament,RO3,Macroregiunea Trei,2,UUR,8082
+1780,2016-12-11,parliament,RO3,Macroregiunea Trei,2,VERONICA ZAMFIR,7830
+1781,2016-12-11,parliament,RO3,Macroregiunea Trei,2,VISINEL-COSTEL BALAN,15930
+1782,2016-12-11,parliament,RO4,Macroregiunea Patru,0,eligible_voters,31660452
+1783,2016-12-11,parliament,RO4,Macroregiunea Patru,1,issued_ballots,12909150
+1784,2016-12-11,parliament,RO4,Macroregiunea Patru,2,(CRLR),2997
+1785,2016-12-11,parliament,RO4,Macroregiunea Patru,2,ALDE,717318
+1786,2016-12-11,parliament,RO4,Macroregiunea Patru,2,AMR,11385
+1787,2016-12-11,parliament,RO4,Macroregiunea Patru,2,ANR,75852
+1788,2016-12-11,parliament,RO4,Macroregiunea Patru,2,ARD,14445
+1789,2016-12-11,parliament,RO4,Macroregiunea Patru,2,BUN,4662
+1790,2016-12-11,parliament,RO4,Macroregiunea Patru,2,DUMITRU-NICU CORNOIU,7587
+1791,2016-12-11,parliament,RO4,Macroregiunea Patru,2,FCER,6462
+1792,2016-12-11,parliament,RO4,Macroregiunea Patru,2,FDGR,21717
+1793,2016-12-11,parliament,RO4,Macroregiunea Patru,2,ION CALINOIU,31113
+1794,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PER,82980
+1795,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PETRICA FOLICA,3429
+1796,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PMP,597861
+1797,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PNL,2641221
+1798,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PNL-Aripa tânără,11475
+1799,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PNR,8523
+1800,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PO,3231
+1801,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PPU,19215
+1802,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PRM,136809
+1803,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PRO,16137
+1804,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PRU,323667
+1805,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PSD,6514776
+1806,2016-12-11,parliament,RO4,Macroregiunea Patru,2,PSR,59895
+1807,2016-12-11,parliament,RO4,Macroregiunea Patru,2,REMI RADULESCU,5724
+1808,2016-12-11,parliament,RO4,Macroregiunea Patru,2,ROASIT,5949
+1809,2016-12-11,parliament,RO4,Macroregiunea Patru,2,RODICA BARNA,5166
+1810,2016-12-11,parliament,RO4,Macroregiunea Patru,2,ROMEO RADULESCU,23688
+1811,2016-12-11,parliament,RO4,Macroregiunea Patru,2,TIBERIU MANESCU,12231
+1812,2016-12-11,parliament,RO4,Macroregiunea Patru,2,UAR,6219
+1813,2016-12-11,parliament,RO4,Macroregiunea Patru,2,UBBR,15570
+1814,2016-12-11,parliament,RO4,Macroregiunea Patru,2,UCRR,7893
+1815,2016-12-11,parliament,RO4,Macroregiunea Patru,2,UDMR,240147
+1816,2016-12-11,parliament,RO4,Macroregiunea Patru,2,UDSCR,17793
+1817,2016-12-11,parliament,RO4,Macroregiunea Patru,2,UDTR,5058
+1818,2016-12-11,parliament,RO4,Macroregiunea Patru,2,UER,7830
+1819,2016-12-11,parliament,RO4,Macroregiunea Patru,2,USR-PLUS,753327
+1820,2016-12-11,parliament,RO4,Macroregiunea Patru,2,UUR,10431
+1821,2019-05-26,european,RO1,Macroregiunea Unu,0,eligible_voters,53424276
+1822,2019-05-26,european,RO1,Macroregiunea Unu,1,issued_ballots,27401724
+1823,2019-05-26,european,RO1,Macroregiunea Unu,2,ALDE,789348
+1824,2019-05-26,european,RO1,Macroregiunea Unu,2,BUN,43392
+1825,2019-05-26,european,RO1,Macroregiunea Unu,2,COSTEA PETER,489156
+1826,2019-05-26,european,RO1,Macroregiunea Unu,2,PMP,1076580
+1827,2019-05-26,european,RO1,Macroregiunea Unu,2,PNL,8018016
+1828,2019-05-26,european,RO1,Macroregiunea Unu,2,PP,124284
+1829,2019-05-26,european,RO1,Macroregiunea Unu,2,PRO,1228992
+1830,2019-05-26,european,RO1,Macroregiunea Unu,2,PRU,114468
+1831,2019-05-26,european,RO1,Macroregiunea Unu,2,PSD,3838308
+1832,2019-05-26,european,RO1,Macroregiunea Unu,2,PSDI,58560
+1833,2019-05-26,european,RO1,Macroregiunea Unu,2,PSR,83064
+1834,2019-05-26,european,RO1,Macroregiunea Unu,2,SIMION GEORGE-NICOLAE,204192
+1835,2019-05-26,european,RO1,Macroregiunea Unu,2,TUDORAN GREGORIANA CARMEN,155484
+1836,2019-05-26,european,RO1,Macroregiunea Unu,2,UDMR,4971588
+1837,2019-05-26,european,RO1,Macroregiunea Unu,2,USR,5510820
+1838,2019-05-26,european,RO2,Macroregiunea Doi,0,eligible_voters,66751548
+1839,2019-05-26,european,RO2,Macroregiunea Doi,1,issued_ballots,29449320
+1840,2019-05-26,european,RO2,Macroregiunea Doi,2,ALDE,1217652
+1841,2019-05-26,european,RO2,Macroregiunea Doi,2,BUN,81432
+1842,2019-05-26,european,RO2,Macroregiunea Doi,2,COSTEA PETER,330960
+1843,2019-05-26,european,RO2,Macroregiunea Doi,2,PMP,1769844
+1844,2019-05-26,european,RO2,Macroregiunea Doi,2,PNL,7749300
+1845,2019-05-26,european,RO2,Macroregiunea Doi,2,PP,218004
+1846,2019-05-26,european,RO2,Macroregiunea Doi,2,PRO,2490960
+1847,2019-05-26,european,RO2,Macroregiunea Doi,2,PRU,190992
+1848,2019-05-26,european,RO2,Macroregiunea Doi,2,PSD,7419828
+1849,2019-05-26,european,RO2,Macroregiunea Doi,2,PSDI,109620
+1850,2019-05-26,european,RO2,Macroregiunea Doi,2,PSR,160704
+1851,2019-05-26,european,RO2,Macroregiunea Doi,2,SIMION GEORGE-NICOLAE,452652
+1852,2019-05-26,european,RO2,Macroregiunea Doi,2,TUDORAN GREGORIANA CARMEN,520416
+1853,2019-05-26,european,RO2,Macroregiunea Doi,2,UDMR,205104
+1854,2019-05-26,european,RO2,Macroregiunea Doi,2,USR,5381400
+1855,2019-05-26,european,RO3,Macroregiunea Trei,0,eligible_voters,43078869
+1856,2019-05-26,european,RO3,Macroregiunea Trei,1,issued_ballots,22530519
+1857,2019-05-26,european,RO3,Macroregiunea Trei,2,ALDE,1036908
+1858,2019-05-26,european,RO3,Macroregiunea Trei,2,BUN,59211
+1859,2019-05-26,european,RO3,Macroregiunea Trei,2,COSTEA PETER,211230
+1860,2019-05-26,european,RO3,Macroregiunea Trei,2,PMP,1517958
+1861,2019-05-26,european,RO3,Macroregiunea Trei,2,PNL,4996323
+1862,2019-05-26,european,RO3,Macroregiunea Trei,2,PP,127674
+1863,2019-05-26,european,RO3,Macroregiunea Trei,2,PRO,1717596
+1864,2019-05-26,european,RO3,Macroregiunea Trei,2,PRU,135099
+1865,2019-05-26,european,RO3,Macroregiunea Trei,2,PSD,5358618
+1866,2019-05-26,european,RO3,Macroregiunea Trei,2,PSDI,65088
+1867,2019-05-26,european,RO3,Macroregiunea Trei,2,PSR,97038
+1868,2019-05-26,european,RO3,Macroregiunea Trei,2,SIMION GEORGE-NICOLAE,326574
+1869,2019-05-26,european,RO3,Macroregiunea Trei,2,TUDORAN GREGORIANA CARMEN,252630
+1870,2019-05-26,european,RO3,Macroregiunea Trei,2,UDMR,112284
+1871,2019-05-26,european,RO3,Macroregiunea Trei,2,USR,5883687
+1872,2019-05-26,european,RO4,Macroregiunea Patru,0,eligible_voters,31194567
+1873,2019-05-26,european,RO4,Macroregiunea Patru,1,issued_ballots,15538959
+1874,2019-05-26,european,RO4,Macroregiunea Patru,2,ALDE,772884
+1875,2019-05-26,european,RO4,Macroregiunea Patru,2,BUN,23985
+1876,2019-05-26,european,RO4,Macroregiunea Patru,2,COSTEA PETER,273888
+1877,2019-05-26,european,RO4,Macroregiunea Patru,2,PMP,776115
+1878,2019-05-26,european,RO4,Macroregiunea Patru,2,PNL,4130082
+1879,2019-05-26,european,RO4,Macroregiunea Patru,2,PP,82260
+1880,2019-05-26,european,RO4,Macroregiunea Patru,2,PRO,1136376
+1881,2019-05-26,european,RO4,Macroregiunea Patru,2,PRU,75807
+1882,2019-05-26,european,RO4,Macroregiunea Patru,2,PSD,4482045
+1883,2019-05-26,european,RO4,Macroregiunea Patru,2,PSDI,40554
+1884,2019-05-26,european,RO4,Macroregiunea Patru,2,PSR,67545
+1885,2019-05-26,european,RO4,Macroregiunea Patru,2,SIMION GEORGE-NICOLAE,124173
+1886,2019-05-26,european,RO4,Macroregiunea Patru,2,TUDORAN GREGORIANA CARMEN,110934
+1887,2019-05-26,european,RO4,Macroregiunea Patru,2,UDMR,262755
+1888,2019-05-26,european,RO4,Macroregiunea Patru,2,USR,2702043
+1889,2019-11-10,president_a,RO1,Macroregiunea Unu,0,eligible_voters,53275608
+1890,2019-11-10,president_a,RO1,Macroregiunea Unu,1,issued_ballots,25783920
+1891,2019-11-10,president_a,RO1,Macroregiunea Unu,2,ALEXANDRU CUMPĂNAŞU,231432
+1892,2019-11-10,president_a,RO1,Macroregiunea Unu,2,BOGDAN-DRAGOS-AURELIU MARIAN-STANOEVICI,69864
+1893,2019-11-10,president_a,RO1,Macroregiunea Unu,2,CĂTĂLIN-SORIN IVAN,74844
+1894,2019-11-10,president_a,RO1,Macroregiunea Unu,2,HUNOR KELEMEN,3831660
+1895,2019-11-10,president_a,RO1,Macroregiunea Unu,2,ILIE-DAN BARNA,3378168
+1896,2019-11-10,president_a,RO1,Macroregiunea Unu,2,JOHN-ION BANU,71304
+1897,2019-11-10,president_a,RO1,Macroregiunea Unu,2,KLAUS-WERNER IOHANNIS,10356588
+1898,2019-11-10,president_a,RO1,Macroregiunea Unu,2,MIRCEA DIACONU,1629228
+1899,2019-11-10,president_a,RO1,Macroregiunea Unu,2,NINEL PEIA,67632
+1900,2019-11-10,president_a,RO1,Macroregiunea Unu,2,RAMONA-IOANA BRUYNSEELS,566580
+1901,2019-11-10,president_a,RO1,Macroregiunea Unu,2,SEBASTIAN-CONSTANTIN POPESCU,65220
+1902,2019-11-10,president_a,RO1,Macroregiunea Unu,2,THEODOR PALEOLOGU,1365660
+1903,2019-11-10,president_a,RO1,Macroregiunea Unu,2,VASILICA-VIORICA DĂNCILĂ,3621072
+1904,2019-11-10,president_a,RO1,Macroregiunea Unu,2,VIOREL CATARAMĂ,98556
+1905,2019-11-10,president_a,RO2,Macroregiunea Doi,0,eligible_voters,66618876
+1906,2019-11-10,president_a,RO2,Macroregiunea Doi,1,issued_ballots,29236428
+1907,2019-11-10,president_a,RO2,Macroregiunea Doi,2,ALEXANDRU CUMPĂNAŞU,490632
+1908,2019-11-10,president_a,RO2,Macroregiunea Doi,2,BOGDAN-DRAGOS-AURELIU MARIAN-STANOEVICI,136536
+1909,2019-11-10,president_a,RO2,Macroregiunea Doi,2,CĂTĂLIN-SORIN IVAN,140220
+1910,2019-11-10,president_a,RO2,Macroregiunea Doi,2,HUNOR KELEMEN,112968
+1911,2019-11-10,president_a,RO2,Macroregiunea Doi,2,ILIE-DAN BARNA,3682332
+1912,2019-11-10,president_a,RO2,Macroregiunea Doi,2,JOHN-ION BANU,107820
+1913,2019-11-10,president_a,RO2,Macroregiunea Doi,2,KLAUS-WERNER IOHANNIS,10393692
+1914,2019-11-10,president_a,RO2,Macroregiunea Doi,2,MIRCEA DIACONU,3024528
+1915,2019-11-10,president_a,RO2,Macroregiunea Doi,2,NINEL PEIA,113220
+1916,2019-11-10,president_a,RO2,Macroregiunea Doi,2,RAMONA-IOANA BRUYNSEELS,891900
+1917,2019-11-10,president_a,RO2,Macroregiunea Doi,2,SEBASTIAN-CONSTANTIN POPESCU,123924
+1918,2019-11-10,president_a,RO2,Macroregiunea Doi,2,THEODOR PALEOLOGU,1693968
+1919,2019-11-10,president_a,RO2,Macroregiunea Doi,2,VASILICA-VIORICA DĂNCILĂ,7582620
+1920,2019-11-10,president_a,RO2,Macroregiunea Doi,2,VIOREL CATARAMĂ,203136
+1921,2019-11-10,president_a,RO3,Macroregiunea Trei,0,eligible_voters,42968511
+1922,2019-11-10,president_a,RO3,Macroregiunea Trei,1,issued_ballots,21963096
+1923,2019-11-10,president_a,RO3,Macroregiunea Trei,2,ALEXANDRU CUMPĂNAŞU,327906
+1924,2019-11-10,president_a,RO3,Macroregiunea Trei,2,BOGDAN-DRAGOS-AURELIU MARIAN-STANOEVICI,119709
+1925,2019-11-10,president_a,RO3,Macroregiunea Trei,2,CĂTĂLIN-SORIN IVAN,72936
+1926,2019-11-10,president_a,RO3,Macroregiunea Trei,2,HUNOR KELEMEN,55359
+1927,2019-11-10,president_a,RO3,Macroregiunea Trei,2,ILIE-DAN BARNA,3668256
+1928,2019-11-10,president_a,RO3,Macroregiunea Trei,2,JOHN-ION BANU,53865
+1929,2019-11-10,president_a,RO3,Macroregiunea Trei,2,KLAUS-WERNER IOHANNIS,7285464
+1930,2019-11-10,president_a,RO3,Macroregiunea Trei,2,MIRCEA DIACONU,2323377
+1931,2019-11-10,president_a,RO3,Macroregiunea Trei,2,NINEL PEIA,76743
+1932,2019-11-10,president_a,RO3,Macroregiunea Trei,2,RAMONA-IOANA BRUYNSEELS,582912
+1933,2019-11-10,president_a,RO3,Macroregiunea Trei,2,SEBASTIAN-CONSTANTIN POPESCU,67302
+1934,2019-11-10,president_a,RO3,Macroregiunea Trei,2,THEODOR PALEOLOGU,1332090
+1935,2019-11-10,president_a,RO3,Macroregiunea Trei,2,VASILICA-VIORICA DĂNCILĂ,5533713
+1936,2019-11-10,president_a,RO3,Macroregiunea Trei,2,VIOREL CATARAMĂ,124047
+1937,2019-11-10,president_a,RO4,Macroregiunea Patru,0,eligible_voters,31064940
+1938,2019-11-10,president_a,RO4,Macroregiunea Patru,1,issued_ballots,14931216
+1939,2019-11-10,president_a,RO4,Macroregiunea Patru,2,ALEXANDRU CUMPĂNAŞU,256050
+1940,2019-11-10,president_a,RO4,Macroregiunea Patru,2,BOGDAN-DRAGOS-AURELIU MARIAN-STANOEVICI,52992
+1941,2019-11-10,president_a,RO4,Macroregiunea Patru,2,CĂTĂLIN-SORIN IVAN,49266
+1942,2019-11-10,president_a,RO4,Macroregiunea Patru,2,HUNOR KELEMEN,168426
+1943,2019-11-10,president_a,RO4,Macroregiunea Patru,2,ILIE-DAN BARNA,1802826
+1944,2019-11-10,president_a,RO4,Macroregiunea Patru,2,JOHN-ION BANU,43461
+1945,2019-11-10,president_a,RO4,Macroregiunea Patru,2,KLAUS-WERNER IOHANNIS,5350527
+1946,2019-11-10,president_a,RO4,Macroregiunea Patru,2,MIRCEA DIACONU,1305540
+1947,2019-11-10,president_a,RO4,Macroregiunea Patru,2,NINEL PEIA,43776
+1948,2019-11-10,president_a,RO4,Macroregiunea Patru,2,RAMONA-IOANA BRUYNSEELS,418986
+1949,2019-11-10,president_a,RO4,Macroregiunea Patru,2,SEBASTIAN-CONSTANTIN POPESCU,44964
+1950,2019-11-10,president_a,RO4,Macroregiunea Patru,2,THEODOR PALEOLOGU,729810
+1951,2019-11-10,president_a,RO4,Macroregiunea Patru,2,VASILICA-VIORICA DĂNCILĂ,4367331
+1952,2019-11-10,president_a,RO4,Macroregiunea Patru,2,VIOREL CATARAMĂ,68985
+1953,2019-11-10,president_b,RO1,Macroregiunea Unu,0,eligible_voters,53275956
+1954,2019-11-10,president_b,RO1,Macroregiunea Unu,1,issued_ballots,25979532
+1955,2019-11-10,president_b,RO1,Macroregiunea Unu,2,KLAUS-WERNER IOHANNIS,18911016
+1956,2019-11-10,president_b,RO1,Macroregiunea Unu,2,VASILICA-VIORICA DĂNCILĂ,6538872
+1957,2019-11-10,president_b,RO2,Macroregiunea Doi,0,eligible_voters,66625440
+1958,2019-11-10,president_b,RO2,Macroregiunea Doi,1,issued_ballots,30466608
+1959,2019-11-10,president_b,RO2,Macroregiunea Doi,2,KLAUS-WERNER IOHANNIS,18046464
+1960,2019-11-10,president_b,RO2,Macroregiunea Doi,2,VASILICA-VIORICA DĂNCILĂ,11867388
+1961,2019-11-10,president_b,RO3,Macroregiunea Trei,0,eligible_voters,42971940
+1962,2019-11-10,president_b,RO3,Macroregiunea Trei,1,issued_ballots,23366799
+1963,2019-11-10,president_b,RO3,Macroregiunea Trei,2,KLAUS-WERNER IOHANNIS,13803237
+1964,2019-11-10,president_b,RO3,Macroregiunea Trei,2,VASILICA-VIORICA DĂNCILĂ,9103662
+1965,2019-11-10,president_b,RO4,Macroregiunea Patru,0,eligible_voters,31058613
+1966,2019-11-10,president_b,RO4,Macroregiunea Patru,1,issued_ballots,16086906
+1967,2019-11-10,president_b,RO4,Macroregiunea Patru,2,KLAUS-WERNER IOHANNIS,9150471
+1968,2019-11-10,president_b,RO4,Macroregiunea Patru,2,VASILICA-VIORICA DĂNCILĂ,6646293
+1969,2020-12-06,parliament,RO1,Macroregiunea Unu,0,eligible_voters,53230656
+1970,2020-12-06,parliament,RO1,Macroregiunea Unu,1,issued_ballots,17595264
+1971,2020-12-06,parliament,RO1,Macroregiunea Unu,2,AD,7212
+1972,2020-12-06,parliament,RO1,Macroregiunea Unu,2,ALBU ERWIN-VLAD-CANDIDAT INDEPENDENT,22740
+1973,2020-12-06,parliament,RO1,Macroregiunea Unu,2,ARN,97272
+1974,2020-12-06,parliament,RO1,Macroregiunea Unu,2,ASOCIAȚIA ITALIENILOR DIN ROMÂNIA – RO.AS.IT.,10752
+1975,2020-12-06,parliament,RO1,Macroregiunea Unu,2,ASOCIAȚIA LIGA ALBANEZILOR DIN ROMÂNIA,41184
+1976,2020-12-06,parliament,RO1,Macroregiunea Unu,2,ASOCIAȚIA MACEDONENILOR DIN ROMÂNIA,16512
+1977,2020-12-06,parliament,RO1,Macroregiunea Unu,2,ASOCIAȚIA PARTIDA ROMILOR “PRO-EUROPA”,47652
+1978,2020-12-06,parliament,RO1,Macroregiunea Unu,2,AUR,1192392
+1979,2020-12-06,parliament,RO1,Macroregiunea Unu,2,BENDORFEAN TRAIAN-CANDIDAT INDEPENDENT,11928
+1980,2020-12-06,parliament,RO1,Macroregiunea Unu,2,BLOCUL UNITĂȚII NAȚIONALE,3516
+1981,2020-12-06,parliament,RO1,Macroregiunea Unu,2,CIOANCA NICOLAE-ILIE-CANDIDAT INDEPENDENT,25764
+1982,2020-12-06,parliament,RO1,Macroregiunea Unu,2,CRISTEA GEORGE-CANDIDAT INDEPENDENT,1620
+1983,2020-12-06,parliament,RO1,Macroregiunea Unu,2,CRLR,5136
+1984,2020-12-06,parliament,RO1,Macroregiunea Unu,2,DUMA VICTOR-SEBASTIAN-CANDIDAT INDEPENDENT,7272
+1985,2020-12-06,parliament,RO1,Macroregiunea Unu,2,FDGR,38064
+1986,2020-12-06,parliament,RO1,Macroregiunea Unu,2,FEDERAȚIA COMUNITĂȚILOR EVREIEȘTI DIN ROMÂNIA,9840
+1987,2020-12-06,parliament,RO1,Macroregiunea Unu,2,NAŞ SORIN-VALERIU-CANDIDAT INDEPENDENT,8316
+1988,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PAPICI MARCELA ANAMARIA-CANDIDAT INDEPENDENT,33480
+1989,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PARTIDUL NAȚIUNEA ROMÂNĂ,6036
+1990,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PARTIDUL NOUA DREAPTĂ,3864
+1991,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PARTIDUL NOUA ROMÂNIE,16284
+1992,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PER,156876
+1993,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PMP,723276
+1994,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PNL,4535376
+1995,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PNȚMM,19692
+1996,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PPU,140808
+1997,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PRM,74952
+1998,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PRO,560544
+1999,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PSD,2944596
+2000,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PSR,16776
+2001,2020-12-06,parliament,RO1,Macroregiunea Unu,2,PV,45936
+2002,2020-12-06,parliament,RO1,Macroregiunea Unu,2,RAŢIU OVIDIU-IOAN-CANDIDAT INDEPENDENT,8880
+2003,2020-12-06,parliament,RO1,Macroregiunea Unu,2,TRĂSCĂIAN PETRU-VASILE-CANDIDAT INDEPENDENT,4812
+2004,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UAR,7764
+2005,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UBBR,8868
+2006,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UCR,8736
+2007,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UCRR,15924
+2008,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UDMR,3723804
+2009,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UDSCR,33912
+2010,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UER,10440
+2011,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UNIUNEA DEMOCRATĂ TURCĂ DIN ROMÂNIA,7896
+2012,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UNIUNEA POLONEZILOR DIN ROMÂNIA,5556
+2013,2020-12-06,parliament,RO1,Macroregiunea Unu,2,USR-PLUS,2455956
+2014,2020-12-06,parliament,RO1,Macroregiunea Unu,2,USbR,7692
+2015,2020-12-06,parliament,RO1,Macroregiunea Unu,2,UUR,27048
+2016,2020-12-06,parliament,RO1,Macroregiunea Unu,2,VECERDEA MARIUS-DANIEL-CANDIDAT INDEPENDENT,11376
+2017,2020-12-06,parliament,RO2,Macroregiunea Doi,0,eligible_voters,66633096
+2018,2020-12-06,parliament,RO2,Macroregiunea Doi,1,issued_ballots,19414980
+2019,2020-12-06,parliament,RO2,Macroregiunea Doi,2,AD,4980
+2020,2020-12-06,parliament,RO2,Macroregiunea Doi,2,ANDRIAN TIBERIU-CANDIDAT INDEPENDENT,7944
+2021,2020-12-06,parliament,RO2,Macroregiunea Doi,2,ARN,49608
+2022,2020-12-06,parliament,RO2,Macroregiunea Doi,2,ASOCIAȚIA ITALIENILOR DIN ROMÂNIA – RO.AS.IT.,22404
+2023,2020-12-06,parliament,RO2,Macroregiunea Doi,2,ASOCIAȚIA LIGA ALBANEZILOR DIN ROMÂNIA,23208
+2024,2020-12-06,parliament,RO2,Macroregiunea Doi,2,ASOCIAȚIA MACEDONENILOR DIN ROMÂNIA,28356
+2025,2020-12-06,parliament,RO2,Macroregiunea Doi,2,ASOCIAȚIA PARTIDA ROMILOR “PRO-EUROPA”,56712
+2026,2020-12-06,parliament,RO2,Macroregiunea Doi,2,AUR,2287596
+2027,2020-12-06,parliament,RO2,Macroregiunea Doi,2,CALU NECULAI-CANDIDAT INDEPENDENT,4248
+2028,2020-12-06,parliament,RO2,Macroregiunea Doi,2,CRLR,44220
+2029,2020-12-06,parliament,RO2,Macroregiunea Doi,2,DAVID FELICIA-CANDIDAT INDEPENDENT,7188
+2030,2020-12-06,parliament,RO2,Macroregiunea Doi,2,FDGR,19656
+2031,2020-12-06,parliament,RO2,Macroregiunea Doi,2,FEDERAȚIA COMUNITĂȚILOR EVREIEȘTI DIN ROMÂNIA,14772
+2032,2020-12-06,parliament,RO2,Macroregiunea Doi,2,HOLICOV MONICA-CANDIDAT INDEPENDENT,8760
+2033,2020-12-06,parliament,RO2,Macroregiunea Doi,2,ICHIM COSTICĂ-ROMICĂ-CANDIDAT INDEPENDENT,3516
+2034,2020-12-06,parliament,RO2,Macroregiunea Doi,2,JALBĂ TIBERIU-MIHAI-ANTONIU-CANDIDAT INDEPENDENT,8976
+2035,2020-12-06,parliament,RO2,Macroregiunea Doi,2,MARTIN CORINA-CANDIDAT INDEPENDENT,20208
+2036,2020-12-06,parliament,RO2,Macroregiunea Doi,2,MITOŞERIU CIPRIAN OLIMPIU-CANDIDAT INDEPENDENT,6084
+2037,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PARTIDUL FORȚA NAȚIONALĂ,1776
+2038,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PARTIDUL NOUA DREAPTĂ,3444
+2039,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PARTIDUL NOUA ROMÂNIE,69000
+2040,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PARTIDUL RE:START ROMÂNIA,2676
+2041,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PER,248412
+2042,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PETREA IONEL-CANDIDAT INDEPENDENT,15660
+2043,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PMP,941448
+2044,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PNL,4363512
+2045,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PPU,292992
+2046,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PRM,136320
+2047,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PRO,846000
+2048,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PSD,6368796
+2049,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PSR,70416
+2050,2020-12-06,parliament,RO2,Macroregiunea Doi,2,PV,83172
+2051,2020-12-06,parliament,RO2,Macroregiunea Doi,2,TABARAC ADRIAN-CANDIDAT INDEPENDENT,17748
+2052,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UAR,17100
+2053,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UBBR,17580
+2054,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UCR,11256
+2055,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UCRR,6540
+2056,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UDMR,67620
+2057,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UDSCR,8556
+2058,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UER,30108
+2059,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UNIUNEA DEMOCRATĂ A TĂTARILOR TURCO-MUSULMANI DIN ROMÂNIA,34344
+2060,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UNIUNEA DEMOCRATĂ TURCĂ DIN ROMÂNIA,19716
+2061,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UNIUNEA POLONEZILOR DIN ROMÂNIA,29652
+2062,2020-12-06,parliament,RO2,Macroregiunea Doi,2,USR-PLUS,2410344
+2063,2020-12-06,parliament,RO2,Macroregiunea Doi,2,USbR,12108
+2064,2020-12-06,parliament,RO2,Macroregiunea Doi,2,UUR,19668
+2065,2020-12-06,parliament,RO2,Macroregiunea Doi,2,ZAMFIR-IGNAT ŞTEFAN-COSTIN-CANDIDAT INDEPENDENT,14616
+2066,2020-12-06,parliament,RO3,Macroregiunea Trei,0,eligible_voters,42938253
+2067,2020-12-06,parliament,RO3,Macroregiunea Trei,1,issued_ballots,13824252
+2068,2020-12-06,parliament,RO3,Macroregiunea Trei,2,AD,5670
+2069,2020-12-06,parliament,RO3,Macroregiunea Trei,2,APOSTOLACHE MIHAI CRISTIAN-CANDIDAT INDEPENDENT,23247
+2070,2020-12-06,parliament,RO3,Macroregiunea Trei,2,ARN,17163
+2071,2020-12-06,parliament,RO3,Macroregiunea Trei,2,ASOCIAȚIA ITALIENILOR DIN ROMÂNIA – RO.AS.IT.,5112
+2072,2020-12-06,parliament,RO3,Macroregiunea Trei,2,ASOCIAȚIA LIGA ALBANEZILOR DIN ROMÂNIA,9306
+2073,2020-12-06,parliament,RO3,Macroregiunea Trei,2,ASOCIAȚIA MACEDONENILOR DIN ROMÂNIA,10206
+2074,2020-12-06,parliament,RO3,Macroregiunea Trei,2,ASOCIAȚIA PARTIDA ROMILOR “PRO-EUROPA”,28917
+2075,2020-12-06,parliament,RO3,Macroregiunea Trei,2,AUR,889164
+2076,2020-12-06,parliament,RO3,Macroregiunea Trei,2,BACIU VIRGIL-CANDIDAT INDEPENDENT,32148
+2077,2020-12-06,parliament,RO3,Macroregiunea Trei,2,BOGDAN DUMITRU-CANDIDAT INDEPENDENT,6012
+2078,2020-12-06,parliament,RO3,Macroregiunea Trei,2,COSTEA VLAD-CANDIDAT INDEPENDENT,5922
+2079,2020-12-06,parliament,RO3,Macroregiunea Trei,2,CRLR,4869
+2080,2020-12-06,parliament,RO3,Macroregiunea Trei,2,DUŢĂ MARIA-MIHAELA-CANDIDAT INDEPENDENT,6678
+2081,2020-12-06,parliament,RO3,Macroregiunea Trei,2,FDGR,8028
+2082,2020-12-06,parliament,RO3,Macroregiunea Trei,2,FEDERAȚIA COMUNITĂȚILOR EVREIEȘTI DIN ROMÂNIA,6480
+2083,2020-12-06,parliament,RO3,Macroregiunea Trei,2,GEONEA IONELA-ALINA-CANDIDAT INDEPENDENT,2934
+2084,2020-12-06,parliament,RO3,Macroregiunea Trei,2,IVAN ANDREI-CANDIDAT INDEPENDENT,1755
+2085,2020-12-06,parliament,RO3,Macroregiunea Trei,2,MATEI SERGIU-LUCIAN-CANDIDAT INDEPENDENT,5310
+2086,2020-12-06,parliament,RO3,Macroregiunea Trei,2,NICOLAE VALERIU-CIOLAN-CANDIDAT INDEPENDENT,147087
+2087,2020-12-06,parliament,RO3,Macroregiunea Trei,2,OPREA GABRIEL-CANDIDAT INDEPENDENT,7425
+2088,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PARTIDUL NAȚIUNEA ROMÂNĂ,11268
+2089,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PARTIDUL NOUA DREAPTĂ,19989
+2090,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PARTIDUL NOUA ROMÂNIE,32769
+2091,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PARTIDUL SOCIAL DEMOCRAT AL MUNCITORILOR,12906
+2092,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PER,136323
+2093,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PMP,615339
+2094,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PNL,3478761
+2095,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PNȚMM,9774
+2096,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PPU,105255
+2097,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PRM,77238
+2098,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PRO,624699
+2099,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PSD,4456215
+2100,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PSR,54648
+2101,2020-12-06,parliament,RO3,Macroregiunea Trei,2,PV,53829
+2102,2020-12-06,parliament,RO3,Macroregiunea Trei,2,RĂDULESCU VIRGIL-FLORIN-CANDIDAT INDEPENDENT,3051
+2103,2020-12-06,parliament,RO3,Macroregiunea Trei,2,STOCHIŢĂ AUREL-CĂTĂLIN-CANDIDAT INDEPENDENT,3375
+2104,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UAR,9072
+2105,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UBBR,6651
+2106,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UCR,2970
+2107,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UCRR,3771
+2108,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UDMR,27477
+2109,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UDSCR,4824
+2110,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UER,14553
+2111,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UNIUNEA DEMOCRATĂ TURCĂ DIN ROMÂNIA,6408
+2112,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UNIUNEA POLONEZILOR DIN ROMÂNIA,3546
+2113,2020-12-06,parliament,RO3,Macroregiunea Trei,2,USR-PLUS,2479473
+2114,2020-12-06,parliament,RO3,Macroregiunea Trei,2,USbR,4086
+2115,2020-12-06,parliament,RO3,Macroregiunea Trei,2,UUR,3501
+2116,2020-12-06,parliament,RO3,Macroregiunea Trei,2,ZAINEA CORNEL-CANDIDAT INDEPENDENT,11439
+2117,2020-12-06,parliament,RO3,Macroregiunea Trei,2,ZMARANDA FLORIN-CANDIDAT INDEPENDENT,1485
+2118,2020-12-06,parliament,RO3,Macroregiunea Trei,2,ŞERBAN DANIELA-CANDIDAT INDEPENDENT,9315
+2119,2020-12-06,parliament,RO4,Macroregiunea Patru,0,eligible_voters,30886497
+2120,2020-12-06,parliament,RO4,Macroregiunea Patru,1,issued_ballots,10556280
+2121,2020-12-06,parliament,RO4,Macroregiunea Patru,2,AD,3231
+2122,2020-12-06,parliament,RO4,Macroregiunea Patru,2,ARN,67635
+2123,2020-12-06,parliament,RO4,Macroregiunea Patru,2,ASOCIAȚIA ITALIENILOR DIN ROMÂNIA – RO.AS.IT.,4014
+2124,2020-12-06,parliament,RO4,Macroregiunea Patru,2,ASOCIAȚIA LIGA ALBANEZILOR DIN ROMÂNIA,21915
+2125,2020-12-06,parliament,RO4,Macroregiunea Patru,2,ASOCIAȚIA MACEDONENILOR DIN ROMÂNIA,18648
+2126,2020-12-06,parliament,RO4,Macroregiunea Patru,2,ASOCIAȚIA PARTIDA ROMILOR “PRO-EUROPA”,19503
+2127,2020-12-06,parliament,RO4,Macroregiunea Patru,2,AUR,774909
+2128,2020-12-06,parliament,RO4,Macroregiunea Patru,2,BULAT FLORIN-CANDIDAT INDEPENDENT,2844
+2129,2020-12-06,parliament,RO4,Macroregiunea Patru,2,CARALICEA GHEORGHE-CANDIDAT INDEPENDENT,3339
+2130,2020-12-06,parliament,RO4,Macroregiunea Patru,2,CRLR,2349
+2131,2020-12-06,parliament,RO4,Macroregiunea Patru,2,FDGR,12591
+2132,2020-12-06,parliament,RO4,Macroregiunea Patru,2,FEDERAȚIA COMUNITĂȚILOR EVREIEȘTI DIN ROMÂNIA,5463
+2133,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PARTIDUL COMUNIȘTILOR,1917
+2134,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PARTIDUL NOUA DREAPTĂ,6498
+2135,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PARTIDUL NOUA ROMÂNIE,30105
+2136,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PARTIDUL RE:START ROMÂNIA,2826
+2137,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PARTIDUL SOCIAL DEMOCRAT AL MUNCITORILOR,4302
+2138,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PER,120555
+2139,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PESCARU NICUŞOR-CANDIDAT INDEPENDENT,1035
+2140,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PMP,496368
+2141,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PNL,2636352
+2142,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PPU,104580
+2143,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PRM,58203
+2144,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PRO,447705
+2145,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PSD,3831300
+2146,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PSR,57213
+2147,2020-12-06,parliament,RO4,Macroregiunea Patru,2,PV,34875
+2148,2020-12-06,parliament,RO4,Macroregiunea Patru,2,ROŞU GICĂ-CANDIDAT INDEPENDENT,4455
+2149,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UAR,5490
+2150,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UBBR,16056
+2151,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UCR,11358
+2152,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UCRR,12339
+2153,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UDMR,153000
+2154,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UDSCR,10530
+2155,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UER,7155
+2156,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UNIUNEA DEMOCRATĂ TURCĂ DIN ROMÂNIA,3798
+2157,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UNIUNEA POLONEZILOR DIN ROMÂNIA,3078
+2158,2020-12-06,parliament,RO4,Macroregiunea Patru,2,USR-PLUS,1264410
+2159,2020-12-06,parliament,RO4,Macroregiunea Patru,2,USbR,22068
+2160,2020-12-06,parliament,RO4,Macroregiunea Patru,2,UUR,8577
+2161,2024-06-09,european,RO1,Macroregiunea Unu,0,eligible_voters,52983696
+2162,2024-06-09,european,RO1,Macroregiunea Unu,1,issued_ballots,28310688
+2163,2024-06-09,european,RO1,Macroregiunea Unu,2,AD,110472
+2164,2024-06-09,european,RO1,Macroregiunea Unu,2,ALIANȚA AUR,3548400
+2165,2024-06-09,european,RO1,Macroregiunea Unu,2,GHEORGHE VLAD-DAN,588924
+2166,2024-06-09,european,RO1,Macroregiunea Unu,2,PARTIDUL DIASPORA UNITĂ,443604
+2167,2024-06-09,european,RO1,Macroregiunea Unu,2,PARTIDUL PATRIOȚILOR,222204
+2168,2024-06-09,european,RO1,Macroregiunea Unu,2,PRM,162048
+2169,2024-06-09,european,RO1,Macroregiunea Unu,2,PSD-PNL,10399344
+2170,2024-06-09,european,RO1,Macroregiunea Unu,2,PSR - PSDM,85056
+2171,2024-06-09,european,RO1,Macroregiunea Unu,2,PUSL,209856
+2172,2024-06-09,european,RO1,Macroregiunea Unu,2,PÎRVĂNESCU PAULA-MARINELA,130332
+2173,2024-06-09,european,RO1,Macroregiunea Unu,2,REPER,960672
+2174,2024-06-09,european,RO1,Macroregiunea Unu,2,SOS,937704
+2175,2024-06-09,european,RO1,Macroregiunea Unu,2,UDMR,6003048
+2176,2024-06-09,european,RO1,Macroregiunea Unu,2,USR - PMP - FORȚA DREPTEI,2020812
+2177,2024-06-09,european,RO1,Macroregiunea Unu,2,ȘOȘOACĂ DUMITRU-SILVESTRU,196812
+2178,2024-06-09,european,RO1,Macroregiunea Unu,2,ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL,818508
+2179,2024-06-09,european,RO2,Macroregiunea Doi,0,eligible_voters,66252936
+2180,2024-06-09,european,RO2,Macroregiunea Doi,1,issued_ballots,31057236
+2181,2024-06-09,european,RO2,Macroregiunea Doi,2,AD,119700
+2182,2024-06-09,european,RO2,Macroregiunea Doi,2,ALIANȚA AUR,4601508
+2183,2024-06-09,european,RO2,Macroregiunea Doi,2,GHEORGHE VLAD-DAN,675468
+2184,2024-06-09,european,RO2,Macroregiunea Doi,2,PARTIDUL DIASPORA UNITĂ,504996
+2185,2024-06-09,european,RO2,Macroregiunea Doi,2,PARTIDUL PATRIOȚILOR,215448
+2186,2024-06-09,european,RO2,Macroregiunea Doi,2,PRM,206568
+2187,2024-06-09,european,RO2,Macroregiunea Doi,2,PSD-PNL,16135056
+2188,2024-06-09,european,RO2,Macroregiunea Doi,2,PSR - PSDM,136416
+2189,2024-06-09,european,RO2,Macroregiunea Doi,2,PUSL,403620
+2190,2024-06-09,european,RO2,Macroregiunea Doi,2,PÎRVĂNESCU PAULA-MARINELA,186336
+2191,2024-06-09,european,RO2,Macroregiunea Doi,2,REPER,834108
+2192,2024-06-09,european,RO2,Macroregiunea Doi,2,SOS,1747920
+2193,2024-06-09,european,RO2,Macroregiunea Doi,2,UDMR,237420
+2194,2024-06-09,european,RO2,Macroregiunea Doi,2,USR - PMP - FORȚA DREPTEI,2175768
+2195,2024-06-09,european,RO2,Macroregiunea Doi,2,ȘOȘOACĂ DUMITRU-SILVESTRU,301644
+2196,2024-06-09,european,RO2,Macroregiunea Doi,2,ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL,756288
+2197,2024-06-09,european,RO3,Macroregiunea Trei,0,eligible_voters,42600384
+2198,2024-06-09,european,RO3,Macroregiunea Trei,1,issued_ballots,22082571
+2199,2024-06-09,european,RO3,Macroregiunea Trei,2,AD,110043
+2200,2024-06-09,european,RO3,Macroregiunea Trei,2,ALIANȚA AUR,2940660
+2201,2024-06-09,european,RO3,Macroregiunea Trei,2,GHEORGHE VLAD-DAN,643041
+2202,2024-06-09,european,RO3,Macroregiunea Trei,2,PARTIDUL DIASPORA UNITĂ,371862
+2203,2024-06-09,european,RO3,Macroregiunea Trei,2,PARTIDUL PATRIOȚILOR,160758
+2204,2024-06-09,european,RO3,Macroregiunea Trei,2,PRM,153720
+2205,2024-06-09,european,RO3,Macroregiunea Trei,2,PSD-PNL,10224486
+2206,2024-06-09,european,RO3,Macroregiunea Trei,2,PSR - PSDM,101925
+2207,2024-06-09,european,RO3,Macroregiunea Trei,2,PUSL,531450
+2208,2024-06-09,european,RO3,Macroregiunea Trei,2,PÎRVĂNESCU PAULA-MARINELA,136116
+2209,2024-06-09,european,RO3,Macroregiunea Trei,2,REPER,1084824
+2210,2024-06-09,european,RO3,Macroregiunea Trei,2,SOS,1014444
+2211,2024-06-09,european,RO3,Macroregiunea Trei,2,UDMR,146304
+2212,2024-06-09,european,RO3,Macroregiunea Trei,2,USR - PMP - FORȚA DREPTEI,2403855
+2213,2024-06-09,european,RO3,Macroregiunea Trei,2,ȘOȘOACĂ DUMITRU-SILVESTRU,181044
+2214,2024-06-09,european,RO3,Macroregiunea Trei,2,ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL,854676
+2215,2024-06-09,european,RO4,Macroregiunea Patru,0,eligible_voters,30200103
+2216,2024-06-09,european,RO4,Macroregiunea Patru,1,issued_ballots,16328295
+2217,2024-06-09,european,RO4,Macroregiunea Patru,2,AD,67752
+2218,2024-06-09,european,RO4,Macroregiunea Patru,2,ALIANȚA AUR,2683584
+2219,2024-06-09,european,RO4,Macroregiunea Patru,2,GHEORGHE VLAD-DAN,306297
+2220,2024-06-09,european,RO4,Macroregiunea Patru,2,PARTIDUL DIASPORA UNITĂ,222732
+2221,2024-06-09,european,RO4,Macroregiunea Patru,2,PARTIDUL PATRIOȚILOR,90279
+2222,2024-06-09,european,RO4,Macroregiunea Patru,2,PRM,88659
+2223,2024-06-09,european,RO4,Macroregiunea Patru,2,PSD-PNL,8545563
+2224,2024-06-09,european,RO4,Macroregiunea Patru,2,PSR - PSDM,60489
+2225,2024-06-09,european,RO4,Macroregiunea Patru,2,PUSL,183519
+2226,2024-06-09,european,RO4,Macroregiunea Patru,2,PÎRVĂNESCU PAULA-MARINELA,77832
+2227,2024-06-09,european,RO4,Macroregiunea Patru,2,REPER,397656
+2228,2024-06-09,european,RO4,Macroregiunea Patru,2,SOS,765585
+2229,2024-06-09,european,RO4,Macroregiunea Patru,2,UDMR,366291
+2230,2024-06-09,european,RO4,Macroregiunea Patru,2,USR - PMP - FORȚA DREPTEI,1149462
+2231,2024-06-09,european,RO4,Macroregiunea Patru,2,ȘOȘOACĂ DUMITRU-SILVESTRU,133425
+2232,2024-06-09,european,RO4,Macroregiunea Patru,2,ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL,334593

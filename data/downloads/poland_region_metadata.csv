@@ -1,0 +1,74 @@
+,harmonised_code,harmonised_name,nuts_3_code,nuts_3_name,nuts_2_code,nuts_2_name,nuts_1_code,nuts_1_name
+1154,PL815,Puławski,PL815,Puławski,PL81,Lubelskie,PL8,Makroregion wschodni
+1155,PL811,Bialski,PL811,Bialski,PL81,Lubelskie,PL8,Makroregion wschodni
+1156,PL812,Chełmsko-zamojski,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
+1157,PL814,Lubelski,PL814,Lubelski,PL81,Lubelskie,PL8,Makroregion wschodni
+1158,PL821,Krośnieński,PL821,Krośnieński,PL82,Podkarpackie,PL8,Makroregion wschodni
+1159,PL822,Przemyski,PL822,Przemyski,PL82,Podkarpackie,PL8,Makroregion wschodni
+1160,PL823,Rzeszowski,PL823,Rzeszowski,PL82,Podkarpackie,PL8,Makroregion wschodni
+1161,PL824,Tarnobrzeski,PL824,Tarnobrzeski,PL82,Podkarpackie,PL8,Makroregion wschodni
+1162,PL842,Łomżyński,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
+1163,PL843,Suwalski,PL843,Suwalski,PL84,Podlaskie,PL8,Makroregion wschodni
+1164,PL841,Białostocki,PL841,Białostocki,PL84,Podlaskie,PL8,Makroregion wschodni
+1198,PL921,Radomski,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+1199,PL922,Ciechanowski,PL922,Ciechanowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+1200,PL923,Płocki,PL923,Płocki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+1201,PL924,Ostrołęcki,PL924,Ostrołęcki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+1202,PL925,Siedlecki,PL925,Siedlecki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+1203,PL926,Żyrardowski,PL926,Żyrardowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+1204,PL911,Miasto Warszawa,PL911,Miasto Warszawa,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+1205,PL912,Warszawski wschodni,PL912,Warszawski wschodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+1206,PL913,Warszawski zachodni,PL913,Warszawski zachodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+1208,PL415,Miasto Poznań,PL415,Miasto Poznań,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+1209,PL416,Kaliski,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+1210,PL411,Pilski,PL411,Pilski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+1211,PL414,Koniński,PL414,Koniński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+1212,PL417,Leszczyński,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+1213,PL418,Poznański,PL418,Poznański,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+1214,PL424,Miasto Szczecin,PL424,Miasto Szczecin,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+1215,PL426,Koszaliński,PL426,Koszaliński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+1216,PL427,Szczecinecko-pyrzycki,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+1217,PL428,Szczeciński,PL428,Szczeciński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+1218,PL431,Gorzowski,PL431,Gorzowski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+1219,PL432,Zielonogórski,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+1232,PL516,Legnicko-głogowski,PL516,Legnicko-głogowski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+1233,PL517,Wałbrzyski,PL517,Wałbrzyski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+1234,PL518,Wrocławski,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+1235,PL514,Miasto Wrocław,PL514,Miasto Wrocław,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+1236,PL515,Jeleniogórski,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+1237,PL523,Nyski,PL523,Nyski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+1238,PL524,Opolski,PL524,Opolski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+1251,PL621,Elbląski,PL621,Elbląski,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+1252,PL622,Olsztyński,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+1253,PL623,Ełcki,PL623,Ełcki,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+1254,PL638,Starogardzki,PL638,Starogardzki,PL63,Pomorskie,PL6,Makroregion północny
+1255,PL633,Trójmiejski,PL633,Trójmiejski,PL63,Pomorskie,PL6,Makroregion północny
+1256,PL634,Gdański,PL634,Gdański,PL63,Pomorskie,PL6,Makroregion północny
+1257,PL636,Słupski,PL636,Słupski,PL63,Pomorskie,PL6,Makroregion północny
+1258,PL637,Chojnicki,PL637,Chojnicki,PL63,Pomorskie,PL6,Makroregion północny
+1259,PL613,Bydgosko-toruński,PL613,Bydgosko-toruński,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+1260,PL616,Grudziądzki,PL616,Grudziądzki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+1261,PL617,Inowrocławski,PL617,Inowrocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+1262,PL618,Świecki,PL618,Świecki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+1263,PL619,Włocławski,PL619,Włocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+1290,PL711,Miasto Łódź,PL711,Miasto Łódź,PL71,Łódzkie,PL7,Makroregion centralny
+1291,PL712,Łódzki,PL712,Łódzki,PL71,Łódzkie,PL7,Makroregion centralny
+1292,PL713,Piotrkowski,PL713,Piotrkowski,PL71,Łódzkie,PL7,Makroregion centralny
+1293,PL714,Sieradzki,PL714,Sieradzki,PL71,Łódzkie,PL7,Makroregion centralny
+1294,PL715,Skierniewicki,PL715,Skierniewicki,PL71,Łódzkie,PL7,Makroregion centralny
+1295,PL721,Kielecki,PL721,Kielecki,PL72,Świętokrzyskie,PL7,Makroregion centralny
+1296,PL722,Sandomiersko-jędrzejowski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
+1297,PL213,Miasto Kraków,PL213,Miasto Kraków,PL21,Małopolskie,PL2,Makroregion południowy
+1298,PL214,Krakowski,PL214,Krakowski,PL21,Małopolskie,PL2,Makroregion południowy
+1299,PL217,Tarnowski,PL217,Tarnowski,PL21,Małopolskie,PL2,Makroregion południowy
+1300,PL218,Nowosądecki,PL218,Nowosądecki,PL21,Małopolskie,PL2,Makroregion południowy
+1301,PL219,Nowotarski,PL219,Nowotarski,PL21,Małopolskie,PL2,Makroregion południowy
+1302,PL21A,Oświęcimski,PL21A,Oświęcimski,PL21,Małopolskie,PL2,Makroregion południowy
+1303,PL224,Częstochowski,PL224,Częstochowski,PL22,Śląskie,PL2,Makroregion południowy
+1304,PL225,Bielski,PL225,Bielski,PL22,Śląskie,PL2,Makroregion południowy
+1305,PL227,Rybnicki,PL227,Rybnicki,PL22,Śląskie,PL2,Makroregion południowy
+1306,PL228,Bytomski,PL228,Bytomski,PL22,Śląskie,PL2,Makroregion południowy
+1307,PL229,Gliwicki,PL229,Gliwicki,PL22,Śląskie,PL2,Makroregion południowy
+1308,PL22A,Katowicki,PL22A,Katowicki,PL22,Śląskie,PL2,Makroregion południowy
+1309,PL22B,Sosnowiecki,PL22B,Sosnowiecki,PL22,Śląskie,PL2,Makroregion południowy
+1310,PL22C,Tyski,PL22C,Tyski,PL22,Śląskie,PL2,Makroregion południowy
