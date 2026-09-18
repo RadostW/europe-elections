@@ -36,7 +36,8 @@ df_admin = df_admin.sort_values(["county_code", "year"]).drop_duplicates(
 )
 
 df_wikipedia = pd.read_csv(wikipedia_file)
-df_wikipedia = df_wikipedia.fillna(method="ffill")
+#df_wikipedia = df_wikipedia.fillna(method="ffill")
+df_wikipedia = df_wikipedia.ffill()
 
 df_lookup_file = pd.read_csv(lookup_file)
 
@@ -47,10 +48,11 @@ df_merge_b = pd.merge(
     df_merge_a, df_admin, how="outer", left_on="KGS", right_on="county_code"
 )
 
-df_raw = pd.read_csv(raw_file)
-relevant_kreise = df_raw["county_code"].unique()
+# df_raw = pd.read_csv(raw_file)
+# relevant_kreise = df_raw["county_code"].unique()
 
-df_merge_c = df_merge_b[df_merge_b["county_code"].isin(relevant_kreise)]
+df_merge_c = df_merge_b
+# df_merge_c = df_merge_b[df_merge_b["county_code"].isin(relevant_kreise)]
 df_big = df_merge_c.copy()
 
 df_out = pd.DataFrame()

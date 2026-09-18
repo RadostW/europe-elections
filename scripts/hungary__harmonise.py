@@ -5,6 +5,7 @@ import unidecode
 here = pathlib.Path(__file__).resolve().parent
 
 output_path = here / "../data/hungary/harmonised/hungary.csv"
+meta_output_path = here / "../data/hungary/harmonised/hungary__region_data.csv"
 
 meta_path = here / "../data/hungary/meta/codes.csv"
 
@@ -618,3 +619,14 @@ df_hungary[
         "votes",
     ]
 ].to_csv(output_path)
+
+
+df_hungary[
+    [
+        "harmonised_code",
+        "harmonised_name",
+        "nuts3_code",
+    ]
+].groupby(
+    "harmonised_code"
+).first().to_csv(meta_output_path)
