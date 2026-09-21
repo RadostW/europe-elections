@@ -5,35 +5,40 @@ import pathlib
 
 here = pathlib.Path(__file__).resolve().parent
 
+STYLE_FILE = here / "elections.mplstyle"
+plt.style.use(STYLE_FILE)
+plt.rcParams.update({"lines.marker": ""})  # no default markers
+
+
 # --- CONFIG FILES WITH FOLDER PATH ---
 files = {
     "germany": {
-        "csv": "../data/downloads/germany.csv",
-        "topo": "../data/downloads/germany_kreisen.topojson",
+        "csv": "../data/downloads/germany_best_resolution.csv",
+        "topo": "../data/downloads/best_resolution_maps/germany_kreisen.topojson",
     },
     "poland": {
-        "csv": "../data/downloads/poland.csv",
-        "topo": "../data/downloads/poland_powiaty.topojson",
+        "csv": "../data/downloads/poland_best_resolution.csv",
+        "topo": "../data/downloads/best_resolution_maps/poland_powiaty.topojson",
     },
     "france": {
-        "csv": "../data/downloads/france.csv",
-        "topo": "../data/downloads/france_departement.topojson",
+        "csv": "../data/downloads/france_best_resolution.csv",
+        "topo": "../data/downloads/best_resolution_maps/france_departement.topojson",
     },
     "italy": {
-        "csv": "../data/downloads/italy.csv",
-        "topo": "../data/downloads/italy_province.topojson",
+        "csv": "../data/downloads/italy_best_resolution.csv",
+        "topo": "../data/downloads/best_resolution_maps/italy_province.topojson",
     },
     "spain": {
-        "csv": "../data/downloads/spain.csv",
-        "topo": "../data/downloads/spain_provincia.topojson",
+        "csv": "../data/downloads/spain_best_resolution.csv",
+        "topo": "../data/downloads/best_resolution_maps/spain_provincia.topojson",
     },
     "romania": {
-        "csv": "../data/downloads/romania.csv",
-        "topo": "../data/downloads/romania_judete.topojson",
+        "csv": "../data/downloads/romania_best_resolution.csv",
+        "topo": "../data/downloads/best_resolution_maps/romania_judete.topojson",
     },
     "hungary": {
-        "csv": "../data/downloads/hungary.csv",
-        "topo": "../data/downloads/hungary_telepules.topojson",
+        "csv": "../data/downloads/hungary_best_resolution.csv",
+        "topo": "../data/downloads/best_resolution_maps/hungary_telepules.topojson",
     },
 }
 
@@ -54,7 +59,7 @@ for country, paths in files.items():
     votes_df = df_last[
         df_last["type"].isin([0, 1])
     ]  # 0=eligible_voters, 1=issued_ballots
-    pivot = votes_df.pivot(index="harmonised_code", columns="type", values="votes")
+    pivot = votes_df.pivot(index=["harmonised_code","harmonised_name"], columns="type", values="votes")
     pivot.columns = ["eligible_voters", "issued_ballots"]
     pivot["turnout"] = pivot["issued_ballots"] / pivot["eligible_voters"]
     pivot.reset_index(inplace=True)
@@ -66,6 +71,22 @@ for country, paths in files.items():
     gdf = gdf.merge(
         pivot, left_on="harmonised_code", right_on="harmonised_code", how="outer"
     )
+
+    # drop French remote islands for plots
+    gdf = gdf[
+        ~gdf[f"harmonised_code"].str.startswith("M_97")
+    ]
+    gdf = gdf[
+            ~gdf[f"harmonised_code"].str.startswith("M_98")
+        ]
+
+    # drop Spanish remote islands for plots
+    gdf = gdf[
+                ~gdf[f"harmonised_code"].str.startswith("I_38")
+            ]
+    gdf = gdf[
+                    ~gdf[f"harmonised_code"].str.startswith("I_35")
+                ]
 
     gdf["country"] = country
     gdfs.append(gdf.copy())
@@ -82,8 +103,18 @@ if gdf_all.crs is None:
 gdf_all = gdf_all.to_crs("EPSG:4326")
 
 # --- PLOT MAP ---
-fig, ax = plt.subplots(1, 1, figsize=(14, 12))
-gdf_all["turnout_clip"] = gdf_all["turnout"].clip(0.25, 0.75)
+
+FIG_WIDTH, FIG_HEIGHT = (3.5, 2.5)
+fig, ax = plt.subplots(
+    1,
+    1,
+    figsize=(FIG_WIDTH, FIG_HEIGHT),
+    constrained_layout=True,
+)
+
+# fig, ax = plt.subplots(1, 1, figsize=(14, 12))
+# gdf_all["turnout_clip"] = gdf_all["turnout"].clip(0.25, 0.75)
+gdf_all["turnout_clip"] = gdf_all["turnout"].clip(0.2, 0.8)
 gdf_all.plot(
     column="turnout_clip",
     ax=ax,
@@ -95,10 +126,13 @@ gdf_all.plot(
 )
 
 ax.axis("off")
-ax.set_ylim([35, 56])
-ax.set_xlim([-10, None])
+# ax.set_ylim([35, 56])
+# ax.set_xlim([-10, None])
+ax.set_title(f"European election turnout", fontsize=9)
 plt.tight_layout()
 
-plt.savefig("banner.png", dpi=100, bbox_inches="tight", transparent=True)
+plt.savefig(
+    "ep_turnout_best_resolution.png", dpi=300, bbox_inches="tight", transparent=True
+)
 
 plt.show()
