@@ -1,74 +1,381 @@
 ,harmonised_code,harmonised_name,nuts_3_code,nuts_3_name,nuts_2_code,nuts_2_name,nuts_1_code,nuts_1_name
-1154,PL815,Puławski,PL815,Puławski,PL81,Lubelskie,PL8,Makroregion wschodni
-1155,PL811,Bialski,PL811,Bialski,PL81,Lubelskie,PL8,Makroregion wschodni
-1156,PL812,Chełmsko-zamojski,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
-1157,PL814,Lubelski,PL814,Lubelski,PL81,Lubelskie,PL8,Makroregion wschodni
-1158,PL821,Krośnieński,PL821,Krośnieński,PL82,Podkarpackie,PL8,Makroregion wschodni
-1159,PL822,Przemyski,PL822,Przemyski,PL82,Podkarpackie,PL8,Makroregion wschodni
-1160,PL823,Rzeszowski,PL823,Rzeszowski,PL82,Podkarpackie,PL8,Makroregion wschodni
-1161,PL824,Tarnobrzeski,PL824,Tarnobrzeski,PL82,Podkarpackie,PL8,Makroregion wschodni
-1162,PL842,Łomżyński,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
-1163,PL843,Suwalski,PL843,Suwalski,PL84,Podlaskie,PL8,Makroregion wschodni
-1164,PL841,Białostocki,PL841,Białostocki,PL84,Podlaskie,PL8,Makroregion wschodni
-1198,PL921,Radomski,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
-1199,PL922,Ciechanowski,PL922,Ciechanowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
-1200,PL923,Płocki,PL923,Płocki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
-1201,PL924,Ostrołęcki,PL924,Ostrołęcki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
-1202,PL925,Siedlecki,PL925,Siedlecki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
-1203,PL926,Żyrardowski,PL926,Żyrardowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
-1204,PL911,Miasto Warszawa,PL911,Miasto Warszawa,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
-1205,PL912,Warszawski wschodni,PL912,Warszawski wschodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
-1206,PL913,Warszawski zachodni,PL913,Warszawski zachodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
-1208,PL415,Miasto Poznań,PL415,Miasto Poznań,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
-1209,PL416,Kaliski,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
-1210,PL411,Pilski,PL411,Pilski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
-1211,PL414,Koniński,PL414,Koniński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
-1212,PL417,Leszczyński,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
-1213,PL418,Poznański,PL418,Poznański,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
-1214,PL424,Miasto Szczecin,PL424,Miasto Szczecin,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
-1215,PL426,Koszaliński,PL426,Koszaliński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
-1216,PL427,Szczecinecko-pyrzycki,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
-1217,PL428,Szczeciński,PL428,Szczeciński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
-1218,PL431,Gorzowski,PL431,Gorzowski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
-1219,PL432,Zielonogórski,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
-1232,PL516,Legnicko-głogowski,PL516,Legnicko-głogowski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
-1233,PL517,Wałbrzyski,PL517,Wałbrzyski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
-1234,PL518,Wrocławski,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
-1235,PL514,Miasto Wrocław,PL514,Miasto Wrocław,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
-1236,PL515,Jeleniogórski,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
-1237,PL523,Nyski,PL523,Nyski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
-1238,PL524,Opolski,PL524,Opolski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
-1251,PL621,Elbląski,PL621,Elbląski,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
-1252,PL622,Olsztyński,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
-1253,PL623,Ełcki,PL623,Ełcki,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
-1254,PL638,Starogardzki,PL638,Starogardzki,PL63,Pomorskie,PL6,Makroregion północny
-1255,PL633,Trójmiejski,PL633,Trójmiejski,PL63,Pomorskie,PL6,Makroregion północny
-1256,PL634,Gdański,PL634,Gdański,PL63,Pomorskie,PL6,Makroregion północny
-1257,PL636,Słupski,PL636,Słupski,PL63,Pomorskie,PL6,Makroregion północny
-1258,PL637,Chojnicki,PL637,Chojnicki,PL63,Pomorskie,PL6,Makroregion północny
-1259,PL613,Bydgosko-toruński,PL613,Bydgosko-toruński,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
-1260,PL616,Grudziądzki,PL616,Grudziądzki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
-1261,PL617,Inowrocławski,PL617,Inowrocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
-1262,PL618,Świecki,PL618,Świecki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
-1263,PL619,Włocławski,PL619,Włocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
-1290,PL711,Miasto Łódź,PL711,Miasto Łódź,PL71,Łódzkie,PL7,Makroregion centralny
-1291,PL712,Łódzki,PL712,Łódzki,PL71,Łódzkie,PL7,Makroregion centralny
-1292,PL713,Piotrkowski,PL713,Piotrkowski,PL71,Łódzkie,PL7,Makroregion centralny
-1293,PL714,Sieradzki,PL714,Sieradzki,PL71,Łódzkie,PL7,Makroregion centralny
-1294,PL715,Skierniewicki,PL715,Skierniewicki,PL71,Łódzkie,PL7,Makroregion centralny
-1295,PL721,Kielecki,PL721,Kielecki,PL72,Świętokrzyskie,PL7,Makroregion centralny
-1296,PL722,Sandomiersko-jędrzejowski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
-1297,PL213,Miasto Kraków,PL213,Miasto Kraków,PL21,Małopolskie,PL2,Makroregion południowy
-1298,PL214,Krakowski,PL214,Krakowski,PL21,Małopolskie,PL2,Makroregion południowy
-1299,PL217,Tarnowski,PL217,Tarnowski,PL21,Małopolskie,PL2,Makroregion południowy
-1300,PL218,Nowosądecki,PL218,Nowosądecki,PL21,Małopolskie,PL2,Makroregion południowy
-1301,PL219,Nowotarski,PL219,Nowotarski,PL21,Małopolskie,PL2,Makroregion południowy
-1302,PL21A,Oświęcimski,PL21A,Oświęcimski,PL21,Małopolskie,PL2,Makroregion południowy
-1303,PL224,Częstochowski,PL224,Częstochowski,PL22,Śląskie,PL2,Makroregion południowy
-1304,PL225,Bielski,PL225,Bielski,PL22,Śląskie,PL2,Makroregion południowy
-1305,PL227,Rybnicki,PL227,Rybnicki,PL22,Śląskie,PL2,Makroregion południowy
-1306,PL228,Bytomski,PL228,Bytomski,PL22,Śląskie,PL2,Makroregion południowy
-1307,PL229,Gliwicki,PL229,Gliwicki,PL22,Śląskie,PL2,Makroregion południowy
-1308,PL22A,Katowicki,PL22A,Katowicki,PL22,Śląskie,PL2,Makroregion południowy
-1309,PL22B,Sosnowiecki,PL22B,Sosnowiecki,PL22,Śląskie,PL2,Makroregion południowy
-1310,PL22C,Tyski,PL22C,Tyski,PL22,Śląskie,PL2,Makroregion południowy
+0,T_0201,bolesławiecki,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+1,T_0205,jaworski,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+2,T_0206,karkonoski,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+3,T_0207,kamiennogórski,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+4,T_0210,lubański,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+5,T_0212,lwówecki,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+6,T_0225,zgorzelecki,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+7,T_0226,złotoryjski,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+8,T_0261,Jelenia Góra,PL515,Jeleniogórski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+9,T_0202,dzierżoniowski,PL517,Wałbrzyski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+10,T_0208,kłodzki,PL517,Wałbrzyski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+11,T_0219,świdnicki,PL517,Wałbrzyski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+12,T_0221,wałbrzyski,PL517,Wałbrzyski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+13,T_0224,ząbkowicki,PL517,Wałbrzyski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+14,T_0265,Wałbrzych,PL517,Wałbrzyski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+15,T_0203,głogowski,PL516,Legnicko-głogowski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+16,T_0204,górowski,PL516,Legnicko-głogowski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+17,T_0209,legnicki,PL516,Legnicko-głogowski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+18,T_0211,lubiński,PL516,Legnicko-głogowski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+19,T_0216,polkowicki,PL516,Legnicko-głogowski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+20,T_0262,Legnica,PL516,Legnicko-głogowski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+21,T_0213,milicki,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+22,T_0214,oleśnicki,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+23,T_0215,oławski,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+24,T_0217,strzeliński,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+25,T_0218,średzki,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+26,T_0220,trzebnicki,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+27,T_0222,wołowski,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+28,T_0223,wrocławski,PL518,Wrocławski,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+29,T_0264,Wrocław,PL514,Miasto Wrocław,PL51,Dolnośląskie,PL5,Makroregion południowo-zachodni
+30,T_0401,aleksandrowski,PL619,Włocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+31,T_0408,lipnowski,PL619,Włocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+32,T_0411,radziejowski,PL619,Włocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+33,T_0418,włocławski,PL619,Włocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+34,T_0464,Włocławek,PL619,Włocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+35,T_0402,brodnicki,PL616,Grudziądzki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+36,T_0404,chełmiński,PL616,Grudziądzki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+37,T_0405,golubsko-dobrzyński,PL616,Grudziądzki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+38,T_0406,grudziądzki,PL616,Grudziądzki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+39,T_0412,rypiński,PL616,Grudziądzki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+40,T_0417,wąbrzeski,PL616,Grudziądzki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+41,T_0462,Grudziądz,PL616,Grudziądzki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+42,T_0403,bydgoski,PL613,Bydgosko-toruński,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+43,T_0415,toruński,PL613,Bydgosko-toruński,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+44,T_0461,Bydgoszcz,PL613,Bydgosko-toruński,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+45,T_0463,Toruń,PL613,Bydgosko-toruński,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+46,T_0407,inowrocławski,PL617,Inowrocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+47,T_0409,mogileński,PL617,Inowrocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+48,T_0410,nakielski,PL617,Inowrocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+49,T_0419,żniński,PL617,Inowrocławski,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+50,T_0413,sępoleński,PL618,Świecki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+51,T_0414,świecki,PL618,Świecki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+52,T_0416,tucholski,PL618,Świecki,PL61,Kujawsko-pomorskie,PL6,Makroregion północny
+53,T_0601,bialski,PL811,Bialski,PL81,Lubelskie,PL8,Makroregion wschodni
+54,T_0613,parczewski,PL811,Bialski,PL81,Lubelskie,PL8,Makroregion wschodni
+55,T_0615,radzyński,PL811,Bialski,PL81,Lubelskie,PL8,Makroregion wschodni
+56,T_0619,włodawski,PL811,Bialski,PL81,Lubelskie,PL8,Makroregion wschodni
+57,T_0661,Biała Podlaska,PL811,Bialski,PL81,Lubelskie,PL8,Makroregion wschodni
+58,T_0602,biłgorajski,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
+59,T_0603,chełmski,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
+60,T_0604,hrubieszowski,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
+61,T_0606,krasnostawski,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
+62,T_0618,tomaszowski,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
+63,T_0620,zamojski,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
+64,T_0662,Chełm,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
+65,T_0664,Zamość,PL812,Chełmsko-zamojski,PL81,Lubelskie,PL8,Makroregion wschodni
+66,T_0605,janowski,PL815,Puławski,PL81,Lubelskie,PL8,Makroregion wschodni
+67,T_0607,kraśnicki,PL815,Puławski,PL81,Lubelskie,PL8,Makroregion wschodni
+68,T_0611,łukowski,PL815,Puławski,PL81,Lubelskie,PL8,Makroregion wschodni
+69,T_0612,opolski,PL815,Puławski,PL81,Lubelskie,PL8,Makroregion wschodni
+70,T_0614,puławski,PL815,Puławski,PL81,Lubelskie,PL8,Makroregion wschodni
+71,T_0616,rycki,PL815,Puławski,PL81,Lubelskie,PL8,Makroregion wschodni
+72,T_0608,lubartowski,PL814,Lubelski,PL81,Lubelskie,PL8,Makroregion wschodni
+73,T_0609,lubelski,PL814,Lubelski,PL81,Lubelskie,PL8,Makroregion wschodni
+74,T_0610,łęczyński,PL814,Lubelski,PL81,Lubelskie,PL8,Makroregion wschodni
+75,T_0617,świdnicki,PL814,Lubelski,PL81,Lubelskie,PL8,Makroregion wschodni
+76,T_0663,Lublin,PL814,Lubelski,PL81,Lubelskie,PL8,Makroregion wschodni
+77,T_0801,gorzowski,PL431,Gorzowski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+78,T_0803,międzyrzecki,PL431,Gorzowski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+79,T_0805,słubicki,PL431,Gorzowski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+80,T_0806,strzelecko-drezdenecki,PL431,Gorzowski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+81,T_0807,sulęciński,PL431,Gorzowski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+82,T_0861,Gorzów Wielkopolski,PL431,Gorzowski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+83,T_0802,krośnieński,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+84,T_0804,nowosolski,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+85,T_0808,świebodziński,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+86,T_0809,zielonogórski,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+87,T_0810,żagański,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+88,T_0811,żarski,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+89,T_0812,wschowski,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+90,T_0862,Zielona Góra,PL432,Zielonogórski,PL43,Lubuskie,PL4,Makroregion północno-zachodni
+91,T_1001,bełchatowski,PL713,Piotrkowski,PL71,Łódzkie,PL7,Makroregion centralny
+92,T_1007,opoczyński,PL713,Piotrkowski,PL71,Łódzkie,PL7,Makroregion centralny
+93,T_1010,piotrkowski,PL713,Piotrkowski,PL71,Łódzkie,PL7,Makroregion centralny
+94,T_1012,radomszczański,PL713,Piotrkowski,PL71,Łódzkie,PL7,Makroregion centralny
+95,T_1016,tomaszowski,PL713,Piotrkowski,PL71,Łódzkie,PL7,Makroregion centralny
+96,T_1062,Piotrków Trybunalski,PL713,Piotrkowski,PL71,Łódzkie,PL7,Makroregion centralny
+97,T_1002,kutnowski,PL715,Skierniewicki,PL71,Łódzkie,PL7,Makroregion centralny
+98,T_1004,łęczycki,PL715,Skierniewicki,PL71,Łódzkie,PL7,Makroregion centralny
+99,T_1005,łowicki,PL715,Skierniewicki,PL71,Łódzkie,PL7,Makroregion centralny
+100,T_1013,rawski,PL715,Skierniewicki,PL71,Łódzkie,PL7,Makroregion centralny
+101,T_1015,skierniewicki,PL715,Skierniewicki,PL71,Łódzkie,PL7,Makroregion centralny
+102,T_1063,Skierniewice,PL715,Skierniewicki,PL71,Łódzkie,PL7,Makroregion centralny
+103,T_1003,łaski,PL714,Sieradzki,PL71,Łódzkie,PL7,Makroregion centralny
+104,T_1009,pajęczański,PL714,Sieradzki,PL71,Łódzkie,PL7,Makroregion centralny
+105,T_1011,poddębicki,PL714,Sieradzki,PL71,Łódzkie,PL7,Makroregion centralny
+106,T_1014,sieradzki,PL714,Sieradzki,PL71,Łódzkie,PL7,Makroregion centralny
+107,T_1017,wieluński,PL714,Sieradzki,PL71,Łódzkie,PL7,Makroregion centralny
+108,T_1018,wieruszowski,PL714,Sieradzki,PL71,Łódzkie,PL7,Makroregion centralny
+109,T_1019,zduńskowolski,PL714,Sieradzki,PL71,Łódzkie,PL7,Makroregion centralny
+110,T_1006,łódzki wschodni,PL712,Łódzki,PL71,Łódzkie,PL7,Makroregion centralny
+111,T_1008,pabianicki,PL712,Łódzki,PL71,Łódzkie,PL7,Makroregion centralny
+112,T_1020,zgierski,PL712,Łódzki,PL71,Łódzkie,PL7,Makroregion centralny
+113,T_1021,brzeziński,PL712,Łódzki,PL71,Łódzkie,PL7,Makroregion centralny
+114,T_1061,Łódź,PL711,Miasto Łódź,PL71,Łódzkie,PL7,Makroregion centralny
+115,T_1201,bocheński,PL214,Krakowski,PL21,Małopolskie,PL2,Makroregion południowy
+116,T_1206,krakowski,PL214,Krakowski,PL21,Małopolskie,PL2,Makroregion południowy
+117,T_1208,miechowski,PL214,Krakowski,PL21,Małopolskie,PL2,Makroregion południowy
+118,T_1209,myślenicki,PL214,Krakowski,PL21,Małopolskie,PL2,Makroregion południowy
+119,T_1214,proszowicki,PL214,Krakowski,PL21,Małopolskie,PL2,Makroregion południowy
+120,T_1219,wielicki,PL214,Krakowski,PL21,Małopolskie,PL2,Makroregion południowy
+121,T_1202,brzeski,PL217,Tarnowski,PL21,Małopolskie,PL2,Makroregion południowy
+122,T_1204,dąbrowski,PL217,Tarnowski,PL21,Małopolskie,PL2,Makroregion południowy
+123,T_1216,tarnowski,PL217,Tarnowski,PL21,Małopolskie,PL2,Makroregion południowy
+124,T_1263,Tarnów,PL217,Tarnowski,PL21,Małopolskie,PL2,Makroregion południowy
+125,T_1203,chrzanowski,PL21A,Oświęcimski,PL21,Małopolskie,PL2,Makroregion południowy
+126,T_1212,olkuski,PL21A,Oświęcimski,PL21,Małopolskie,PL2,Makroregion południowy
+127,T_1213,oświęcimski,PL21A,Oświęcimski,PL21,Małopolskie,PL2,Makroregion południowy
+128,T_1218,wadowicki,PL21A,Oświęcimski,PL21,Małopolskie,PL2,Makroregion południowy
+129,T_1205,gorlicki,PL218,Nowosądecki,PL21,Małopolskie,PL2,Makroregion południowy
+130,T_1207,limanowski,PL218,Nowosądecki,PL21,Małopolskie,PL2,Makroregion południowy
+131,T_1210,nowosądecki,PL218,Nowosądecki,PL21,Małopolskie,PL2,Makroregion południowy
+132,T_1262,Nowy Sącz,PL218,Nowosądecki,PL21,Małopolskie,PL2,Makroregion południowy
+133,T_1211,nowotarski,PL219,Nowotarski,PL21,Małopolskie,PL2,Makroregion południowy
+134,T_1215,suski,PL219,Nowotarski,PL21,Małopolskie,PL2,Makroregion południowy
+135,T_1217,tatrzański,PL219,Nowotarski,PL21,Małopolskie,PL2,Makroregion południowy
+136,T_1261,Kraków,PL213,Miasto Kraków,PL21,Małopolskie,PL2,Makroregion południowy
+137,T_1401,białobrzeski,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+138,T_1407,kozienicki,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+139,T_1409,lipski,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+140,T_1423,przysuski,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+141,T_1425,radomski,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+142,T_1430,szydłowiecki,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+143,T_1436,zwoleński,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+144,T_1463,Radom,PL921,Radomski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+145,T_1402,ciechanowski,PL922,Ciechanowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+146,T_1413,mławski,PL922,Ciechanowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+147,T_1420,płoński,PL922,Ciechanowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+148,T_1424,pułtuski,PL922,Ciechanowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+149,T_1437,żuromiński,PL922,Ciechanowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+150,T_1403,garwoliński,PL925,Siedlecki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+151,T_1410,łosicki,PL925,Siedlecki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+152,T_1426,siedlecki,PL925,Siedlecki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+153,T_1429,sokołowski,PL925,Siedlecki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+154,T_1433,węgrowski,PL925,Siedlecki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+155,T_1464,Siedlce,PL925,Siedlecki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+156,T_1404,gostyniński,PL923,Płocki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+157,T_1419,płocki,PL923,Płocki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+158,T_1427,sierpecki,PL923,Płocki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+159,T_1462,Płock,PL923,Płocki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+160,T_1405,grodziski,PL913,Warszawski zachodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+161,T_1414,nowodworski,PL913,Warszawski zachodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+162,T_1418,piaseczyński,PL913,Warszawski zachodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+163,T_1421,pruszkowski,PL913,Warszawski zachodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+164,T_1432,warszawski zachodni,PL913,Warszawski zachodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+165,T_1406,grójecki,PL926,Żyrardowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+166,T_1428,sochaczewski,PL926,Żyrardowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+167,T_1438,żyrardowski,PL926,Żyrardowski,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+168,T_1408,legionowski,PL912,Warszawski wschodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+169,T_1412,miński,PL912,Warszawski wschodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+170,T_1417,otwocki,PL912,Warszawski wschodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+171,T_1434,wołomiński,PL912,Warszawski wschodni,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+172,T_1411,makowski,PL924,Ostrołęcki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+173,T_1415,ostrołęcki,PL924,Ostrołęcki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+174,T_1416,ostrowski,PL924,Ostrołęcki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+175,T_1422,przasnyski,PL924,Ostrołęcki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+176,T_1435,wyszkowski,PL924,Ostrołęcki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+177,T_1461,Ostrołęka,PL924,Ostrołęcki,PL92,Mazowiecki regionalny,PL9,Makroregion województwo mazowieckie
+178,T_1465,Warszawa,PL911,Miasto Warszawa,PL91,Warszawski stołeczny,PL9,Makroregion województwo mazowieckie
+179,T_1601,brzeski,PL523,Nyski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+180,T_1602,głubczycki,PL523,Nyski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+181,T_1606,namysłowski,PL523,Nyski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+182,T_1607,nyski,PL523,Nyski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+183,T_1610,prudnicki,PL523,Nyski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+184,T_1603,kędzierzyńsko-kozielski,PL524,Opolski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+185,T_1604,kluczborski,PL524,Opolski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+186,T_1605,krapkowicki,PL524,Opolski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+187,T_1608,oleski,PL524,Opolski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+188,T_1609,opolski,PL524,Opolski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+189,T_1611,strzelecki,PL524,Opolski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+190,T_1661,Opole,PL524,Opolski,PL52,Opolskie,PL5,Makroregion południowo-zachodni
+191,T_1801,bieszczadzki,PL821,Krośnieński,PL82,Podkarpackie,PL8,Makroregion wschodni
+192,T_1802,brzozowski,PL821,Krośnieński,PL82,Podkarpackie,PL8,Makroregion wschodni
+193,T_1805,jasielski,PL821,Krośnieński,PL82,Podkarpackie,PL8,Makroregion wschodni
+194,T_1807,krośnieński,PL821,Krośnieński,PL82,Podkarpackie,PL8,Makroregion wschodni
+195,T_1817,sanocki,PL821,Krośnieński,PL82,Podkarpackie,PL8,Makroregion wschodni
+196,T_1821,leski,PL821,Krośnieński,PL82,Podkarpackie,PL8,Makroregion wschodni
+197,T_1861,Krosno,PL821,Krośnieński,PL82,Podkarpackie,PL8,Makroregion wschodni
+198,T_1803,dębicki,PL824,Tarnobrzeski,PL82,Podkarpackie,PL8,Makroregion wschodni
+199,T_1808,leżajski,PL824,Tarnobrzeski,PL82,Podkarpackie,PL8,Makroregion wschodni
+200,T_1811,mielecki,PL824,Tarnobrzeski,PL82,Podkarpackie,PL8,Makroregion wschodni
+201,T_1812,niżański,PL824,Tarnobrzeski,PL82,Podkarpackie,PL8,Makroregion wschodni
+202,T_1818,stalowowolski,PL824,Tarnobrzeski,PL82,Podkarpackie,PL8,Makroregion wschodni
+203,T_1820,tarnobrzeski,PL824,Tarnobrzeski,PL82,Podkarpackie,PL8,Makroregion wschodni
+204,T_1864,Tarnobrzeg,PL824,Tarnobrzeski,PL82,Podkarpackie,PL8,Makroregion wschodni
+205,T_1804,jarosławski,PL822,Przemyski,PL82,Podkarpackie,PL8,Makroregion wschodni
+206,T_1809,lubaczowski,PL822,Przemyski,PL82,Podkarpackie,PL8,Makroregion wschodni
+207,T_1813,przemyski,PL822,Przemyski,PL82,Podkarpackie,PL8,Makroregion wschodni
+208,T_1814,przeworski,PL822,Przemyski,PL82,Podkarpackie,PL8,Makroregion wschodni
+209,T_1862,Przemyśl,PL822,Przemyski,PL82,Podkarpackie,PL8,Makroregion wschodni
+210,T_1806,kolbuszowski,PL823,Rzeszowski,PL82,Podkarpackie,PL8,Makroregion wschodni
+211,T_1810,łańcucki,PL823,Rzeszowski,PL82,Podkarpackie,PL8,Makroregion wschodni
+212,T_1815,ropczycko-sędziszowski,PL823,Rzeszowski,PL82,Podkarpackie,PL8,Makroregion wschodni
+213,T_1816,rzeszowski,PL823,Rzeszowski,PL82,Podkarpackie,PL8,Makroregion wschodni
+214,T_1819,strzyżowski,PL823,Rzeszowski,PL82,Podkarpackie,PL8,Makroregion wschodni
+215,T_1863,Rzeszów,PL823,Rzeszowski,PL82,Podkarpackie,PL8,Makroregion wschodni
+216,T_2001,augustowski,PL843,Suwalski,PL84,Podlaskie,PL8,Makroregion wschodni
+217,T_2004,grajewski,PL843,Suwalski,PL84,Podlaskie,PL8,Makroregion wschodni
+218,T_2008,moniecki,PL843,Suwalski,PL84,Podlaskie,PL8,Makroregion wschodni
+219,T_2009,sejneński,PL843,Suwalski,PL84,Podlaskie,PL8,Makroregion wschodni
+220,T_2012,suwalski,PL843,Suwalski,PL84,Podlaskie,PL8,Makroregion wschodni
+221,T_2063,Suwałki,PL843,Suwalski,PL84,Podlaskie,PL8,Makroregion wschodni
+222,T_2002,białostocki,PL841,Białostocki,PL84,Podlaskie,PL8,Makroregion wschodni
+223,T_2011,sokólski,PL841,Białostocki,PL84,Podlaskie,PL8,Makroregion wschodni
+224,T_2061,Białystok,PL841,Białostocki,PL84,Podlaskie,PL8,Makroregion wschodni
+225,T_2003,bielski,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
+226,T_2005,hajnowski,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
+227,T_2006,kolneński,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
+228,T_2007,łomżyński,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
+229,T_2010,siemiatycki,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
+230,T_2013,wysokomazowiecki,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
+231,T_2014,zambrowski,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
+232,T_2062,Łomża,PL842,Łomżyński,PL84,Podlaskie,PL8,Makroregion wschodni
+233,T_2201,bytowski,PL636,Słupski,PL63,Pomorskie,PL6,Makroregion północny
+234,T_2208,lęborski,PL636,Słupski,PL63,Pomorskie,PL6,Makroregion północny
+235,T_2212,słupski,PL636,Słupski,PL63,Pomorskie,PL6,Makroregion północny
+236,T_2263,Słupsk,PL636,Słupski,PL63,Pomorskie,PL6,Makroregion północny
+237,T_2202,chojnicki,PL637,Chojnicki,PL63,Pomorskie,PL6,Makroregion północny
+238,T_2203,człuchowski,PL637,Chojnicki,PL63,Pomorskie,PL6,Makroregion północny
+239,T_2206,kościerski,PL637,Chojnicki,PL63,Pomorskie,PL6,Makroregion północny
+240,T_2204,gdański,PL634,Gdański,PL63,Pomorskie,PL6,Makroregion północny
+241,T_2205,kartuski,PL634,Gdański,PL63,Pomorskie,PL6,Makroregion północny
+242,T_2210,nowodworski,PL634,Gdański,PL63,Pomorskie,PL6,Makroregion północny
+243,T_2211,pucki,PL634,Gdański,PL63,Pomorskie,PL6,Makroregion północny
+244,T_2215,wejherowski,PL634,Gdański,PL63,Pomorskie,PL6,Makroregion północny
+245,T_2207,kwidzyński,PL638,Starogardzki,PL63,Pomorskie,PL6,Makroregion północny
+246,T_2209,malborski,PL638,Starogardzki,PL63,Pomorskie,PL6,Makroregion północny
+247,T_2213,starogardzki,PL638,Starogardzki,PL63,Pomorskie,PL6,Makroregion północny
+248,T_2214,tczewski,PL638,Starogardzki,PL63,Pomorskie,PL6,Makroregion północny
+249,T_2216,sztumski,PL638,Starogardzki,PL63,Pomorskie,PL6,Makroregion północny
+250,T_2261,Gdańsk,PL633,Trójmiejski,PL63,Pomorskie,PL6,Makroregion północny
+251,T_2262,Gdynia,PL633,Trójmiejski,PL63,Pomorskie,PL6,Makroregion północny
+252,T_2264,Sopot,PL633,Trójmiejski,PL63,Pomorskie,PL6,Makroregion północny
+253,T_2401,będziński,PL22B,Sosnowiecki,PL22,Śląskie,PL2,Makroregion południowy
+254,T_2416,zawierciański,PL22B,Sosnowiecki,PL22,Śląskie,PL2,Makroregion południowy
+255,T_2465,Dąbrowa Górnicza,PL22B,Sosnowiecki,PL22,Śląskie,PL2,Makroregion południowy
+256,T_2468,Jaworzno,PL22B,Sosnowiecki,PL22,Śląskie,PL2,Makroregion południowy
+257,T_2475,Sosnowiec,PL22B,Sosnowiecki,PL22,Śląskie,PL2,Makroregion południowy
+258,T_2402,bielski,PL225,Bielski,PL22,Śląskie,PL2,Makroregion południowy
+259,T_2403,cieszyński,PL225,Bielski,PL22,Śląskie,PL2,Makroregion południowy
+260,T_2417,żywiecki,PL225,Bielski,PL22,Śląskie,PL2,Makroregion południowy
+261,T_2461,Bielsko-Biała,PL225,Bielski,PL22,Śląskie,PL2,Makroregion południowy
+262,T_2404,częstochowski,PL224,Częstochowski,PL22,Śląskie,PL2,Makroregion południowy
+263,T_2406,kłobucki,PL224,Częstochowski,PL22,Śląskie,PL2,Makroregion południowy
+264,T_2409,myszkowski,PL224,Częstochowski,PL22,Śląskie,PL2,Makroregion południowy
+265,T_2464,Częstochowa,PL224,Częstochowski,PL22,Śląskie,PL2,Makroregion południowy
+266,T_2405,gliwicki,PL229,Gliwicki,PL22,Śląskie,PL2,Makroregion południowy
+267,T_2466,Gliwice,PL229,Gliwicki,PL22,Śląskie,PL2,Makroregion południowy
+268,T_2478,Zabrze,PL229,Gliwicki,PL22,Śląskie,PL2,Makroregion południowy
+269,T_2407,lubliniecki,PL228,Bytomski,PL22,Śląskie,PL2,Makroregion południowy
+270,T_2413,tarnogórski,PL228,Bytomski,PL22,Śląskie,PL2,Makroregion południowy
+271,T_2462,Bytom,PL228,Bytomski,PL22,Śląskie,PL2,Makroregion południowy
+272,T_2471,Piekary Śląskie,PL228,Bytomski,PL22,Śląskie,PL2,Makroregion południowy
+273,T_2408,mikołowski,PL22C,Tyski,PL22,Śląskie,PL2,Makroregion południowy
+274,T_2410,pszczyński,PL22C,Tyski,PL22,Śląskie,PL2,Makroregion południowy
+275,T_2414,bieruńsko-lędziński,PL22C,Tyski,PL22,Śląskie,PL2,Makroregion południowy
+276,T_2477,Tychy,PL22C,Tyski,PL22,Śląskie,PL2,Makroregion południowy
+277,T_2411,raciborski,PL227,Rybnicki,PL22,Śląskie,PL2,Makroregion południowy
+278,T_2412,rybnicki,PL227,Rybnicki,PL22,Śląskie,PL2,Makroregion południowy
+279,T_2415,wodzisławski,PL227,Rybnicki,PL22,Śląskie,PL2,Makroregion południowy
+280,T_2467,Jastrzębie-Zdrój,PL227,Rybnicki,PL22,Śląskie,PL2,Makroregion południowy
+281,T_2473,Rybnik,PL227,Rybnicki,PL22,Śląskie,PL2,Makroregion południowy
+282,T_2479,Żory,PL227,Rybnicki,PL22,Śląskie,PL2,Makroregion południowy
+283,T_2463,Chorzów,PL22A,Katowicki,PL22,Śląskie,PL2,Makroregion południowy
+284,T_2469,Katowice,PL22A,Katowicki,PL22,Śląskie,PL2,Makroregion południowy
+285,T_2470,Mysłowice,PL22A,Katowicki,PL22,Śląskie,PL2,Makroregion południowy
+286,T_2472,Ruda Śląska,PL22A,Katowicki,PL22,Śląskie,PL2,Makroregion południowy
+287,T_2474,Siemianowice Śląskie,PL22A,Katowicki,PL22,Śląskie,PL2,Makroregion południowy
+288,T_2476,Świętochłowice,PL22A,Katowicki,PL22,Śląskie,PL2,Makroregion południowy
+289,T_2601,buski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
+290,T_2602,jędrzejowski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
+291,T_2603,kazimierski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
+292,T_2606,opatowski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
+293,T_2608,pińczowski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
+294,T_2609,sandomierski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
+295,T_2612,staszowski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
+296,T_2613,włoszczowski,PL722,Sandomiersko-jędrzejowski,PL72,Świętokrzyskie,PL7,Makroregion centralny
+297,T_2604,kielecki,PL721,Kielecki,PL72,Świętokrzyskie,PL7,Makroregion centralny
+298,T_2605,konecki,PL721,Kielecki,PL72,Świętokrzyskie,PL7,Makroregion centralny
+299,T_2607,ostrowiecki,PL721,Kielecki,PL72,Świętokrzyskie,PL7,Makroregion centralny
+300,T_2610,skarżyski,PL721,Kielecki,PL72,Świętokrzyskie,PL7,Makroregion centralny
+301,T_2611,starachowicki,PL721,Kielecki,PL72,Świętokrzyskie,PL7,Makroregion centralny
+302,T_2661,Kielce,PL721,Kielecki,PL72,Świętokrzyskie,PL7,Makroregion centralny
+303,T_2801,bartoszycki,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+304,T_2808,kętrzyński,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+305,T_2809,lidzbarski,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+306,T_2810,mrągowski,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+307,T_2811,nidzicki,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+308,T_2814,olsztyński,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+309,T_2817,szczycieński,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+310,T_2862,Olsztyn,PL622,Olsztyński,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+311,T_2802,braniewski,PL621,Elbląski,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+312,T_2803,działdowski,PL621,Elbląski,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+313,T_2804,elbląski,PL621,Elbląski,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+314,T_2807,iławski,PL621,Elbląski,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+315,T_2812,nowomiejski,PL621,Elbląski,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+316,T_2815,ostródzki,PL621,Elbląski,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+317,T_2861,Elbląg,PL621,Elbląski,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+318,T_2805,ełcki,PL623,Ełcki,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+319,T_2806,giżycki,PL623,Ełcki,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+320,T_2813,olecki,PL623,Ełcki,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+321,T_2816,piski,PL623,Ełcki,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+322,T_2818,gołdapski,PL623,Ełcki,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+323,T_2819,węgorzewski,PL623,Ełcki,PL62,Warmińsko-mazurskie,PL6,Makroregion północny
+324,T_3001,chodzieski,PL411,Pilski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+325,T_3002,czarnkowsko-trzcianecki,PL411,Pilski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+326,T_3019,pilski,PL411,Pilski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+327,T_3028,wągrowiecki,PL411,Pilski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+328,T_3031,złotowski,PL411,Pilski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+329,T_3003,gnieźnieński,PL414,Koniński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+330,T_3009,kolski,PL414,Koniński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+331,T_3010,koniński,PL414,Koniński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+332,T_3023,słupecki,PL414,Koniński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+333,T_3027,turecki,PL414,Koniński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+334,T_3030,wrzesiński,PL414,Koniński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+335,T_3062,Konin,PL414,Koniński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+336,T_3004,gostyński,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+337,T_3005,grodziski,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+338,T_3011,kościański,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+339,T_3013,leszczyński,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+340,T_3014,międzychodzki,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+341,T_3015,nowotomyski,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+342,T_3022,rawicki,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+343,T_3029,wolsztyński,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+344,T_3063,Leszno,PL417,Leszczyński,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+345,T_3006,jarociński,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+346,T_3007,kaliski,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+347,T_3008,kępiński,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+348,T_3012,krotoszyński,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+349,T_3017,ostrowski,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+350,T_3018,ostrzeszowski,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+351,T_3020,pleszewski,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+352,T_3061,Kalisz,PL416,Kaliski,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+353,T_3016,obornicki,PL418,Poznański,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+354,T_3021,poznański,PL418,Poznański,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+355,T_3024,szamotulski,PL418,Poznański,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+356,T_3025,średzki,PL418,Poznański,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+357,T_3026,śremski,PL418,Poznański,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+358,T_3064,Poznań,PL415,Miasto Poznań,PL41,Wielkopolskie,PL4,Makroregion północno-zachodni
+359,T_3201,białogardzki,PL426,Koszaliński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+360,T_3208,kołobrzeski,PL426,Koszaliński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+361,T_3209,koszaliński,PL426,Koszaliński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+362,T_3213,sławieński,PL426,Koszaliński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+363,T_3261,Koszalin,PL426,Koszaliński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+364,T_3202,choszczeński,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+365,T_3203,drawski,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+366,T_3210,myśliborski,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+367,T_3212,pyrzycki,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+368,T_3215,szczecinecki,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+369,T_3216,świdwiński,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+370,T_3217,wałecki,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+371,T_3218,łobeski,PL427,Szczecinecko-pyrzycki,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+372,T_3204,goleniowski,PL428,Szczeciński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+373,T_3205,gryficki,PL428,Szczeciński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+374,T_3206,gryfiński,PL428,Szczeciński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+375,T_3207,kamieński,PL428,Szczeciński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+376,T_3211,policki,PL428,Szczeciński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+377,T_3214,stargardzki,PL428,Szczeciński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+378,T_3263,Świnoujście,PL428,Szczeciński,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni
+379,T_3262,Szczecin,PL424,Miasto Szczecin,PL42,Zachodniopomorskie,PL4,Makroregion północno-zachodni

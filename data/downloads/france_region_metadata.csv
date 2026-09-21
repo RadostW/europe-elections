@@ -1,102 +1,109 @@
 ,harmonised_code,harmonised_name,nuts_3_code,nuts_3_name,nuts_2_code,nuts_2_name,nuts_1_code,nuts_1_name
-592,FRC12,Nièvre,FRC12,Nièvre,FRC1,Bourgogne,FRC,Bourgogne-Franche-Comté
-593,FRC13,Saône-et-Loire,FRC13,Saône-et-Loire,FRC1,Bourgogne,FRC,Bourgogne-Franche-Comté
-594,FRC14,Yonne,FRC14,Yonne,FRC1,Bourgogne,FRC,Bourgogne-Franche-Comté
-595,FRC11,Côte-d’Or,FRC11,Côte-d’Or,FRC1,Bourgogne,FRC,Bourgogne-Franche-Comté
-596,FRC21,Doubs,FRC21,Doubs,FRC2,Franche-Comté,FRC,Bourgogne-Franche-Comté
-597,FRC22,Jura,FRC22,Jura,FRC2,Franche-Comté,FRC,Bourgogne-Franche-Comté
-598,FRC23,Haute-Saône,FRC23,Haute-Saône,FRC2,Franche-Comté,FRC,Bourgogne-Franche-Comté
-599,FRC24,Territoire de Belfort,FRC24,Territoire de Belfort,FRC2,Franche-Comté,FRC,Bourgogne-Franche-Comté
-600,FRK24,Isère,FRK24,Isère,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
-601,FRK25,Loire,FRK25,Loire,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
-602,FRK26,Rhône,FRK26,Rhône,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
-603,FRK27,Savoie,FRK27,Savoie,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
-604,FRK28,Haute-Savoie,FRK28,Haute-Savoie,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
-605,FRK21,Ain,FRK21,Ain,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
-606,FRK22,Ardèche,FRK22,Ardèche,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
-607,FRK23,Drôme,FRK23,Drôme,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
-608,FRK12,Cantal,FRK12,Cantal,FRK1,Auvergne,FRK,Auvergne-Rhône-Alpes
-609,FRK13,Haute-Loire,FRK13,Haute-Loire,FRK1,Auvergne,FRK,Auvergne-Rhône-Alpes
-610,FRK14,Puy-de-Dôme,FRK14,Puy-de-Dôme,FRK1,Auvergne,FRK,Auvergne-Rhône-Alpes
-611,FRK11,Allier,FRK11,Allier,FRK1,Auvergne,FRK,Auvergne-Rhône-Alpes
-612,FRF12,Haut-Rhin,FRF12,Haut-Rhin,FRF1,Alsace,FRF,Grand Est
-613,FRF11,Bas-Rhin,FRF11,Bas-Rhin,FRF1,Alsace,FRF,Grand Est
-614,FRF21,Ardennes,FRF21,Ardennes,FRF2,Champagne-Ardenne,FRF,Grand Est
-615,FRF22,Aube,FRF22,Aube,FRF2,Champagne-Ardenne,FRF,Grand Est
-616,FRF23,Marne,FRF23,Marne,FRF2,Champagne-Ardenne,FRF,Grand Est
-617,FRF24,Haute-Marne,FRF24,Haute-Marne,FRF2,Champagne-Ardenne,FRF,Grand Est
-618,FRF33,Moselle,FRF33,Moselle,FRF3,Lorraine,FRF,Grand Est
-619,FRF34,Vosges,FRF34,Vosges,FRF3,Lorraine,FRF,Grand Est
-620,FRF31,Meurthe-et-Moselle ,FRF31,Meurthe-et-Moselle ,FRF3,Lorraine,FRF,Grand Est
-621,FRF32,Meuse ,FRF32,Meuse ,FRF3,Lorraine,FRF,Grand Est
-622,FRH04,Morbihan,FRH04,Morbihan,FRH0,Bretagne,FRH,Bretagne
-623,FRH01,Côtes-d’Armor,FRH01,Côtes-d’Armor,FRH0,Bretagne,FRH,Bretagne
-624,FRH02,Finistère,FRH02,Finistère,FRH0,Bretagne,FRH,Bretagne
-625,FRH03,Ille-et-Vilaine,FRH03,Ille-et-Vilaine,FRH0,Bretagne,FRH,Bretagne
-626,FRI11,Dordogne,FRI11,Dordogne,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
-627,FRI12,Gironde,FRI12,Gironde,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
-628,FRI13,Landes,FRI13,Landes,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
-629,FRI14,Lot-et-Garonne,FRI14,Lot-et-Garonne,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
-630,FRI15,Pyrénées-Atlantiques,FRI15,Pyrénées-Atlantiques,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
-631,FRI23,Haute-Vienne,FRI23,Haute-Vienne,FRI2,Limousin,FRI,Nouvelle-Aquitaine
-632,FRI21,Corrèze,FRI21,Corrèze,FRI2,Limousin,FRI,Nouvelle-Aquitaine
-633,FRI22,Creuse,FRI22,Creuse,FRI2,Limousin,FRI,Nouvelle-Aquitaine
-634,FRI33,Deux-Sèvres,FRI33,Deux-Sèvres,FRI3,Poitou-Charentes,FRI,Nouvelle-Aquitaine
-635,FRI31,Charente,FRI31,Charente,FRI3,Poitou-Charentes,FRI,Nouvelle-Aquitaine
-636,FRI34,Vienne,FRI34,Vienne,FRI3,Poitou-Charentes,FRI,Nouvelle-Aquitaine
-637,FRI32,Charente-Maritime,FRI32,Charente-Maritime,FRI3,Poitou-Charentes,FRI,Nouvelle-Aquitaine
-638,FRL01,Alpes-de-Haute-Provence,FRL01,Alpes-de-Haute-Provence,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
-639,FRL02,Hautes-Alpes ,FRL02,Hautes-Alpes ,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
-640,FRL03,Alpes-Maritimes,FRL03,Alpes-Maritimes,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
-641,FRL04,Bouches-du-Rhône,FRL04,Bouches-du-Rhône,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
-642,FRL05,Var,FRL05,Var,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
-643,FRL06,Vaucluse,FRL06,Vaucluse,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
-644,FRG01,Loire-Atlantique,FRG01,Loire-Atlantique,FRG0,Pays de la Loire,FRG,Pays de la Loire
-645,FRG02,Maine-et-Loire,FRG02,Maine-et-Loire,FRG0,Pays de la Loire,FRG,Pays de la Loire
-646,FRG03,Mayenne,FRG03,Mayenne,FRG0,Pays de la Loire,FRG,Pays de la Loire
-647,FRG04,Sarthe,FRG04,Sarthe,FRG0,Pays de la Loire,FRG,Pays de la Loire
-648,FRG05,Vendée,FRG05,Vendée,FRG0,Pays de la Loire,FRG,Pays de la Loire
-649,FRM01,Corse-du-Sud,FRM01,Corse-du-Sud,FRM0,Corse,FRM,Corse
-650,FRM02,Haute-Corse,FRM02,Haute-Corse,FRM0,Corse,FRM,Corse
-651,FR101,Paris,FR101,Paris,FR10,Ile-de-France,FR1,Ile-de-France
-652,FR102,Seine-et-Marne ,FR102,Seine-et-Marne ,FR10,Ile-de-France,FR1,Ile-de-France
-653,FR103,Yvelines ,FR103,Yvelines ,FR10,Ile-de-France,FR1,Ile-de-France
-654,FR104,Essonne,FR104,Essonne,FR10,Ile-de-France,FR1,Ile-de-France
-655,FR105,Hauts-de-Seine ,FR105,Hauts-de-Seine ,FR10,Ile-de-France,FR1,Ile-de-France
-656,FR106,Seine-Saint-Denis ,FR106,Seine-Saint-Denis ,FR10,Ile-de-France,FR1,Ile-de-France
-657,FR107,Val-de-Marne,FR107,Val-de-Marne,FR10,Ile-de-France,FR1,Ile-de-France
-658,FR108,Val-d’Oise,FR108,Val-d’Oise,FR10,Ile-de-France,FR1,Ile-de-France
-659,FRJ11,Aude,FRJ11,Aude,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
-660,FRJ12,Gard,FRJ12,Gard,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
-661,FRJ13,Hérault,FRJ13,Hérault,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
-662,FRJ14,Lozère,FRJ14,Lozère,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
-663,FRJ15,Pyrénées-Orientales,FRJ15,Pyrénées-Orientales,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
-664,FRJ25,Lot,FRJ25,Lot,FRJ2,Midi-Pyrénées,FRJ,Occitanie
-665,FRJ26,Hautes-Pyrénées ,FRJ26,Hautes-Pyrénées ,FRJ2,Midi-Pyrénées,FRJ,Occitanie
-666,FRJ27,Tarn,FRJ27,Tarn,FRJ2,Midi-Pyrénées,FRJ,Occitanie
-667,FRJ28,Tarn-et-Garonne,FRJ28,Tarn-et-Garonne,FRJ2,Midi-Pyrénées,FRJ,Occitanie
-668,FRJ21,Ariège,FRJ21,Ariège,FRJ2,Midi-Pyrénées,FRJ,Occitanie
-669,FRJ22,Aveyron,FRJ22,Aveyron,FRJ2,Midi-Pyrénées,FRJ,Occitanie
-670,FRJ23,Haute-Garonne,FRJ23,Haute-Garonne,FRJ2,Midi-Pyrénées,FRJ,Occitanie
-671,FRJ24,Gers,FRJ24,Gers,FRJ2,Midi-Pyrénées,FRJ,Occitanie
-672,FRD11,Calvados ,FRD11,Calvados ,FRD1,Basse-Normandie ,FRD,Normandie
-673,FRD12,Manche ,FRD12,Manche ,FRD1,Basse-Normandie ,FRD,Normandie
-674,FRD13,Orne,FRD13,Orne,FRD1,Basse-Normandie ,FRD,Normandie
-675,FRD21,Eure,FRD21,Eure,FRD2,Haute-Normandie ,FRD,Normandie
-676,FRD22,Seine-Maritime,FRD22,Seine-Maritime,FRD2,Haute-Normandie ,FRD,Normandie
-677,FRB01,Cher,FRB01,Cher,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
-678,FRB02,Eure-et-Loir,FRB02,Eure-et-Loir,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
-679,FRB03,Indre,FRB03,Indre,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
-680,FRB04,Indre-et-Loire,FRB04,Indre-et-Loire,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
-681,FRB05,Loir-et-Cher,FRB05,Loir-et-Cher,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
-682,FRB06,Loiret,FRB06,Loiret,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
-683,FRE11,Nord,FRE11,Nord,FRE1,Nord-Pas de Calais,FRE,Hauts-de-France
-684,FRE12,Pas-de-Calais,FRE12,Pas-de-Calais,FRE1,Nord-Pas de Calais,FRE,Hauts-de-France
-685,FRE21,Aisne,FRE21,Aisne,FRE2,Picardie,FRE,Hauts-de-France
-686,FRE22,Oise,FRE22,Oise,FRE2,Picardie,FRE,Hauts-de-France
-687,FRE23,Somme,FRE23,Somme,FRE2,Picardie,FRE,Hauts-de-France
-947,FRY10,Guadeloupe,FRY10,Guadeloupe,FRY1,Guadeloupe,FRY,RUP FR — Régions Ultrapériphériques Françaises
-948,FRY20,Martinique ,FRY20,Martinique ,FRY2,Martinique ,FRY,RUP FR — Régions Ultrapériphériques Françaises
-949,FRY30,Guyane,FRY30,Guyane,FRY3,Guyane,FRY,RUP FR — Régions Ultrapériphériques Françaises
-950,FRY40,La Réunion,FRY40,La Réunion,FRY4,La Réunion ,FRY,RUP FR — Régions Ultrapériphériques Françaises
-951,FRY50,Mayotte ,FRY50,Mayotte ,FRY5,Mayotte,FRY,RUP FR — Régions Ultrapériphériques Françaises
+0,M_75,Paris,FR101,Paris,FR10,Ile-de-France,FR1,Ile-de-France
+1,M_77,Seine Et Marne,FR102,Seine-et-Marne ,FR10,Ile-de-France,FR1,Ile-de-France
+2,M_78,Yvelines,FR103,Yvelines ,FR10,Ile-de-France,FR1,Ile-de-France
+3,M_91,Essonne,FR104,Essonne,FR10,Ile-de-France,FR1,Ile-de-France
+4,M_92,Hauts De Seine,FR105,Hauts-de-Seine ,FR10,Ile-de-France,FR1,Ile-de-France
+5,M_93,Seine Saint-Denis,FR106,Seine-Saint-Denis ,FR10,Ile-de-France,FR1,Ile-de-France
+6,M_94,Val De Marne,FR107,Val-de-Marne,FR10,Ile-de-France,FR1,Ile-de-France
+7,M_95,Val D'Oise,FR108,Val-d’Oise,FR10,Ile-de-France,FR1,Ile-de-France
+8,M_18,Cher,FRB01,Cher,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
+9,M_28,Eure Et Loir,FRB02,Eure-et-Loir,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
+10,M_36,Indre,FRB03,Indre,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
+11,M_37,Indre Et Loire,FRB04,Indre-et-Loire,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
+12,M_41,Loir Et Cher,FRB05,Loir-et-Cher,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
+13,M_45,Loiret,FRB06,Loiret,FRB0,Centre — Val de Loire,FRB,Centre — Val de Loire
+14,M_21,Cote D'Or,FRC11,Côte-d’Or,FRC1,Bourgogne,FRC,Bourgogne-Franche-Comté
+15,M_58,Nievre,FRC12,Nièvre,FRC1,Bourgogne,FRC,Bourgogne-Franche-Comté
+16,M_71,Saone Et Loire,FRC13,Saône-et-Loire,FRC1,Bourgogne,FRC,Bourgogne-Franche-Comté
+17,M_89,Yonne,FRC14,Yonne,FRC1,Bourgogne,FRC,Bourgogne-Franche-Comté
+18,M_25,Doubs,FRC21,Doubs,FRC2,Franche-Comté,FRC,Bourgogne-Franche-Comté
+19,M_39,Jura,FRC22,Jura,FRC2,Franche-Comté,FRC,Bourgogne-Franche-Comté
+20,M_70,Haute Saone,FRC23,Haute-Saône,FRC2,Franche-Comté,FRC,Bourgogne-Franche-Comté
+21,M_90,Territoire De Belfort,FRC24,Territoire de Belfort,FRC2,Franche-Comté,FRC,Bourgogne-Franche-Comté
+22,M_14,Calvados,FRD11,Calvados ,FRD1,Basse-Normandie ,FRD,Normandie
+23,M_50,Manche,FRD12,Manche ,FRD1,Basse-Normandie ,FRD,Normandie
+24,M_61,Orne,FRD13,Orne,FRD1,Basse-Normandie ,FRD,Normandie
+25,M_27,Eure,FRD21,Eure,FRD2,Haute-Normandie ,FRD,Normandie
+26,M_76,Seine Maritime,FRD22,Seine-Maritime,FRD2,Haute-Normandie ,FRD,Normandie
+27,M_59,Nord,FRE11,Nord,FRE1,Nord-Pas de Calais,FRE,Hauts-de-France
+28,M_62,Pas De Calais,FRE12,Pas-de-Calais,FRE1,Nord-Pas de Calais,FRE,Hauts-de-France
+29,M_02,Aisne,FRE21,Aisne,FRE2,Picardie,FRE,Hauts-de-France
+30,M_60,Oise,FRE22,Oise,FRE2,Picardie,FRE,Hauts-de-France
+31,M_80,Somme,FRE23,Somme,FRE2,Picardie,FRE,Hauts-de-France
+32,M_67,Bas Rhin,FRF11,Bas-Rhin,FRF1,Alsace,FRF,Grand Est
+33,M_68,Haut Rhin,FRF12,Haut-Rhin,FRF1,Alsace,FRF,Grand Est
+34,M_08,Ardennes,FRF21,Ardennes,FRF2,Champagne-Ardenne,FRF,Grand Est
+35,M_10,Aube,FRF22,Aube,FRF2,Champagne-Ardenne,FRF,Grand Est
+36,M_51,Marne,FRF23,Marne,FRF2,Champagne-Ardenne,FRF,Grand Est
+37,M_52,Haute Marne,FRF24,Haute-Marne,FRF2,Champagne-Ardenne,FRF,Grand Est
+38,M_54,Meurthe Et Moselle,FRF31,Meurthe-et-Moselle ,FRF3,Lorraine,FRF,Grand Est
+39,M_55,Meuse,FRF32,Meuse ,FRF3,Lorraine,FRF,Grand Est
+40,M_57,Moselle,FRF33,Moselle,FRF3,Lorraine,FRF,Grand Est
+41,M_88,Vosges,FRF34,Vosges,FRF3,Lorraine,FRF,Grand Est
+42,M_44,Loire Atlantique,FRG01,Loire-Atlantique,FRG0,Pays de la Loire,FRG,Pays de la Loire
+43,M_49,Maine Et Loire,FRG02,Maine-et-Loire,FRG0,Pays de la Loire,FRG,Pays de la Loire
+44,M_53,Mayenne,FRG03,Mayenne,FRG0,Pays de la Loire,FRG,Pays de la Loire
+45,M_72,Sarthe,FRG04,Sarthe,FRG0,Pays de la Loire,FRG,Pays de la Loire
+46,M_85,Vendee,FRG05,Vendée,FRG0,Pays de la Loire,FRG,Pays de la Loire
+47,M_22,Cotes D'Armor,FRH01,Côtes-d’Armor,FRH0,Bretagne,FRH,Bretagne
+48,M_29,Finistere,FRH02,Finistère,FRH0,Bretagne,FRH,Bretagne
+49,M_35,Ille Et Vilaine,FRH03,Ille-et-Vilaine,FRH0,Bretagne,FRH,Bretagne
+50,M_56,Morbihan,FRH04,Morbihan,FRH0,Bretagne,FRH,Bretagne
+51,M_24,Dordogne,FRI11,Dordogne,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
+52,M_33,Gironde,FRI12,Gironde,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
+53,M_40,Landes,FRI13,Landes,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
+54,M_47,Lot Et Garonne,FRI14,Lot-et-Garonne,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
+55,M_64,Pyrenees Atlantiques,FRI15,Pyrénées-Atlantiques,FRI1,Aquitaine,FRI,Nouvelle-Aquitaine
+56,M_19,Correze,FRI21,Corrèze,FRI2,Limousin,FRI,Nouvelle-Aquitaine
+57,M_23,Creuse,FRI22,Creuse,FRI2,Limousin,FRI,Nouvelle-Aquitaine
+58,M_87,Haute Vienne,FRI23,Haute-Vienne,FRI2,Limousin,FRI,Nouvelle-Aquitaine
+59,M_16,Charente,FRI31,Charente,FRI3,Poitou-Charentes,FRI,Nouvelle-Aquitaine
+60,M_17,Charente-Maritime,FRI32,Charente-Maritime,FRI3,Poitou-Charentes,FRI,Nouvelle-Aquitaine
+61,M_79,Deux Sevres,FRI33,Deux-Sèvres,FRI3,Poitou-Charentes,FRI,Nouvelle-Aquitaine
+62,M_86,Vienne,FRI34,Vienne,FRI3,Poitou-Charentes,FRI,Nouvelle-Aquitaine
+63,M_11,Aude,FRJ11,Aude,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
+64,M_30,Gard,FRJ12,Gard,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
+65,M_34,Herault,FRJ13,Hérault,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
+66,M_48,Lozere,FRJ14,Lozère,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
+67,M_66,Pyrenees Orientales,FRJ15,Pyrénées-Orientales,FRJ1,Languedoc-Roussillon,FRJ,Occitanie
+68,M_09,Ariege,FRJ21,Ariège,FRJ2,Midi-Pyrénées,FRJ,Occitanie
+69,M_12,Aveyron,FRJ22,Aveyron,FRJ2,Midi-Pyrénées,FRJ,Occitanie
+70,M_31,Haute Garonne,FRJ23,Haute-Garonne,FRJ2,Midi-Pyrénées,FRJ,Occitanie
+71,M_32,Gers,FRJ24,Gers,FRJ2,Midi-Pyrénées,FRJ,Occitanie
+72,M_46,Lot,FRJ25,Lot,FRJ2,Midi-Pyrénées,FRJ,Occitanie
+73,M_65,Hautes-Pyrénées,FRJ26,Hautes-Pyrénées ,FRJ2,Midi-Pyrénées,FRJ,Occitanie
+74,M_81,Tarn,FRJ27,Tarn,FRJ2,Midi-Pyrénées,FRJ,Occitanie
+75,M_82,Tarn Et Garonne,FRJ28,Tarn-et-Garonne,FRJ2,Midi-Pyrénées,FRJ,Occitanie
+76,M_03,Allier,FRK11,Allier,FRK1,Auvergne,FRK,Auvergne-Rhône-Alpes
+77,M_15,Cantal,FRK12,Cantal,FRK1,Auvergne,FRK,Auvergne-Rhône-Alpes
+78,M_43,Haute Loire,FRK13,Haute-Loire,FRK1,Auvergne,FRK,Auvergne-Rhône-Alpes
+79,M_63,Puy De Dome,FRK14,Puy-de-Dôme,FRK1,Auvergne,FRK,Auvergne-Rhône-Alpes
+80,M_01,Ain,FRK21,Ain,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
+81,M_07,Ardeche,FRK22,Ardèche,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
+82,M_26,Drome,FRK23,Drôme,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
+83,M_38,Isere,FRK24,Isère,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
+84,M_42,Loire,FRK25,Loire,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
+85,M_69,Rhone,FRK26,Rhône,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
+86,M_73,Savoie,FRK27,Savoie,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
+87,M_74,Haute Savoie,FRK28,Haute-Savoie,FRK2,Rhône-Alpes,FRK,Auvergne-Rhône-Alpes
+88,M_04,Alpes De Haute Provence,FRL01,Alpes-de-Haute-Provence,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
+89,M_05,Hautes Alpes,FRL02,Hautes-Alpes ,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
+90,M_06,Alpes Maritimes,FRL03,Alpes-Maritimes,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
+91,M_13,Bouches Du Rhone,FRL04,Bouches-du-Rhône,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
+92,M_83,Var,FRL05,Var,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
+93,M_84,Vaucluse,FRL06,Vaucluse,FRL0,Provence-Alpes-Côte d’Azur,FRL,Provence-Alpes-Côte d’Azur
+94,M_2A,Corse Sud,FRM01,Corse-du-Sud,FRM0,Corse,FRM,Corse
+95,M_2B,Haute Corse,FRM02,Haute-Corse,FRM0,Corse,FRM,Corse
+96,M_977,Saint-Barthélemy,FRY10,Guadeloupe,FRY1,Guadeloupe,FRY,RUP FR — Régions Ultrapériphériques Françaises
+97,M_971,Guadeloupe,FRY10,Guadeloupe,FRY1,Guadeloupe,FRY,RUP FR — Régions Ultrapériphériques Françaises
+98,M_ZA,Guadeloupe,FRY10,Guadeloupe,FRY1,Guadeloupe,FRY,RUP FR — Régions Ultrapériphériques Françaises
+99,M_ZX,Saint-Martin/Saint-Barthélemy,FRY10,Guadeloupe,FRY1,Guadeloupe,FRY,RUP FR — Régions Ultrapériphériques Françaises
+100,M_ZB,Martinique,FRY20,Martinique ,FRY2,Martinique ,FRY,RUP FR — Régions Ultrapériphériques Françaises
+101,M_972,Martinique,FRY20,Martinique ,FRY2,Martinique ,FRY,RUP FR — Régions Ultrapériphériques Françaises
+102,M_ZC,Guyane,FRY30,Guyane,FRY3,Guyane,FRY,RUP FR — Régions Ultrapériphériques Françaises
+103,M_973,Guyane,FRY30,Guyane,FRY3,Guyane,FRY,RUP FR — Régions Ultrapériphériques Françaises
+104,M_ZD,La Reunion,FRY40,La Réunion,FRY4,La Réunion ,FRY,RUP FR — Régions Ultrapériphériques Françaises
+105,M_974,La Réunion,FRY40,La Réunion,FRY4,La Réunion ,FRY,RUP FR — Régions Ultrapériphériques Françaises
+106,M_ZM,Mayotte,FRY50,Mayotte ,FRY5,Mayotte,FRY,RUP FR — Régions Ultrapériphériques Françaises
+107,M_976,Mayotte,FRY50,Mayotte ,FRY5,Mayotte,FRY,RUP FR — Régions Ultrapériphériques Françaises

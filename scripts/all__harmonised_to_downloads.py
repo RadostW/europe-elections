@@ -26,6 +26,7 @@ countries = {
             / "kreisen"
             / "germany__region_data.csv",
             "harmonised_code_column": "ags",
+            "harmonised_name_column": "kreis_name",
             "nuts_3_code_column": "nuts",
         },
     },
@@ -47,6 +48,7 @@ countries = {
             / "powiaty"
             / "poland__region_data.csv",
             "harmonised_code_column": "teryt",
+            "harmonised_name_column": "pow_name",
             "nuts_3_code_column": "nuts",
         },
     },
@@ -68,6 +70,7 @@ countries = {
             / "provincias"
             / "spain__region_data.csv",
             "harmonised_code_column": "harmonised_code",
+            "harmonised_name_column": "harmonised_name",
             "nuts_3_code_column": "nuts3_code",
         },
     },
@@ -93,6 +96,7 @@ countries = {
             / "departament"
             / "france__region_data.csv",
             "harmonised_code_column": "harmonised_code",
+            "harmonised_name_column": "harmonised_name",
             "nuts_3_code_column": "nuts",
         },
     },
@@ -117,6 +121,7 @@ countries = {
             / "harmonised"
             / "hungary__region_data.csv",
             "harmonised_code_column": "harmonised_code",
+            "harmonised_name_column": "harmonised_name",
             "nuts_3_code_column": "nuts3_code",
         },
     },
@@ -144,10 +149,10 @@ fusions = {
 }
 
 artificial_regions = []
-for newid, config in fusions.items():
+for newid, fusion_desc in fusions.items():
 
-    oldids = config["oldids"]
-    newname = config["newname"]
+    oldids = fusion_desc["oldids"]
+    newname = fusion_desc["newname"]
 
     # Get geometries to fuse
     geometries = full_gdf.loc[full_gdf["NUTS_ID"].isin(oldids), "geometry"]
@@ -219,18 +224,21 @@ nuts_table = pd.merge(
 if full_gdf.crs is None:
     full_gdf = full_gdf.set_crs(epsg=4326)
 
-for country, config_dict in countries.items():
-    country_code = config_dict["code"]
+for country, country_desc in countries.items():
+    country_code = country_desc["code"]
 
     # load election data and merge with nuts
-    election_df = pd.read_csv(config_dict["csv"])
+    election_df = pd.read_csv(country_desc["csv"])
 
-    if "meta" in config_dict.keys():
-        meta_df = pd.read_csv(config_dict["meta"]["path"])
-        meta_df["nuts_3_code"] = meta_df[config_dict["meta"]["nuts_3_code_column"]]
+    if "meta" in country_desc.keys():
+        meta_df = pd.read_csv(country_desc["meta"]["path"])
+        meta_df["nuts_3_code"] = meta_df[country_desc["meta"]["nuts_3_code_column"]]
         meta_df["harmonised_code"] = meta_df[
-            config_dict["meta"]["harmonised_code_column"]
+            country_desc["meta"]["harmonised_code_column"]
         ]
+        meta_df["harmonised_name"] = meta_df[
+                    country_desc["meta"]["harmonised_name_column"]
+                ]
 
         smr = meta_df["harmonised_code"].value_counts().reset_index()
         if len(smr[smr["count"] > 1]):
@@ -346,7 +354,7 @@ for country, config_dict in countries.items():
         level_aggregated = level_df.groupby(columns[:-1]).sum().reset_index()
         level_aggregated.to_csv(OUTPUT_DIR / elections_filename)
 
-    if "meta" in config.keys():
+    if "meta" in country_desc.keys():
         region_data = pd.merge(
             meta_df[["harmonised_code", "harmonised_name", "nuts_3_code"]],
             nuts_table,
