@@ -1,3 +1,7 @@
+# try
+# pytest --color=yes -vv tests/ | less -R
+# for better visualisaiton
+
 from pathlib import Path
 
 import pandas as pd
@@ -96,7 +100,6 @@ def read_election_result(country, election_date, election_type):
 
 def test_election_soft(election):
 
-    # soft testing
     WINNER_SHARE_ABSOLUTE_TOLEANCE = 5  # percentage points
     WINNER_VOTES_COUNT_RELATIVE_TOLERANCE = 15 / 100  # percent / 100
 
@@ -116,8 +119,7 @@ def test_election_soft(election):
     ), f'winner votes, {(expected["winner_votes"] - observed["winner_votes"])/1e3:.2f}k short of exp.'
 
 def test_election_hard(election):
-
-    # soft testing
+        
     WINNER_SHARE_ABSOLUTE_TOLEANCE = 2  # percentage points
     WINNER_VOTES_COUNT_RELATIVE_TOLERANCE = 5 / 100  # percent / 100
 

@@ -1,4 +1,154 @@
-RO_2009_pre:
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2004_06_13":
+#     "winner": "PO"
+#     "result": 24.10
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2009_06_07":
+#     "winner": "PO"
+#     "result": 44.43
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2014_05_25":
+#     "winner": "PO"
+#     "result": 32.13
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2019_05_26":
+#     "winner": "PIS"
+#     "result": 45.38
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2024_06_09":
+#     "winner": "PO"
+#     "result": 37.06
+
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2001_09_23":
+#     "winner": "SLDUP"
+#     "result": 41.04
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2005_09_25":
+#     "winner": "PIS"
+#     "result": 26.99
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2007_10_21":
+#     "winner": "PO"
+#     "result": 41.51
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2011_10_09":
+#     "winner": "PO"
+#     "result": 39.18
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2015_10_25":
+#     "winner": "PIS"
+#     "result": 37.58
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2019_10_13":
+#     "winner": "PIS"
+#     "result": 43.59
+# PL_yyyy_eee:
+#       country: "Poland"
+#     election_date "2023_10_15":
+#     "winner": "PIS"
+#     "result": 35.38
+
+PL_2000_pra:
+  country: "Poland"
+  election_date: "2000-10-08"
+  election_type: "president_a"
+  winner: "Kwasniewski"
+  winner_share: 53.90
+  winner_votes: 0
+
+PL_2005_pra:
+  country: "Poland"
+  election_date: "2005-10-09"
+  election_type: "president_a"
+  winner: "Tusk"
+  winner_share: 36.33
+  winner_votes: 0
+
+PL_2005_prb:
+  country: "Poland"
+  election_date: "2005-10-23"
+  election_type: "president_b"
+  winner: "Kaczynski"
+  winner_share: 54.04
+  winner_votes: 0
+
+PL_2010_pra:
+  country: "Poland"
+  election_date: "2010-06-20"
+  election_type: "president_a"
+  winner: "Komorowski"
+  winner_share: 41.54
+  winner_votes: 0
+
+PL_2010_prb:
+  country: "Poland"
+  election_date: "2010-07-04"
+  election_type: "president_b"
+  winner: "Komorowski"
+  winner_share: 53.01
+  winner_votes: 0  
+
+PL_2015_pra:
+  country: "Poland"
+  election_date: "2015-05-10"
+  election_type: "president_a"
+  winner: "Duda"
+  winner_share: 34.76    
+  winner_votes: 0  
+
+PL_2015_prb:
+  country: "Poland"
+  election_date: "2015-05-24"
+  election_type: "president_b"
+  winner: "Duda"
+  winner_share: 51.55
+  winner_votes: 0  
+
+PL_2020_pra:
+  country: "Poland"
+  election_date: "2020-06-28"
+  election_type: "president_a"
+  winner: "Duda"
+  winner_share: 43.50
+  winner_votes: 0  
+
+PL_2020_prb:
+  country: "Poland"
+  election_date: "2020-07-12"
+  election_type: "president_b"
+  winner: "Duda"
+  winner_share: 51.03
+  winner_votes: 0  
+
+PL_2025_pra:
+  country: "Poland"
+  election_date: "2025-05-18"
+  election_type: "president_a"
+  winner: "Trzaskowski"
+  winner_share: 31.36
+  winner_votes: 0  
+
+PL_2025_pra:
+  country: "Poland"
+  election_date: "2025-06-01"
+  election_type: "president_b"
+  winner: "Nawrocki"
+  winner_share: 50.89
+  winner_votes: 0   
+
+RO_2009_pra:
   election_date: 2009-11-22
   country: Romania
   election_type: president_a
@@ -6,7 +156,7 @@ RO_2009_pre:
   winner_share: 32.45
   winner_votes: 3_153_640
 
-RO_2014_pre:
+RO_2014_pra:
   election_date: 2014-11-02
   country: Romania
   election_type: president_a
@@ -14,7 +164,7 @@ RO_2014_pre:
   winner_share: 40.44
   winner_votes: 3_836_093
 
-RO_2019_pre:
+RO_2019_pra:
   election_date: 2019-11-10
   country: Romania
   election_type: president_a
