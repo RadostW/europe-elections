@@ -1,0 +1,242 @@
+RO_2009_pre:
+  election_date: 2009-11-22
+  country: Romania
+  election_type: president_a
+  winner: "Traian Basescu"
+  winner_share: 32.45
+  winner_votes: 3_153_640
+
+RO_2014_pre:
+  election_date: 2014-11-02
+  country: Romania
+  election_type: president_a
+  winner: "Ponta Victor-Viorel"
+  winner_share: 40.44
+  winner_votes: 3_836_093
+
+RO_2019_pre:
+  election_date: 2019-11-10
+  country: Romania
+  election_type: president_a
+  winner: "Klaus-Werner Iohannis"
+  winner_share: 37.82
+  winner_votes: 3_485_292
+
+RO_2007_eur:
+  election_date: 2007-11-25
+  country: Romania
+  election_type: european
+  winner: "pd"
+  winner_share: 28.81
+  winner_votes: 1_476_105
+
+RO_2009_eur:
+  election_date: 2009-06-07
+  country: Romania
+  election_type: european
+  winner: "psd"
+  winner_share: 31.07
+  winner_votes: 1_504_218
+
+# missing from the dataset - malformed download
+# RO_2014_eur:
+#   election_date: 2014-05-25
+#   country: Romania
+#   election_type: european
+#   winner: "usd"
+#   winner_share: 37.60
+#   winner_votes: 2_093_234
+
+RO_2019_eur:
+  election_date: 2019-05-26
+  country: Romania
+  election_type: european
+  winner: "pnl"
+  winner_share: 27.00
+  winner_votes: 2_449_068
+
+RO_2024_eur:
+  election_date: 2024-06-09
+  country: Romania
+  election_type: european
+  winner: "psd-pnl"
+  winner_share: 48.55
+  winner_votes: 4_341_686
+
+RO_1992_par:
+  election_date: 1992-09-27
+  country: Romania
+  election_type: parliament
+  winner: "f.d.s.n."
+  winner_share: 27.75
+  winner_votes: 3_003_573
+
+RO_1996_par:
+  election_date: 1996-11-03
+  country: Romania
+  election_type: parliament
+  winner: "cdr"
+  winner_share: 30.17
+  winner_votes: 3_692_321
+
+RO_2000_par:
+  election_date: 2000-11-26
+  country: Romania
+  election_type: parliament
+  winner: "pdsr"
+  winner_share: 36.61
+  winner_votes: 3_968_464
+
+RO_2004_par:
+  election_date: 2004-11-28
+  country: Romania
+  election_type: parliament
+  winner: "psd"
+  winner_share: 36.61
+  winner_votes: 3_730_352
+
+RO_2008_par:
+  election_date: 2008-11-30
+  country: Romania
+  election_type: parliament
+  winner: "psd"
+  winner_share: 33.10
+  winner_votes: 2_279_449
+
+RO_2012_par:
+  election_date: 2012-12-09
+  country: Romania
+  election_type: parliament
+  winner: "usl"
+  winner_share: 58.63
+  winner_votes: 4_344_288
+
+RO_2016_par:
+  election_date: 2016-12-11
+  country: Romania
+  election_type: parliament
+  winner: "psd"
+  winner_share: 45.48
+  winner_votes: 3_204_864
+
+RO_2016_par:
+  election_date: 2016-12-11
+  country: Romania
+  election_type: parliament
+  winner: "psd"
+  winner_share: 45.48
+  winner_votes: 3_204_864
+
+RO_2020_par:
+  election_date: 2020-12-06
+  country: Romania
+  election_type: parliament
+  winner: "psd"
+  winner_share: 28.90
+  winner_votes: 1_705_777
+
+# # missing - fix later
+# RO_2024_par:
+#   election_date: 2024-12-01
+#   country: Romania
+#   election_type: parliament
+#   winner: "psd"
+#   winner_share: 21.96
+#   winner_votes: 2_030_144
+
+# # not included in the dataset - data available as fragmented html files
+# HU_2004_eur:
+#   election_date: 2004-06-12
+#   country: Hungary
+#   election_type: european
+#   winner: "fidesz"
+#   winner_share: 47.40
+#   winner_votes: 1_457_750
+
+HU_2009_eur:
+  election_date: 2009-06-07
+  country: Hungary
+  election_type: european
+  winner: "fidesz kdnp"
+  winner_share: 56.37
+  winner_votes: 1_632_309
+
+HU_2014_eur:
+  election_date: 2014-05-25
+  country: Hungary
+  election_type: european
+  winner: "fidesz kdnp"
+  winner_share: 51.48
+  winner_votes: 1_193_991
+
+HU_2019_eur:
+  election_date: 2019-05-26
+  country: Hungary
+  election_type: european
+  winner: "fidesz"
+  winner_share: 52.56
+  winner_votes: 1_824_220
+
+HU_2024_eur:
+  election_date: 2024-06-09
+  country: Hungary
+  election_type: european
+  winner: "fidesz kdnp"
+  winner_share: 44.82
+  winner_votes: 2_048_211
+
+HU_2002_par:
+  election_date: 2002-04-07
+  country: Hungary
+  election_type: parliament
+  winner: "mszp"
+  winner_share: 42.05
+  winner_votes: 2_361_983
+
+HU_2006_par:
+  election_date: 2006-04-09
+  country: Hungary
+  election_type: parliament
+  winner: "mszp"
+  winner_share: 43.21
+  winner_votes: 2_336_705
+
+HU_2010_par:
+  election_date: 2010-04-11
+  country: Hungary
+  election_type: parliament
+  winner: "fidesz kdnp"
+  winner_share: 52.73
+  winner_votes: 2_706_292
+
+HU_2014_par:
+  election_date: 2014-04-06
+  country: Hungary
+  election_type: parliament
+  winner: "fidesz kdnp"
+  winner_share: 44.11
+  winner_votes: 2_264_780
+
+HU_2018_par:
+  election_date: 2018-04-08
+  country: Hungary
+  election_type: parliament
+  winner: "fidesz kdnp"
+  winner_share: 47.89
+  winner_votes: 2_636_201
+
+HU_2022_par:
+  election_date: 2022-04-03
+  country: Hungary
+  election_type: parliament
+  winner: "fidesz kdnp"
+  winner_share: 54.13
+  winner_votes: 3_060_706
+
+HU_2026_par:
+  election_date: 2026-04-12
+  country: Hungary
+  election_type: parliament
+  winner: "tisza"
+  winner_share: 55.26
+  winner_votes: 3_385_890

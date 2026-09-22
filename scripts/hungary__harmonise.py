@@ -1,6 +1,7 @@
 import pathlib
 import pandas as pd
 import unidecode
+import yaml
 
 here = pathlib.Path(__file__).resolve().parent
 
@@ -8,6 +9,19 @@ output_path = here / "../data/hungary/harmonised/hungary.csv"
 meta_output_path = here / "../data/hungary/harmonised/hungary__region_data.csv"
 
 meta_path = here / "../data/hungary/meta/codes.csv"
+
+replacements_path = here / "../data/hungary/raw_datasets/replacement_rules_parties.yaml"
+
+with open(replacements_path.resolve(), "r", encoding="utf-8") as in_file:
+    try:
+        party_replacements = yaml.safe_load(in_file)
+    except yaml.YAMLError as exc:
+        print(exc)
+
+name_replacements = dict()
+for party, replacements in party_replacements.items():
+    for replacement in replacements:
+        name_replacements[replacement] = party
 
 meta = pd.read_csv(meta_path)
 meta = meta.rename(
@@ -606,6 +620,9 @@ merge_to_canonical = (
 df_hungary["harmonised_name"] = df_hungary["merge_name"].map(merge_to_canonical)
 
 df_hungary = pd.merge(left=df_hungary, right=meta, how="left", on="harmonised_name")
+
+df_hungary["raw_name"] = df_hungary["name"].map(name_replacements)
+df_hungary["name"] = df_hungary["name"].map(name_replacements)
 
 df_hungary[
     [

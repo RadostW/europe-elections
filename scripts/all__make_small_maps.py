@@ -51,12 +51,16 @@ for nuts_level in [3, 2, 1]:
         turnout_df = turnout_df.reset_index()
 
         # Load TopoJSON
-        gdf = gpd.read_file(downloads_dir / f"{country}_nuts_{nuts_level}.geojson")
+        gdf = gpd.read_file(downloads_dir / f"{country}_nuts_{nuts_level}.topojson")
         turnout_gdf = gdf.merge(
             turnout_df, on=[f"nuts_{nuts_level}_code", f"nuts_{nuts_level}_name"]
         )
 
-        turnout_gdf = turnout_gdf.to_crs("EPSG:4326")
+        if turnout_gdf.crs is None:
+            turnout_gdf = turnout_gdf.set_crs(epsg=4326)
+
+        # --- REPROJECT TO EUROPEAN STANDARD (EPSG:3035) ---
+        turnout_gdf = turnout_gdf.to_crs("EPSG:3035")
 
         turnout_gdf["turnout_clip"] = turnout_gdf["turnout"].clip(0.2, 0.8)
 
@@ -91,3 +95,9 @@ for nuts_level in [3, 2, 1]:
         bbox_inches="tight",
         transparent=True,
     )
+    # plt.savefig(
+    #     graphics_dir / f"ep_turnout_nuts_{nuts_level}.pdf",
+    #     dpi=300,
+    #     bbox_inches="tight",
+    #     transparent=True,
+    # )

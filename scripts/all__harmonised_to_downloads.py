@@ -341,8 +341,10 @@ for country, country_desc in countries.items():
                 "name",
                 "votes",
             ]
+
+            # add nuts_{level}_names from codes            
             level_df = election_df.merge(
-                nuts_table[[f"nuts_{level}_code", f"nuts_{level}_name"]], how="left"
+                nuts_table[[f"nuts_{level}_code", f"nuts_{level}_name"]].drop_duplicates(), how="left"
             )
             level_df = level_df[columns].sort_values(by=columns)
 

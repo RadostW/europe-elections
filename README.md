@@ -84,6 +84,15 @@ references:
 }
 ```
 
+## Testing
+
+Tests are taking advantage of `pytest` framework.
+Simply run
+
+```python
+  pytest -v tests/
+```
+
 ## License
 
 All software in this repository is licensed under GPL v 3.0 or later.

@@ -100,7 +100,7 @@ if gdf_all.crs is None:
     gdf_all = gdf_all.set_crs(epsg=4326)
 
 # --- REPROJECT TO EUROPEAN STANDARD (EPSG:3035) ---
-gdf_all = gdf_all.to_crs("EPSG:4326")
+gdf_all = gdf_all.to_crs("EPSG:3035")
 
 # --- PLOT MAP ---
 
@@ -129,10 +129,13 @@ ax.axis("off")
 # ax.set_ylim([35, 56])
 # ax.set_xlim([-10, None])
 ax.set_title(f"European election turnout", fontsize=9)
-plt.tight_layout()
+# plt.tight_layout()
 
 plt.savefig(
     "ep_turnout_best_resolution.png", dpi=300, bbox_inches="tight", transparent=True
 )
+# plt.savefig(
+#     "ep_turnout_best_resolution.pdf", dpi=300, bbox_inches="tight", transparent=True
+# )
 
 plt.show()
