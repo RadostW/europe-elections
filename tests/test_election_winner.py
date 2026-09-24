@@ -98,6 +98,7 @@ def read_election_result(country, election_date, election_type):
         "winner_votes": winner_votes,
     }
 
+
 def test_election_soft(election):
 
     WINNER_SHARE_ABSOLUTE_TOLEANCE = 5  # percentage points
@@ -110,16 +111,17 @@ def test_election_soft(election):
         election["election_type"],
     )
 
-    assert observed["winner"].lower() == expected["winner"].lower(), "winner name"
-    assert observed["winner_share"] == pytest.approx(
-        expected["winner_share"], abs=WINNER_SHARE_ABSOLUTE_TOLEANCE
-    ), f'winner share, {observed["winner_share"] / expected["winner_share"]:.2f} ratio'
     assert observed["winner_votes"] / 1e6 == pytest.approx(
         expected["winner_votes"] / 1e6, rel=WINNER_VOTES_COUNT_RELATIVE_TOLERANCE
     ), f'winner votes, {(expected["winner_votes"] - observed["winner_votes"])/1e3:.2f}k short of exp.'
+    assert observed["winner_share"] == pytest.approx(
+        expected["winner_share"], abs=WINNER_SHARE_ABSOLUTE_TOLEANCE
+    ), f'winner share, {observed["winner_share"] / expected["winner_share"]:.2f} ratio'
+    assert observed["winner"].lower() == expected["winner"].lower(), "winner name"
+
 
 def test_election_hard(election):
-        
+
     WINNER_SHARE_ABSOLUTE_TOLEANCE = 2  # percentage points
     WINNER_VOTES_COUNT_RELATIVE_TOLERANCE = 5 / 100  # percent / 100
 
@@ -129,11 +131,11 @@ def test_election_hard(election):
         election["election_date"],
         election["election_type"],
     )
-    
-    assert observed["winner_share"] == pytest.approx(
-        expected["winner_share"], abs=WINNER_SHARE_ABSOLUTE_TOLEANCE
-    ), f'winner share, {observed["winner_share"] / expected["winner_share"]:.2f} ratio'
+
     assert observed["winner_votes"] / 1e6 == pytest.approx(
         expected["winner_votes"] / 1e6, rel=WINNER_VOTES_COUNT_RELATIVE_TOLERANCE
     ), f'winner votes, {(expected["winner_votes"] - observed["winner_votes"])/1e3:.2f}k short of exp.'
+    assert observed["winner_share"] == pytest.approx(
+        expected["winner_share"], abs=WINNER_SHARE_ABSOLUTE_TOLEANCE
+    ), f'winner share, {observed["winner_share"] / expected["winner_share"]:.2f} ratio'
     assert observed["winner"].lower() == expected["winner"].lower(), "winner name"

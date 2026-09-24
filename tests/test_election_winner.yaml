@@ -1,3 +1,235 @@
+FR_2002_pra:
+  country: "France"
+  election_type: "president_a"
+  election_date: 2002-04-21
+  winner: "Chirac"
+  winner_share: 19.88
+  winner_votes: 5_665_855
+
+FR_2002_prb:
+  country: "France"
+  election_type: "president_b"
+  election_date: 2002-05-05
+  winner: "Chirac"
+  winner_share: 82.21
+  winner_votes: 25_537_956
+
+FR_2007_pra:
+  country: "France"
+  election_type: "president_a"
+  election_date: 2007-04-22
+  winner: "Sarkozy"
+  winner_share: 31.18
+  winner_votes: 11_448_663
+
+FR_2007_prb:
+  country: "France"
+  election_type: "president_b"
+  election_date: 2007-05-06
+  winner: "Sarkozy"
+  winner_share: 53.06
+  winner_votes: 18_983_138
+
+FR_2012_pra:
+  country: "France"
+  election_type: "president_a"
+  election_date: 2012-04-22
+  winner: "Hollande"  
+  winner_share: 28.63
+  winner_votes: 10_272_705
+
+FR_2012_prb:
+  country: "France"
+  election_type: "president_b"
+  election_date: 2012-05-06
+  winner: "Hollande"
+  winner_share: 51.64
+  winner_votes: 18_000_668
+
+FR_2017_pra:
+  country: "France"
+  election_type: "president_a"
+  election_date: 2017-04-23
+  winner: "Macron" 
+  winner_share: 24.01
+  winner_votes: 8_656_346
+
+FR_2017_prb:
+  country: "France"
+  election_type: "president_b"
+  election_date: 2017-05-07
+  winner: "Macron"
+  winner_share: 66.10
+  winner_votes: 20_743_128
+
+FR_2022_pra:
+  country: "France"
+  election_type: "president_a"
+  election_date: 2022-04-10  
+  winner: "Macron"
+  winner_share: 27.85
+  winner_votes: 9_783_058
+
+FR_2022_prb:
+  country: "France"
+  election_type: "president_b"
+  election_date: 2022-04-24
+  winner: "Macron"
+  winner_share: 58.55
+  winner_votes: 18_768_693
+
+FR_1999_eur:
+  country: "France"
+  election_type: european
+  election_date: 1999-06-13
+  winner: "GAU" 
+  winner_share: 21.95
+  winner_votes: 3_874_231
+
+FR_2004_eur:
+  country: "France"
+  election_type: european
+  election_date: 2004-06-13
+  winner: "LPS"
+  winner_share: 28.90
+  winner_votes: 4_960_756
+
+FR_2009_eur:
+  country: "France"
+  election_type: european
+  election_date: 2009-06-07
+  winner: "LMAJ"
+  winner_share: 27.88    
+  winner_votes: 4_799_908
+
+FR_2014_eur:
+  country: "France"
+  election_type: european
+  election_date: 2014-05-24
+  winner: "LFN"
+  winner_share: 24.86  
+  winner_votes: 4_712_461
+
+FR_2019_eur:
+  country: "France"
+  election_type: european
+  election_date: 2019-05-26
+  winner: "LRN"
+  winner_share: 23.34
+  winner_votes: 5_286_939
+
+FR_2024_eur:
+  country: "France"
+  election_type: european
+  election_date: 2024-06-09
+  winner: "LRN"
+  winner_share: 31.37
+  winner_votes: 7_765_939
+
+IT_1996_par:
+  country: "Italy"
+  election_type: parliament
+  election_date: 1996-04-21
+  winner: "pds"
+  winner_share: 21.05
+  winner_votes: 7_894_118
+
+IT_2001_par:
+  country: "Italy"
+  election_type: parliament
+  election_date: 2001-05-13
+  winner: "fi"
+  winner_share: 29.43
+  winner_votes: 10_923_431
+
+IT_2006_par:
+  country: "Italy"
+  election_type: parliament
+  election_date: 2006-04-09
+  winner: "ulivo"
+  winner_share: 31.27
+  winner_votes: 11_930_983
+
+IT_2008_par:
+  country: "Italy"
+  election_type: parliament
+  election_date: 2008-04-13
+  winner: "pdl"
+  winner_share: 37.38
+  winner_votes: 13_629_464
+
+IT_2013_par:
+  country: "Italy"
+  election_type: parliament
+  election_date: 2013-02-24
+  winner: "m5s"
+  winner_share: 25.56
+  winner_votes: 8_691_406
+
+IT_2018_par:
+  country: "Italy"
+  election_type: parliament
+  election_date: 2018-03-04
+  winner: "m5s"
+  winner_share: 32.68
+  winner_votes: 10_732_066
+
+IT_2022_par:
+  country: "Italy"
+  election_type: parliament
+  election_date: 2022-09-25
+  winner: "fdi"
+  winner_share: 25.98
+  winner_votes: 7_302_517
+
+IT_1999_eur:
+  country: "Italy"
+  election_type: european
+  election_date: 1999-06-13
+  winner: "fi" 
+  winner_share: 25.16
+  winner_votes: 7_813_948
+
+IT_2004_eur:
+  country: "Italy"
+  election_type: european
+  election_date: 2004-06-12
+  winner: "ulivo"
+  winner_share: 31.08    
+  winner_votes: 10_105_836
+
+IT_2009_eur:
+  country: "Italy"
+  election_type: european
+  election_date: 2009-06-07
+  winner: "pdl" 
+  winner_share: 35.26
+  winner_votes: 10_797_296
+
+IT_2014_eur:
+  country: "Italy"
+  election_type: european
+  election_date: 2014-05-25  
+  winner: "pd"
+  winner_share: 40.81
+  winner_votes: 11_203_231
+
+IT_2019_eur:
+  country: "Italy"
+  election_type: european  
+  election_date: 2019-05-26
+  winner: "lega"
+  winner_share: 34.26
+  winner_votes: 9_175_208
+
+IT_2024_eur:
+  country: "Italy"
+  election_type: european
+  election_date: 2024-06-09
+  winner: "fdi"
+  winner_share: 28.76
+  winner_votes: 6_732_303
+  
 ES_1993_par:
   country: "Spain"
   election_type: parliament
