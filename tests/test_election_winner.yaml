@@ -1,64 +1,234 @@
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2004_06_13":
-#     "winner": "PO"
-#     "result": 24.10
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2009_06_07":
-#     "winner": "PO"
-#     "result": 44.43
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2014_05_25":
-#     "winner": "PO"
-#     "result": 32.13
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2019_05_26":
-#     "winner": "PIS"
-#     "result": 45.38
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2024_06_09":
-#     "winner": "PO"
-#     "result": 37.06
+ES_1993_par:
+  country: "Spain"
+  election_type: parliament
+  election_date: 1993-06-06
+  winner: "psoe"
+  winner_share: 38.8
+  winner_votes: 9_150_083
 
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2001_09_23":
-#     "winner": "SLDUP"
-#     "result": 41.04
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2005_09_25":
-#     "winner": "PIS"
-#     "result": 26.99
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2007_10_21":
-#     "winner": "PO"
-#     "result": 41.51
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2011_10_09":
-#     "winner": "PO"
-#     "result": 39.18
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2015_10_25":
-#     "winner": "PIS"
-#     "result": 37.58
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2019_10_13":
-#     "winner": "PIS"
-#     "result": 43.59
-# PL_yyyy_eee:
-#       country: "Poland"
-#     election_date "2023_10_15":
-#     "winner": "PIS"
-#     "result": 35.38
+ES_1996_par:
+  country: "Spain"
+  election_type: parliament
+  election_date: 1996-03-03
+  winner: "pp"
+  winner_share: 38.8
+  winner_votes: 9_716_006
+
+ES_2000_par:
+  country: "Spain"
+  election_type: parliament
+  election_date: 2000-03-12
+  winner: "pp"
+  winner_share: 44.5
+  winner_votes: 10_321_178
+
+ES_2004_par:
+  country: "Spain"
+  election_type: parliament  
+  election_date: 2004-03-14
+  winner: "psoe"
+  winner_share: 42.6
+  winner_votes: 11_026_163
+
+ES_2008_par:
+  country: "Spain"
+  election_type: parliament
+  election_date: 2008-03-09
+  winner: "psoe"
+  winner_share: 43.9
+  winner_votes: 11_289_335
+
+ES_2011_par:
+  country: "Spain"
+  election_type: parliament  
+  election_date: 2011-11-20
+  winner: "pp"
+  winner_share: 44.6
+  winner_votes: 10_866_566
+
+ES_2015_par:
+  country: "Spain"
+  election_type: parliament
+  election_date: 2015-12-20
+  winner: "pp"
+  winner_share: 28.7
+  winner_votes: 7_236_965
+
+ES_2016_par:
+  country: "Spain"
+  election_type: parliament
+  election_date: 2016-06-26
+  winner: "pp"
+  winner_share: 33.0
+  winner_votes: 7_941_236
+
+ES_2019_par_a:
+  country: "Spain"
+  election_type: parliament
+  election_date: 2019-04-28
+  winner: "psoe"
+  winner_share: 28.7
+  winner_votes: 7_513_142
+
+ES_2019_par_b:
+  country: "Spain"
+  election_type: parliament
+  election_date: 2019-11-10
+  winner: "psoe"
+  winner_share: 28.0
+  winner_votes: 6_792_199
+
+ES_2023_par:
+  country: "Spain"
+  election_type: parliament
+  election_date: 2023-07-23
+  winner: "pp"
+  winner_share: 33.1
+  winner_votes: 8_160_837
+
+ES_1999_eur:
+  country: "Spain"
+  election_date: 1999-06-13
+  election_type: european
+  winner: "pp"
+  winner_share: 39.74
+  winner_votes: 8_410_993
+
+ES_2004_eur:
+  country: "Spain"
+  election_date: 2004-06-13
+  election_type: european
+  winner: "psoe"
+  winner_share: 43.5
+  winner_votes: 6_741_112
+
+ES_2009_eur:
+  country: "Spain"
+  election_date: 2009-06-07
+  election_type: european
+  winner: "pp"
+  winner_share: 42.1
+  winner_votes: 6_670_377
+
+ES_2014_eur:
+  country: "Spain"
+  election_date: 2014-05-25
+  election_type: european
+  winner: "pp"
+  winner_share: 26.1
+  winner_votes: 4_098_339
+
+ES_2019_eur:
+  country: "Spain"
+  election_date: 2019-05-26
+  election_type: european
+  winner: "psoe"
+  winner_share: 32.9
+  winner_votes: 7_369_789
+
+ES_2024_eur:
+  country: "Spain"
+  election_date: 2024-06-09
+  election_type: european
+  winner: "pp"
+  winner_share: 34.21
+  winner_votes: 5_996_627
+
+PL_2004_eur:
+  country: "Poland"
+  election_date: 2004-06-13
+  election_type: european
+  "winner": "PO"
+  winner_share: 24.10
+  winner_votes: 1_467_775
+
+PL_2009_eur:
+  country: "Poland"
+  election_date: 2009-06-07
+  election_type: european
+  "winner": "PO"
+  winner_share: 44.43
+  winner_votes: 3_271_852
+
+PL_2014_eur:
+  country: "Poland"
+  election_date: 2014-05-25
+  election_type: european
+  "winner": "PO"
+  winner_share: 32.13
+  winner_votes: 2_271_215
+
+PL_2019_eur:
+  country: "Poland"
+  election_date: 2019-05-26
+  election_type: european
+  "winner": "PIS"
+  winner_share: 45.38
+  winner_votes: 6_192_780
+
+PL_2024_eur:
+  country: "Poland"
+  election_date: 2024-06-09
+  election_type: european
+  winner: "PO"
+  winner_share: 37.06
+  winner_votes: 4_359_443
+
+PL_2001_par:
+  country: Poland
+  election_date: 2001-09-23
+  election_type: "parliament"
+  winner: "SLDUP"
+  winner_share: 41.04
+  winner_votes: 5_342_519
+
+PL_2005_par:
+  country: "Poland"
+  election_date: 2005-09-25
+  election_type: "parliament"
+  winner: "PIS"
+  winner_share: 26.99
+  winner_votes: 3_185_714
+
+PL_2007_par:
+  country: "Poland"
+  election_date: 2007-10-21
+  election_type: "parliament"
+  winner: "PO"
+  winner_share: 41.51
+  winner_votes: 6_701_010
+
+PL_2011_par:
+  country: "Poland"
+  election_date: 2011-10-09
+  election_type: "parliament"
+  winner: "PO"
+  winner_share: 39.18
+  winner_votes: 5_629_773
+
+PL_2015_par:
+  country: "Poland"
+  election_date: 2015-10-25
+  election_type: "parliament"
+  winner: "PIS"
+  winner_share: 37.58
+  winner_votes: 5_711_687
+
+PL_2019_par:
+  country: "Poland"
+  election_date: 2019-10-13
+  election_type: "parliament"
+  winner: "PIS"
+  winner_share: 43.59
+  winner_votes: 8_051_935
+
+PL_2023_par:
+  country: "Poland"
+  election_date: 2023-10-15
+  election_type: "parliament"
+  winner: "PIS"
+  winner_share: 35.38
+  winner_votes: 7_640_854
 
 PL_2000_pra:
   country: "Poland"
@@ -66,7 +236,7 @@ PL_2000_pra:
   election_type: "president_a"
   winner: "Kwasniewski"
   winner_share: 53.90
-  winner_votes: 0
+  winner_votes: 9_485_224
 
 PL_2005_pra:
   country: "Poland"
@@ -74,7 +244,7 @@ PL_2005_pra:
   election_type: "president_a"
   winner: "Tusk"
   winner_share: 36.33
-  winner_votes: 0
+  winner_votes: 5_429_666
 
 PL_2005_prb:
   country: "Poland"
@@ -82,7 +252,7 @@ PL_2005_prb:
   election_type: "president_b"
   winner: "Kaczynski"
   winner_share: 54.04
-  winner_votes: 0
+  winner_votes: 8_257_468
 
 PL_2010_pra:
   country: "Poland"
@@ -90,7 +260,7 @@ PL_2010_pra:
   election_type: "president_a"
   winner: "Komorowski"
   winner_share: 41.54
-  winner_votes: 0
+  winner_votes: 6_981_319
 
 PL_2010_prb:
   country: "Poland"
@@ -98,7 +268,7 @@ PL_2010_prb:
   election_type: "president_b"
   winner: "Komorowski"
   winner_share: 53.01
-  winner_votes: 0  
+  winner_votes: 8_933_887
 
 PL_2015_pra:
   country: "Poland"
@@ -106,7 +276,7 @@ PL_2015_pra:
   election_type: "president_a"
   winner: "Duda"
   winner_share: 34.76    
-  winner_votes: 0  
+  winner_votes: 5_179_092
 
 PL_2015_prb:
   country: "Poland"
@@ -114,7 +284,7 @@ PL_2015_prb:
   election_type: "president_b"
   winner: "Duda"
   winner_share: 51.55
-  winner_votes: 0  
+  winner_votes: 8_630_627
 
 PL_2020_pra:
   country: "Poland"
@@ -122,7 +292,7 @@ PL_2020_pra:
   election_type: "president_a"
   winner: "Duda"
   winner_share: 43.50
-  winner_votes: 0  
+  winner_votes: 8_450_513
 
 PL_2020_prb:
   country: "Poland"
@@ -130,7 +300,7 @@ PL_2020_prb:
   election_type: "president_b"
   winner: "Duda"
   winner_share: 51.03
-  winner_votes: 0  
+  winner_votes: 10_440_648  
 
 PL_2025_pra:
   country: "Poland"
@@ -138,15 +308,15 @@ PL_2025_pra:
   election_type: "president_a"
   winner: "Trzaskowski"
   winner_share: 31.36
-  winner_votes: 0  
+  winner_votes: 6_147_797
 
-PL_2025_pra:
+PL_2025_prb:
   country: "Poland"
   election_date: "2025-06-01"
   election_type: "president_b"
   winner: "Nawrocki"
   winner_share: 50.89
-  winner_votes: 0   
+  winner_votes: 10_606_877
 
 RO_2009_pra:
   election_date: 2009-11-22
@@ -260,14 +430,6 @@ RO_2012_par:
   winner: "usl"
   winner_share: 58.63
   winner_votes: 4_344_288
-
-RO_2016_par:
-  election_date: 2016-12-11
-  country: Romania
-  election_type: parliament
-  winner: "psd"
-  winner_share: 45.48
-  winner_votes: 3_204_864
 
 RO_2016_par:
   election_date: 2016-12-11

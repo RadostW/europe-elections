@@ -129,11 +129,11 @@ def test_election_hard(election):
         election["election_date"],
         election["election_type"],
     )
-
-    assert observed["winner"].lower() == expected["winner"].lower(), "winner name"
+    
     assert observed["winner_share"] == pytest.approx(
         expected["winner_share"], abs=WINNER_SHARE_ABSOLUTE_TOLEANCE
     ), f'winner share, {observed["winner_share"] / expected["winner_share"]:.2f} ratio'
     assert observed["winner_votes"] / 1e6 == pytest.approx(
         expected["winner_votes"] / 1e6, rel=WINNER_VOTES_COUNT_RELATIVE_TOLERANCE
     ), f'winner votes, {(expected["winner_votes"] - observed["winner_votes"])/1e3:.2f}k short of exp.'
+    assert observed["winner"].lower() == expected["winner"].lower(), "winner name"
