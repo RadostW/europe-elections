@@ -1,3 +1,124 @@
+DE_1998_par:
+  country: "Germany"
+  election_type: parliament
+  election_date: 1998-09-27
+  winner: "spd"
+  winner_share: 40.9
+  winner_votes: 20_181_269
+
+DE_2002_par:
+  country: "Germany"
+  election_type: parliament
+  election_date: 2002-09-22
+  winner: "spd"
+  winner_share: 38.5
+  winner_votes: 18_488_668
+
+DE_2005_par:
+  country: "Germany"
+  election_type: parliament
+  election_date: 2005-09-18
+  winner: "spd"
+  winner_share: 34.2
+  winner_votes: 16_194_665
+
+DE_2009_par:
+  country: "Germany"
+  election_type: parliament
+  election_date: 2009-09-27
+  winner: "cdu"
+  winner_share: 27.3
+  winner_votes: 11_828_277
+
+DE_2013_par:
+  country: "Germany"
+  election_type: parliament
+  election_date: 2013-09-22
+  winner: "cdu"
+  winner_share: 34.1
+  winner_votes: 14_921_877
+
+DE_2017_par:
+  country: "Germany"
+  election_type: parliament
+  election_date: 2017-09-24
+  winner: "cdu"
+  winner_share: 26.8
+  winner_votes: 12_447_656
+
+DE_2021_par:
+  country: "Germany"
+  election_type: parliament
+  election_date: 2021-09-26
+  winner: "spd"
+  winner_share: 25.7
+  winner_votes: 11_901_556
+
+DE_2025_par:
+  country: "Germany"
+  election_type: parliament
+  election_date: 2025-02-23
+  winner: "cdu"
+  winner_share: 22.6
+  winner_votes: 11_196_374
+
+DE_1994_eur:
+  country: "Germany"
+  election_type: european
+  election_date: 1994-06-12
+  winner: "spd"
+  winner_share: 32.16
+  winner_votes: 11_389_697
+
+DE_1999_eur:
+  country: "Germany"
+  election_type: european
+  election_date: 1999-06-13
+  winner: "cdu"
+  winner_share: 39.28
+  winner_votes: 10_628_224
+
+DE_2004_eur:
+  country: "Germany"
+  election_type: european
+  election_date: 2004-06-13
+  winner: "cdu"
+  winner_share: 36.51
+  winner_votes: 9_412_997
+
+DE_2009_eur:
+  country: "Germany"
+  election_type: european
+  election_date: 2009-06-07
+  winner: "cdu"
+  winner_share: 30.65
+  winner_votes: 8_071_391
+
+DE_2014_eur:
+  country: "Germany"
+  election_type: european
+  election_date: 2014-05-25
+  winner: "cdu"
+  winner_share: 30.02
+  winner_votes: 8_812_653
+
+DE_2019_eur:
+  country: "Germany"
+  election_type: european
+  election_date: 2019-05-26
+  winner: "cdu"
+  winner_share: 22.57
+  winner_votes: 8_438_975
+
+DE_2024_eur:
+  country: "Germany"
+  election_type: european
+  election_date: 2024-06-09
+  winner: "cdu"
+  winner_share: 23.70
+  winner_votes: 9_431_567
+
+
 FR_2002_pra:
   country: "France"
   election_type: "president_a"
