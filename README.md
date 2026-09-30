@@ -19,6 +19,7 @@ This repository contains raw data about elections (public domain unless specifie
 | Spain   | 1999-2025  | congresso, european        | provincia (approx NUTS3, 51 units, 960k persons)     | [5,6]       | [CSV](./data/downloads/spain_best_resolution.csv)   | [Metadata](./data/downloads/spain_region_metatada.csv)   |
 | Romania | 1992-2025  | house, president, european | NUTS3 (approx. judete, 42 units, 40k persons)        | [7]         | [CSV](./data/downloads/romania_best_resolution.csv) | [Metadata](./data/downloads/romania_region_metatada.csv) |
 | Hungary | 2000-2025  | parliament, european       | telepules (3155 units, 3k persons)                   | [8]         | [CSV](./data/downloads/hungary_best_resolution.csv) | [Metadata](./data/downloads/hungary_region_metatada.csv) |
+| -       | 2014-2025  | population (age groups)    | NUTS3                                                | [9]         |                                                     |                                                          |
 
 Approx NUTS3 - Can differ from NUTS3 in case of islands.
 You can use metadata files to aggregate election results at the desired level.
@@ -32,6 +33,7 @@ references:
  - [6] - (EP elections: 1999,2004,2009) Aggregation of data from [EUNED](https://eu-ned.com/datasets/)
  - [7] - Aggregation of data from [Commit Global - Rezultate Vot](https://istoric.rezultatevot.ro/) - CC BY 4.0
  - [8] - Aggregation of data from [valasztas.hu](https://www.valasztas.hu/home) ([see also](https://static.valasztas.hu/dyn/letoltesek/valasztasi_eredmenyek_1990-2024.zip))
+ - [9] - Used for quality control. Data: [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_pjangrp3__custom_22957313/default/table)
 
 ## NUTS aggregated downloads
 
