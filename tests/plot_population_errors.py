@@ -2,6 +2,7 @@
 # pytest --color=yes -vv tests/ | less -R
 # for better visualisaiton
 
+import geopandas as gpd
 import pathlib
 
 import matplotlib.pyplot as plt
@@ -83,6 +84,12 @@ def read_election_eligibility(country, election_date, election_type):
     return eligible_voters
 
 
+def load_map(country):
+    gpd_path = DATA_DIR / f"{country.lower()}_nuts_3.geojson"
+    gdf = gpd.read_file(gpd_path)
+    return gdf
+
+
 def test_election_eligible(election, assert_equal=True):
 
     expected = read_voting_population(
@@ -123,13 +130,58 @@ if __name__ == "__main__":
 
     scenarios = load_scenarios()
     for scenario in scenarios:
+
         election = scenario.values[0]
         merged_dataset = test_election_eligible(election, assert_equal=False)
-
         merged_dataset["error"] = (
             merged_dataset.votes - merged_dataset.persons_20_and_older
         ) / merged_dataset.persons_20_and_older
 
-        plt.hist(merged_dataset["error"], range=(-2, 2), bins=200)
-        plt.title(scenario.id)
-        plt.show()
+        gdf = load_map(election["country"])
+
+        # drop French remote islands for plots
+        nuts_level = 3
+        gdf = gdf[~gdf[f"nuts_{nuts_level}_code"].str.startswith("FRY")]
+
+        # drop Spanish remote islands for plots
+        gdf = gdf[~gdf[f"nuts_{nuts_level}_code"].str.startswith("ES7")]
+
+        gdf = gdf.merge(merged_dataset, how="left")
+        gdf = gdf.to_crs("EPSG:3035")
+
+        # New canvas for each scenario
+        fig, ax = plt.subplots()
+
+        ax.set_facecolor("#ccc")
+        fig.patch.set_facecolor("#ccc")
+
+        cmap = plt.cm.PiYG.copy()
+        cmap.set_bad("#c88")
+
+        gdf.plot(
+            ax=ax,
+            column="error",
+            cmap="PiYG",
+            vmin=-0.6,
+            vmax=0.6,
+            legend=True,
+        )
+
+        for _, row in gdf.iterrows():
+            centroid = row.geometry.centroid
+
+            if abs(row["error"]) > 0.3:
+                ax.annotate(
+                    row["nuts_3_code"],
+                    xy=(centroid.x, centroid.y),
+                    ha="center",
+                    va="center",
+                    fontsize=3,
+                )
+
+        ax.set_axis_off()
+        ax.set_title(scenario.id)
+
+        fig.savefig(HERE / "figures" / f"{scenario.id}.png", dpi=300)
+
+        plt.close(fig)

@@ -22,12 +22,12 @@ countries = {
             / ".."
             / "data"
             / "germany"
-            / "harmonised"
-            / "kreisen"
-            / "germany__region_data.csv",
-            "harmonised_code_column": "ags",
-            "harmonised_name_column": "kreis_name",
-            "nuts_3_code_column": "nuts",
+            / "raw_datasets"
+            / "metadata"
+            / "ags_to_nuts.csv",
+            "harmonised_code_column": "harmonised_code",
+            "harmonised_name_column": "harmonised_name",
+            "nuts_3_code_column": "nuts_3_code",
         },
     },
     "poland": {
@@ -246,12 +246,18 @@ for country, country_desc in countries.items():
             dups = set(smr[smr["count"] > 1]["harmonised_code"])
             print(meta_df[meta_df["harmonised_code"].isin(dups)])
 
+        premerge_total = election_df["votes"].sum()
+
         election_df = pd.merge(
             left=election_df,
             right=meta_df[["harmonised_code", "nuts_3_code"]],
             how="left",
             on="harmonised_code",
         )
+
+        postmerge_total = election_df["votes"].sum()
+
+        assert premerge_total == postmerge_total
 
         if len(election_df[election_df.nuts_3_code.isna()]) > 0:
             print("[WARN] Encountered unknown codes (missing from meta table)")
