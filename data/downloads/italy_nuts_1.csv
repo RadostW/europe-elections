@@ -1,1416 +1,1410 @@
 ,election_date,election_type,nuts_1_code,nuts_1_name,type,name,votes
-0,1996-04-21,parliament,ITC,Nord-Ovest,0,eligible_voters,12246991.0
-1,1996-04-21,parliament,ITC,Nord-Ovest,1,issued_ballots,10757687.0
+0,1996-04-21,parliament,ITC,Nord-Ovest,0,eligible_voters,12521055.0
+1,1996-04-21,parliament,ITC,Nord-Ovest,1,issued_ballots,10996683.0
 2,1996-04-21,parliament,ITC,Nord-Ovest,2,amb,5.0
-3,1996-04-21,parliament,ITC,Nord-Ovest,2,an,1117935.0
-4,1996-04-21,parliament,ITC,Nord-Ovest,2,ccd_cdu,479508.0
-5,1996-04-21,parliament,ITC,Nord-Ovest,2,fi,2379402.0
+3,1996-04-21,parliament,ITC,Nord-Ovest,2,an,1076717.0
+4,1996-04-21,parliament,ITC,Nord-Ovest,2,ccd_cdu,471921.0
+5,1996-04-21,parliament,ITC,Nord-Ovest,2,fi,2354849.0
 6,1996-04-21,parliament,ITC,Nord-Ovest,2,gil,4.0
 7,1996-04-21,parliament,ITC,Nord-Ovest,2,lam,2.0
-8,1996-04-21,parliament,ITC,Nord-Ovest,2,lega,2317949.0
-9,1996-04-21,parliament,ITC,Nord-Ovest,2,mp,8297.0
-10,1996-04-21,parliament,ITC,Nord-Ovest,2,mst,31250.0
-11,1996-04-21,parliament,ITC,Nord-Ovest,2,ne,5475.0
-12,1996-04-21,parliament,ITC,Nord-Ovest,2,pds,1764264.0
-13,1996-04-21,parliament,ITC,Nord-Ovest,2,pf,3761.0
+8,1996-04-21,parliament,ITC,Nord-Ovest,2,lega,2276264.0
+9,1996-04-21,parliament,ITC,Nord-Ovest,2,mp,8281.0
+10,1996-04-21,parliament,ITC,Nord-Ovest,2,mst,29976.0
+11,1996-04-21,parliament,ITC,Nord-Ovest,2,ne,5477.0
+12,1996-04-21,parliament,ITC,Nord-Ovest,2,pds,1725225.0
+13,1996-04-21,parliament,ITC,Nord-Ovest,2,pf,3769.0
 14,1996-04-21,parliament,ITC,Nord-Ovest,2,plm,1.0
-15,1996-04-21,parliament,ITC,Nord-Ovest,2,pln,6.0
-16,1996-04-21,parliament,ITC,Nord-Ovest,2,pop,659710.0
-17,1996-04-21,parliament,ITC,Nord-Ovest,2,ps,13965.0
-18,1996-04-21,parliament,ITC,Nord-Ovest,2,psg,242490.0
-19,1996-04-21,parliament,ITC,Nord-Ovest,2,pu,9367.0
-20,1996-04-21,parliament,ITC,Nord-Ovest,2,rc,855232.0
-21,1996-04-21,parliament,ITC,Nord-Ovest,2,rid,429125.0
-22,1996-04-21,parliament,ITC,Nord-Ovest,2,ufst,19.0
-23,1996-04-21,parliament,ITC,Nord-Ovest,2,verdi,280378.0
-24,1996-04-21,parliament,ITF,Sud,0,eligible_voters,11521814.0
-25,1996-04-21,parliament,ITF,Sud,1,issued_ballots,8627698.0
-26,1996-04-21,parliament,ITF,Sud,2,amb,15344.0
-27,1996-04-21,parliament,ITF,Sud,2,an,1518191.0
-28,1996-04-21,parliament,ITF,Sud,2,ccd_cdu,638423.0
-29,1996-04-21,parliament,ITF,Sud,2,dsoc,7977.0
-30,1996-04-21,parliament,ITF,Sud,2,fi,1757066.0
-31,1996-04-21,parliament,ITF,Sud,2,gil,16991.0
-32,1996-04-21,parliament,ITF,Sud,2,lam,51121.0
-33,1996-04-21,parliament,ITF,Sud,2,lega,252.0
-34,1996-04-21,parliament,ITF,Sud,2,mp,19445.0
-35,1996-04-21,parliament,ITF,Sud,2,mri,9092.0
-36,1996-04-21,parliament,ITF,Sud,2,mst,138131.0
-37,1996-04-21,parliament,ITF,Sud,2,nsfns,988.0
-38,1996-04-21,parliament,ITF,Sud,2,pds,1651751.0
-39,1996-04-21,parliament,ITF,Sud,2,pop,582137.0
-40,1996-04-21,parliament,ITF,Sud,2,ppa,10753.0
-41,1996-04-21,parliament,ITF,Sud,2,ps,90294.0
-42,1996-04-21,parliament,ITF,Sud,2,psg,137168.0
-43,1996-04-21,parliament,ITF,Sud,2,rc,718932.0
-44,1996-04-21,parliament,ITF,Sud,2,rds,3044.0
-45,1996-04-21,parliament,ITF,Sud,2,rid,323598.0
-46,1996-04-21,parliament,ITF,Sud,2,rin,4756.0
-47,1996-04-21,parliament,ITF,Sud,2,sl,5055.0
-48,1996-04-21,parliament,ITF,Sud,2,verdi,194983.0
-49,1996-04-21,parliament,ITG,Isole,0,eligible_voters,5682154.0
-50,1996-04-21,parliament,ITG,Isole,1,issued_ballots,4100135.0
-51,1996-04-21,parliament,ITG,Isole,2,an,617754.0
-52,1996-04-21,parliament,ITG,Isole,2,ccd_cdu,277199.0
-53,1996-04-21,parliament,ITG,Isole,2,fi,1104920.0
-54,1996-04-21,parliament,ITG,Isole,2,fl,6519.0
-55,1996-04-21,parliament,ITG,Isole,2,lega,79.0
-56,1996-04-21,parliament,ITG,Isole,2,mp,9.0
-57,1996-04-21,parliament,ITG,Isole,2,mst,48106.0
-58,1996-04-21,parliament,ITG,Isole,2,nsfns,41629.0
-59,1996-04-21,parliament,ITG,Isole,2,pds,653261.0
-60,1996-04-21,parliament,ITG,Isole,2,pop,212811.0
-61,1996-04-21,parliament,ITG,Isole,2,ps,10091.0
-62,1996-04-21,parliament,ITG,Isole,2,psdaz,37334.0
-63,1996-04-21,parliament,ITG,Isole,2,psg,94299.0
-64,1996-04-21,parliament,ITG,Isole,2,rc,274843.0
-65,1996-04-21,parliament,ITG,Isole,2,rid,185740.0
-66,1996-04-21,parliament,ITG,Isole,2,rin,9057.0
-67,1996-04-21,parliament,ITG,Isole,2,sn,22712.0
-68,1996-04-21,parliament,ITG,Isole,2,verdi,93547.0
-69,1996-04-21,parliament,ITH,Nord-Est,0,eligible_voters,8826941.0
-70,1996-04-21,parliament,ITH,Nord-Est,1,issued_ballots,7814999.0
-71,1996-04-21,parliament,ITH,Nord-Est,2,an,949187.0
-72,1996-04-21,parliament,ITH,Nord-Est,2,ccd_cdu,407592.0
-73,1996-04-21,parliament,ITH,Nord-Est,2,fi,1280980.0
-74,1996-04-21,parliament,ITH,Nord-Est,2,lega,1452254.0
-75,1996-04-21,parliament,ITH,Nord-Est,2,mp,9582.0
-76,1996-04-21,parliament,ITH,Nord-Est,2,mst,33485.0
-77,1996-04-21,parliament,ITH,Nord-Est,2,nd,8283.0
-78,1996-04-21,parliament,ITH,Nord-Est,2,ne,3.0
-79,1996-04-21,parliament,ITH,Nord-Est,2,nla,5109.0
-80,1996-04-21,parliament,ITH,Nord-Est,2,pds,1654671.0
-81,1996-04-21,parliament,ITH,Nord-Est,2,pf,1.0
-82,1996-04-21,parliament,ITH,Nord-Est,2,plm,38.0
-83,1996-04-21,parliament,ITH,Nord-Est,2,pln,8696.0
-84,1996-04-21,parliament,ITH,Nord-Est,2,pop,697358.0
-85,1996-04-21,parliament,ITH,Nord-Est,2,ps,1.0
-86,1996-04-21,parliament,ITH,Nord-Est,2,psg,98510.0
-87,1996-04-21,parliament,ITH,Nord-Est,2,pu,1.0
-88,1996-04-21,parliament,ITH,Nord-Est,2,rc,502905.0
-89,1996-04-21,parliament,ITH,Nord-Est,2,rid,345684.0
-90,1996-04-21,parliament,ITH,Nord-Est,2,ufst,56381.0
-91,1996-04-21,parliament,ITH,Nord-Est,2,une,65421.0
-92,1996-04-21,parliament,ITH,Nord-Est,2,verdi,225342.0
-93,1996-04-21,parliament,ITI,Centro (IT),0,eligible_voters,9172304.0
-94,1996-04-21,parliament,ITI,Centro (IT),1,issued_ballots,7953948.0
-95,1996-04-21,parliament,ITI,Centro (IT),2,an,1750455.0
-96,1996-04-21,parliament,ITI,Centro (IT),2,ccd_cdu,407455.0
-97,1996-04-21,parliament,ITI,Centro (IT),2,fi,1249237.0
-98,1996-04-21,parliament,ITI,Centro (IT),2,lega,68099.0
-99,1996-04-21,parliament,ITI,Centro (IT),2,mat,9039.0
-100,1996-04-21,parliament,ITI,Centro (IT),2,mp,7161.0
-101,1996-04-21,parliament,ITI,Centro (IT),2,mst,88494.0
-102,1996-04-21,parliament,ITI,Centro (IT),2,pds,2243588.0
-103,1996-04-21,parliament,ITI,Centro (IT),2,plm,5555.0
-104,1996-04-21,parliament,ITI,Centro (IT),2,pop,435671.0
-105,1996-04-21,parliament,ITI,Centro (IT),2,ps,36148.0
-106,1996-04-21,parliament,ITI,Centro (IT),2,psg,133373.0
-107,1996-04-21,parliament,ITI,Centro (IT),2,pu,6025.0
-108,1996-04-21,parliament,ITI,Centro (IT),2,rc,884773.0
-109,1996-04-21,parliament,ITI,Centro (IT),2,rid,361817.0
-110,1996-04-21,parliament,ITI,Centro (IT),2,verdi,181653.0
-111,1999-06-13,european,ITC,Nord-Ovest,0,eligible_voters,13269956.0
-112,1999-06-13,european,ITC,Nord-Ovest,1,issued_ballots,9880639.0
-113,1999-06-13,european,ITC,Nord-Ovest,2,an_segni,603898.0
-114,1999-06-13,european,ITC,Nord-Ovest,2,bonino,1093271.0
-115,1999-06-13,european,ITC,Nord-Ovest,2,ccd,104910.0
-116,1999-06-13,european,ITC,Nord-Ovest,2,cdu,201903.0
-117,1999-06-13,european,ITC,Nord-Ovest,2,ci,194324.0
-118,1999-06-13,european,ITC,Nord-Ovest,2,ds,1275692.0
-119,1999-06-13,european,ITC,Nord-Ovest,2,fi,2719714.0
-120,1999-06-13,european,ITC,Nord-Ovest,2,idem,657393.0
-121,1999-06-13,european,ITC,Nord-Ovest,2,lam,10371.0
-122,1999-06-13,european,ITC,Nord-Ovest,2,ldr,11086.0
-123,1999-06-13,european,ITC,Nord-Ovest,2,lega,967604.0
-124,1999-06-13,european,ITC,Nord-Ovest,2,lrvu,9.0
-125,1999-06-13,european,ITC,Nord-Ovest,2,mst,109868.0
-126,1999-06-13,european,ITC,Nord-Ovest,2,pp,100178.0
-127,1999-06-13,european,ITC,Nord-Ovest,2,ppi,230873.0
-128,1999-06-13,european,ITC,Nord-Ovest,2,pri,32738.0
-129,1999-06-13,european,ITC,Nord-Ovest,2,pu,10596.0
-130,1999-06-13,european,ITC,Nord-Ovest,2,rc,392155.0
-131,1999-06-13,european,ITC,Nord-Ovest,2,rid,61183.0
-132,1999-06-13,european,ITC,Nord-Ovest,2,sdi,115682.0
-133,1999-06-13,european,ITC,Nord-Ovest,2,svp,10.0
-134,1999-06-13,european,ITC,Nord-Ovest,2,udeur,36895.0
-135,1999-06-13,european,ITC,Nord-Ovest,2,uv,69150.0
-136,1999-06-13,european,ITC,Nord-Ovest,2,verdi2,166855.0
-137,1999-06-13,european,ITF,Sud,0,eligible_voters,11323258.0
-138,1999-06-13,european,ITF,Sud,1,issued_ballots,7527491.0
-139,1999-06-13,european,ITF,Sud,2,an_segni,738337.0
-140,1999-06-13,european,ITF,Sud,2,bonino,304002.0
-141,1999-06-13,european,ITF,Sud,2,ccd,272869.0
-142,1999-06-13,european,ITF,Sud,2,cdu,162918.0
-143,1999-06-13,european,ITF,Sud,2,ci,115069.0
-144,1999-06-13,european,ITF,Sud,2,cobas,3.0
-145,1999-06-13,european,ITF,Sud,2,ds,948332.0
-146,1999-06-13,european,ITF,Sud,2,fi,1642941.0
-147,1999-06-13,european,ITF,Sud,2,idem,597853.0
-148,1999-06-13,european,ITF,Sud,2,lam,63822.0
-149,1999-06-13,european,ITF,Sud,2,ldr,6770.0
-150,1999-06-13,european,ITF,Sud,2,lega,11916.0
-151,1999-06-13,european,ITF,Sud,2,mst,132094.0
-152,1999-06-13,european,ITF,Sud,2,pp,26622.0
-153,1999-06-13,european,ITF,Sud,2,ppi,439977.0
-154,1999-06-13,european,ITF,Sud,2,pri,42309.0
-155,1999-06-13,european,ITF,Sud,2,pu,2.0
-156,1999-06-13,european,ITF,Sud,2,rc,251705.0
-157,1999-06-13,european,ITF,Sud,2,rid,128519.0
-158,1999-06-13,european,ITF,Sud,2,sdi,265178.0
-159,1999-06-13,european,ITF,Sud,2,udeur,214248.0
-160,1999-06-13,european,ITF,Sud,2,verdi2,113511.0
-161,1999-06-13,european,ITG,Isole,0,eligible_voters,5515034.0
-162,1999-06-13,european,ITG,Isole,1,issued_ballots,3393676.0
-163,1999-06-13,european,ITG,Isole,2,an_segni,384057.0
-164,1999-06-13,european,ITG,Isole,2,bonino,159035.0
-165,1999-06-13,european,ITG,Isole,2,ccd,161310.0
-166,1999-06-13,european,ITG,Isole,2,cdu,48798.0
-167,1999-06-13,european,ITG,Isole,2,ci,45224.0
-168,1999-06-13,european,ITG,Isole,2,ds,408753.0
-169,1999-06-13,european,ITG,Isole,2,fi,871428.0
-170,1999-06-13,european,ITG,Isole,2,idem,248504.0
-171,1999-06-13,european,ITG,Isole,2,lam,5429.0
-172,1999-06-13,european,ITG,Isole,2,ldr,22954.0
-173,1999-06-13,european,ITG,Isole,2,lega,3248.0
-174,1999-06-13,european,ITG,Isole,2,mst,49145.0
-175,1999-06-13,european,ITG,Isole,2,pp,13042.0
-176,1999-06-13,european,ITG,Isole,2,ppi,215306.0
-177,1999-06-13,european,ITG,Isole,2,pri,16006.0
-178,1999-06-13,european,ITG,Isole,2,ps,41031.0
-179,1999-06-13,european,ITG,Isole,2,pu,0.0
-180,1999-06-13,european,ITG,Isole,2,rc,94028.0
-181,1999-06-13,european,ITG,Isole,2,rid,72996.0
-182,1999-06-13,european,ITG,Isole,2,sdi,59207.0
-183,1999-06-13,european,ITG,Isole,2,udeur,177872.0
-184,1999-06-13,european,ITG,Isole,2,uv,0.0
-185,1999-06-13,european,ITG,Isole,2,verdi2,30566.0
-186,1999-06-13,european,ITH,Nord-Est,0,eligible_voters,8476117.0
-187,1999-06-13,european,ITH,Nord-Est,1,issued_ballots,6437142.0
-188,1999-06-13,european,ITH,Nord-Est,2,an_segni,512170.0
-189,1999-06-13,european,ITH,Nord-Est,2,bonino,616950.0
-190,1999-06-13,european,ITH,Nord-Est,2,ccd,91301.0
-191,1999-06-13,european,ITH,Nord-Est,2,cdu,147667.0
-192,1999-06-13,european,ITH,Nord-Est,2,ci,95990.0
-193,1999-06-13,european,ITH,Nord-Est,2,cobas,10.0
-194,1999-06-13,european,ITH,Nord-Est,2,ds,1297192.0
-195,1999-06-13,european,ITH,Nord-Est,2,fi,1410455.0
-196,1999-06-13,european,ITH,Nord-Est,2,idem,505331.0
-197,1999-06-13,european,ITH,Nord-Est,2,lam,6160.0
-198,1999-06-13,european,ITH,Nord-Est,2,ldr,11811.0
-199,1999-06-13,european,ITH,Nord-Est,2,lega,422013.0
-200,1999-06-13,european,ITH,Nord-Est,2,lrvu,110236.0
-201,1999-06-13,european,ITH,Nord-Est,2,mst,72885.0
-202,1999-06-13,european,ITH,Nord-Est,2,pp,56608.0
-203,1999-06-13,european,ITH,Nord-Est,2,ppi,188248.0
-204,1999-06-13,european,ITH,Nord-Est,2,pri,29314.0
-205,1999-06-13,european,ITH,Nord-Est,2,pu,13.0
-206,1999-06-13,european,ITH,Nord-Est,2,rc,234830.0
-207,1999-06-13,european,ITH,Nord-Est,2,rid,28193.0
-208,1999-06-13,european,ITH,Nord-Est,2,sdi,75492.0
-209,1999-06-13,european,ITH,Nord-Est,2,svp,154958.0
-210,1999-06-13,european,ITH,Nord-Est,2,udeur,15863.0
-211,1999-06-13,european,ITH,Nord-Est,2,uv,4.0
-212,1999-06-13,european,ITH,Nord-Est,2,verdi2,130343.0
-213,1999-06-13,european,ITI,Centro (IT),0,eligible_voters,9225258.0
-214,1999-06-13,european,ITI,Centro (IT),1,issued_ballots,6556550.0
-215,1999-06-13,european,ITI,Centro (IT),2,an_segni,943540.0
-216,1999-06-13,european,ITI,Centro (IT),2,bonino,460228.0
-217,1999-06-13,european,ITI,Centro (IT),2,ccd,158527.0
-218,1999-06-13,european,ITI,Centro (IT),2,cdu,95981.0
-219,1999-06-13,european,ITI,Centro (IT),2,ci,167584.0
-220,1999-06-13,european,ITI,Centro (IT),2,cobas,4338.0
-221,1999-06-13,european,ITI,Centro (IT),2,ds,1491091.0
-222,1999-06-13,european,ITI,Centro (IT),2,fi,1236769.0
-223,1999-06-13,european,ITI,Centro (IT),2,idem,376982.0
-224,1999-06-13,european,ITI,Centro (IT),2,lam,6598.0
-225,1999-06-13,european,ITI,Centro (IT),2,ldr,6204.0
-226,1999-06-13,european,ITI,Centro (IT),2,lega,21853.0
-227,1999-06-13,european,ITI,Centro (IT),2,mst,124872.0
-228,1999-06-13,european,ITI,Centro (IT),2,pp,32842.0
-229,1999-06-13,european,ITI,Centro (IT),2,ppi,231417.0
-230,1999-06-13,european,ITI,Centro (IT),2,pri,47517.0
-231,1999-06-13,european,ITI,Centro (IT),2,pu,5272.0
-232,1999-06-13,european,ITI,Centro (IT),2,rc,361555.0
-233,1999-06-13,european,ITI,Centro (IT),2,rid,51706.0
-234,1999-06-13,european,ITI,Centro (IT),2,sdi,133052.0
-235,1999-06-13,european,ITI,Centro (IT),2,udeur,36362.0
-236,1999-06-13,european,ITI,Centro (IT),2,verdi2,99714.0
-237,2001-05-13,parliament,ITC,Nord-Ovest,0,eligible_voters,12271134.0
-238,2001-05-13,parliament,ITC,Nord-Ovest,1,issued_ballots,10472775.0
-239,2001-05-13,parliament,ITC,Nord-Ovest,2,an,924785.0
-240,2001-05-13,parliament,ITC,Nord-Ovest,2,as,6681.0
-241,2001-05-13,parliament,ITC,Nord-Ovest,2,ccd_cdu,222944.0
-242,2001-05-13,parliament,ITC,Nord-Ovest,2,ci,175736.0
-243,2001-05-13,parliament,ITC,Nord-Ovest,2,de,137593.0
-244,2001-05-13,parliament,ITC,Nord-Ovest,2,ds,1443388.0
-245,2001-05-13,parliament,ITC,Nord-Ovest,2,fi,3319203.0
-246,2001-05-13,parliament,ITC,Nord-Ovest,2,ft,27249.0
-247,2001-05-13,parliament,ITC,Nord-Ovest,2,girasole,182534.0
-248,2001-05-13,parliament,ITC,Nord-Ovest,2,idv,405010.0
-249,2001-05-13,parliament,ITC,Nord-Ovest,2,lam,5.0
-250,2001-05-13,parliament,ITC,Nord-Ovest,2,lega,976969.0
-251,2001-05-13,parliament,ITC,Nord-Ovest,2,libdem,6083.0
-252,2001-05-13,parliament,ITC,Nord-Ovest,2,margherita,1533799.0
-253,2001-05-13,parliament,ITC,Nord-Ovest,2,npsi,46104.0
-254,2001-05-13,parliament,ITC,Nord-Ovest,2,pb,306514.0
-255,2001-05-13,parliament,ITC,Nord-Ovest,2,pn,3140.0
-256,2001-05-13,parliament,ITC,Nord-Ovest,2,pp,69472.0
-257,2001-05-13,parliament,ITC,Nord-Ovest,2,rc,548050.0
-258,2001-05-13,parliament,ITC,Nord-Ovest,2,re,12.0
-259,2001-05-13,parliament,ITC,Nord-Ovest,2,svp,88.0
-260,2001-05-13,parliament,ITC,Nord-Ovest,2,verdi,18225.0
-261,2001-05-13,parliament,ITF,Sud,0,eligible_voters,11412884.0
-262,2001-05-13,parliament,ITF,Sud,1,issued_ballots,8686694.0
-263,2001-05-13,parliament,ITF,Sud,2,an,1104745.0
-264,2001-05-13,parliament,ITF,Sud,2,as,6989.0
-265,2001-05-13,parliament,ITF,Sud,2,ccd_cdu,308577.0
-266,2001-05-13,parliament,ITF,Sud,2,ci,146961.0
-267,2001-05-13,parliament,ITF,Sud,2,de,289128.0
-268,2001-05-13,parliament,ITF,Sud,2,ds,1169096.0
-269,2001-05-13,parliament,ITF,Sud,2,fi,2409620.0
-270,2001-05-13,parliament,ITF,Sud,2,fn,3522.0
-271,2001-05-13,parliament,ITF,Sud,2,fnaz,11623.0
-272,2001-05-13,parliament,ITF,Sud,2,ft,84245.0
-273,2001-05-13,parliament,ITF,Sud,2,girasole,245368.0
-274,2001-05-13,parliament,ITF,Sud,2,idv,381552.0
-275,2001-05-13,parliament,ITF,Sud,2,lam,16352.0
-276,2001-05-13,parliament,ITF,Sud,2,lef,6534.0
-277,2001-05-13,parliament,ITF,Sud,2,lega,76.0
-278,2001-05-13,parliament,ITF,Sud,2,libdem,0.0
-279,2001-05-13,parliament,ITF,Sud,2,margherita,1057059.0
-280,2001-05-13,parliament,ITF,Sud,2,mdl,6594.0
-281,2001-05-13,parliament,ITF,Sud,2,npsi,121495.0
-282,2001-05-13,parliament,ITF,Sud,2,ns,295.0
-283,2001-05-13,parliament,ITF,Sud,2,pb,125308.0
-284,2001-05-13,parliament,ITF,Sud,2,pn,11979.0
-285,2001-05-13,parliament,ITF,Sud,2,pp,13.0
-286,2001-05-13,parliament,ITF,Sud,2,rc,380433.0
-287,2001-05-13,parliament,ITF,Sud,2,sa,6552.0
-288,2001-05-13,parliament,ITG,Isole,0,eligible_voters,5598006.0
-289,2001-05-13,parliament,ITG,Isole,1,issued_ballots,4052355.0
-290,2001-05-13,parliament,ITG,Isole,2,amadu,11398.0
-291,2001-05-13,parliament,ITG,Isole,2,an,420589.0
-292,2001-05-13,parliament,ITG,Isole,2,as,3268.0
-293,2001-05-13,parliament,ITG,Isole,2,ccd_cdu,252665.0
-294,2001-05-13,parliament,ITG,Isole,2,ci,58271.0
-295,2001-05-13,parliament,ITG,Isole,2,de,215660.0
-296,2001-05-13,parliament,ITG,Isole,2,ds,440169.0
-297,2001-05-13,parliament,ITG,Isole,2,fi,1306703.0
-298,2001-05-13,parliament,ITG,Isole,2,ft,14.0
-299,2001-05-13,parliament,ITG,Isole,2,girasole,66529.0
-300,2001-05-13,parliament,ITG,Isole,2,idv,140216.0
-301,2001-05-13,parliament,ITG,Isole,2,lega,22.0
-302,2001-05-13,parliament,ITG,Isole,2,margherita,513017.0
-303,2001-05-13,parliament,ITG,Isole,2,npsi,52593.0
-304,2001-05-13,parliament,ITG,Isole,2,ns,7592.0
-305,2001-05-13,parliament,ITG,Isole,2,pb,67194.0
-306,2001-05-13,parliament,ITG,Isole,2,pn,7546.0
-307,2001-05-13,parliament,ITG,Isole,2,psdaz_sn,33159.0
-308,2001-05-13,parliament,ITG,Isole,2,rc,137148.0
-309,2001-05-13,parliament,ITH,Nord-Est,0,eligible_voters,8400330.0
-310,2001-05-13,parliament,ITH,Nord-Est,1,issued_ballots,7166865.0
-311,2001-05-13,parliament,ITH,Nord-Est,2,an,678566.0
-312,2001-05-13,parliament,ITH,Nord-Est,2,as,5363.0
-313,2001-05-13,parliament,ITH,Nord-Est,2,ccd_cdu,194420.0
-314,2001-05-13,parliament,ITH,Nord-Est,2,ci,92958.0
-315,2001-05-13,parliament,ITH,Nord-Est,2,de,111707.0
-316,2001-05-13,parliament,ITH,Nord-Est,2,ds,1217096.0
-317,2001-05-13,parliament,ITH,Nord-Est,2,fi,1948054.0
-318,2001-05-13,parliament,ITH,Nord-Est,2,fn,9379.0
-319,2001-05-13,parliament,ITH,Nord-Est,2,ft,11990.0
-320,2001-05-13,parliament,ITH,Nord-Est,2,girasole,160609.0
-321,2001-05-13,parliament,ITH,Nord-Est,2,idv,294855.0
-322,2001-05-13,parliament,ITH,Nord-Est,2,lega,487810.0
-323,2001-05-13,parliament,ITH,Nord-Est,2,lfv,73517.0
-324,2001-05-13,parliament,ITH,Nord-Est,2,libdem,1.0
-325,2001-05-13,parliament,ITH,Nord-Est,2,margherita,1110068.0
-326,2001-05-13,parliament,ITH,Nord-Est,2,npsi,53926.0
-327,2001-05-13,parliament,ITH,Nord-Est,2,pb,177464.0
-328,2001-05-13,parliament,ITH,Nord-Est,2,pn,4300.0
-329,2001-05-13,parliament,ITH,Nord-Est,2,pp,0.0
-330,2001-05-13,parliament,ITH,Nord-Est,2,rc,316437.0
-331,2001-05-13,parliament,ITH,Nord-Est,2,re,85.0
-332,2001-05-13,parliament,ITH,Nord-Est,2,svp,204055.0
-333,2001-05-13,parliament,ITH,Nord-Est,2,tpa,2978.0
-334,2001-05-13,parliament,ITH,Nord-Est,2,verdi,17.0
-335,2001-05-13,parliament,ITI,Centro (IT),0,eligible_voters,8950652.0
-336,2001-05-13,parliament,ITI,Centro (IT),1,issued_ballots,7493294.0
-337,2001-05-13,parliament,ITI,Centro (IT),2,an,1239843.0
-338,2001-05-13,parliament,ITI,Centro (IT),2,as,3914.0
-339,2001-05-13,parliament,ITI,Centro (IT),2,ccd_cdu,203347.0
-340,2001-05-13,parliament,ITI,Centro (IT),2,ci,134033.0
-341,2001-05-13,parliament,ITI,Centro (IT),2,com,4943.0
-342,2001-05-13,parliament,ITI,Centro (IT),2,de,122854.0
-343,2001-05-13,parliament,ITI,Centro (IT),2,ds,1670548.0
-344,2001-05-13,parliament,ITI,Centro (IT),2,fi,1791514.0
-345,2001-05-13,parliament,ITI,Centro (IT),2,fnaz,11709.0
-346,2001-05-13,parliament,ITI,Centro (IT),2,ft,15981.0
-347,2001-05-13,parliament,ITI,Centro (IT),2,girasole,136649.0
-348,2001-05-13,parliament,ITI,Centro (IT),2,idv,204135.0
-349,2001-05-13,parliament,ITI,Centro (IT),2,lega,16163.0
-350,2001-05-13,parliament,ITI,Centro (IT),2,libdem,0.0
-351,2001-05-13,parliament,ITI,Centro (IT),2,margherita,1093870.0
-352,2001-05-13,parliament,ITI,Centro (IT),2,npsi,71902.0
-353,2001-05-13,parliament,ITI,Centro (IT),2,pb,144417.0
-354,2001-05-13,parliament,ITI,Centro (IT),2,pn,5528.0
-355,2001-05-13,parliament,ITI,Centro (IT),2,pp,2.0
-356,2001-05-13,parliament,ITI,Centro (IT),2,rc,439210.0
-357,2001-05-13,parliament,ITI,Centro (IT),2,re,7929.0
-358,2004-06-12,european,ITC,Nord-Ovest,0,eligible_voters,13220769.0
-359,2004-06-12,european,ITC,Nord-Ovest,1,issued_ballots,9987552.0
-360,2004-06-12,european,ITC,Nord-Ovest,2,ala,82482.0
-361,2004-06-12,european,ITC,Nord-Ovest,2,an,726075.0
-362,2004-06-12,european,ITC,Nord-Ovest,2,ap_udeur,28748.0
-363,2004-06-12,european,ITC,Nord-Ovest,2,as,94372.0
-364,2004-06-12,european,ITC,Nord-Ovest,2,bonino,263116.0
-365,2004-06-12,european,ITC,Nord-Ovest,2,ci,204361.0
-366,2004-06-12,european,ITC,Nord-Ovest,2,fi,2283718.0
-367,2004-06-12,european,ITC,Nord-Ovest,2,ft,44442.0
-368,2004-06-12,european,ITC,Nord-Ovest,2,idv_occhetto,177775.0
-369,2004-06-12,european,ITC,Nord-Ovest,2,lc,72436.0
-370,2004-06-12,european,ITC,Nord-Ovest,2,lega,1035127.0
-371,2004-06-12,european,ITC,Nord-Ovest,2,mis,13147.0
-372,2004-06-12,european,ITC,Nord-Ovest,2,ne,73606.0
-373,2004-06-12,european,ITC,Nord-Ovest,2,pn,6281.0
-374,2004-06-12,european,ITC,Nord-Ovest,2,pp,163689.0
-375,2004-06-12,european,ITC,Nord-Ovest,2,pri,43725.0
-376,2004-06-12,european,ITC,Nord-Ovest,2,pss,26882.0
-377,2004-06-12,european,ITC,Nord-Ovest,2,rc,553107.0
-378,2004-06-12,european,ITC,Nord-Ovest,2,su,133192.0
-379,2004-06-12,european,ITC,Nord-Ovest,2,svp,1.0
-380,2004-06-12,european,ITC,Nord-Ovest,2,udc,372246.0
-381,2004-06-12,european,ITC,Nord-Ovest,2,ulivo,2628106.0
-382,2004-06-12,european,ITC,Nord-Ovest,2,uv,50653.0
-383,2004-06-12,european,ITC,Nord-Ovest,2,verdi,46994.0
-384,2004-06-12,european,ITC,Nord-Ovest,2,verdi2,212326.0
-385,2004-06-12,european,ITF,Sud,0,eligible_voters,11671714.0
-386,2004-06-12,european,ITF,Sud,1,issued_ballots,8133219.0
-387,2004-06-12,european,ITF,Sud,2,ala,9407.0
-388,2004-06-12,european,ITF,Sud,2,an,1017206.0
-389,2004-06-12,european,ITF,Sud,2,ap_udeur,261659.0
-390,2004-06-12,european,ITF,Sud,2,as,91473.0
-391,2004-06-12,european,ITF,Sud,2,bonino,101575.0
-392,2004-06-12,european,ITF,Sud,2,ci,143226.0
-393,2004-06-12,european,ITF,Sud,2,fi,1329244.0
-394,2004-06-12,european,ITF,Sud,2,ft,80414.0
-395,2004-06-12,european,ITF,Sud,2,idv_occhetto,193161.0
-396,2004-06-12,european,ITF,Sud,2,lega,21165.0
-397,2004-06-12,european,ITF,Sud,2,mis,24733.0
-398,2004-06-12,european,ITF,Sud,2,pn,29675.0
-399,2004-06-12,european,ITF,Sud,2,pp,61451.0
-400,2004-06-12,european,ITF,Sud,2,pri,82550.0
-401,2004-06-12,european,ITF,Sud,2,pss,38545.0
-402,2004-06-12,european,ITF,Sud,2,rc,430714.0
-403,2004-06-12,european,ITF,Sud,2,su,229369.0
-404,2004-06-12,european,ITF,Sud,2,udc,546430.0
-405,2004-06-12,european,ITF,Sud,2,ulivo,2077639.0
-406,2004-06-12,european,ITF,Sud,2,verdi,36855.0
-407,2004-06-12,european,ITF,Sud,2,verdi2,194743.0
-408,2004-06-12,european,ITG,Isole,0,eligible_voters,5470679.0
-409,2004-06-12,european,ITG,Isole,1,issued_ballots,3499850.0
-410,2004-06-12,european,ITG,Isole,2,ala,17103.0
-411,2004-06-12,european,ITG,Isole,2,an,447856.0
-412,2004-06-12,european,ITG,Isole,2,ap_udeur,68536.0
-413,2004-06-12,european,ITG,Isole,2,as,38220.0
-414,2004-06-12,european,ITG,Isole,2,bonino,57538.0
-415,2004-06-12,european,ITG,Isole,2,ci,83095.0
-416,2004-06-12,european,ITG,Isole,2,fi,691852.0
-417,2004-06-12,european,ITG,Isole,2,ft,18818.0
-418,2004-06-12,european,ITG,Isole,2,idv_occhetto,69249.0
-419,2004-06-12,european,ITG,Isole,2,lc,31856.0
-420,2004-06-12,european,ITG,Isole,2,lega,6704.0
-421,2004-06-12,european,ITG,Isole,2,pn,25072.0
-422,2004-06-12,european,ITG,Isole,2,pp,24820.0
-423,2004-06-12,european,ITG,Isole,2,pri,26626.0
-424,2004-06-12,european,ITG,Isole,2,pss,81559.0
-425,2004-06-12,european,ITG,Isole,2,rc,162272.0
-426,2004-06-12,european,ITG,Isole,2,su,66324.0
-427,2004-06-12,european,ITG,Isole,2,udc,382202.0
-428,2004-06-12,european,ITG,Isole,2,ulivo,873187.0
-429,2004-06-12,european,ITG,Isole,2,verdi,10083.0
-430,2004-06-12,european,ITG,Isole,2,verdi2,57343.0
-431,2004-06-12,european,ITH,Nord-Est,0,eligible_voters,7913638.0
-432,2004-06-12,european,ITH,Nord-Est,1,issued_ballots,6011701.0
-433,2004-06-12,european,ITH,Nord-Est,2,ala,44478.0
-434,2004-06-12,european,ITH,Nord-Est,2,an,509575.0
-435,2004-06-12,european,ITH,Nord-Est,2,ap_udeur,16905.0
-436,2004-06-12,european,ITH,Nord-Est,2,as,64550.0
-437,2004-06-12,european,ITH,Nord-Est,2,bonino,154105.0
-438,2004-06-12,european,ITH,Nord-Est,2,ci,122452.0
-439,2004-06-12,european,ITH,Nord-Est,2,fi,1305824.0
-440,2004-06-12,european,ITH,Nord-Est,2,ft,26844.0
-441,2004-06-12,european,ITH,Nord-Est,2,idv_occhetto,115828.0
-442,2004-06-12,european,ITH,Nord-Est,2,lc,75.0
-443,2004-06-12,european,ITH,Nord-Est,2,lega,546139.0
-444,2004-06-12,european,ITH,Nord-Est,2,mis,7492.0
-445,2004-06-12,european,ITH,Nord-Est,2,ne,11.0
-446,2004-06-12,european,ITH,Nord-Est,2,pn,5137.0
-447,2004-06-12,european,ITH,Nord-Est,2,pp,70128.0
-448,2004-06-12,european,ITH,Nord-Est,2,pri,38292.0
-449,2004-06-12,european,ITH,Nord-Est,2,pss,13806.0
-450,2004-06-12,european,ITH,Nord-Est,2,rc,287911.0
-451,2004-06-12,european,ITH,Nord-Est,2,su,82999.0
-452,2004-06-12,european,ITH,Nord-Est,2,svp,139277.0
-453,2004-06-12,european,ITH,Nord-Est,2,udc,236788.0
-454,2004-06-12,european,ITH,Nord-Est,2,ulivo,1929354.0
-455,2004-06-12,european,ITH,Nord-Est,2,uv,0.0
-456,2004-06-12,european,ITH,Nord-Est,2,verdi,32791.0
-457,2004-06-12,european,ITH,Nord-Est,2,verdi2,182816.0
-458,2004-06-12,european,ITI,Centro (IT),0,eligible_voters,8739571.0
-459,2004-06-12,european,ITI,Centro (IT),1,issued_ballots,6521543.0
-460,2004-06-12,european,ITI,Centro (IT),2,ala,6945.0
-461,2004-06-12,european,ITI,Centro (IT),2,an,943353.0
-462,2004-06-12,european,ITI,Centro (IT),2,ap_udeur,33560.0
-463,2004-06-12,european,ITI,Centro (IT),2,as,101298.0
-464,2004-06-12,european,ITI,Centro (IT),2,bonino,135185.0
-465,2004-06-12,european,ITI,Centro (IT),2,ci,201196.0
-466,2004-06-12,european,ITI,Centro (IT),2,fi,1115784.0
-467,2004-06-12,european,ITI,Centro (IT),2,ft,57916.0
-468,2004-06-12,european,ITI,Centro (IT),2,idv_occhetto,119941.0
-469,2004-06-12,european,ITI,Centro (IT),2,lc,56894.0
-470,2004-06-12,european,ITI,Centro (IT),2,lega,34658.0
-471,2004-06-12,european,ITI,Centro (IT),2,pn,8193.0
-472,2004-06-12,european,ITI,Centro (IT),2,pp,49701.0
-473,2004-06-12,european,ITI,Centro (IT),2,pri,25991.0
-474,2004-06-12,european,ITI,Centro (IT),2,pss,16175.0
-475,2004-06-12,european,ITI,Centro (IT),2,rc,487051.0
-476,2004-06-12,european,ITI,Centro (IT),2,su,120973.0
-477,2004-06-12,european,ITI,Centro (IT),2,udc,345371.0
-478,2004-06-12,european,ITI,Centro (IT),2,ulivo,2146586.0
-479,2004-06-12,european,ITI,Centro (IT),2,verdi,27544.0
-480,2004-06-12,european,ITI,Centro (IT),2,verdi2,128641.0
-481,2006-04-09,parliament,ITC,Nord-Ovest,0,eligible_voters,12269353.0
-482,2006-04-09,parliament,ITC,Nord-Ovest,1,issued_ballots,10592430.0
-483,2006-04-09,parliament,ITC,Nord-Ovest,2,ala,44606.0
-484,2006-04-09,parliament,ITC,Nord-Ovest,2,amb,4167.0
-485,2006-04-09,parliament,ITC,Nord-Ovest,2,an,1161428.0
-486,2006-04-09,parliament,ITC,Nord-Ovest,2,asm,67697.0
-487,2006-04-09,parliament,ITC,Nord-Ovest,2,ci,235331.0
-488,2006-04-09,parliament,ITC,Nord-Ovest,2,dcnpsi,56637.0
-489,2006-04-09,parliament,ITC,Nord-Ovest,2,df,0.0
-490,2006-04-09,parliament,ITC,Nord-Ovest,2,fi,2800946.0
-491,2006-04-09,parliament,ITC,Nord-Ovest,2,ft,58714.0
-492,2006-04-09,parliament,ITC,Nord-Ovest,2,idv,233025.0
-493,2006-04-09,parliament,ITC,Nord-Ovest,2,is,4166.0
-494,2006-04-09,parliament,ITC,Nord-Ovest,2,lega,1027298.0
-495,2006-04-09,parliament,ITC,Nord-Ovest,2,ne,28487.0
-496,2006-04-09,parliament,ITC,Nord-Ovest,2,pp,171336.0
-497,2006-04-09,parliament,ITC,Nord-Ovest,2,rc,621385.0
-498,2006-04-09,parliament,ITC,Nord-Ovest,2,rnp,265008.0
-499,2006-04-09,parliament,ITC,Nord-Ovest,2,sos,2351.0
-500,2006-04-09,parliament,ITC,Nord-Ovest,2,svp,4.0
-501,2006-04-09,parliament,ITC,Nord-Ovest,2,udc,649903.0
-502,2006-04-09,parliament,ITC,Nord-Ovest,2,udeur,44976.0
-503,2006-04-09,parliament,ITC,Nord-Ovest,2,ulivo,3109006.0
-504,2006-04-09,parliament,ITC,Nord-Ovest,2,verdi,231466.0
-505,2006-04-09,parliament,ITF,Sud,0,eligible_voters,11161242.0
-506,2006-04-09,parliament,ITF,Sud,1,issued_ballots,8815025.0
-507,2006-04-09,parliament,ITF,Sud,2,amb,4550.0
-508,2006-04-09,parliament,ITF,Sud,2,an,1058122.0
-509,2006-04-09,parliament,ITF,Sud,2,asm,58458.0
-510,2006-04-09,parliament,ITF,Sud,2,ci,195302.0
-511,2006-04-09,parliament,ITF,Sud,2,dc,2447.0
-512,2006-04-09,parliament,ITF,Sud,2,dcnpsi,100009.0
-513,2006-04-09,parliament,ITF,Sud,2,dn,1071.0
-514,2006-04-09,parliament,ITF,Sud,2,fi,2141976.0
-515,2006-04-09,parliament,ITF,Sud,2,ft,53845.0
-516,2006-04-09,parliament,ITF,Sud,2,idv,242024.0
-517,2006-04-09,parliament,ITF,Sud,2,is,82407.0
-518,2006-04-09,parliament,ITF,Sud,2,lc,62413.0
-519,2006-04-09,parliament,ITF,Sud,2,lega,39204.0
-520,2006-04-09,parliament,ITF,Sud,2,ls,847.0
-521,2006-04-09,parliament,ITF,Sud,2,ne,11746.0
-522,2006-04-09,parliament,ITF,Sud,2,pis,4960.0
-523,2006-04-09,parliament,ITF,Sud,2,pli,6324.0
-524,2006-04-09,parliament,ITF,Sud,2,pp,43427.0
-525,2006-04-09,parliament,ITF,Sud,2,pu,9995.0
-526,2006-04-09,parliament,ITF,Sud,2,rc,501707.0
-527,2006-04-09,parliament,ITF,Sud,2,rnp,260612.0
-528,2006-04-09,parliament,ITF,Sud,2,sol,3168.0
-529,2006-04-09,parliament,ITF,Sud,2,sos,2085.0
-530,2006-04-09,parliament,ITF,Sud,2,tp,10958.0
-531,2006-04-09,parliament,ITF,Sud,2,udc,552987.0
-532,2006-04-09,parliament,ITF,Sud,2,udeur,306069.0
-533,2006-04-09,parliament,ITF,Sud,2,ulivo,2453157.0
-534,2006-04-09,parliament,ITF,Sud,2,verdi,191958.0
-535,2006-04-09,parliament,ITG,Isole,0,eligible_voters,5418113.0
-536,2006-04-09,parliament,ITG,Isole,1,issued_ballots,4103224.0
-537,2006-04-09,parliament,ITG,Isole,2,amb,3705.0
-538,2006-04-09,parliament,ITG,Isole,2,an,489693.0
-539,2006-04-09,parliament,ITG,Isole,2,asm,29326.0
-540,2006-04-09,parliament,ITG,Isole,2,ci,105643.0
-541,2006-04-09,parliament,ITG,Isole,2,dcnpsi,45713.0
-542,2006-04-09,parliament,ITG,Isole,2,fi,1151926.0
-543,2006-04-09,parliament,ITG,Isole,2,ft,21424.0
-544,2006-04-09,parliament,ITG,Isole,2,idv,130934.0
-545,2006-04-09,parliament,ITG,Isole,2,irs,14800.0
-546,2006-04-09,parliament,ITG,Isole,2,is,11472.0
-547,2006-04-09,parliament,ITG,Isole,2,lc,3778.0
-548,2006-04-09,parliament,ITG,Isole,2,lega,133523.0
-549,2006-04-09,parliament,ITG,Isole,2,mds,5176.0
-550,2006-04-09,parliament,ITG,Isole,2,ne,8919.0
-551,2006-04-09,parliament,ITG,Isole,2,pli,5948.0
-552,2006-04-09,parliament,ITG,Isole,2,pp,21878.0
-553,2006-04-09,parliament,ITG,Isole,2,pu,7460.0
-554,2006-04-09,parliament,ITG,Isole,2,rc,212116.0
-555,2006-04-09,parliament,ITG,Isole,2,rnp,101430.0
-556,2006-04-09,parliament,ITG,Isole,2,sn,13872.0
-557,2006-04-09,parliament,ITG,Isole,2,tp,891.0
-558,2006-04-09,parliament,ITG,Isole,2,udc,396045.0
-559,2006-04-09,parliament,ITG,Isole,2,udeur,90906.0
-560,2006-04-09,parliament,ITG,Isole,2,ulivo,1193714.0
-561,2006-04-09,parliament,ITG,Isole,2,verdi,61581.0
-562,2006-04-09,parliament,ITH,Nord-Est,0,eligible_voters,8421177.0
-563,2006-04-09,parliament,ITH,Nord-Est,1,issued_ballots,7413746.0
-564,2006-04-09,parliament,ITH,Nord-Est,2,amb,2844.0
-565,2006-04-09,parliament,ITH,Nord-Est,2,an,808906.0
-566,2006-04-09,parliament,ITH,Nord-Est,2,asm,41987.0
-567,2006-04-09,parliament,ITH,Nord-Est,2,ci,135248.0
-568,2006-04-09,parliament,ITH,Nord-Est,2,dcnpsi,31063.0
-569,2006-04-09,parliament,ITH,Nord-Est,2,df,17167.0
-570,2006-04-09,parliament,ITH,Nord-Est,2,fi,1577918.0
-571,2006-04-09,parliament,ITH,Nord-Est,2,ft,36240.0
-572,2006-04-09,parliament,ITH,Nord-Est,2,idv,147748.0
-573,2006-04-09,parliament,ITH,Nord-Est,2,is,6060.0
-574,2006-04-09,parliament,ITH,Nord-Est,2,lega,545652.0
-575,2006-04-09,parliament,ITH,Nord-Est,2,lfv,21741.0
-576,2006-04-09,parliament,ITH,Nord-Est,2,mtv,4351.0
-577,2006-04-09,parliament,ITH,Nord-Est,2,ne,8335.0
-578,2006-04-09,parliament,ITH,Nord-Est,2,pn,90626.0
-579,2006-04-09,parliament,ITH,Nord-Est,2,pp,58757.0
-580,2006-04-09,parliament,ITH,Nord-Est,2,pu,9989.0
-581,2006-04-09,parliament,ITH,Nord-Est,2,rc,340607.0
-582,2006-04-09,parliament,ITH,Nord-Est,2,rnp,164578.0
-583,2006-04-09,parliament,ITH,Nord-Est,2,sol,2613.0
-584,2006-04-09,parliament,ITH,Nord-Est,2,sos,2461.0
-585,2006-04-09,parliament,ITH,Nord-Est,2,svp,182703.0
-586,2006-04-09,parliament,ITH,Nord-Est,2,udc,492707.0
-587,2006-04-09,parliament,ITH,Nord-Est,2,udeur,28595.0
-588,2006-04-09,parliament,ITH,Nord-Est,2,ulivo,2500314.0
-589,2006-04-09,parliament,ITH,Nord-Est,2,verdi,155299.0
-590,2006-04-09,parliament,ITI,Centro (IT),0,eligible_voters,8851371.0
-591,2006-04-09,parliament,ITI,Centro (IT),1,issued_ballots,7614235.0
-592,2006-04-09,parliament,ITI,Centro (IT),2,amb,1918.0
-593,2006-04-09,parliament,ITI,Centro (IT),2,an,1165076.0
-594,2006-04-09,parliament,ITI,Centro (IT),2,asm,56195.0
-595,2006-04-09,parliament,ITI,Centro (IT),2,ci,212089.0
-596,2006-04-09,parliament,ITI,Centro (IT),2,dcnpsi,51930.0
-597,2006-04-09,parliament,ITI,Centro (IT),2,fi,1413115.0
-598,2006-04-09,parliament,ITI,Centro (IT),2,ft,57681.0
-599,2006-04-09,parliament,ITI,Centro (IT),2,idv,125977.0
-600,2006-04-09,parliament,ITI,Centro (IT),2,is,9020.0
-601,2006-04-09,parliament,ITI,Centro (IT),2,lc,6645.0
-602,2006-04-09,parliament,ITI,Centro (IT),2,lega,49931.0
-603,2006-04-09,parliament,ITI,Centro (IT),2,ne,2269.0
-604,2006-04-09,parliament,ITI,Centro (IT),2,pp,41913.0
-605,2006-04-09,parliament,ITI,Centro (IT),2,rc,556731.0
-606,2006-04-09,parliament,ITI,Centro (IT),2,rnp,194924.0
-607,2006-04-09,parliament,ITI,Centro (IT),2,tp,3918.0
-608,2006-04-09,parliament,ITI,Centro (IT),2,udc,489745.0
-609,2006-04-09,parliament,ITI,Centro (IT),2,udeur,56512.0
-610,2006-04-09,parliament,ITI,Centro (IT),2,ulivo,2714897.0
-611,2006-04-09,parliament,ITI,Centro (IT),2,verdi,142864.0
-612,2008-04-13,parliament,ITC,Nord-Ovest,0,eligible_voters,12293375.0
-613,2008-04-13,parliament,ITC,Nord-Ovest,1,issued_ballots,10185866.0
-614,2008-04-13,parliament,ITC,Nord-Ovest,2,adv,42011.0
-615,2008-04-13,parliament,ITC,Nord-Ovest,2,df,0.0
-616,2008-04-13,parliament,ITC,Nord-Ovest,2,fn,13289.0
-617,2008-04-13,parliament,ITC,Nord-Ovest,2,idv,404329.0
-618,2008-04-13,parliament,ITC,Nord-Ovest,2,lalp,14014.0
-619,2008-04-13,parliament,ITC,Nord-Ovest,2,ldft,244724.0
-620,2008-04-13,parliament,ITC,Nord-Ovest,2,lega,1625298.0
-621,2008-04-13,parliament,ITC,Nord-Ovest,2,lgp,17818.0
-622,2008-04-13,parliament,ITC,Nord-Ovest,2,lsa,310966.0
-623,2008-04-13,parliament,ITC,Nord-Ovest,2,meda,2585.0
-624,2008-04-13,parliament,ITC,Nord-Ovest,2,pbc,35533.0
-625,2008-04-13,parliament,ITC,Nord-Ovest,2,pcl,61274.0
-626,2008-04-13,parliament,ITC,Nord-Ovest,2,pd,2995775.0
-627,2008-04-13,parliament,ITC,Nord-Ovest,2,pdl,3371838.0
-628,2008-04-13,parliament,ITC,Nord-Ovest,2,pli,22994.0
-629,2008-04-13,parliament,ITC,Nord-Ovest,2,ppa,945.0
-630,2008-04-13,parliament,ITC,Nord-Ovest,2,ps,64197.0
-631,2008-04-13,parliament,ITC,Nord-Ovest,2,sc,47000.0
-632,2008-04-13,parliament,ITC,Nord-Ovest,2,svp,6.0
-633,2008-04-13,parliament,ITC,Nord-Ovest,2,udc,441547.0
-634,2008-04-13,parliament,ITC,Nord-Ovest,2,udc2,23883.0
-635,2008-04-13,parliament,ITC,Nord-Ovest,2,ufst,0.0
-636,2008-04-13,parliament,ITF,Sud,0,eligible_voters,11268411.0
-637,2008-04-13,parliament,ITF,Sud,1,issued_ballots,8563798.0
-638,2008-04-13,parliament,ITF,Sud,2,adv,20553.0
-639,2008-04-13,parliament,ITF,Sud,2,fn,13285.0
-640,2008-04-13,parliament,ITF,Sud,2,idv,335414.0
-641,2008-04-13,parliament,ITF,Sud,2,ldft,165023.0
-642,2008-04-13,parliament,ITF,Sud,2,lgp,14545.0
-643,2008-04-13,parliament,ITF,Sud,2,ls,4336.0
-644,2008-04-13,parliament,ITF,Sud,2,lsa,238117.0
-645,2008-04-13,parliament,ITF,Sud,2,mapis,176450.0
-646,2008-04-13,parliament,ITF,Sud,2,meda,4266.0
-647,2008-04-13,parliament,ITF,Sud,2,pbc,20862.0
-648,2008-04-13,parliament,ITF,Sud,2,pcl,42548.0
-649,2008-04-13,parliament,ITF,Sud,2,pd,2503502.0
-650,2008-04-13,parliament,ITF,Sud,2,pdl,3706396.0
-651,2008-04-13,parliament,ITF,Sud,2,pli,14420.0
-652,2008-04-13,parliament,ITF,Sud,2,ps,138821.0
-653,2008-04-13,parliament,ITF,Sud,2,sc,34107.0
-654,2008-04-13,parliament,ITF,Sud,2,udc,577719.0
-655,2008-04-13,parliament,ITF,Sud,2,udc2,21269.0
-656,2008-04-13,parliament,ITG,Isole,0,eligible_voters,5456558.0
-657,2008-04-13,parliament,ITG,Isole,1,issued_ballots,4055604.0
-658,2008-04-13,parliament,ITG,Isole,2,adv,14734.0
-659,2008-04-13,parliament,ITG,Isole,2,fn,10557.0
-660,2008-04-13,parliament,ITG,Isole,2,idv,140650.0
-661,2008-04-13,parliament,ITG,Isole,2,ldft,77651.0
-662,2008-04-13,parliament,ITG,Isole,2,lega,34.0
-663,2008-04-13,parliament,ITG,Isole,2,lgp,4959.0
-664,2008-04-13,parliament,ITG,Isole,2,lsa,122146.0
-665,2008-04-13,parliament,ITG,Isole,2,mapis,225421.0
-666,2008-04-13,parliament,ITG,Isole,2,pbc,6423.0
-667,2008-04-13,parliament,ITG,Isole,2,pcl,17289.0
-668,2008-04-13,parliament,ITG,Isole,2,pd,1194572.0
-669,2008-04-13,parliament,ITG,Isole,2,pdl,1875873.0
-670,2008-04-13,parliament,ITG,Isole,2,pli,11562.0
-671,2008-04-13,parliament,ITG,Isole,2,ps,37777.0
-672,2008-04-13,parliament,ITG,Isole,2,psdaz,19405.0
-673,2008-04-13,parliament,ITG,Isole,2,sc,16209.0
-674,2008-04-13,parliament,ITG,Isole,2,sn,9197.0
-675,2008-04-13,parliament,ITG,Isole,2,udc,341122.0
-676,2008-04-13,parliament,ITG,Isole,2,udc2,9562.0
-677,2008-04-13,parliament,ITH,Nord-Est,0,eligible_voters,8824374.0
-678,2008-04-13,parliament,ITH,Nord-Est,1,issued_ballots,7482552.0
-679,2008-04-13,parliament,ITH,Nord-Est,2,adv,31503.0
-680,2008-04-13,parliament,ITH,Nord-Est,2,df,28308.0
-681,2008-04-13,parliament,ITH,Nord-Est,2,fn,25903.0
-682,2008-04-13,parliament,ITH,Nord-Est,2,idv,304280.0
-683,2008-04-13,parliament,ITH,Nord-Est,2,ldft,164632.0
-684,2008-04-13,parliament,ITH,Nord-Est,2,lega,1163108.0
-685,2008-04-13,parliament,ITH,Nord-Est,2,lgp,30913.0
-686,2008-04-13,parliament,ITH,Nord-Est,2,liv,2388.0
-687,2008-04-13,parliament,ITH,Nord-Est,2,lsa,195349.0
-688,2008-04-13,parliament,ITH,Nord-Est,2,lvr,31353.0
-689,2008-04-13,parliament,ITH,Nord-Est,2,meda,2522.0
-690,2008-04-13,parliament,ITH,Nord-Est,2,pbc,33735.0
-691,2008-04-13,parliament,ITH,Nord-Est,2,pcl,39971.0
-692,2008-04-13,parliament,ITH,Nord-Est,2,pd,2491108.0
-693,2008-04-13,parliament,ITH,Nord-Est,2,pdl,2039796.0
-694,2008-04-13,parliament,ITH,Nord-Est,2,pli,18662.0
-695,2008-04-13,parliament,ITH,Nord-Est,2,ps,44500.0
-696,2008-04-13,parliament,ITH,Nord-Est,2,sc,30502.0
-697,2008-04-13,parliament,ITH,Nord-Est,2,svp,147666.0
-698,2008-04-13,parliament,ITH,Nord-Est,2,udc,363645.0
-699,2008-04-13,parliament,ITH,Nord-Est,2,udc2,17950.0
-700,2008-04-13,parliament,ITH,Nord-Est,2,ufst,12836.0
-701,2008-04-13,parliament,ITI,Centro (IT),0,eligible_voters,9256314.0
-702,2008-04-13,parliament,ITI,Centro (IT),1,issued_ballots,7634582.0
-703,2008-04-13,parliament,ITI,Centro (IT),2,adv,27686.0
-704,2008-04-13,parliament,ITI,Centro (IT),2,fn,22773.0
-705,2008-04-13,parliament,ITI,Centro (IT),2,idv,166233.0
-706,2008-04-13,parliament,ITI,Centro (IT),2,ldft,239587.0
-707,2008-04-13,parliament,ITI,Centro (IT),2,lega,79279.0
-708,2008-04-13,parliament,ITI,Centro (IT),2,loto,1799.0
-709,2008-04-13,parliament,ITI,Centro (IT),2,lsa,271621.0
-710,2008-04-13,parliament,ITI,Centro (IT),2,mapis,10700.0
-711,2008-04-13,parliament,ITI,Centro (IT),2,meda,5978.0
-712,2008-04-13,parliament,ITI,Centro (IT),2,pac,2049.0
-713,2008-04-13,parliament,ITI,Centro (IT),2,pbc,23624.0
-714,2008-04-13,parliament,ITI,Centro (IT),2,pcl,49435.0
-715,2008-04-13,parliament,ITI,Centro (IT),2,pd,3043070.0
-716,2008-04-13,parliament,ITI,Centro (IT),2,pdl,2793257.0
-717,2008-04-13,parliament,ITI,Centro (IT),2,pli,24374.0
-718,2008-04-13,parliament,ITI,Centro (IT),2,ps,75750.0
-719,2008-04-13,parliament,ITI,Centro (IT),2,sc,41323.0
-720,2008-04-13,parliament,ITI,Centro (IT),2,udc,349871.0
-721,2008-04-13,parliament,ITI,Centro (IT),2,udc2,19427.0
-722,2009-06-07,european,ITC,Nord-Ovest,0,eligible_voters,12435114.0
-723,2009-06-07,european,ITC,Nord-Ovest,1,issued_ballots,8913547.0
-724,2009-06-07,european,ITC,Nord-Ovest,2,ald,36880.0
-725,2009-06-07,european,ITC,Nord-Ovest,2,bonino,246130.0
-726,2009-06-07,european,ITC,Nord-Ovest,2,fn,44595.0
-727,2009-06-07,european,ITC,Nord-Ovest,2,ft,54924.0
-728,2009-06-07,european,ITC,Nord-Ovest,2,idv,622226.0
-729,2009-06-07,european,ITC,Nord-Ovest,2,ldm,11957.0
-730,2009-06-07,european,ITC,Nord-Ovest,2,ldmpa,69811.0
-731,2009-06-07,european,ITC,Nord-Ovest,2,lega,1648922.0
-732,2009-06-07,european,ITC,Nord-Ovest,2,pcl,62568.0
-733,2009-06-07,european,ITC,Nord-Ovest,2,pd,1953403.0
-734,2009-06-07,european,ITC,Nord-Ovest,2,pdl,2835049.0
-735,2009-06-07,european,ITC,Nord-Ovest,2,rc,255673.0
-736,2009-06-07,european,ITC,Nord-Ovest,2,sel,178018.0
-737,2009-06-07,european,ITC,Nord-Ovest,2,svp,4.0
-738,2009-06-07,european,ITC,Nord-Ovest,2,udc,450371.0
-739,2009-06-07,european,ITC,Nord-Ovest,2,vda,53266.0
-740,2009-06-07,european,ITF,Sud,0,eligible_voters,11862845.0
-741,2009-06-07,european,ITF,Sud,1,issued_ballots,7585058.0
-742,2009-06-07,european,ITF,Sud,2,bonino,109770.0
-743,2009-06-07,european,ITF,Sud,2,fn,28359.0
-744,2009-06-07,european,ITF,Sud,2,ft,64077.0
-745,2009-06-07,european,ITF,Sud,2,idv,680043.0
-746,2009-06-07,european,ITF,Sud,2,ldm,32458.0
-747,2009-06-07,european,ITF,Sud,2,ldmpa,219342.0
-748,2009-06-07,european,ITF,Sud,2,lega,39078.0
-749,2009-06-07,european,ITF,Sud,2,pd,1557087.0
-750,2009-06-07,european,ITF,Sud,2,pdl,2829321.0
-751,2009-06-07,european,ITF,Sud,2,rc,274805.0
-752,2009-06-07,european,ITF,Sud,2,sel,351084.0
-753,2009-06-07,european,ITF,Sud,2,udc,574825.0
-754,2009-06-07,european,ITG,Isole,0,eligible_voters,5575009.0
-755,2009-06-07,european,ITG,Isole,1,issued_ballots,2624279.0
-756,2009-06-07,european,ITG,Isole,2,ald,1.0
-757,2009-06-07,european,ITG,Isole,2,bonino,47076.0
-758,2009-06-07,european,ITG,Isole,2,fn,0.0
-759,2009-06-07,european,ITG,Isole,2,ft,16094.0
-760,2009-06-07,european,ITG,Isole,2,idv,192943.0
-761,2009-06-07,european,ITG,Isole,2,ldm,5743.0
-762,2009-06-07,european,ITG,Isole,2,ldmpa,295209.0
-763,2009-06-07,european,ITG,Isole,2,lega,10944.0
-764,2009-06-07,european,ITG,Isole,2,pcl,0.0
-765,2009-06-07,european,ITG,Isole,2,pd,654203.0
-766,2009-06-07,european,ITG,Isole,2,pdl,932185.0
-767,2009-06-07,european,ITG,Isole,2,rc,76484.0
-768,2009-06-07,european,ITG,Isole,2,sel,61484.0
-769,2009-06-07,european,ITG,Isole,2,udc,259623.0
-770,2009-06-07,european,ITG,Isole,2,vda,0.0
-771,2009-06-07,european,ITH,Nord-Est,0,eligible_voters,9146851.0
-772,2009-06-07,european,ITH,Nord-Est,1,issued_ballots,6603752.0
-773,2009-06-07,european,ITH,Nord-Est,2,ald,3.0
-774,2009-06-07,european,ITH,Nord-Est,2,bonino,163764.0
-775,2009-06-07,european,ITH,Nord-Est,2,fn,31225.0
-776,2009-06-07,european,ITH,Nord-Est,2,ft,44074.0
-777,2009-06-07,european,ITH,Nord-Est,2,idv,455510.0
-778,2009-06-07,european,ITH,Nord-Est,2,ldm,7934.0
-779,2009-06-07,european,ITH,Nord-Est,2,ldmpa,42375.0
-780,2009-06-07,european,ITH,Nord-Est,2,lega,1205927.0
-781,2009-06-07,european,ITH,Nord-Est,2,pcl,47361.0
-782,2009-06-07,european,ITH,Nord-Est,2,pd,1776893.0
-783,2009-06-07,european,ITH,Nord-Est,2,pdl,1781908.0
-784,2009-06-07,european,ITH,Nord-Est,2,rc,148664.0
-785,2009-06-07,european,ITH,Nord-Est,2,sel,133991.0
-786,2009-06-07,european,ITH,Nord-Est,2,svp,142471.0
-787,2009-06-07,european,ITH,Nord-Est,2,udc,354289.0
-788,2009-06-07,european,ITH,Nord-Est,2,vda,0.0
-789,2009-06-07,european,ITI,Centro (IT),0,eligible_voters,9354805.0
-790,2009-06-07,european,ITI,Centro (IT),1,issued_ballots,6400648.0
-791,2009-06-07,european,ITI,Centro (IT),2,bonino,166357.0
-792,2009-06-07,european,ITI,Centro (IT),2,fn,39393.0
-793,2009-06-07,european,ITI,Centro (IT),2,ft,60166.0
-794,2009-06-07,european,ITI,Centro (IT),2,idv,464285.0
-795,2009-06-07,european,ITI,Centro (IT),2,ldm,11981.0
-796,2009-06-07,european,ITI,Centro (IT),2,ldmpa,40438.0
-797,2009-06-07,european,ITI,Centro (IT),2,lega,177683.0
-798,2009-06-07,european,ITI,Centro (IT),2,pcl,51353.0
-799,2009-06-07,european,ITI,Centro (IT),2,pd,1926882.0
-800,2009-06-07,european,ITI,Centro (IT),2,pdl,2271173.0
-801,2009-06-07,european,ITI,Centro (IT),2,rc,267225.0
-802,2009-06-07,european,ITI,Centro (IT),2,sel,216191.0
-803,2009-06-07,european,ITI,Centro (IT),2,udc,327609.0
-804,2013-02-24,parliament,ITC,Nord-Ovest,0,eligible_voters,12168788.0
-805,2013-02-24,parliament,ITC,Nord-Ovest,1,issued_ballots,9549766.0
-806,2013-02-24,parliament,ITC,Nord-Ovest,2,cd,21193.0
-807,2013-02-24,parliament,ITC,Nord-Ovest,2,cpi,2559.0
-808,2013-02-24,parliament,ITC,Nord-Ovest,2,df,1.0
-809,2013-02-24,parliament,ITC,Nord-Ovest,2,fdi,168794.0
-810,2013-02-24,parliament,ITC,Nord-Ovest,2,fel,27672.0
-811,2013-02-24,parliament,ITC,Nord-Ovest,2,fli,153359.0
-812,2013-02-24,parliament,ITC,Nord-Ovest,2,fn,21160.0
-813,2013-02-24,parliament,ITC,Nord-Ovest,2,ft,13808.0
-814,2013-02-24,parliament,ITC,Nord-Ovest,2,gs,715.0
-815,2013-02-24,parliament,ITC,Nord-Ovest,2,iai,10119.0
-816,2013-02-24,parliament,ITC,Nord-Ovest,2,ip,1654.0
-817,2013-02-24,parliament,ITC,Nord-Ovest,2,ld,32136.0
-818,2013-02-24,parliament,ITC,Nord-Ovest,2,lega,880716.0
-819,2013-02-24,parliament,ITC,Nord-Ovest,2,m5s,2132645.0
-820,2013-02-24,parliament,ITC,Nord-Ovest,2,mir,9745.0
-821,2013-02-24,parliament,ITC,Nord-Ovest,2,pcl,14747.0
-822,2013-02-24,parliament,ITC,Nord-Ovest,2,pd,2369947.0
-823,2013-02-24,parliament,ITC,Nord-Ovest,2,pdl,1859494.0
-824,2013-02-24,parliament,ITC,Nord-Ovest,2,pirati,4557.0
-825,2013-02-24,parliament,ITC,Nord-Ovest,2,pp,12340.0
-826,2013-02-24,parliament,ITC,Nord-Ovest,2,ppa,1526.0
-827,2013-02-24,parliament,ITC,Nord-Ovest,2,rcv,162743.0
-828,2013-02-24,parliament,ITC,Nord-Ovest,2,ri,1281.0
-829,2013-02-24,parliament,ITC,Nord-Ovest,2,scelta,921419.0
-830,2013-02-24,parliament,ITC,Nord-Ovest,2,sel,240659.0
-831,2013-02-24,parliament,ITC,Nord-Ovest,2,svp,1.0
-832,2013-02-24,parliament,ITC,Nord-Ovest,2,udc,105525.0
-833,2013-02-24,parliament,ITF,Sud,0,eligible_voters,11276909.0
-834,2013-02-24,parliament,ITF,Sud,1,issued_ballots,7769296.0
-835,2013-02-24,parliament,ITF,Sud,2,agl,30049.0
-836,2013-02-24,parliament,ITF,Sud,2,cd,80131.0
-837,2013-02-24,parliament,ITF,Sud,2,cpi,13608.0
-838,2013-02-24,parliament,ITF,Sud,2,fdi,179317.0
-839,2013-02-24,parliament,ITF,Sud,2,fel,60575.0
-840,2013-02-24,parliament,ITF,Sud,2,fli,29157.0
-841,2013-02-24,parliament,ITF,Sud,2,fn,16386.0
-842,2013-02-24,parliament,ITF,Sud,2,ft,14461.0
-843,2013-02-24,parliament,ITF,Sud,2,gs,94150.0
-844,2013-02-24,parliament,ITF,Sud,2,iai,11466.0
-845,2013-02-24,parliament,ITF,Sud,2,ip,18863.0
-846,2013-02-24,parliament,ITF,Sud,2,ld,48085.0
-847,2013-02-24,parliament,ITF,Sud,2,lega,14309.0
-848,2013-02-24,parliament,ITF,Sud,2,lie,3243.0
-849,2013-02-24,parliament,ITF,Sud,2,m5s,1812728.0
-850,2013-02-24,parliament,ITF,Sud,2,mir,32044.0
-851,2013-02-24,parliament,ITF,Sud,2,pac,3509.0
-852,2013-02-24,parliament,ITF,Sud,2,pcl,16225.0
-853,2013-02-24,parliament,ITF,Sud,2,pd,1471592.0
-854,2013-02-24,parliament,ITF,Sud,2,pdl,2010958.0
-855,2013-02-24,parliament,ITF,Sud,2,pli,12797.0
-856,2013-02-24,parliament,ITF,Sud,2,pp,23905.0
-857,2013-02-24,parliament,ITF,Sud,2,pu,2992.0
-858,2013-02-24,parliament,ITF,Sud,2,rcv,197882.0
-859,2013-02-24,parliament,ITF,Sud,2,ri,5989.0
-860,2013-02-24,parliament,ITF,Sud,2,rmi,3180.0
-861,2013-02-24,parliament,ITF,Sud,2,scelta,514747.0
-862,2013-02-24,parliament,ITF,Sud,2,sel,313012.0
-863,2013-02-24,parliament,ITF,Sud,2,udc,216792.0
-864,2013-02-24,parliament,ITF,Sud,2,vdp,12745.0
-865,2013-02-24,parliament,ITG,Isole,0,eligible_voters,5473707.0
-866,2013-02-24,parliament,ITG,Isole,1,issued_ballots,3587267.0
-867,2013-02-24,parliament,ITG,Isole,2,agl,14369.0
-868,2013-02-24,parliament,ITG,Isole,2,cd,25095.0
-869,2013-02-24,parliament,ITG,Isole,2,fdi,61036.0
-870,2013-02-24,parliament,ITG,Isole,2,fel,22613.0
-871,2013-02-24,parliament,ITG,Isole,2,fli,14594.0
-872,2013-02-24,parliament,ITG,Isole,2,fn,7242.0
-873,2013-02-24,parliament,ITG,Isole,2,ft,2888.0
-874,2013-02-24,parliament,ITG,Isole,2,gs,46788.0
-875,2013-02-24,parliament,ITG,Isole,2,ips,10372.0
-876,2013-02-24,parliament,ITG,Isole,2,ld,21860.0
-877,2013-02-24,parliament,ITG,Isole,2,lega,6505.0
-878,2013-02-24,parliament,ITG,Isole,2,m5s,1168338.0
-879,2013-02-24,parliament,ITG,Isole,2,meris,9739.0
-880,2013-02-24,parliament,ITG,Isole,2,mir,14761.0
-881,2013-02-24,parliament,ITG,Isole,2,mpi,1884.0
-882,2013-02-24,parliament,ITG,Isole,2,pcl,8524.0
-883,2013-02-24,parliament,ITG,Isole,2,pd,779715.0
-884,2013-02-24,parliament,ITG,Isole,2,pdl,921456.0
-885,2013-02-24,parliament,ITG,Isole,2,pli,11326.0
-886,2013-02-24,parliament,ITG,Isole,2,pp,5649.0
-887,2013-02-24,parliament,ITG,Isole,2,pri,1564.0
-888,2013-02-24,parliament,ITG,Isole,2,psdaz,24959.0
-889,2013-02-24,parliament,ITG,Isole,2,rcv,109041.0
-890,2013-02-24,parliament,ITG,Isole,2,scelta,202862.0
-891,2013-02-24,parliament,ITG,Isole,2,sel,96065.0
-892,2013-02-24,parliament,ITG,Isole,2,udc,107699.0
-893,2013-02-24,parliament,ITH,Nord-Est,0,eligible_voters,8800614.0
-894,2013-02-24,parliament,ITH,Nord-Est,1,issued_ballots,7154679.0
-895,2013-02-24,parliament,ITH,Nord-Est,2,agl,6419.0
-896,2013-02-24,parliament,ITH,Nord-Est,2,cd,11721.0
-897,2013-02-24,parliament,ITH,Nord-Est,2,cpi,8349.0
-898,2013-02-24,parliament,ITH,Nord-Est,2,df,48317.0
-899,2013-02-24,parliament,ITH,Nord-Est,2,fdi,87791.0
-900,2013-02-24,parliament,ITH,Nord-Est,2,fel,18588.0
-901,2013-02-24,parliament,ITH,Nord-Est,2,fli,121575.0
-902,2013-02-24,parliament,ITH,Nord-Est,2,fn,23458.0
-903,2013-02-24,parliament,ITH,Nord-Est,2,ft,4225.0
-904,2013-02-24,parliament,ITH,Nord-Est,2,gs,1489.0
-905,2013-02-24,parliament,ITH,Nord-Est,2,iai,12205.0
-906,2013-02-24,parliament,ITH,Nord-Est,2,ip,1298.0
-907,2013-02-24,parliament,ITH,Nord-Est,2,iv,33283.0
-908,2013-02-24,parliament,ITH,Nord-Est,2,ld,26707.0
-909,2013-02-24,parliament,ITH,Nord-Est,2,lega,453302.0
-910,2013-02-24,parliament,ITH,Nord-Est,2,lvr,15838.0
-911,2013-02-24,parliament,ITH,Nord-Est,2,m5s,1352810.0
-912,2013-02-24,parliament,ITH,Nord-Est,2,mir,15427.0
-913,2013-02-24,parliament,ITH,Nord-Est,2,pcl,18796.0
-914,2013-02-24,parliament,ITH,Nord-Est,2,pd,1876298.0
-915,2013-02-24,parliament,ITH,Nord-Est,2,pdl,1185494.0
-916,2013-02-24,parliament,ITH,Nord-Est,2,pn,2865.0
-917,2013-02-24,parliament,ITH,Nord-Est,2,pp,14474.0
-918,2013-02-24,parliament,ITH,Nord-Est,2,ppa,0.0
-919,2013-02-24,parliament,ITH,Nord-Est,2,pri,5579.0
-920,2013-02-24,parliament,ITH,Nord-Est,2,rcv,105918.0
-921,2013-02-24,parliament,ITH,Nord-Est,2,ri,953.0
-922,2013-02-24,parliament,ITH,Nord-Est,2,scelta,662408.0
-923,2013-02-24,parliament,ITH,Nord-Est,2,sel,171325.0
-924,2013-02-24,parliament,ITH,Nord-Est,2,svp,146804.0
-925,2013-02-24,parliament,ITH,Nord-Est,2,udc,90710.0
-926,2013-02-24,parliament,ITH,Nord-Est,2,vs,11380.0
-927,2013-02-24,parliament,ITI,Centro (IT),0,eligible_voters,9196957.0
-928,2013-02-24,parliament,ITI,Centro (IT),1,issued_ballots,7218645.0
-929,2013-02-24,parliament,ITI,Centro (IT),2,agl,6114.0
-930,2013-02-24,parliament,ITI,Centro (IT),2,cd,21673.0
-931,2013-02-24,parliament,ITI,Centro (IT),2,cpi,22867.0
-932,2013-02-24,parliament,ITI,Centro (IT),2,da,556.0
-933,2013-02-24,parliament,ITI,Centro (IT),2,fdi,161756.0
-934,2013-02-24,parliament,ITI,Centro (IT),2,fel,31946.0
-935,2013-02-24,parliament,ITI,Centro (IT),2,fli,60090.0
-936,2013-02-24,parliament,ITI,Centro (IT),2,fn,21863.0
-937,2013-02-24,parliament,ITI,Centro (IT),2,ft,9369.0
-938,2013-02-24,parliament,ITI,Centro (IT),2,gs,562.0
-939,2013-02-24,parliament,ITI,Centro (IT),2,iai,7144.0
-940,2013-02-24,parliament,ITI,Centro (IT),2,ip,3583.0
-941,2013-02-24,parliament,ITI,Centro (IT),2,ld,86397.0
-942,2013-02-24,parliament,ITI,Centro (IT),2,lega,31008.0
-943,2013-02-24,parliament,ITI,Centro (IT),2,m5s,1578293.0
-944,2013-02-24,parliament,ITI,Centro (IT),2,mir,10502.0
-945,2013-02-24,parliament,ITI,Centro (IT),2,mpi,2083.0
-946,2013-02-24,parliament,ITI,Centro (IT),2,pcl,26062.0
-947,2013-02-24,parliament,ITI,Centro (IT),2,pd,2108118.0
-948,2013-02-24,parliament,ITI,Centro (IT),2,pdl,1390015.0
-949,2013-02-24,parliament,ITI,Centro (IT),2,pli,4947.0
-950,2013-02-24,parliament,ITI,Centro (IT),2,rcv,173383.0
-951,2013-02-24,parliament,ITI,Centro (IT),2,scelta,494358.0
-952,2013-02-24,parliament,ITI,Centro (IT),2,sdi,536.0
-953,2013-02-24,parliament,ITI,Centro (IT),2,sel,256099.0
-954,2013-02-24,parliament,ITI,Centro (IT),2,tipi,1452.0
-955,2013-02-24,parliament,ITI,Centro (IT),2,udc,81746.0
-956,2013-02-24,parliament,ITI,Centro (IT),2,up,1247.0
-957,2014-05-25,european,ITC,Nord-Ovest,0,eligible_voters,12431770.0
-958,2014-05-25,european,ITC,Nord-Ovest,1,issued_ballots,8196845.0
-959,2014-05-25,european,ITC,Nord-Ovest,2,fdi,248871.0
-960,2014-05-25,european,ITC,Nord-Ovest,2,fi,1268217.0
-961,2014-05-25,european,ITC,Nord-Ovest,2,idv,51214.0
-962,2014-05-25,european,ITC,Nord-Ovest,2,lae,302557.0
-963,2014-05-25,european,ITC,Nord-Ovest,2,lega,922912.0
-964,2014-05-25,european,ITC,Nord-Ovest,2,m5s,1440131.0
-965,2014-05-25,european,ITC,Nord-Ovest,2,maie,14367.0
-966,2014-05-25,european,ITC,Nord-Ovest,2,ncd_udc,273655.0
-967,2014-05-25,european,ITC,Nord-Ovest,2,pd,3191604.0
-968,2014-05-25,european,ITC,Nord-Ovest,2,se,52287.0
-969,2014-05-25,european,ITC,Nord-Ovest,2,svp,9.0
-970,2014-05-25,european,ITC,Nord-Ovest,2,verdi,79929.0
-971,2014-05-25,european,ITF,Sud,0,eligible_voters,11989641.0
-972,2014-05-25,european,ITF,Sud,1,issued_ballots,6202675.0
-973,2014-05-25,european,ITF,Sud,2,fdi,237283.0
-974,2014-05-25,european,ITF,Sud,2,fi,1271438.0
-975,2014-05-25,european,ITF,Sud,2,idv,56446.0
-976,2014-05-25,european,ITF,Sud,2,lae,238208.0
-977,2014-05-25,european,ITF,Sud,2,lega,43034.0
-978,2014-05-25,european,ITF,Sud,2,m5s,1379622.0
-979,2014-05-25,european,ITF,Sud,2,maie,11554.0
-980,2014-05-25,european,ITF,Sud,2,ncd_udc,376068.0
-981,2014-05-25,european,ITF,Sud,2,pd,2010438.0
-982,2014-05-25,european,ITF,Sud,2,se,62437.0
-983,2014-05-25,european,ITF,Sud,2,verdi,44066.0
-984,2014-05-25,european,ITG,Isole,0,eligible_voters,5711092.0
-985,2014-05-25,european,ITG,Isole,1,issued_ballots,2437913.0
-986,2014-05-25,european,ITG,Isole,2,fdi,79364.0
-987,2014-05-25,european,ITG,Isole,2,fi,477323.0
-988,2014-05-25,european,ITG,Isole,2,idv,21442.0
-989,2014-05-25,european,ITG,Isole,2,lae,88274.0
-990,2014-05-25,european,ITG,Isole,2,lega,24654.0
-991,2014-05-25,european,ITG,Isole,2,m5s,658923.0
-992,2014-05-25,european,ITG,Isole,2,maie,3762.0
-993,2014-05-25,european,ITG,Isole,2,ncd_udc,173729.0
-994,2014-05-25,european,ITG,Isole,2,pd,839557.0
-995,2014-05-25,european,ITG,Isole,2,se,15896.0
-996,2014-05-25,european,ITG,Isole,2,verdi,13196.0
-997,2014-05-25,european,ITH,Nord-Est,0,eligible_voters,9203596.0
-998,2014-05-25,european,ITH,Nord-Est,1,issued_ballots,5933805.0
-999,2014-05-25,european,ITH,Nord-Est,2,fdi,174887.0
-1000,2014-05-25,european,ITH,Nord-Est,2,fi,738290.0
-1001,2014-05-25,european,ITH,Nord-Est,2,idv,23926.0
-1002,2014-05-25,european,ITH,Nord-Est,2,lae,208405.0
-1003,2014-05-25,european,ITH,Nord-Est,2,lega,565623.0
-1004,2014-05-25,european,ITH,Nord-Est,2,m5s,1079834.0
-1005,2014-05-25,european,ITH,Nord-Est,2,maie,10070.0
-1006,2014-05-25,european,ITH,Nord-Est,2,ncd_udc,175146.0
-1007,2014-05-25,european,ITH,Nord-Est,2,pd,2478268.0
-1008,2014-05-25,european,ITH,Nord-Est,2,se,37508.0
-1009,2014-05-25,european,ITH,Nord-Est,2,svp,137526.0
-1010,2014-05-25,european,ITH,Nord-Est,2,verdi,63690.0
-1011,2014-05-25,european,ITI,Centro (IT),0,eligible_voters,9612713.0
-1012,2014-05-25,european,ITI,Centro (IT),1,issued_ballots,5941193.0
-1013,2014-05-25,european,ITI,Centro (IT),2,fdi,260792.0
-1014,2014-05-25,european,ITI,Centro (IT),2,fi,840163.0
-1015,2014-05-25,european,ITI,Centro (IT),2,idv,28982.0
-1016,2014-05-25,european,ITI,Centro (IT),2,lae,267957.0
-1017,2014-05-25,european,ITI,Centro (IT),2,lega,122319.0
-1018,2014-05-25,european,ITI,Centro (IT),2,m5s,1240465.0
-1019,2014-05-25,european,ITI,Centro (IT),2,maie,8537.0
-1020,2014-05-25,european,ITI,Centro (IT),2,ncd_udc,199701.0
-1021,2014-05-25,european,ITI,Centro (IT),2,pd,2652510.0
-1022,2014-05-25,european,ITI,Centro (IT),2,se,28160.0
-1023,2014-05-25,european,ITI,Centro (IT),2,verdi,44066.0
-1024,2018-03-04,parliament,ITC,Nord-Ovest,0,eligible_voters,12082099.0
-1025,2018-03-04,parliament,ITC,Nord-Ovest,1,issued_ballots,9168333.0
-1026,2018-03-04,parliament,ITC,Nord-Ovest,2,10vm,12173.0
-1027,2018-03-04,parliament,ITC,Nord-Ovest,2,bnl,709.0
-1028,2018-03-04,parliament,ITC,Nord-Ovest,2,cpi,86664.0
-1029,2018-03-04,parliament,ITC,Nord-Ovest,2,cpl,34054.0
-1030,2018-03-04,parliament,ITC,Nord-Ovest,2,fdi,352123.0
-1031,2018-03-04,parliament,ITC,Nord-Ovest,2,fi,1195320.0
-1032,2018-03-04,parliament,ITC,Nord-Ovest,2,fi_fdi_mnva,0.0
-1033,2018-03-04,parliament,ITC,Nord-Ovest,2,gn,8352.0
-1034,2018-03-04,parliament,ITC,Nord-Ovest,2,iai,26287.0
-1035,2018-03-04,parliament,ITC,Nord-Ovest,2,iei,41784.0
-1036,2018-03-04,parliament,ITC,Nord-Ovest,2,inc,507.0
-1037,2018-03-04,parliament,ITC,Nord-Ovest,2,lega,2261320.0
-1038,2018-03-04,parliament,ITC,Nord-Ovest,2,leu,271974.0
-1039,2018-03-04,parliament,ITC,Nord-Ovest,2,lp,0.0
-1040,2018-03-04,parliament,ITC,Nord-Ovest,2,m5s,2011466.0
-1041,2018-03-04,parliament,ITC,Nord-Ovest,2,nci_udc,78021.0
-1042,2018-03-04,parliament,ITC,Nord-Ovest,2,pap,83220.0
-1043,2018-03-04,parliament,ITC,Nord-Ovest,2,pc,4871.0
-1044,2018-03-04,parliament,ITC,Nord-Ovest,2,pd,1797242.0
-1045,2018-03-04,parliament,ITC,Nord-Ovest,2,pd_uv_uvp_epav,0.0
-1046,2018-03-04,parliament,ITC,Nord-Ovest,2,pdf,50530.0
-1047,2018-03-04,parliament,ITC,Nord-Ovest,2,piueuropa,304864.0
-1048,2018-03-04,parliament,ITC,Nord-Ovest,2,pri_ala,4939.0
-1049,2018-03-04,parliament,ITC,Nord-Ovest,2,psr,9675.0
-1050,2018-03-04,parliament,ITC,Nord-Ovest,2,ptpt,0.0
-1051,2018-03-04,parliament,ITC,Nord-Ovest,2,pvu,12516.0
-1052,2018-03-04,parliament,ITC,Nord-Ovest,2,rciv,0.0
-1053,2018-03-04,parliament,ITC,Nord-Ovest,2,svp_patt,51.0
-1054,2018-03-04,parliament,ITF,Sud,0,eligible_voters,11100093.0
-1055,2018-03-04,parliament,ITF,Sud,1,issued_ballots,7626128.0
-1056,2018-03-04,parliament,ITF,Sud,2,10vm,5966.0
-1057,2018-03-04,parliament,ITF,Sud,2,bnl,998.0
-1058,2018-03-04,parliament,ITF,Sud,2,cpi,46549.0
-1059,2018-03-04,parliament,ITF,Sud,2,cpl,57469.0
-1060,2018-03-04,parliament,ITF,Sud,2,fdi,275253.0
-1061,2018-03-04,parliament,ITF,Sud,2,fi,1294611.0
-1062,2018-03-04,parliament,ITF,Sud,2,gn,2.0
-1063,2018-03-04,parliament,ITF,Sud,2,iai,31680.0
-1064,2018-03-04,parliament,ITF,Sud,2,iei,50921.0
-1065,2018-03-04,parliament,ITF,Sud,2,lega,444062.0
-1066,2018-03-04,parliament,ITF,Sud,2,leu,220038.0
-1067,2018-03-04,parliament,ITF,Sud,2,lp,2749.0
-1068,2018-03-04,parliament,ITF,Sud,2,m5s,3247186.0
-1069,2018-03-04,parliament,ITF,Sud,2,nci_udc,170599.0
-1070,2018-03-04,parliament,ITF,Sud,2,pap,87120.0
-1071,2018-03-04,parliament,ITF,Sud,2,pc,21026.0
-1072,2018-03-04,parliament,ITF,Sud,2,pd,950865.0
-1073,2018-03-04,parliament,ITF,Sud,2,pdf,38837.0
-1074,2018-03-04,parliament,ITF,Sud,2,piueuropa,93818.0
-1075,2018-03-04,parliament,ITF,Sud,2,pri_ala,4952.0
-1076,2018-03-04,parliament,ITF,Sud,2,psr,5205.0
-1077,2018-03-04,parliament,ITF,Sud,2,pvu,12515.0
-1078,2018-03-04,parliament,ITG,Isole,0,eligible_voters,5371823.0
-1079,2018-03-04,parliament,ITG,Isole,1,issued_ballots,3408779.0
-1080,2018-03-04,parliament,ITG,Isole,2,10vm,4.0
-1081,2018-03-04,parliament,ITG,Isole,2,auto,18274.0
-1082,2018-03-04,parliament,ITG,Isole,2,bnl,5.0
-1083,2018-03-04,parliament,ITG,Isole,2,cpi,18687.0
-1084,2018-03-04,parliament,ITG,Isole,2,cpl,15427.0
-1085,2018-03-04,parliament,ITG,Isole,2,fdi,121298.0
-1086,2018-03-04,parliament,ITG,Isole,2,fi,619378.0
-1087,2018-03-04,parliament,ITG,Isole,2,iai,9455.0
-1088,2018-03-04,parliament,ITG,Isole,2,iei,13955.0
-1089,2018-03-04,parliament,ITG,Isole,2,lega,214232.0
-1090,2018-03-04,parliament,ITG,Isole,2,leu,90157.0
-1091,2018-03-04,parliament,ITG,Isole,2,lp,2452.0
-1092,2018-03-04,parliament,ITG,Isole,2,m5s,1494196.0
-1093,2018-03-04,parliament,ITG,Isole,2,nci_udc,67618.0
-1094,2018-03-04,parliament,ITG,Isole,2,pap,23702.0
-1095,2018-03-04,parliament,ITG,Isole,2,pc,10620.0
-1096,2018-03-04,parliament,ITG,Isole,2,pd,385026.0
-1097,2018-03-04,parliament,ITG,Isole,2,pdf,28785.0
-1098,2018-03-04,parliament,ITG,Isole,2,piueuropa,42474.0
-1099,2018-03-04,parliament,ITG,Isole,2,pri_ala,0.0
-1100,2018-03-04,parliament,ITG,Isole,2,psr,4.0
-1101,2018-03-04,parliament,ITG,Isole,2,pvu,4541.0
-1102,2018-03-04,parliament,ITH,Nord-Est,0,eligible_voters,8758289.0
-1103,2018-03-04,parliament,ITH,Nord-Est,1,issued_ballots,6812107.0
-1104,2018-03-04,parliament,ITH,Nord-Est,2,10vm,11029.0
-1105,2018-03-04,parliament,ITH,Nord-Est,2,bnl,573.0
-1106,2018-03-04,parliament,ITH,Nord-Est,2,cpi,58617.0
-1107,2018-03-04,parliament,ITH,Nord-Est,2,cpl,34144.0
-1108,2018-03-04,parliament,ITH,Nord-Est,2,fdi,255894.0
-1109,2018-03-04,parliament,ITH,Nord-Est,2,fi,663177.0
-1110,2018-03-04,parliament,ITH,Nord-Est,2,gn,10212.0
-1111,2018-03-04,parliament,ITH,Nord-Est,2,iai,34666.0
-1112,2018-03-04,parliament,ITH,Nord-Est,2,iei,38398.0
-1113,2018-03-04,parliament,ITH,Nord-Est,2,lega,1684274.0
-1114,2018-03-04,parliament,ITH,Nord-Est,2,leu,216374.0
-1115,2018-03-04,parliament,ITH,Nord-Est,2,lp,754.0
-1116,2018-03-04,parliament,ITH,Nord-Est,2,m5s,1582789.0
-1117,2018-03-04,parliament,ITH,Nord-Est,2,mir,671.0
-1118,2018-03-04,parliament,ITH,Nord-Est,2,nci_udc,55694.0
-1119,2018-03-04,parliament,ITH,Nord-Est,2,pap,56848.0
-1120,2018-03-04,parliament,ITH,Nord-Est,2,pc,16201.0
-1121,2018-03-04,parliament,ITH,Nord-Est,2,pd,1323278.0
-1122,2018-03-04,parliament,ITH,Nord-Est,2,pdf,53657.0
-1123,2018-03-04,parliament,ITH,Nord-Est,2,piueuropa,188348.0
-1124,2018-03-04,parliament,ITH,Nord-Est,2,ppa,5882.0
-1125,2018-03-04,parliament,ITH,Nord-Est,2,pri_ala,8410.0
-1126,2018-03-04,parliament,ITH,Nord-Est,2,psr,6692.0
-1127,2018-03-04,parliament,ITH,Nord-Est,2,pvu,13235.0
-1128,2018-03-04,parliament,ITH,Nord-Est,2,siamo,1296.0
-1129,2018-03-04,parliament,ITH,Nord-Est,2,svp_patt,127625.0
-1130,2018-03-04,parliament,ITI,Centro (IT),0,eligible_voters,9074483.0
-1131,2018-03-04,parliament,ITI,Centro (IT),1,issued_ballots,6822152.0
-1132,2018-03-04,parliament,ITI,Centro (IT),2,10vm,4131.0
-1133,2018-03-04,parliament,ITI,Centro (IT),2,bnl,1103.0
-1134,2018-03-04,parliament,ITI,Centro (IT),2,cpi,86542.0
-1135,2018-03-04,parliament,ITI,Centro (IT),2,cpl,27555.0
-1136,2018-03-04,parliament,ITI,Centro (IT),2,fdi,400707.0
-1137,2018-03-04,parliament,ITI,Centro (IT),2,fi,750217.0
-1138,2018-03-04,parliament,ITI,Centro (IT),2,gn,1.0
-1139,2018-03-04,parliament,ITI,Centro (IT),2,iai,18304.0
-1140,2018-03-04,parliament,ITI,Centro (IT),2,iei,36936.0
-1141,2018-03-04,parliament,ITI,Centro (IT),2,lega,1019248.0
-1142,2018-03-04,parliament,ITI,Centro (IT),2,leu,239437.0
-1143,2018-03-04,parliament,ITI,Centro (IT),2,lp,3076.0
-1144,2018-03-04,parliament,ITI,Centro (IT),2,m5s,1917898.0
-1145,2018-03-04,parliament,ITI,Centro (IT),2,nci_udc,48013.0
-1146,2018-03-04,parliament,ITI,Centro (IT),2,pap,100353.0
-1147,2018-03-04,parliament,ITI,Centro (IT),2,pc,49379.0
-1148,2018-03-04,parliament,ITI,Centro (IT),2,pd,1488199.0
-1149,2018-03-04,parliament,ITI,Centro (IT),2,pdf,35425.0
-1150,2018-03-04,parliament,ITI,Centro (IT),2,piueuropa,181985.0
-1151,2018-03-04,parliament,ITI,Centro (IT),2,pri_ala,697.0
-1152,2018-03-04,parliament,ITI,Centro (IT),2,psr,5755.0
-1153,2018-03-04,parliament,ITI,Centro (IT),2,pvu,1984.0
-1154,2019-05-26,european,ITC,Nord-Ovest,0,eligible_voters,12514579.0
-1155,2019-05-26,european,ITC,Nord-Ovest,1,issued_ballots,7960718.0
-1156,2019-05-26,european,ITC,Nord-Ovest,2,ape,24368.0
-1157,2019-05-26,european,ITC,Nord-Ovest,2,cpi,25308.0
-1158,2019-05-26,european,ITC,Nord-Ovest,2,fdi,436070.0
-1159,2019-05-26,european,ITC,Nord-Ovest,2,fi,677417.0
-1160,2019-05-26,european,ITC,Nord-Ovest,2,fn,13156.0
-1161,2019-05-26,european,ITC,Nord-Ovest,2,lega,3148410.0
-1162,2019-05-26,european,ITC,Nord-Ovest,2,ls,115164.0
-1163,2019-05-26,european,ITC,Nord-Ovest,2,m5s,857489.0
-1164,2019-05-26,european,ITC,Nord-Ovest,2,pa,50379.0
-1165,2019-05-26,european,ITC,Nord-Ovest,2,pc,63020.0
-1166,2019-05-26,european,ITC,Nord-Ovest,2,pd,1815091.0
-1167,2019-05-26,european,ITC,Nord-Ovest,2,pdf,35204.0
-1168,2019-05-26,european,ITC,Nord-Ovest,2,pirata,19713.0
-1169,2019-05-26,european,ITC,Nord-Ovest,2,piue,245304.0
-1170,2019-05-26,european,ITC,Nord-Ovest,2,ppi,25709.0
-1171,2019-05-26,european,ITC,Nord-Ovest,2,verdi,190400.0
-1172,2019-05-26,european,ITF,Sud,0,eligible_voters,11985462.0
-1173,2019-05-26,european,ITF,Sud,1,issued_ballots,5789528.0
-1174,2019-05-26,european,ITF,Sud,2,cpi,14655.0
-1175,2019-05-26,european,ITF,Sud,2,fdi,414133.0
-1176,2019-05-26,european,ITF,Sud,2,fi,672744.0
-1177,2019-05-26,european,ITF,Sud,2,fn,8300.0
-1178,2019-05-26,european,ITF,Sud,2,lega,1285329.0
-1179,2019-05-26,european,ITF,Sud,2,ls,110771.0
-1180,2019-05-26,european,ITF,Sud,2,m5s,1597982.0
-1181,2019-05-26,european,ITF,Sud,2,pa,32710.0
-1182,2019-05-26,european,ITF,Sud,2,pc,44370.0
-1183,2019-05-26,european,ITF,Sud,2,pd,977974.0
-1184,2019-05-26,european,ITF,Sud,2,pdf,21199.0
-1185,2019-05-26,european,ITF,Sud,2,pirata,9336.0
-1186,2019-05-26,european,ITF,Sud,2,piue,171874.0
-1187,2019-05-26,european,ITF,Sud,2,ppi,25949.0
-1188,2019-05-26,european,ITF,Sud,2,verdi,92117.0
-1189,2019-05-26,european,ITG,Isole,0,eligible_voters,5643780.0
-1190,2019-05-26,european,ITG,Isole,1,issued_ballots,2099374.0
-1191,2019-05-26,european,ITG,Isole,2,cpi,5139.0
-1192,2019-05-26,european,ITG,Isole,2,fdi,147812.0
-1193,2019-05-26,european,ITG,Isole,2,fi,299729.0
-1194,2019-05-26,european,ITG,Isole,2,fn,2383.0
-1195,2019-05-26,european,ITG,Isole,2,lega,454935.0
-1196,2019-05-26,european,ITG,Isole,2,ls,33197.0
-1197,2019-05-26,european,ITG,Isole,2,m5s,605863.0
-1198,2019-05-26,european,ITG,Isole,2,pa,9637.0
-1199,2019-05-26,european,ITG,Isole,2,pc,11433.0
-1200,2019-05-26,european,ITG,Isole,2,pd,375001.0
-1201,2019-05-26,european,ITG,Isole,2,pdf,10847.0
-1202,2019-05-26,european,ITG,Isole,2,pirata,3530.0
-1203,2019-05-26,european,ITG,Isole,2,piue,39358.0
-1204,2019-05-26,european,ITG,Isole,2,ppi,4653.0
-1205,2019-05-26,european,ITG,Isole,2,verdi,25872.0
-1206,2019-05-26,european,ITH,Nord-Est,0,eligible_voters,9335813.0
-1207,2019-05-26,european,ITH,Nord-Est,1,issued_ballots,5968352.0
-1208,2019-05-26,european,ITH,Nord-Est,2,ape,0.0
-1209,2019-05-26,european,ITH,Nord-Est,2,cpi,18599.0
-1210,2019-05-26,european,ITH,Nord-Est,2,fdi,343425.0
-1211,2019-05-26,european,ITH,Nord-Est,2,fi,351869.0
-1212,2019-05-26,european,ITH,Nord-Est,2,fn,10398.0
-1213,2019-05-26,european,ITH,Nord-Est,2,lega,2459172.0
-1214,2019-05-26,european,ITH,Nord-Est,2,ls,89432.0
-1215,2019-05-26,european,ITH,Nord-Est,2,m5s,635960.0
-1216,2019-05-26,european,ITH,Nord-Est,2,pa,36419.0
-1217,2019-05-26,european,ITH,Nord-Est,2,pc,48837.0
-1218,2019-05-26,european,ITH,Nord-Est,2,pd,1473299.0
-1219,2019-05-26,european,ITH,Nord-Est,2,pdf,28114.0
-1220,2019-05-26,european,ITH,Nord-Est,2,pirata,15197.0
-1221,2019-05-26,european,ITH,Nord-Est,2,piue,209141.0
-1222,2019-05-26,european,ITH,Nord-Est,2,ppa,5217.0
-1223,2019-05-26,european,ITH,Nord-Est,2,ppi,12210.0
-1224,2019-05-26,european,ITH,Nord-Est,2,svp,141548.0
-1225,2019-05-26,european,ITH,Nord-Est,2,verdi,190345.0
-1226,2019-05-26,european,ITI,Centro (IT),0,eligible_voters,9579242.0
-1227,2019-05-26,european,ITI,Centro (IT),1,issued_ballots,5684213.0
-1228,2019-05-26,european,ITI,Centro (IT),2,cpi,25326.0
-1229,2019-05-26,european,ITI,Centro (IT),2,fdi,385303.0
-1230,2019-05-26,european,ITI,Centro (IT),2,fi,344751.0
-1231,2019-05-26,european,ITI,Centro (IT),2,fn,6716.0
-1232,2019-05-26,european,ITI,Centro (IT),2,lega,1845135.0
-1233,2019-05-26,european,ITI,Centro (IT),2,ls,122291.0
-1234,2019-05-26,european,ITI,Centro (IT),2,m5s,880168.0
-1235,2019-05-26,european,ITI,Centro (IT),2,pa,31186.0
-1236,2019-05-26,european,ITI,Centro (IT),2,pc,69138.0
-1237,2019-05-26,european,ITI,Centro (IT),2,pd,1479470.0
-1238,2019-05-26,european,ITI,Centro (IT),2,pdf,19510.0
-1239,2019-05-26,european,ITI,Centro (IT),2,pirata,12929.0
-1240,2019-05-26,european,ITI,Centro (IT),2,piue,164836.0
-1241,2019-05-26,european,ITI,Centro (IT),2,ppi,11770.0
-1242,2019-05-26,european,ITI,Centro (IT),2,verdi,118325.0
-1243,2022-09-25,parliament,ITC,Nord-Ovest,0,eligible_voters,12012600.0
-1244,2022-09-25,parliament,ITC,Nord-Ovest,1,issued_ballots,8224941.0
-1245,2022-09-25,parliament,ITC,Nord-Ovest,2,a_iv,719319.0
-1246,2022-09-25,parliament,ITC,Nord-Ovest,2,api,1995.0
-1247,2022-09-25,parliament,ITC,Nord-Ovest,2,avs,297807.0
-1248,2022-09-25,parliament,ITC,Nord-Ovest,2,fdi,2120920.0
-1249,2022-09-25,parliament,ITC,Nord-Ovest,2,fi,592448.0
-1250,2022-09-25,parliament,ITC,Nord-Ovest,2,free,734.0
-1251,2022-09-25,parliament,ITC,Nord-Ovest,2,ic_cd,30767.0
-1252,2022-09-25,parliament,ITC,Nord-Ovest,2,isp,96046.0
-1253,2022-09-25,parliament,ITC,Nord-Ovest,2,italexit,159896.0
-1254,2022-09-25,parliament,ITC,Nord-Ovest,2,lega,935094.0
-1255,2022-09-25,parliament,ITC,Nord-Ovest,2,m5s,660812.0
-1256,2022-09-25,parliament,ITC,Nord-Ovest,2,ndc,5203.0
-1257,2022-09-25,parliament,ITC,Nord-Ovest,2,nm,72753.0
-1258,2022-09-25,parliament,ITC,Nord-Ovest,2,pci,8.0
-1259,2022-09-25,parliament,ITC,Nord-Ovest,2,pd_idp,1485971.0
-1260,2022-09-25,parliament,ITC,Nord-Ovest,2,piueuropa,277453.0
-1261,2022-09-25,parliament,ITC,Nord-Ovest,2,svp_patt,146.0
-1262,2022-09-25,parliament,ITC,Nord-Ovest,2,up,93439.0
-1263,2022-09-25,parliament,ITC,Nord-Ovest,2,vita,51479.0
-1264,2022-09-25,parliament,ITF,Sud,0,eligible_voters,10976474.0
-1265,2022-09-25,parliament,ITF,Sud,1,issued_ballots,6060859.0
-1266,2022-09-25,parliament,ITF,Sud,2,a_iv,290306.0
-1267,2022-09-25,parliament,ITF,Sud,2,api,3490.0
-1268,2022-09-25,parliament,ITF,Sud,2,avs,150044.0
-1269,2022-09-25,parliament,ITF,Sud,2,fdi,1168770.0
-1270,2022-09-25,parliament,ITF,Sud,2,fdp,763.0
-1271,2022-09-25,parliament,ITF,Sud,2,fi,628637.0
-1272,2022-09-25,parliament,ITF,Sud,2,ic_cd,63313.0
-1273,2022-09-25,parliament,ITF,Sud,2,isp,54829.0
-1274,2022-09-25,parliament,ITF,Sud,2,italexit,74047.0
-1275,2022-09-25,parliament,ITF,Sud,2,lega,311598.0
-1276,2022-09-25,parliament,ITF,Sud,2,m5s,1655814.0
-1277,2022-09-25,parliament,ITF,Sud,2,ndc,35882.0
-1278,2022-09-25,parliament,ITF,Sud,2,nm,46008.0
-1279,2022-09-25,parliament,ITF,Sud,2,pa_ucdl_10vm,6481.0
-1280,2022-09-25,parliament,ITF,Sud,2,pci,9897.0
-1281,2022-09-25,parliament,ITF,Sud,2,pd_idp,872143.0
-1282,2022-09-25,parliament,ITF,Sud,2,piueuropa,101396.0
-1283,2022-09-25,parliament,ITF,Sud,2,scn,5184.0
-1284,2022-09-25,parliament,ITF,Sud,2,up,95213.0
-1285,2022-09-25,parliament,ITF,Sud,2,vita,6476.0
-1286,2022-09-25,parliament,ITG,Isole,0,eligible_voters,5259141.0
-1287,2022-09-25,parliament,ITG,Isole,1,issued_ballots,2958271.0
-1288,2022-09-25,parliament,ITG,Isole,2,a_iv,129323.0
-1289,2022-09-25,parliament,ITG,Isole,2,avs,73453.0
-1290,2022-09-25,parliament,ITG,Isole,2,fdi,547432.0
-1291,2022-09-25,parliament,ITG,Isole,2,fi,286711.0
-1292,2022-09-25,parliament,ITG,Isole,2,ic_cd,20942.0
-1293,2022-09-25,parliament,ITG,Isole,2,isp,31392.0
-1294,2022-09-25,parliament,ITG,Isole,2,italexit,50787.0
-1295,2022-09-25,parliament,ITG,Isole,2,lega,146086.0
-1296,2022-09-25,parliament,ITG,Isole,2,m5s,706687.0
-1297,2022-09-25,parliament,ITG,Isole,2,ndc,0.0
-1298,2022-09-25,parliament,ITG,Isole,2,nm,29925.0
-1299,2022-09-25,parliament,ITG,Isole,2,pci,13.0
-1300,2022-09-25,parliament,ITG,Isole,2,pd_idp,359120.0
-1301,2022-09-25,parliament,ITG,Isole,2,piueuropa,48631.0
-1302,2022-09-25,parliament,ITG,Isole,2,scn,204160.0
-1303,2022-09-25,parliament,ITG,Isole,2,up,28168.0
-1304,2022-09-25,parliament,ITG,Isole,2,vita,7585.0
-1305,2022-09-25,parliament,ITH,Nord-Est,0,eligible_voters,8764519.0
-1306,2022-09-25,parliament,ITH,Nord-Est,1,issued_ballots,6143406.0
-1307,2022-09-25,parliament,ITH,Nord-Est,2,a_iv,463533.0
-1308,2022-09-25,parliament,ITH,Nord-Est,2,api,5646.0
-1309,2022-09-25,parliament,ITH,Nord-Est,2,avs,222407.0
-1310,2022-09-25,parliament,ITH,Nord-Est,2,fdi,1627994.0
-1311,2022-09-25,parliament,ITH,Nord-Est,2,fi,355074.0
-1312,2022-09-25,parliament,ITH,Nord-Est,2,ic_cd,20218.0
-1313,2022-09-25,parliament,ITH,Nord-Est,2,isp,75938.0
-1314,2022-09-25,parliament,ITH,Nord-Est,2,italexit,129993.0
-1315,2022-09-25,parliament,ITH,Nord-Est,2,lega,626325.0
-1316,2022-09-25,parliament,ITH,Nord-Est,2,m5s,421432.0
-1317,2022-09-25,parliament,ITH,Nord-Est,2,ndc,2367.0
-1318,2022-09-25,parliament,ITH,Nord-Est,2,nm,70073.0
-1319,2022-09-25,parliament,ITH,Nord-Est,2,pa_ucdl_10vm,13598.0
-1320,2022-09-25,parliament,ITH,Nord-Est,2,pd_idp,1200378.0
-1321,2022-09-25,parliament,ITH,Nord-Est,2,piueuropa,176146.0
-1322,2022-09-25,parliament,ITH,Nord-Est,2,scn,1474.0
-1323,2022-09-25,parliament,ITH,Nord-Est,2,svp_patt,98387.0
-1324,2022-09-25,parliament,ITH,Nord-Est,2,up,64460.0
-1325,2022-09-25,parliament,ITH,Nord-Est,2,vita,95056.0
-1326,2022-09-25,parliament,ITI,Centro (IT),0,eligible_voters,8990791.0
-1327,2022-09-25,parliament,ITI,Centro (IT),1,issued_ballots,6013848.0
-1328,2022-09-25,parliament,ITI,Centro (IT),2,a_iv,464463.0
-1329,2022-09-25,parliament,ITI,Centro (IT),2,api,4673.0
-1330,2022-09-25,parliament,ITI,Centro (IT),2,avs,228684.0
-1331,2022-09-25,parliament,ITI,Centro (IT),2,fdi,1642901.0
-1332,2022-09-25,parliament,ITI,Centro (IT),2,fi,361644.0
-1333,2022-09-25,parliament,ITI,Centro (IT),2,ic_cd,26434.0
-1334,2022-09-25,parliament,ITI,Centro (IT),2,isp,78404.0
-1335,2022-09-25,parliament,ITI,Centro (IT),2,italexit,101761.0
-1336,2022-09-25,parliament,ITI,Centro (IT),2,lega,377388.0
-1337,2022-09-25,parliament,ITI,Centro (IT),2,m5s,739971.0
-1338,2022-09-25,parliament,ITI,Centro (IT),2,ndc,259.0
-1339,2022-09-25,parliament,ITI,Centro (IT),2,nm,28914.0
-1340,2022-09-25,parliament,ITI,Centro (IT),2,pci,13839.0
-1341,2022-09-25,parliament,ITI,Centro (IT),2,pd_idp,1215922.0
-1342,2022-09-25,parliament,ITI,Centro (IT),2,pfc,1304.0
-1343,2022-09-25,parliament,ITI,Centro (IT),2,piueuropa,156562.0
-1344,2022-09-25,parliament,ITI,Centro (IT),2,up,97687.0
-1345,2022-09-25,parliament,ITI,Centro (IT),2,vita,30409.0
-1346,2024-06-09,european,ITC,Nord-Ovest,0,eligible_voters,12663991.0
-1347,2024-06-09,european,ITC,Nord-Ovest,1,issued_ballots,6978707.0
-1348,2024-06-09,european,ITC,Nord-Ovest,2,ap,23265.0
-1349,2024-06-09,european,ITC,Nord-Ovest,2,avs,477612.0
-1350,2024-06-09,european,ITC,Nord-Ovest,2,azione,253813.0
-1351,2024-06-09,european,ITC,Nord-Ovest,2,fdi,2055485.0
-1352,2024-06-09,european,ITC,Nord-Ovest,2,fi_nm_ppe,624781.0
-1353,2024-06-09,european,ITC,Nord-Ovest,2,lega,792331.0
-1354,2024-06-09,european,ITC,Nord-Ovest,2,lib,49731.0
-1355,2024-06-09,european,ITC,Nord-Ovest,2,m5s,447222.0
-1356,2024-06-09,european,ITC,Nord-Ovest,2,pd,1536948.0
-1357,2024-06-09,european,ITC,Nord-Ovest,2,ptd,139182.0
-1358,2024-06-09,european,ITC,Nord-Ovest,2,rv,17012.0
-1359,2024-06-09,european,ITC,Nord-Ovest,2,sue,251840.0
-1360,2024-06-09,european,ITF,Sud,0,eligible_voters,11907645.0
-1361,2024-06-09,european,ITF,Sud,1,issued_ballots,5202819.0
-1362,2024-06-09,european,ITF,Sud,2,ap,17428.0
-1363,2024-06-09,european,ITF,Sud,2,avs,270863.0
-1364,2024-06-09,european,ITF,Sud,2,azione,159859.0
-1365,2024-06-09,european,ITF,Sud,2,fdi,1139954.0
-1366,2024-06-09,european,ITF,Sud,2,fi_nm_ppe,520019.0
-1367,2024-06-09,european,ITF,Sud,2,italexit,29326.0
-1368,2024-06-09,european,ITF,Sud,2,lega,331208.0
-1369,2024-06-09,european,ITF,Sud,2,lib,44875.0
-1370,2024-06-09,european,ITF,Sud,2,m5s,813682.0
-1371,2024-06-09,european,ITF,Sud,2,pd,1174070.0
-1372,2024-06-09,european,ITF,Sud,2,ptd,89756.0
-1373,2024-06-09,european,ITF,Sud,2,sue,237478.0
-1374,2024-06-09,european,ITG,Isole,0,eligible_voters,5578515.0
-1375,2024-06-09,european,ITG,Isole,1,issued_ballots,2104721.0
-1376,2024-06-09,european,ITG,Isole,2,ap,9922.0
-1377,2024-06-09,european,ITG,Isole,2,avs,119805.0
-1378,2024-06-09,european,ITG,Isole,2,azione,28720.0
-1379,2024-06-09,european,ITG,Isole,2,fdi,420501.0
-1380,2024-06-09,european,ITG,Isole,2,fi_nm_ppe,402270.0
-1381,2024-06-09,european,ITG,Isole,2,lega,138402.0
-1382,2024-06-09,european,ITG,Isole,2,lib,117862.0
-1383,2024-06-09,european,ITG,Isole,2,m5s,321056.0
-1384,2024-06-09,european,ITG,Isole,2,pd,330062.0
-1385,2024-06-09,european,ITG,Isole,2,ptd,44112.0
-1386,2024-06-09,european,ITG,Isole,2,sue,42161.0
-1387,2024-06-09,european,ITH,Nord-Est,0,eligible_voters,9544174.0
-1388,2024-06-09,european,ITH,Nord-Est,1,issued_ballots,5148088.0
-1389,2024-06-09,european,ITH,Nord-Est,2,ap,16824.0
-1390,2024-06-09,european,ITH,Nord-Est,2,avs,347235.0
-1391,2024-06-09,european,ITH,Nord-Est,2,azione,194387.0
-1392,2024-06-09,european,ITH,Nord-Est,2,fdi,1630868.0
-1393,2024-06-09,european,ITH,Nord-Est,2,fi_nm_ppe,360514.0
-1394,2024-06-09,european,ITH,Nord-Est,2,lega,516585.0
-1395,2024-06-09,european,ITH,Nord-Est,2,lib,41999.0
-1396,2024-06-09,european,ITH,Nord-Est,2,m5s,301336.0
-1397,2024-06-09,european,ITH,Nord-Est,2,pd,1366523.0
-1398,2024-06-09,european,ITH,Nord-Est,2,ptd,116160.0
-1399,2024-06-09,european,ITH,Nord-Est,2,sue,157202.0
-1400,2024-06-09,european,ITH,Nord-Est,2,svp,120481.0
-1401,2024-06-09,european,ITI,Centro (IT),0,eligible_voters,9613695.0
-1402,2024-06-09,european,ITI,Centro (IT),1,issued_ballots,5048299.0
-1403,2024-06-09,european,ITI,Centro (IT),2,ap,23735.0
-1404,2024-06-09,european,ITI,Centro (IT),2,avs,361391.0
-1405,2024-06-09,european,ITI,Centro (IT),2,azione,148805.0
-1406,2024-06-09,european,ITI,Centro (IT),2,dsp,36037.0
-1407,2024-06-09,european,ITI,Centro (IT),2,fdi,1496067.0
-1408,2024-06-09,european,ITI,Centro (IT),2,fi_nm_ppe,337746.0
-1409,2024-06-09,european,ITI,Centro (IT),2,lega,322729.0
-1410,2024-06-09,european,ITI,Centro (IT),2,lib,31082.0
-1411,2024-06-09,european,ITI,Centro (IT),2,m5s,456231.0
-1412,2024-06-09,european,ITI,Centro (IT),2,pd,1281077.0
-1413,2024-06-09,european,ITI,Centro (IT),2,ptd,129349.0
-1414,2024-06-09,european,ITI,Centro (IT),2,sue,191827.0
+15,1996-04-21,parliament,ITC,Nord-Ovest,2,pln,9.0
+16,1996-04-21,parliament,ITC,Nord-Ovest,2,pop,649291.0
+17,1996-04-21,parliament,ITC,Nord-Ovest,2,ps,13562.0
+18,1996-04-21,parliament,ITC,Nord-Ovest,2,psg,232161.0
+19,1996-04-21,parliament,ITC,Nord-Ovest,2,pu,8895.0
+20,1996-04-21,parliament,ITC,Nord-Ovest,2,rc,847784.0
+21,1996-04-21,parliament,ITC,Nord-Ovest,2,rid,416483.0
+22,1996-04-21,parliament,ITC,Nord-Ovest,2,ufst,26.0
+23,1996-04-21,parliament,ITC,Nord-Ovest,2,verdi,275283.0
+24,1996-04-21,parliament,ITF,Sud,0,eligible_voters,11901460.0
+25,1996-04-21,parliament,ITF,Sud,1,issued_ballots,8935144.0
+26,1996-04-21,parliament,ITF,Sud,2,amb,15667.0
+27,1996-04-21,parliament,ITF,Sud,2,an,1537890.0
+28,1996-04-21,parliament,ITF,Sud,2,ccd_cdu,647996.0
+29,1996-04-21,parliament,ITF,Sud,2,dsoc,8003.0
+30,1996-04-21,parliament,ITF,Sud,2,fi,1789414.0
+31,1996-04-21,parliament,ITF,Sud,2,gil,17431.0
+32,1996-04-21,parliament,ITF,Sud,2,lam,72241.0
+33,1996-04-21,parliament,ITF,Sud,2,lega,6191.0
+34,1996-04-21,parliament,ITF,Sud,2,mp,19710.0
+35,1996-04-21,parliament,ITF,Sud,2,mri,8917.0
+36,1996-04-21,parliament,ITF,Sud,2,mst,140903.0
+37,1996-04-21,parliament,ITF,Sud,2,pds,1700445.0
+38,1996-04-21,parliament,ITF,Sud,2,pop,586429.0
+39,1996-04-21,parliament,ITF,Sud,2,ppa,12304.0
+40,1996-04-21,parliament,ITF,Sud,2,ps,90919.0
+41,1996-04-21,parliament,ITF,Sud,2,psg,140767.0
+42,1996-04-21,parliament,ITF,Sud,2,rc,726893.0
+43,1996-04-21,parliament,ITF,Sud,2,rds,3044.0
+44,1996-04-21,parliament,ITF,Sud,2,rid,330684.0
+45,1996-04-21,parliament,ITF,Sud,2,rin,4853.0
+46,1996-04-21,parliament,ITF,Sud,2,sl,5003.0
+47,1996-04-21,parliament,ITF,Sud,2,verdi,197860.0
+48,1996-04-21,parliament,ITG,Isole,0,eligible_voters,5780852.0
+49,1996-04-21,parliament,ITG,Isole,1,issued_ballots,4184603.0
+50,1996-04-21,parliament,ITG,Isole,2,an,623967.0
+51,1996-04-21,parliament,ITG,Isole,2,ccd_cdu,277840.0
+52,1996-04-21,parliament,ITG,Isole,2,fi,1092032.0
+53,1996-04-21,parliament,ITG,Isole,2,fl,6479.0
+54,1996-04-21,parliament,ITG,Isole,2,lega,79.0
+55,1996-04-21,parliament,ITG,Isole,2,mp,9.0
+56,1996-04-21,parliament,ITG,Isole,2,mst,48326.0
+57,1996-04-21,parliament,ITG,Isole,2,nsfns,40845.0
+58,1996-04-21,parliament,ITG,Isole,2,pds,648049.0
+59,1996-04-21,parliament,ITG,Isole,2,pop,213604.0
+60,1996-04-21,parliament,ITG,Isole,2,ps,9602.0
+61,1996-04-21,parliament,ITG,Isole,2,psdaz,37962.0
+62,1996-04-21,parliament,ITG,Isole,2,psg,96488.0
+63,1996-04-21,parliament,ITG,Isole,2,rc,271714.0
+64,1996-04-21,parliament,ITG,Isole,2,rid,187344.0
+65,1996-04-21,parliament,ITG,Isole,2,rin,8748.0
+66,1996-04-21,parliament,ITG,Isole,2,sn,23322.0
+67,1996-04-21,parliament,ITG,Isole,2,verdi,93588.0
+68,1996-04-21,parliament,ITH,Nord-Est,0,eligible_voters,9136840.0
+69,1996-04-21,parliament,ITH,Nord-Est,1,issued_ballots,8085815.0
+70,1996-04-21,parliament,ITH,Nord-Est,2,an,917687.0
+71,1996-04-21,parliament,ITH,Nord-Est,2,ccd_cdu,396433.0
+72,1996-04-21,parliament,ITH,Nord-Est,2,fi,1267075.0
+73,1996-04-21,parliament,ITH,Nord-Est,2,lega,1428892.0
+74,1996-04-21,parliament,ITH,Nord-Est,2,mp,9498.0
+75,1996-04-21,parliament,ITH,Nord-Est,2,mst,33305.0
+76,1996-04-21,parliament,ITH,Nord-Est,2,nd,8183.0
+77,1996-04-21,parliament,ITH,Nord-Est,2,nla,4967.0
+78,1996-04-21,parliament,ITH,Nord-Est,2,pds,1618030.0
+79,1996-04-21,parliament,ITH,Nord-Est,2,plm,38.0
+80,1996-04-21,parliament,ITH,Nord-Est,2,pln,8293.0
+81,1996-04-21,parliament,ITH,Nord-Est,2,pop,676809.0
+82,1996-04-21,parliament,ITH,Nord-Est,2,psg,100663.0
+83,1996-04-21,parliament,ITH,Nord-Est,2,rc,504592.0
+84,1996-04-21,parliament,ITH,Nord-Est,2,rid,334591.0
+85,1996-04-21,parliament,ITH,Nord-Est,2,ufst,55476.0
+86,1996-04-21,parliament,ITH,Nord-Est,2,une,63951.0
+87,1996-04-21,parliament,ITH,Nord-Est,2,verdi,216616.0
+88,1996-04-21,parliament,ITI,Centro (IT),0,eligible_voters,9408932.0
+89,1996-04-21,parliament,ITI,Centro (IT),1,issued_ballots,8162594.0
+90,1996-04-21,parliament,ITI,Centro (IT),2,an,1719323.0
+91,1996-04-21,parliament,ITI,Centro (IT),2,ccd_cdu,395868.0
+92,1996-04-21,parliament,ITI,Centro (IT),2,fi,1212024.0
+93,1996-04-21,parliament,ITI,Centro (IT),2,lega,66506.0
+94,1996-04-21,parliament,ITI,Centro (IT),2,mat,8607.0
+95,1996-04-21,parliament,ITI,Centro (IT),2,mp,7010.0
+96,1996-04-21,parliament,ITI,Centro (IT),2,mst,86236.0
+97,1996-04-21,parliament,ITI,Centro (IT),2,pds,2205283.0
+98,1996-04-21,parliament,ITI,Centro (IT),2,plm,5506.0
+99,1996-04-21,parliament,ITI,Centro (IT),2,pop,428663.0
+100,1996-04-21,parliament,ITI,Centro (IT),2,ps,35485.0
+101,1996-04-21,parliament,ITI,Centro (IT),2,psg,130957.0
+102,1996-04-21,parliament,ITI,Centro (IT),2,pu,5912.0
+103,1996-04-21,parliament,ITI,Centro (IT),2,rc,864659.0
+104,1996-04-21,parliament,ITI,Centro (IT),2,rid,358170.0
+105,1996-04-21,parliament,ITI,Centro (IT),2,verdi,180130.0
+106,1999-06-13,european,ITC,Nord-Ovest,0,eligible_voters,12667035.0
+107,1999-06-13,european,ITC,Nord-Ovest,1,issued_ballots,9430856.0
+108,1999-06-13,european,ITC,Nord-Ovest,2,an_segni,580250.0
+109,1999-06-13,european,ITC,Nord-Ovest,2,bonino,1039636.0
+110,1999-06-13,european,ITC,Nord-Ovest,2,ccd,100367.0
+111,1999-06-13,european,ITC,Nord-Ovest,2,cdu,192021.0
+112,1999-06-13,european,ITC,Nord-Ovest,2,ci,187283.0
+113,1999-06-13,european,ITC,Nord-Ovest,2,ds,1219887.0
+114,1999-06-13,european,ITC,Nord-Ovest,2,fi,2572436.0
+115,1999-06-13,european,ITC,Nord-Ovest,2,idem,629950.0
+116,1999-06-13,european,ITC,Nord-Ovest,2,lam,9860.0
+117,1999-06-13,european,ITC,Nord-Ovest,2,ldr,10660.0
+118,1999-06-13,european,ITC,Nord-Ovest,2,lega,919711.0
+119,1999-06-13,european,ITC,Nord-Ovest,2,mst,106292.0
+120,1999-06-13,european,ITC,Nord-Ovest,2,pp,96864.0
+121,1999-06-13,european,ITC,Nord-Ovest,2,ppi,215716.0
+122,1999-06-13,european,ITC,Nord-Ovest,2,pri,31165.0
+123,1999-06-13,european,ITC,Nord-Ovest,2,pu,9984.0
+124,1999-06-13,european,ITC,Nord-Ovest,2,rc,375065.0
+125,1999-06-13,european,ITC,Nord-Ovest,2,rid,58839.0
+126,1999-06-13,european,ITC,Nord-Ovest,2,sdi,111178.0
+127,1999-06-13,european,ITC,Nord-Ovest,2,udeur,35549.0
+128,1999-06-13,european,ITC,Nord-Ovest,2,uv,28210.0
+129,1999-06-13,european,ITC,Nord-Ovest,2,verdi2,158214.0
+130,1999-06-13,european,ITF,Sud,0,eligible_voters,11674140.0
+131,1999-06-13,european,ITF,Sud,1,issued_ballots,7779980.0
+132,1999-06-13,european,ITF,Sud,2,an_segni,760270.0
+133,1999-06-13,european,ITF,Sud,2,bonino,314845.0
+134,1999-06-13,european,ITF,Sud,2,ccd,288178.0
+135,1999-06-13,european,ITF,Sud,2,cdu,172116.0
+136,1999-06-13,european,ITF,Sud,2,ci,120298.0
+137,1999-06-13,european,ITF,Sud,2,ds,1000673.0
+138,1999-06-13,european,ITF,Sud,2,fi,1685590.0
+139,1999-06-13,european,ITF,Sud,2,idem,614808.0
+140,1999-06-13,european,ITF,Sud,2,lam,64463.0
+141,1999-06-13,european,ITF,Sud,2,ldr,7160.0
+142,1999-06-13,european,ITF,Sud,2,lega,12703.0
+143,1999-06-13,european,ITF,Sud,2,mst,137131.0
+144,1999-06-13,european,ITF,Sud,2,pp,27594.0
+145,1999-06-13,european,ITF,Sud,2,ppi,460032.0
+146,1999-06-13,european,ITF,Sud,2,pri,42625.0
+147,1999-06-13,european,ITF,Sud,2,pu,9.0
+148,1999-06-13,european,ITF,Sud,2,rc,260231.0
+149,1999-06-13,european,ITF,Sud,2,rid,138568.0
+150,1999-06-13,european,ITF,Sud,2,sdi,281247.0
+151,1999-06-13,european,ITF,Sud,2,udeur,231606.0
+152,1999-06-13,european,ITF,Sud,2,uv,4901.0
+153,1999-06-13,european,ITF,Sud,2,verdi2,116999.0
+154,1999-06-13,european,ITG,Isole,0,eligible_voters,5584918.0
+155,1999-06-13,european,ITG,Isole,1,issued_ballots,3442636.0
+156,1999-06-13,european,ITG,Isole,2,an_segni,371731.0
+157,1999-06-13,european,ITG,Isole,2,bonino,153085.0
+158,1999-06-13,european,ITG,Isole,2,ccd,159060.0
+159,1999-06-13,european,ITG,Isole,2,cdu,47187.0
+160,1999-06-13,european,ITG,Isole,2,ci,41465.0
+161,1999-06-13,european,ITG,Isole,2,ds,392273.0
+162,1999-06-13,european,ITG,Isole,2,fi,835723.0
+163,1999-06-13,european,ITG,Isole,2,idem,246375.0
+164,1999-06-13,european,ITG,Isole,2,lam,5290.0
+165,1999-06-13,european,ITG,Isole,2,ldr,22043.0
+166,1999-06-13,european,ITG,Isole,2,lega,3240.0
+167,1999-06-13,european,ITG,Isole,2,mst,46979.0
+168,1999-06-13,european,ITG,Isole,2,pp,12585.0
+169,1999-06-13,european,ITG,Isole,2,ppi,213590.0
+170,1999-06-13,european,ITG,Isole,2,pri,15683.0
+171,1999-06-13,european,ITG,Isole,2,ps,39998.0
+172,1999-06-13,european,ITG,Isole,2,pu,18.0
+173,1999-06-13,european,ITG,Isole,2,rc,87761.0
+174,1999-06-13,european,ITG,Isole,2,rid,71681.0
+175,1999-06-13,european,ITG,Isole,2,sdi,57341.0
+176,1999-06-13,european,ITG,Isole,2,udeur,177116.0
+177,1999-06-13,european,ITG,Isole,2,uv,3422.0
+178,1999-06-13,european,ITG,Isole,2,verdi2,30941.0
+179,1999-06-13,european,ITH,Nord-Est,0,eligible_voters,8983321.0
+180,1999-06-13,european,ITH,Nord-Est,1,issued_ballots,6839077.0
+181,1999-06-13,european,ITH,Nord-Est,2,an_segni,530543.0
+182,1999-06-13,european,ITH,Nord-Est,2,bonino,650911.0
+183,1999-06-13,european,ITH,Nord-Est,2,ccd,97045.0
+184,1999-06-13,european,ITH,Nord-Est,2,cdu,157173.0
+185,1999-06-13,european,ITH,Nord-Est,2,ci,97932.0
+186,1999-06-13,european,ITH,Nord-Est,2,cobas,10.0
+187,1999-06-13,european,ITH,Nord-Est,2,ds,1259504.0
+188,1999-06-13,european,ITH,Nord-Est,2,fi,1466887.0
+189,1999-06-13,european,ITH,Nord-Est,2,idem,511497.0
+190,1999-06-13,european,ITH,Nord-Est,2,lam,6272.0
+191,1999-06-13,european,ITH,Nord-Est,2,ldr,12687.0
+192,1999-06-13,european,ITH,Nord-Est,2,lega,435840.0
+193,1999-06-13,european,ITH,Nord-Est,2,lrvu,117717.0
+194,1999-06-13,european,ITH,Nord-Est,2,mst,76295.0
+195,1999-06-13,european,ITH,Nord-Est,2,pp,59319.0
+196,1999-06-13,european,ITH,Nord-Est,2,ppi,192624.0
+197,1999-06-13,european,ITH,Nord-Est,2,pri,29909.0
+198,1999-06-13,european,ITH,Nord-Est,2,pu,16.0
+199,1999-06-13,european,ITH,Nord-Est,2,rc,234749.0
+200,1999-06-13,european,ITH,Nord-Est,2,rid,29382.0
+201,1999-06-13,european,ITH,Nord-Est,2,sdi,76794.0
+202,1999-06-13,european,ITH,Nord-Est,2,svp,155178.0
+203,1999-06-13,european,ITH,Nord-Est,2,udeur,16899.0
+204,1999-06-13,european,ITH,Nord-Est,2,uv,719.0
+205,1999-06-13,european,ITH,Nord-Est,2,verdi2,134336.0
+206,1999-06-13,european,ITI,Centro (IT),0,eligible_voters,9401088.0
+207,1999-06-13,european,ITI,Centro (IT),1,issued_ballots,6692862.0
+208,1999-06-13,european,ITI,Centro (IT),2,an_segni,952024.0
+209,1999-06-13,european,ITI,Centro (IT),2,bonino,463134.0
+210,1999-06-13,european,ITI,Centro (IT),2,ccd,159181.0
+211,1999-06-13,european,ITI,Centro (IT),2,cdu,95460.0
+212,1999-06-13,european,ITI,Centro (IT),2,ci,169006.0
+213,1999-06-13,european,ITI,Centro (IT),2,cobas,4375.0
+214,1999-06-13,european,ITI,Centro (IT),2,ds,1508666.0
+215,1999-06-13,european,ITI,Centro (IT),2,fi,1238431.0
+216,1999-06-13,european,ITI,Centro (IT),2,idem,378415.0
+217,1999-06-13,european,ITI,Centro (IT),2,lam,6620.0
+218,1999-06-13,european,ITI,Centro (IT),2,ldr,6238.0
+219,1999-06-13,european,ITI,Centro (IT),2,lega,22019.0
+220,1999-06-13,european,ITI,Centro (IT),2,mst,125305.0
+221,1999-06-13,european,ITI,Centro (IT),2,pp,32956.0
+222,1999-06-13,european,ITI,Centro (IT),2,ppi,234639.0
+223,1999-06-13,european,ITI,Centro (IT),2,pri,46983.0
+224,1999-06-13,european,ITI,Centro (IT),2,pu,5303.0
+225,1999-06-13,european,ITI,Centro (IT),2,rc,364245.0
+226,1999-06-13,european,ITI,Centro (IT),2,rid,51887.0
+227,1999-06-13,european,ITI,Centro (IT),2,sdi,137531.0
+228,1999-06-13,european,ITI,Centro (IT),2,udeur,35719.0
+229,1999-06-13,european,ITI,Centro (IT),2,uv,3840.0
+230,1999-06-13,european,ITI,Centro (IT),2,verdi2,100254.0
+231,2001-05-13,parliament,ITC,Nord-Ovest,0,eligible_voters,12543473.0
+232,2001-05-13,parliament,ITC,Nord-Ovest,1,issued_ballots,10699810.0
+233,2001-05-13,parliament,ITC,Nord-Ovest,2,an,891707.0
+234,2001-05-13,parliament,ITC,Nord-Ovest,2,as,6472.0
+235,2001-05-13,parliament,ITC,Nord-Ovest,2,ccd_cdu,216773.0
+236,2001-05-13,parliament,ITC,Nord-Ovest,2,ci,170618.0
+237,2001-05-13,parliament,ITC,Nord-Ovest,2,de,133561.0
+238,2001-05-13,parliament,ITC,Nord-Ovest,2,ds,1430837.0
+239,2001-05-13,parliament,ITC,Nord-Ovest,2,fi,3219286.0
+240,2001-05-13,parliament,ITC,Nord-Ovest,2,ft,25843.0
+241,2001-05-13,parliament,ITC,Nord-Ovest,2,girasole,177195.0
+242,2001-05-13,parliament,ITC,Nord-Ovest,2,idv,395213.0
+243,2001-05-13,parliament,ITC,Nord-Ovest,2,lam,5.0
+244,2001-05-13,parliament,ITC,Nord-Ovest,2,lega,953660.0
+245,2001-05-13,parliament,ITC,Nord-Ovest,2,libdem,6027.0
+246,2001-05-13,parliament,ITC,Nord-Ovest,2,margherita,1481913.0
+247,2001-05-13,parliament,ITC,Nord-Ovest,2,npsi,45756.0
+248,2001-05-13,parliament,ITC,Nord-Ovest,2,pb,291929.0
+249,2001-05-13,parliament,ITC,Nord-Ovest,2,pn,3154.0
+250,2001-05-13,parliament,ITC,Nord-Ovest,2,pp,66257.0
+251,2001-05-13,parliament,ITC,Nord-Ovest,2,rc,538403.0
+252,2001-05-13,parliament,ITC,Nord-Ovest,2,re,12.0
+253,2001-05-13,parliament,ITC,Nord-Ovest,2,svp,110.0
+254,2001-05-13,parliament,ITC,Nord-Ovest,2,verdi,18251.0
+255,2001-05-13,parliament,ITF,Sud,0,eligible_voters,12008704.0
+256,2001-05-13,parliament,ITF,Sud,1,issued_ballots,9159991.0
+257,2001-05-13,parliament,ITF,Sud,2,an,1134956.0
+258,2001-05-13,parliament,ITF,Sud,2,as,7343.0
+259,2001-05-13,parliament,ITF,Sud,2,ccd_cdu,318338.0
+260,2001-05-13,parliament,ITF,Sud,2,ci,150859.0
+261,2001-05-13,parliament,ITF,Sud,2,de,294483.0
+262,2001-05-13,parliament,ITF,Sud,2,ds,1207182.0
+263,2001-05-13,parliament,ITF,Sud,2,fi,2485638.0
+264,2001-05-13,parliament,ITF,Sud,2,fn,3492.0
+265,2001-05-13,parliament,ITF,Sud,2,fnaz,11589.0
+266,2001-05-13,parliament,ITF,Sud,2,ft,89087.0
+267,2001-05-13,parliament,ITF,Sud,2,girasole,249485.0
+268,2001-05-13,parliament,ITF,Sud,2,idv,384496.0
+269,2001-05-13,parliament,ITF,Sud,2,lam,23807.0
+270,2001-05-13,parliament,ITF,Sud,2,lef,7254.0
+271,2001-05-13,parliament,ITF,Sud,2,margherita,1076484.0
+272,2001-05-13,parliament,ITF,Sud,2,mdl,6773.0
+273,2001-05-13,parliament,ITF,Sud,2,npsi,122076.0
+274,2001-05-13,parliament,ITF,Sud,2,pb,130221.0
+275,2001-05-13,parliament,ITF,Sud,2,pn,12363.0
+276,2001-05-13,parliament,ITF,Sud,2,rc,395911.0
+277,2001-05-13,parliament,ITF,Sud,2,sa,6775.0
+278,2001-05-13,parliament,ITG,Isole,0,eligible_voters,5889720.0
+279,2001-05-13,parliament,ITG,Isole,1,issued_ballots,4286995.0
+280,2001-05-13,parliament,ITG,Isole,2,amadu,11513.0
+281,2001-05-13,parliament,ITG,Isole,2,an,441560.0
+282,2001-05-13,parliament,ITG,Isole,2,as,3469.0
+283,2001-05-13,parliament,ITG,Isole,2,ccd_cdu,253777.0
+284,2001-05-13,parliament,ITG,Isole,2,ci,60745.0
+285,2001-05-13,parliament,ITG,Isole,2,de,220207.0
+286,2001-05-13,parliament,ITG,Isole,2,ds,455976.0
+287,2001-05-13,parliament,ITG,Isole,2,fi,1348418.0
+288,2001-05-13,parliament,ITG,Isole,2,ft,14.0
+289,2001-05-13,parliament,ITG,Isole,2,girasole,68236.0
+290,2001-05-13,parliament,ITG,Isole,2,idv,144654.0
+291,2001-05-13,parliament,ITG,Isole,2,lega,22.0
+292,2001-05-13,parliament,ITG,Isole,2,margherita,531801.0
+293,2001-05-13,parliament,ITG,Isole,2,npsi,53100.0
+294,2001-05-13,parliament,ITG,Isole,2,ns,7798.0
+295,2001-05-13,parliament,ITG,Isole,2,pb,70817.0
+296,2001-05-13,parliament,ITG,Isole,2,pn,7719.0
+297,2001-05-13,parliament,ITG,Isole,2,psdaz_sn,34345.0
+298,2001-05-13,parliament,ITG,Isole,2,rc,139916.0
+299,2001-05-13,parliament,ITH,Nord-Est,0,eligible_voters,9169922.0
+300,2001-05-13,parliament,ITH,Nord-Est,1,issued_ballots,7835611.0
+301,2001-05-13,parliament,ITH,Nord-Est,2,an,703137.0
+302,2001-05-13,parliament,ITH,Nord-Est,2,as,5453.0
+303,2001-05-13,parliament,ITH,Nord-Est,2,ccd_cdu,196439.0
+304,2001-05-13,parliament,ITH,Nord-Est,2,ci,98130.0
+305,2001-05-13,parliament,ITH,Nord-Est,2,de,114273.0
+306,2001-05-13,parliament,ITH,Nord-Est,2,ds,1300891.0
+307,2001-05-13,parliament,ITH,Nord-Est,2,fi,2009102.0
+308,2001-05-13,parliament,ITH,Nord-Est,2,fn,10043.0
+309,2001-05-13,parliament,ITH,Nord-Est,2,ft,11544.0
+310,2001-05-13,parliament,ITH,Nord-Est,2,girasole,166058.0
+311,2001-05-13,parliament,ITH,Nord-Est,2,idv,303904.0
+312,2001-05-13,parliament,ITH,Nord-Est,2,lega,479036.0
+313,2001-05-13,parliament,ITH,Nord-Est,2,lfv,74335.0
+314,2001-05-13,parliament,ITH,Nord-Est,2,margherita,1158432.0
+315,2001-05-13,parliament,ITH,Nord-Est,2,npsi,58298.0
+316,2001-05-13,parliament,ITH,Nord-Est,2,pb,184916.0
+317,2001-05-13,parliament,ITH,Nord-Est,2,pn,4644.0
+318,2001-05-13,parliament,ITH,Nord-Est,2,rc,334764.0
+319,2001-05-13,parliament,ITH,Nord-Est,2,re,85.0
+320,2001-05-13,parliament,ITH,Nord-Est,2,svp,199946.0
+321,2001-05-13,parliament,ITH,Nord-Est,2,tpa,2913.0
+322,2001-05-13,parliament,ITI,Centro (IT),0,eligible_voters,9487513.0
+323,2001-05-13,parliament,ITI,Centro (IT),1,issued_ballots,7950462.0
+324,2001-05-13,parliament,ITI,Centro (IT),2,an,1272888.0
+325,2001-05-13,parliament,ITI,Centro (IT),2,as,4012.0
+326,2001-05-13,parliament,ITI,Centro (IT),2,ccd_cdu,205879.0
+327,2001-05-13,parliament,ITI,Centro (IT),2,ci,137719.0
+328,2001-05-13,parliament,ITI,Centro (IT),2,com,5203.0
+329,2001-05-13,parliament,ITI,Centro (IT),2,de,122729.0
+330,2001-05-13,parliament,ITI,Centro (IT),2,ds,1736758.0
+331,2001-05-13,parliament,ITI,Centro (IT),2,fi,1822290.0
+332,2001-05-13,parliament,ITI,Centro (IT),2,fnaz,11641.0
+333,2001-05-13,parliament,ITI,Centro (IT),2,ft,15621.0
+334,2001-05-13,parliament,ITI,Centro (IT),2,girasole,140970.0
+335,2001-05-13,parliament,ITI,Centro (IT),2,idv,210118.0
+336,2001-05-13,parliament,ITI,Centro (IT),2,lega,17176.0
+337,2001-05-13,parliament,ITI,Centro (IT),2,margherita,1113321.0
+338,2001-05-13,parliament,ITI,Centro (IT),2,npsi,73116.0
+339,2001-05-13,parliament,ITI,Centro (IT),2,pb,149230.0
+340,2001-05-13,parliament,ITI,Centro (IT),2,pn,5468.0
+341,2001-05-13,parliament,ITI,Centro (IT),2,rc,451898.0
+342,2001-05-13,parliament,ITI,Centro (IT),2,re,7886.0
+343,2004-06-12,european,ITC,Nord-Ovest,0,eligible_voters,12653197.0
+344,2004-06-12,european,ITC,Nord-Ovest,1,issued_ballots,9557480.0
+345,2004-06-12,european,ITC,Nord-Ovest,2,ala,78812.0
+346,2004-06-12,european,ITC,Nord-Ovest,2,an,695481.0
+347,2004-06-12,european,ITC,Nord-Ovest,2,ap_udeur,27559.0
+348,2004-06-12,european,ITC,Nord-Ovest,2,as,89993.0
+349,2004-06-12,european,ITC,Nord-Ovest,2,bonino,250537.0
+350,2004-06-12,european,ITC,Nord-Ovest,2,ci,195141.0
+351,2004-06-12,european,ITC,Nord-Ovest,2,fi,2163308.0
+352,2004-06-12,european,ITC,Nord-Ovest,2,ft,42850.0
+353,2004-06-12,european,ITC,Nord-Ovest,2,idv_occhetto,170740.0
+354,2004-06-12,european,ITC,Nord-Ovest,2,lc,68191.0
+355,2004-06-12,european,ITC,Nord-Ovest,2,lega,993800.0
+356,2004-06-12,european,ITC,Nord-Ovest,2,mis,12498.0
+357,2004-06-12,european,ITC,Nord-Ovest,2,ne,69955.0
+358,2004-06-12,european,ITC,Nord-Ovest,2,pn,6104.0
+359,2004-06-12,european,ITC,Nord-Ovest,2,pp,157030.0
+360,2004-06-12,european,ITC,Nord-Ovest,2,pri,41849.0
+361,2004-06-12,european,ITC,Nord-Ovest,2,pss,25928.0
+362,2004-06-12,european,ITC,Nord-Ovest,2,rc,528068.0
+363,2004-06-12,european,ITC,Nord-Ovest,2,su,127061.0
+364,2004-06-12,european,ITC,Nord-Ovest,2,udc,357441.0
+365,2004-06-12,european,ITC,Nord-Ovest,2,ulivo,2517880.0
+366,2004-06-12,european,ITC,Nord-Ovest,2,uv,19923.0
+367,2004-06-12,european,ITC,Nord-Ovest,2,verdi,44566.0
+368,2004-06-12,european,ITC,Nord-Ovest,2,verdi2,200831.0
+369,2004-06-12,european,ITF,Sud,0,eligible_voters,11935287.0
+370,2004-06-12,european,ITF,Sud,1,issued_ballots,8302833.0
+371,2004-06-12,european,ITF,Sud,2,ala,9807.0
+372,2004-06-12,european,ITF,Sud,2,an,1047428.0
+373,2004-06-12,european,ITF,Sud,2,ap_udeur,268278.0
+374,2004-06-12,european,ITF,Sud,2,as,93146.0
+375,2004-06-12,european,ITF,Sud,2,bonino,103592.0
+376,2004-06-12,european,ITF,Sud,2,ci,145667.0
+377,2004-06-12,european,ITF,Sud,2,fi,1344320.0
+378,2004-06-12,european,ITF,Sud,2,ft,84037.0
+379,2004-06-12,european,ITF,Sud,2,idv_occhetto,195978.0
+380,2004-06-12,european,ITF,Sud,2,lc,83.0
+381,2004-06-12,european,ITF,Sud,2,lega,21700.0
+382,2004-06-12,european,ITF,Sud,2,mis,25649.0
+383,2004-06-12,european,ITF,Sud,2,ne,68.0
+384,2004-06-12,european,ITF,Sud,2,pn,31017.0
+385,2004-06-12,european,ITF,Sud,2,pp,62724.0
+386,2004-06-12,european,ITF,Sud,2,pri,92795.0
+387,2004-06-12,european,ITF,Sud,2,pss,41362.0
+388,2004-06-12,european,ITF,Sud,2,rc,436644.0
+389,2004-06-12,european,ITF,Sud,2,su,244627.0
+390,2004-06-12,european,ITF,Sud,2,udc,571289.0
+391,2004-06-12,european,ITF,Sud,2,ulivo,2131689.0
+392,2004-06-12,european,ITF,Sud,2,uv,3398.0
+393,2004-06-12,european,ITF,Sud,2,verdi,37266.0
+394,2004-06-12,european,ITF,Sud,2,verdi2,199537.0
+395,2004-06-12,european,ITG,Isole,0,eligible_voters,5632329.0
+396,2004-06-12,european,ITG,Isole,1,issued_ballots,3595629.0
+397,2004-06-12,european,ITG,Isole,2,ala,15350.0
+398,2004-06-12,european,ITG,Isole,2,an,442127.0
+399,2004-06-12,european,ITG,Isole,2,ap_udeur,71026.0
+400,2004-06-12,european,ITG,Isole,2,as,37608.0
+401,2004-06-12,european,ITG,Isole,2,bonino,54858.0
+402,2004-06-12,european,ITG,Isole,2,ci,76026.0
+403,2004-06-12,european,ITG,Isole,2,fi,672478.0
+404,2004-06-12,european,ITG,Isole,2,ft,18791.0
+405,2004-06-12,european,ITG,Isole,2,idv_occhetto,66073.0
+406,2004-06-12,european,ITG,Isole,2,lc,31529.0
+407,2004-06-12,european,ITG,Isole,2,lega,6805.0
+408,2004-06-12,european,ITG,Isole,2,mis,18.0
+409,2004-06-12,european,ITG,Isole,2,ne,45.0
+410,2004-06-12,european,ITG,Isole,2,pn,26020.0
+411,2004-06-12,european,ITG,Isole,2,pp,23518.0
+412,2004-06-12,european,ITG,Isole,2,pri,26987.0
+413,2004-06-12,european,ITG,Isole,2,pss,72192.0
+414,2004-06-12,european,ITG,Isole,2,rc,148034.0
+415,2004-06-12,european,ITG,Isole,2,su,62160.0
+416,2004-06-12,european,ITG,Isole,2,udc,374840.0
+417,2004-06-12,european,ITG,Isole,2,ulivo,858506.0
+418,2004-06-12,european,ITG,Isole,2,uv,2477.0
+419,2004-06-12,european,ITG,Isole,2,verdi,9570.0
+420,2004-06-12,european,ITG,Isole,2,verdi2,55416.0
+421,2004-06-12,european,ITH,Nord-Est,0,eligible_voters,9109186.0
+422,2004-06-12,european,ITH,Nord-Est,1,issued_ballots,7001745.0
+423,2004-06-12,european,ITH,Nord-Est,2,ala,46187.0
+424,2004-06-12,european,ITH,Nord-Est,2,an,584366.0
+425,2004-06-12,european,ITH,Nord-Est,2,ap_udeur,18490.0
+426,2004-06-12,european,ITH,Nord-Est,2,as,71449.0
+427,2004-06-12,european,ITH,Nord-Est,2,bonino,172571.0
+428,2004-06-12,european,ITH,Nord-Est,2,ci,141721.0
+429,2004-06-12,european,ITH,Nord-Est,2,fi,1435910.0
+430,2004-06-12,european,ITH,Nord-Est,2,ft,29254.0
+431,2004-06-12,european,ITH,Nord-Est,2,idv_occhetto,129039.0
+432,2004-06-12,european,ITH,Nord-Est,2,lc,76.0
+433,2004-06-12,european,ITH,Nord-Est,2,lega,554918.0
+434,2004-06-12,european,ITH,Nord-Est,2,mis,8230.0
+435,2004-06-12,european,ITH,Nord-Est,2,ne,7.0
+436,2004-06-12,european,ITH,Nord-Est,2,pn,5486.0
+437,2004-06-12,european,ITH,Nord-Est,2,pp,74935.0
+438,2004-06-12,european,ITH,Nord-Est,2,pri,43006.0
+439,2004-06-12,european,ITH,Nord-Est,2,pss,14946.0
+440,2004-06-12,european,ITH,Nord-Est,2,rc,323197.0
+441,2004-06-12,european,ITH,Nord-Est,2,su,95663.0
+442,2004-06-12,european,ITH,Nord-Est,2,svp,145636.0
+443,2004-06-12,european,ITH,Nord-Est,2,udc,250211.0
+444,2004-06-12,european,ITH,Nord-Est,2,ulivo,2202905.0
+445,2004-06-12,european,ITH,Nord-Est,2,uv,588.0
+446,2004-06-12,european,ITH,Nord-Est,2,verdi,35598.0
+447,2004-06-12,european,ITH,Nord-Est,2,verdi2,201306.0
+448,2004-06-12,european,ITI,Centro (IT),0,eligible_voters,9517146.0
+449,2004-06-12,european,ITI,Centro (IT),1,issued_ballots,7138514.0
+450,2004-06-12,european,ITI,Centro (IT),2,ala,7374.0
+451,2004-06-12,european,ITI,Centro (IT),2,an,983774.0
+452,2004-06-12,european,ITI,Centro (IT),2,ap_udeur,33752.0
+453,2004-06-12,european,ITI,Centro (IT),2,as,104324.0
+454,2004-06-12,european,ITI,Centro (IT),2,bonino,147900.0
+455,2004-06-12,european,ITI,Centro (IT),2,ci,222641.0
+456,2004-06-12,european,ITI,Centro (IT),2,fi,1186202.0
+457,2004-06-12,european,ITI,Centro (IT),2,ft,59159.0
+458,2004-06-12,european,ITI,Centro (IT),2,idv_occhetto,129699.0
+459,2004-06-12,european,ITI,Centro (IT),2,lc,59804.0
+460,2004-06-12,european,ITI,Centro (IT),2,lega,37218.0
+461,2004-06-12,european,ITI,Centro (IT),2,mis,16.0
+462,2004-06-12,european,ITI,Centro (IT),2,ne,53.0
+463,2004-06-12,european,ITI,Centro (IT),2,pn,8325.0
+464,2004-06-12,european,ITI,Centro (IT),2,pp,52512.0
+465,2004-06-12,european,ITI,Centro (IT),2,pri,27303.0
+466,2004-06-12,european,ITI,Centro (IT),2,pss,17022.0
+467,2004-06-12,european,ITI,Centro (IT),2,rc,531138.0
+468,2004-06-12,european,ITI,Centro (IT),2,su,130965.0
+469,2004-06-12,european,ITI,Centro (IT),2,udc,360426.0
+470,2004-06-12,european,ITI,Centro (IT),2,ulivo,2384791.0
+471,2004-06-12,european,ITI,Centro (IT),2,uv,2921.0
+472,2004-06-12,european,ITI,Centro (IT),2,verdi,29597.0
+473,2004-06-12,european,ITI,Centro (IT),2,verdi2,139684.0
+474,2006-04-09,parliament,ITC,Nord-Ovest,0,eligible_voters,12292487.0
+475,2006-04-09,parliament,ITC,Nord-Ovest,1,issued_ballots,10611393.0
+476,2006-04-09,parliament,ITC,Nord-Ovest,2,ala,44580.0
+477,2006-04-09,parliament,ITC,Nord-Ovest,2,amb,4167.0
+478,2006-04-09,parliament,ITC,Nord-Ovest,2,an,1113798.0
+479,2006-04-09,parliament,ITC,Nord-Ovest,2,asm,64723.0
+480,2006-04-09,parliament,ITC,Nord-Ovest,2,ci,228722.0
+481,2006-04-09,parliament,ITC,Nord-Ovest,2,dcnpsi,53327.0
+482,2006-04-09,parliament,ITC,Nord-Ovest,2,fi,2659239.0
+483,2006-04-09,parliament,ITC,Nord-Ovest,2,ft,56542.0
+484,2006-04-09,parliament,ITC,Nord-Ovest,2,idv,223845.0
+485,2006-04-09,parliament,ITC,Nord-Ovest,2,is,4166.0
+486,2006-04-09,parliament,ITC,Nord-Ovest,2,lega,968871.0
+487,2006-04-09,parliament,ITC,Nord-Ovest,2,ne,27196.0
+488,2006-04-09,parliament,ITC,Nord-Ovest,2,pp,164008.0
+489,2006-04-09,parliament,ITC,Nord-Ovest,2,rc,597128.0
+490,2006-04-09,parliament,ITC,Nord-Ovest,2,rnp,254328.0
+491,2006-04-09,parliament,ITC,Nord-Ovest,2,sos,2351.0
+492,2006-04-09,parliament,ITC,Nord-Ovest,2,udc,621022.0
+493,2006-04-09,parliament,ITC,Nord-Ovest,2,udeur,43392.0
+494,2006-04-09,parliament,ITC,Nord-Ovest,2,ulivo,2985767.0
+495,2006-04-09,parliament,ITC,Nord-Ovest,2,verdi,221485.0
+496,2006-04-09,parliament,ITF,Sud,0,eligible_voters,11245257.0
+497,2006-04-09,parliament,ITF,Sud,1,issued_ballots,8881785.0
+498,2006-04-09,parliament,ITF,Sud,2,amb,4673.0
+499,2006-04-09,parliament,ITF,Sud,2,an,1080868.0
+500,2006-04-09,parliament,ITF,Sud,2,asm,60642.0
+501,2006-04-09,parliament,ITF,Sud,2,ci,198261.0
+502,2006-04-09,parliament,ITF,Sud,2,dc,2447.0
+503,2006-04-09,parliament,ITF,Sud,2,dcnpsi,102206.0
+504,2006-04-09,parliament,ITF,Sud,2,dn,1088.0
+505,2006-04-09,parliament,ITF,Sud,2,fi,2188809.0
+506,2006-04-09,parliament,ITF,Sud,2,ft,55204.0
+507,2006-04-09,parliament,ITF,Sud,2,idv,244631.0
+508,2006-04-09,parliament,ITF,Sud,2,is,83213.0
+509,2006-04-09,parliament,ITF,Sud,2,lc,63026.0
+510,2006-04-09,parliament,ITF,Sud,2,lega,40024.0
+511,2006-04-09,parliament,ITF,Sud,2,ls,847.0
+512,2006-04-09,parliament,ITF,Sud,2,ne,11934.0
+513,2006-04-09,parliament,ITF,Sud,2,pis,5130.0
+514,2006-04-09,parliament,ITF,Sud,2,pli,6340.0
+515,2006-04-09,parliament,ITF,Sud,2,pp,43966.0
+516,2006-04-09,parliament,ITF,Sud,2,pu,10247.0
+517,2006-04-09,parliament,ITF,Sud,2,rc,508688.0
+518,2006-04-09,parliament,ITF,Sud,2,rnp,265645.0
+519,2006-04-09,parliament,ITF,Sud,2,sol,3215.0
+520,2006-04-09,parliament,ITF,Sud,2,sos,2090.0
+521,2006-04-09,parliament,ITF,Sud,2,tp,11208.0
+522,2006-04-09,parliament,ITF,Sud,2,udc,564645.0
+523,2006-04-09,parliament,ITF,Sud,2,udeur,314830.0
+524,2006-04-09,parliament,ITF,Sud,2,ulivo,2492065.0
+525,2006-04-09,parliament,ITF,Sud,2,verdi,194208.0
+526,2006-04-09,parliament,ITG,Isole,0,eligible_voters,5420355.0
+527,2006-04-09,parliament,ITG,Isole,1,issued_ballots,4105434.0
+528,2006-04-09,parliament,ITG,Isole,2,amb,3705.0
+529,2006-04-09,parliament,ITG,Isole,2,an,450094.0
+530,2006-04-09,parliament,ITG,Isole,2,asm,26572.0
+531,2006-04-09,parliament,ITG,Isole,2,ci,94960.0
+532,2006-04-09,parliament,ITG,Isole,2,dcnpsi,42902.0
+533,2006-04-09,parliament,ITG,Isole,2,fi,1077630.0
+534,2006-04-09,parliament,ITG,Isole,2,ft,19735.0
+535,2006-04-09,parliament,ITG,Isole,2,idv,124241.0
+536,2006-04-09,parliament,ITG,Isole,2,irs,11649.0
+537,2006-04-09,parliament,ITG,Isole,2,is,11472.0
+538,2006-04-09,parliament,ITG,Isole,2,lc,3778.0
+539,2006-04-09,parliament,ITG,Isole,2,lega,132462.0
+540,2006-04-09,parliament,ITG,Isole,2,mds,5176.0
+541,2006-04-09,parliament,ITG,Isole,2,ne,8958.0
+542,2006-04-09,parliament,ITG,Isole,2,pli,5968.0
+543,2006-04-09,parliament,ITG,Isole,2,pp,20275.0
+544,2006-04-09,parliament,ITG,Isole,2,pu,7460.0
+545,2006-04-09,parliament,ITG,Isole,2,rc,188622.0
+546,2006-04-09,parliament,ITG,Isole,2,rnp,94585.0
+547,2006-04-09,parliament,ITG,Isole,2,sn,11000.0
+548,2006-04-09,parliament,ITG,Isole,2,tp,891.0
+549,2006-04-09,parliament,ITG,Isole,2,udc,369088.0
+550,2006-04-09,parliament,ITG,Isole,2,udeur,84993.0
+551,2006-04-09,parliament,ITG,Isole,2,ulivo,1077274.0
+552,2006-04-09,parliament,ITG,Isole,2,verdi,59379.0
+553,2006-04-09,parliament,ITH,Nord-Est,0,eligible_voters,8817170.0
+554,2006-04-09,parliament,ITH,Nord-Est,1,issued_ballots,7765420.0
+555,2006-04-09,parliament,ITH,Nord-Est,2,amb,2936.0
+556,2006-04-09,parliament,ITH,Nord-Est,2,an,837029.0
+557,2006-04-09,parliament,ITH,Nord-Est,2,asm,43538.0
+558,2006-04-09,parliament,ITH,Nord-Est,2,ci,138615.0
+559,2006-04-09,parliament,ITH,Nord-Est,2,dcnpsi,31278.0
+560,2006-04-09,parliament,ITH,Nord-Est,2,df,17167.0
+561,2006-04-09,parliament,ITH,Nord-Est,2,fi,1622733.0
+562,2006-04-09,parliament,ITH,Nord-Est,2,ft,38069.0
+563,2006-04-09,parliament,ITH,Nord-Est,2,idv,151050.0
+564,2006-04-09,parliament,ITH,Nord-Est,2,is,6225.0
+565,2006-04-09,parliament,ITH,Nord-Est,2,lega,555281.0
+566,2006-04-09,parliament,ITH,Nord-Est,2,lfv,22010.0
+567,2006-04-09,parliament,ITH,Nord-Est,2,mtv,4518.0
+568,2006-04-09,parliament,ITH,Nord-Est,2,ne,8384.0
+569,2006-04-09,parliament,ITH,Nord-Est,2,pn,92079.0
+570,2006-04-09,parliament,ITH,Nord-Est,2,pp,61431.0
+571,2006-04-09,parliament,ITH,Nord-Est,2,pu,10111.0
+572,2006-04-09,parliament,ITH,Nord-Est,2,rc,348940.0
+573,2006-04-09,parliament,ITH,Nord-Est,2,rnp,169039.0
+574,2006-04-09,parliament,ITH,Nord-Est,2,sol,2663.0
+575,2006-04-09,parliament,ITH,Nord-Est,2,sos,2515.0
+576,2006-04-09,parliament,ITH,Nord-Est,2,svp,182703.0
+577,2006-04-09,parliament,ITH,Nord-Est,2,udc,506112.0
+578,2006-04-09,parliament,ITH,Nord-Est,2,udeur,29422.0
+579,2006-04-09,parliament,ITH,Nord-Est,2,ulivo,2536043.0
+580,2006-04-09,parliament,ITH,Nord-Est,2,verdi,158705.0
+581,2006-04-09,parliament,ITI,Centro (IT),0,eligible_voters,9222332.0
+582,2006-04-09,parliament,ITI,Centro (IT),1,issued_ballots,7934465.0
+583,2006-04-09,parliament,ITI,Centro (IT),2,amb,1891.0
+584,2006-04-09,parliament,ITI,Centro (IT),2,an,1225271.0
+585,2006-04-09,parliament,ITI,Centro (IT),2,asm,59963.0
+586,2006-04-09,parliament,ITI,Centro (IT),2,ci,224119.0
+587,2006-04-09,parliament,ITI,Centro (IT),2,dcnpsi,55780.0
+588,2006-04-09,parliament,ITI,Centro (IT),2,fi,1498458.0
+589,2006-04-09,parliament,ITI,Centro (IT),2,ft,61632.0
+590,2006-04-09,parliament,ITI,Centro (IT),2,idv,133325.0
+591,2006-04-09,parliament,ITI,Centro (IT),2,is,10014.0
+592,2006-04-09,parliament,ITI,Centro (IT),2,lc,6883.0
+593,2006-04-09,parliament,ITI,Centro (IT),2,lega,51396.0
+594,2006-04-09,parliament,ITI,Centro (IT),2,ne,2248.0
+595,2006-04-09,parliament,ITI,Centro (IT),2,pp,44121.0
+596,2006-04-09,parliament,ITI,Centro (IT),2,rc,586480.0
+597,2006-04-09,parliament,ITI,Centro (IT),2,rnp,206846.0
+598,2006-04-09,parliament,ITI,Centro (IT),2,tp,4135.0
+599,2006-04-09,parliament,ITI,Centro (IT),2,udc,519268.0
+600,2006-04-09,parliament,ITI,Centro (IT),2,udeur,61803.0
+601,2006-04-09,parliament,ITI,Centro (IT),2,ulivo,2838387.0
+602,2006-04-09,parliament,ITI,Centro (IT),2,verdi,150154.0
+603,2008-04-13,parliament,ITC,Nord-Ovest,0,eligible_voters,12260710.0
+604,2008-04-13,parliament,ITC,Nord-Ovest,1,issued_ballots,10158091.0
+605,2008-04-13,parliament,ITC,Nord-Ovest,2,adv,41915.0
+606,2008-04-13,parliament,ITC,Nord-Ovest,2,fn,15398.0
+607,2008-04-13,parliament,ITC,Nord-Ovest,2,idv,430666.0
+608,2008-04-13,parliament,ITC,Nord-Ovest,2,lalp,14003.0
+609,2008-04-13,parliament,ITC,Nord-Ovest,2,ldft,244107.0
+610,2008-04-13,parliament,ITC,Nord-Ovest,2,lega,1739268.0
+611,2008-04-13,parliament,ITC,Nord-Ovest,2,lgp,17704.0
+612,2008-04-13,parliament,ITC,Nord-Ovest,2,lsa,310208.0
+613,2008-04-13,parliament,ITC,Nord-Ovest,2,meda,2585.0
+614,2008-04-13,parliament,ITC,Nord-Ovest,2,pbc,35454.0
+615,2008-04-13,parliament,ITC,Nord-Ovest,2,pcl,61120.0
+616,2008-04-13,parliament,ITC,Nord-Ovest,2,pd,2988362.0
+617,2008-04-13,parliament,ITC,Nord-Ovest,2,pdl,3362490.0
+618,2008-04-13,parliament,ITC,Nord-Ovest,2,pli,23768.0
+619,2008-04-13,parliament,ITC,Nord-Ovest,2,ppa,945.0
+620,2008-04-13,parliament,ITC,Nord-Ovest,2,ps,64053.0
+621,2008-04-13,parliament,ITC,Nord-Ovest,2,sc,46871.0
+622,2008-04-13,parliament,ITC,Nord-Ovest,2,udc,440458.0
+623,2008-04-13,parliament,ITC,Nord-Ovest,2,udc2,23826.0
+624,2008-04-13,parliament,ITF,Sud,0,eligible_voters,11268411.0
+625,2008-04-13,parliament,ITF,Sud,1,issued_ballots,8563798.0
+626,2008-04-13,parliament,ITF,Sud,2,adv,20553.0
+627,2008-04-13,parliament,ITF,Sud,2,fn,18728.0
+628,2008-04-13,parliament,ITF,Sud,2,idv,437731.0
+629,2008-04-13,parliament,ITF,Sud,2,ldft,165023.0
+630,2008-04-13,parliament,ITF,Sud,2,lgp,14545.0
+631,2008-04-13,parliament,ITF,Sud,2,ls,4346.0
+632,2008-04-13,parliament,ITF,Sud,2,lsa,238117.0
+633,2008-04-13,parliament,ITF,Sud,2,mapis,176450.0
+634,2008-04-13,parliament,ITF,Sud,2,meda,5369.0
+635,2008-04-13,parliament,ITF,Sud,2,pbc,20862.0
+636,2008-04-13,parliament,ITF,Sud,2,pcl,42548.0
+637,2008-04-13,parliament,ITF,Sud,2,pd,2503502.0
+638,2008-04-13,parliament,ITF,Sud,2,pdl,3706396.0
+639,2008-04-13,parliament,ITF,Sud,2,pli,25586.0
+640,2008-04-13,parliament,ITF,Sud,2,ps,138821.0
+641,2008-04-13,parliament,ITF,Sud,2,sc,34107.0
+642,2008-04-13,parliament,ITF,Sud,2,udc,577719.0
+643,2008-04-13,parliament,ITF,Sud,2,udc2,21269.0
+644,2008-04-13,parliament,ITG,Isole,0,eligible_voters,5450810.0
+645,2008-04-13,parliament,ITG,Isole,1,issued_ballots,4051461.0
+646,2008-04-13,parliament,ITG,Isole,2,adv,14005.0
+647,2008-04-13,parliament,ITG,Isole,2,fn,9803.0
+648,2008-04-13,parliament,ITG,Isole,2,idv,134639.0
+649,2008-04-13,parliament,ITG,Isole,2,ldft,72337.0
+650,2008-04-13,parliament,ITG,Isole,2,lgp,3690.0
+651,2008-04-13,parliament,ITG,Isole,2,lsa,109554.0
+652,2008-04-13,parliament,ITG,Isole,2,mapis,223337.0
+653,2008-04-13,parliament,ITG,Isole,2,pbc,5802.0
+654,2008-04-13,parliament,ITG,Isole,2,pcl,15445.0
+655,2008-04-13,parliament,ITG,Isole,2,pd,1072706.0
+656,2008-04-13,parliament,ITG,Isole,2,pdl,1732120.0
+657,2008-04-13,parliament,ITG,Isole,2,pli,10740.0
+658,2008-04-13,parliament,ITG,Isole,2,ps,32567.0
+659,2008-04-13,parliament,ITG,Isole,2,psdaz,14856.0
+660,2008-04-13,parliament,ITG,Isole,2,sc,14930.0
+661,2008-04-13,parliament,ITG,Isole,2,sn,7182.0
+662,2008-04-13,parliament,ITG,Isole,2,udc,319618.0
+663,2008-04-13,parliament,ITG,Isole,2,udc2,9060.0
+664,2008-04-13,parliament,ITH,Nord-Est,0,eligible_voters,8822102.0
+665,2008-04-13,parliament,ITH,Nord-Est,1,issued_ballots,7480696.0
+666,2008-04-13,parliament,ITH,Nord-Est,2,adv,31497.0
+667,2008-04-13,parliament,ITH,Nord-Est,2,df,28347.0
+668,2008-04-13,parliament,ITH,Nord-Est,2,fn,25901.0
+669,2008-04-13,parliament,ITH,Nord-Est,2,idv,304234.0
+670,2008-04-13,parliament,ITH,Nord-Est,2,ldft,164590.0
+671,2008-04-13,parliament,ITH,Nord-Est,2,lega,1206817.0
+672,2008-04-13,parliament,ITH,Nord-Est,2,lgp,30905.0
+673,2008-04-13,parliament,ITH,Nord-Est,2,liv,2388.0
+674,2008-04-13,parliament,ITH,Nord-Est,2,lsa,195311.0
+675,2008-04-13,parliament,ITH,Nord-Est,2,lvr,31353.0
+676,2008-04-13,parliament,ITH,Nord-Est,2,meda,2517.0
+677,2008-04-13,parliament,ITH,Nord-Est,2,pbc,33721.0
+678,2008-04-13,parliament,ITH,Nord-Est,2,pcl,39963.0
+679,2008-04-13,parliament,ITH,Nord-Est,2,pd,2490727.0
+680,2008-04-13,parliament,ITH,Nord-Est,2,pdl,2039157.0
+681,2008-04-13,parliament,ITH,Nord-Est,2,pli,19041.0
+682,2008-04-13,parliament,ITH,Nord-Est,2,ps,44490.0
+683,2008-04-13,parliament,ITH,Nord-Est,2,sc,30497.0
+684,2008-04-13,parliament,ITH,Nord-Est,2,svp,147666.0
+685,2008-04-13,parliament,ITH,Nord-Est,2,udc,363567.0
+686,2008-04-13,parliament,ITH,Nord-Est,2,udc2,17943.0
+687,2008-04-13,parliament,ITH,Nord-Est,2,ufst,12836.0
+688,2008-04-13,parliament,ITI,Centro (IT),0,eligible_voters,9239781.0
+689,2008-04-13,parliament,ITI,Centro (IT),1,issued_ballots,7620523.0
+690,2008-04-13,parliament,ITI,Centro (IT),2,adv,27608.0
+691,2008-04-13,parliament,ITI,Centro (IT),2,fn,39007.0
+692,2008-04-13,parliament,ITI,Centro (IT),2,idv,286405.0
+693,2008-04-13,parliament,ITI,Centro (IT),2,ldft,239172.0
+694,2008-04-13,parliament,ITI,Centro (IT),2,lega,78437.0
+695,2008-04-13,parliament,ITI,Centro (IT),2,loto,1799.0
+696,2008-04-13,parliament,ITI,Centro (IT),2,lsa,271228.0
+697,2008-04-13,parliament,ITI,Centro (IT),2,mapis,10700.0
+698,2008-04-13,parliament,ITI,Centro (IT),2,meda,5978.0
+699,2008-04-13,parliament,ITI,Centro (IT),2,pac,2049.0
+700,2008-04-13,parliament,ITI,Centro (IT),2,pbc,23581.0
+701,2008-04-13,parliament,ITI,Centro (IT),2,pcl,49318.0
+702,2008-04-13,parliament,ITI,Centro (IT),2,pd,3037701.0
+703,2008-04-13,parliament,ITI,Centro (IT),2,pdl,2788702.0
+704,2008-04-13,parliament,ITI,Centro (IT),2,pli,24625.0
+705,2008-04-13,parliament,ITI,Centro (IT),2,ps,75650.0
+706,2008-04-13,parliament,ITI,Centro (IT),2,sc,41268.0
+707,2008-04-13,parliament,ITI,Centro (IT),2,udc,348957.0
+708,2008-04-13,parliament,ITI,Centro (IT),2,udc2,19388.0
+709,2009-06-07,european,ITC,Nord-Ovest,0,eligible_voters,12656495.0
+710,2009-06-07,european,ITC,Nord-Ovest,1,issued_ballots,9079809.0
+711,2009-06-07,european,ITC,Nord-Ovest,2,ald,22881.0
+712,2009-06-07,european,ITC,Nord-Ovest,2,bonino,250185.0
+713,2009-06-07,european,ITC,Nord-Ovest,2,fn,45223.0
+714,2009-06-07,european,ITC,Nord-Ovest,2,ft,56232.0
+715,2009-06-07,european,ITC,Nord-Ovest,2,idv,633747.0
+716,2009-06-07,european,ITC,Nord-Ovest,2,ldm,12192.0
+717,2009-06-07,european,ITC,Nord-Ovest,2,ldmpa,71079.0
+718,2009-06-07,european,ITC,Nord-Ovest,2,lega,1683466.0
+719,2009-06-07,european,ITC,Nord-Ovest,2,pcl,64440.0
+720,2009-06-07,european,ITC,Nord-Ovest,2,pd,1997565.0
+721,2009-06-07,european,ITC,Nord-Ovest,2,pdl,2896035.0
+722,2009-06-07,european,ITC,Nord-Ovest,2,rc,260368.0
+723,2009-06-07,european,ITC,Nord-Ovest,2,sel,181868.0
+724,2009-06-07,european,ITC,Nord-Ovest,2,udc,459670.0
+725,2009-06-07,european,ITC,Nord-Ovest,2,vda,23430.0
+726,2009-06-07,european,ITF,Sud,0,eligible_voters,12010022.0
+727,2009-06-07,european,ITF,Sud,1,issued_ballots,7685082.0
+728,2009-06-07,european,ITF,Sud,2,ald,1385.0
+729,2009-06-07,european,ITF,Sud,2,bonino,111146.0
+730,2009-06-07,european,ITF,Sud,2,fn,28802.0
+731,2009-06-07,european,ITF,Sud,2,ft,64865.0
+732,2009-06-07,european,ITF,Sud,2,idv,686234.0
+733,2009-06-07,european,ITF,Sud,2,ldm,32733.0
+734,2009-06-07,european,ITF,Sud,2,ldmpa,221330.0
+735,2009-06-07,european,ITF,Sud,2,lega,39645.0
+736,2009-06-07,european,ITF,Sud,2,pcl,26.0
+737,2009-06-07,european,ITF,Sud,2,pd,1575725.0
+738,2009-06-07,european,ITF,Sud,2,pdl,2868895.0
+739,2009-06-07,european,ITF,Sud,2,rc,277535.0
+740,2009-06-07,european,ITF,Sud,2,sel,355130.0
+741,2009-06-07,european,ITF,Sud,2,udc,583154.0
+742,2009-06-07,european,ITF,Sud,2,vda,3490.0
+743,2009-06-07,european,ITG,Isole,0,eligible_voters,5702992.0
+744,2009-06-07,european,ITG,Isole,1,issued_ballots,2689425.0
+745,2009-06-07,european,ITG,Isole,2,ald,1292.0
+746,2009-06-07,european,ITG,Isole,2,bonino,44771.0
+747,2009-06-07,european,ITG,Isole,2,fn,16.0
+748,2009-06-07,european,ITG,Isole,2,ft,15235.0
+749,2009-06-07,european,ITG,Isole,2,idv,184490.0
+750,2009-06-07,european,ITG,Isole,2,ldm,5501.0
+751,2009-06-07,european,ITG,Isole,2,ldmpa,304563.0
+752,2009-06-07,european,ITG,Isole,2,lega,9423.0
+753,2009-06-07,european,ITG,Isole,2,pcl,31.0
+754,2009-06-07,european,ITG,Isole,2,pd,612805.0
+755,2009-06-07,european,ITG,Isole,2,pdl,895358.0
+756,2009-06-07,european,ITG,Isole,2,rc,69309.0
+757,2009-06-07,european,ITG,Isole,2,sel,56617.0
+758,2009-06-07,european,ITG,Isole,2,udc,255884.0
+759,2009-06-07,european,ITG,Isole,2,vda,2451.0
+760,2009-06-07,european,ITH,Nord-Est,0,eligible_voters,9160240.0
+761,2009-06-07,european,ITH,Nord-Est,1,issued_ballots,6612497.0
+762,2009-06-07,european,ITH,Nord-Est,2,ald,237.0
+763,2009-06-07,european,ITH,Nord-Est,2,bonino,163903.0
+764,2009-06-07,european,ITH,Nord-Est,2,fn,31255.0
+765,2009-06-07,european,ITH,Nord-Est,2,ft,44145.0
+766,2009-06-07,european,ITH,Nord-Est,2,idv,456162.0
+767,2009-06-07,european,ITH,Nord-Est,2,ldm,7947.0
+768,2009-06-07,european,ITH,Nord-Est,2,ldmpa,42465.0
+769,2009-06-07,european,ITH,Nord-Est,2,lega,1206893.0
+770,2009-06-07,european,ITH,Nord-Est,2,pcl,47470.0
+771,2009-06-07,european,ITH,Nord-Est,2,pd,1779828.0
+772,2009-06-07,european,ITH,Nord-Est,2,pdl,1783862.0
+773,2009-06-07,european,ITH,Nord-Est,2,rc,148931.0
+774,2009-06-07,european,ITH,Nord-Est,2,sel,134114.0
+775,2009-06-07,european,ITH,Nord-Est,2,svp,142482.0
+776,2009-06-07,european,ITH,Nord-Est,2,udc,354713.0
+777,2009-06-07,european,ITH,Nord-Est,2,vda,573.0
+778,2009-06-07,european,ITI,Centro (IT),0,eligible_voters,9605331.0
+779,2009-06-07,european,ITI,Centro (IT),1,issued_ballots,6592349.0
+780,2009-06-07,european,ITI,Centro (IT),2,ald,1235.0
+781,2009-06-07,european,ITI,Centro (IT),2,bonino,170260.0
+782,2009-06-07,european,ITI,Centro (IT),2,fn,40486.0
+783,2009-06-07,european,ITI,Centro (IT),2,ft,62423.0
+784,2009-06-07,european,ITI,Centro (IT),2,idv,480900.0
+785,2009-06-07,european,ITI,Centro (IT),2,ldm,12398.0
+786,2009-06-07,european,ITI,Centro (IT),2,ldmpa,41290.0
+787,2009-06-07,european,ITI,Centro (IT),2,lega,185150.0
+788,2009-06-07,european,ITI,Centro (IT),2,pcl,53911.0
+789,2009-06-07,european,ITI,Centro (IT),2,pd,2023500.0
+790,2009-06-07,european,ITI,Centro (IT),2,pdl,2334726.0
+791,2009-06-07,european,ITI,Centro (IT),2,rc,279059.0
+792,2009-06-07,european,ITI,Centro (IT),2,sel,224752.0
+793,2009-06-07,european,ITI,Centro (IT),2,udc,339880.0
+794,2009-06-07,european,ITI,Centro (IT),2,vda,2911.0
+795,2013-02-24,parliament,ITC,Nord-Ovest,0,eligible_voters,12167079.0
+796,2013-02-24,parliament,ITC,Nord-Ovest,1,issued_ballots,9548531.0
+797,2013-02-24,parliament,ITC,Nord-Ovest,2,cd,21191.0
+798,2013-02-24,parliament,ITC,Nord-Ovest,2,cpi,2559.0
+799,2013-02-24,parliament,ITC,Nord-Ovest,2,fdi,168734.0
+800,2013-02-24,parliament,ITC,Nord-Ovest,2,fel,27879.0
+801,2013-02-24,parliament,ITC,Nord-Ovest,2,fli,156497.0
+802,2013-02-24,parliament,ITC,Nord-Ovest,2,fn,21160.0
+803,2013-02-24,parliament,ITC,Nord-Ovest,2,ft,13801.0
+804,2013-02-24,parliament,ITC,Nord-Ovest,2,gs,715.0
+805,2013-02-24,parliament,ITC,Nord-Ovest,2,iai,10118.0
+806,2013-02-24,parliament,ITC,Nord-Ovest,2,ip,1654.0
+807,2013-02-24,parliament,ITC,Nord-Ovest,2,ld,32129.0
+808,2013-02-24,parliament,ITC,Nord-Ovest,2,lega,885214.0
+809,2013-02-24,parliament,ITC,Nord-Ovest,2,m5s,2132410.0
+810,2013-02-24,parliament,ITC,Nord-Ovest,2,mir,9743.0
+811,2013-02-24,parliament,ITC,Nord-Ovest,2,pcl,15039.0
+812,2013-02-24,parliament,ITC,Nord-Ovest,2,pd,2369759.0
+813,2013-02-24,parliament,ITC,Nord-Ovest,2,pdl,1873327.0
+814,2013-02-24,parliament,ITC,Nord-Ovest,2,pirati,4557.0
+815,2013-02-24,parliament,ITC,Nord-Ovest,2,pp,12340.0
+816,2013-02-24,parliament,ITC,Nord-Ovest,2,ppa,1526.0
+817,2013-02-24,parliament,ITC,Nord-Ovest,2,rcv,162721.0
+818,2013-02-24,parliament,ITC,Nord-Ovest,2,ri,1281.0
+819,2013-02-24,parliament,ITC,Nord-Ovest,2,scelta,960604.0
+820,2013-02-24,parliament,ITC,Nord-Ovest,2,sel,240641.0
+821,2013-02-24,parliament,ITC,Nord-Ovest,2,udc,105511.0
+822,2013-02-24,parliament,ITF,Sud,0,eligible_voters,11276909.0
+823,2013-02-24,parliament,ITF,Sud,1,issued_ballots,7769296.0
+824,2013-02-24,parliament,ITF,Sud,2,agl,30049.0
+825,2013-02-24,parliament,ITF,Sud,2,cd,85652.0
+826,2013-02-24,parliament,ITF,Sud,2,cpi,13608.0
+827,2013-02-24,parliament,ITF,Sud,2,fdi,182419.0
+828,2013-02-24,parliament,ITF,Sud,2,fel,60575.0
+829,2013-02-24,parliament,ITF,Sud,2,fli,29157.0
+830,2013-02-24,parliament,ITF,Sud,2,fn,16386.0
+831,2013-02-24,parliament,ITF,Sud,2,ft,14461.0
+832,2013-02-24,parliament,ITF,Sud,2,gs,94150.0
+833,2013-02-24,parliament,ITF,Sud,2,iai,12334.0
+834,2013-02-24,parliament,ITF,Sud,2,ip,18863.0
+835,2013-02-24,parliament,ITF,Sud,2,ld,53161.0
+836,2013-02-24,parliament,ITF,Sud,2,lega,14763.0
+837,2013-02-24,parliament,ITF,Sud,2,lie,3243.0
+838,2013-02-24,parliament,ITF,Sud,2,m5s,1817535.0
+839,2013-02-24,parliament,ITF,Sud,2,mir,32044.0
+840,2013-02-24,parliament,ITF,Sud,2,pac,5159.0
+841,2013-02-24,parliament,ITF,Sud,2,pcl,16225.0
+842,2013-02-24,parliament,ITF,Sud,2,pd,1568943.0
+843,2013-02-24,parliament,ITF,Sud,2,pdl,2010958.0
+844,2013-02-24,parliament,ITF,Sud,2,pli,12797.0
+845,2013-02-24,parliament,ITF,Sud,2,pp,23928.0
+846,2013-02-24,parliament,ITF,Sud,2,pu,2992.0
+847,2013-02-24,parliament,ITF,Sud,2,rcv,197892.0
+848,2013-02-24,parliament,ITF,Sud,2,ri,5989.0
+849,2013-02-24,parliament,ITF,Sud,2,rmi,3180.0
+850,2013-02-24,parliament,ITF,Sud,2,scelta,514747.0
+851,2013-02-24,parliament,ITF,Sud,2,sel,335851.0
+852,2013-02-24,parliament,ITF,Sud,2,udc,216792.0
+853,2013-02-24,parliament,ITF,Sud,2,vdp,12745.0
+854,2013-02-24,parliament,ITG,Isole,0,eligible_voters,5467805.0
+855,2013-02-24,parliament,ITG,Isole,1,issued_ballots,3583483.0
+856,2013-02-24,parliament,ITG,Isole,2,agl,14141.0
+857,2013-02-24,parliament,ITG,Isole,2,cd,24624.0
+858,2013-02-24,parliament,ITG,Isole,2,fdi,55342.0
+859,2013-02-24,parliament,ITG,Isole,2,fel,20437.0
+860,2013-02-24,parliament,ITG,Isole,2,fli,13176.0
+861,2013-02-24,parliament,ITG,Isole,2,fn,6943.0
+862,2013-02-24,parliament,ITG,Isole,2,ft,2888.0
+863,2013-02-24,parliament,ITG,Isole,2,gs,50371.0
+864,2013-02-24,parliament,ITG,Isole,2,ips,7598.0
+865,2013-02-24,parliament,ITG,Isole,2,ld,21268.0
+866,2013-02-24,parliament,ITG,Isole,2,lega,6077.0
+867,2013-02-24,parliament,ITG,Isole,2,m5s,1117722.0
+868,2013-02-24,parliament,ITG,Isole,2,meris,5901.0
+869,2013-02-24,parliament,ITG,Isole,2,mir,14122.0
+870,2013-02-24,parliament,ITG,Isole,2,mpi,1884.0
+871,2013-02-24,parliament,ITG,Isole,2,pcl,6956.0
+872,2013-02-24,parliament,ITG,Isole,2,pd,700305.0
+873,2013-02-24,parliament,ITG,Isole,2,pdl,854386.0
+874,2013-02-24,parliament,ITG,Isole,2,pli,10281.0
+875,2013-02-24,parliament,ITG,Isole,2,pp,4115.0
+876,2013-02-24,parliament,ITG,Isole,2,pri,1564.0
+877,2013-02-24,parliament,ITG,Isole,2,psdaz,18585.0
+878,2013-02-24,parliament,ITG,Isole,2,rcv,111240.0
+879,2013-02-24,parliament,ITG,Isole,2,scelta,185269.0
+880,2013-02-24,parliament,ITG,Isole,2,sel,85681.0
+881,2013-02-24,parliament,ITG,Isole,2,udc,96579.0
+882,2013-02-24,parliament,ITH,Nord-Est,0,eligible_voters,8798434.0
+883,2013-02-24,parliament,ITH,Nord-Est,1,issued_ballots,7153183.0
+884,2013-02-24,parliament,ITH,Nord-Est,2,agl,6419.0
+885,2013-02-24,parliament,ITH,Nord-Est,2,cd,13933.0
+886,2013-02-24,parliament,ITH,Nord-Est,2,cpi,8657.0
+887,2013-02-24,parliament,ITH,Nord-Est,2,df,48317.0
+888,2013-02-24,parliament,ITH,Nord-Est,2,fdi,93161.0
+889,2013-02-24,parliament,ITH,Nord-Est,2,fel,18586.0
+890,2013-02-24,parliament,ITH,Nord-Est,2,fli,121575.0
+891,2013-02-24,parliament,ITH,Nord-Est,2,fn,23456.0
+892,2013-02-24,parliament,ITH,Nord-Est,2,ft,4225.0
+893,2013-02-24,parliament,ITH,Nord-Est,2,gs,1489.0
+894,2013-02-24,parliament,ITH,Nord-Est,2,iai,12934.0
+895,2013-02-24,parliament,ITH,Nord-Est,2,ip,1298.0
+896,2013-02-24,parliament,ITH,Nord-Est,2,iv,33274.0
+897,2013-02-24,parliament,ITH,Nord-Est,2,ld,26726.0
+898,2013-02-24,parliament,ITH,Nord-Est,2,lega,453127.0
+899,2013-02-24,parliament,ITH,Nord-Est,2,lvr,15838.0
+900,2013-02-24,parliament,ITH,Nord-Est,2,m5s,1719598.0
+901,2013-02-24,parliament,ITH,Nord-Est,2,mir,15571.0
+902,2013-02-24,parliament,ITH,Nord-Est,2,pcl,18818.0
+903,2013-02-24,parliament,ITH,Nord-Est,2,pd,1897883.0
+904,2013-02-24,parliament,ITH,Nord-Est,2,pdl,1185154.0
+905,2013-02-24,parliament,ITH,Nord-Est,2,pn,2865.0
+906,2013-02-24,parliament,ITH,Nord-Est,2,pp,14474.0
+907,2013-02-24,parliament,ITH,Nord-Est,2,pri,5579.0
+908,2013-02-24,parliament,ITH,Nord-Est,2,rcv,115050.0
+909,2013-02-24,parliament,ITH,Nord-Est,2,ri,953.0
+910,2013-02-24,parliament,ITH,Nord-Est,2,scelta,665856.0
+911,2013-02-24,parliament,ITH,Nord-Est,2,sel,171310.0
+912,2013-02-24,parliament,ITH,Nord-Est,2,svp,146804.0
+913,2013-02-24,parliament,ITH,Nord-Est,2,udc,90690.0
+914,2013-02-24,parliament,ITH,Nord-Est,2,vs,11378.0
+915,2013-02-24,parliament,ITI,Centro (IT),0,eligible_voters,9194927.0
+916,2013-02-24,parliament,ITI,Centro (IT),1,issued_ballots,7217048.0
+917,2013-02-24,parliament,ITI,Centro (IT),2,agl,14104.0
+918,2013-02-24,parliament,ITI,Centro (IT),2,cd,21671.0
+919,2013-02-24,parliament,ITI,Centro (IT),2,cpi,22865.0
+920,2013-02-24,parliament,ITI,Centro (IT),2,da,556.0
+921,2013-02-24,parliament,ITI,Centro (IT),2,fdi,166179.0
+922,2013-02-24,parliament,ITI,Centro (IT),2,fel,31938.0
+923,2013-02-24,parliament,ITI,Centro (IT),2,fli,60083.0
+924,2013-02-24,parliament,ITI,Centro (IT),2,fn,21857.0
+925,2013-02-24,parliament,ITI,Centro (IT),2,ft,9369.0
+926,2013-02-24,parliament,ITI,Centro (IT),2,gs,1824.0
+927,2013-02-24,parliament,ITI,Centro (IT),2,iai,7141.0
+928,2013-02-24,parliament,ITI,Centro (IT),2,ip,3817.0
+929,2013-02-24,parliament,ITI,Centro (IT),2,ld,86387.0
+930,2013-02-24,parliament,ITI,Centro (IT),2,lega,30972.0
+931,2013-02-24,parliament,ITI,Centro (IT),2,m5s,1902319.0
+932,2013-02-24,parliament,ITI,Centro (IT),2,mir,10498.0
+933,2013-02-24,parliament,ITI,Centro (IT),2,mpi,2083.0
+934,2013-02-24,parliament,ITI,Centro (IT),2,pcl,32953.0
+935,2013-02-24,parliament,ITI,Centro (IT),2,pd,2107652.0
+936,2013-02-24,parliament,ITI,Centro (IT),2,pdl,1409004.0
+937,2013-02-24,parliament,ITI,Centro (IT),2,pli,4947.0
+938,2013-02-24,parliament,ITI,Centro (IT),2,rcv,178291.0
+939,2013-02-24,parliament,ITI,Centro (IT),2,scelta,497588.0
+940,2013-02-24,parliament,ITI,Centro (IT),2,sdi,585.0
+941,2013-02-24,parliament,ITI,Centro (IT),2,sel,256079.0
+942,2013-02-24,parliament,ITI,Centro (IT),2,tipi,1452.0
+943,2013-02-24,parliament,ITI,Centro (IT),2,udc,98633.0
+944,2013-02-24,parliament,ITI,Centro (IT),2,up,1515.0
+945,2014-05-25,european,ITC,Nord-Ovest,0,eligible_voters,12648321.0
+946,2014-05-25,european,ITC,Nord-Ovest,1,issued_ballots,8352771.0
+947,2014-05-25,european,ITC,Nord-Ovest,2,fdi,253980.0
+948,2014-05-25,european,ITC,Nord-Ovest,2,fi,1291575.0
+949,2014-05-25,european,ITC,Nord-Ovest,2,idv,51655.0
+950,2014-05-25,european,ITC,Nord-Ovest,2,lae,302576.0
+951,2014-05-25,european,ITC,Nord-Ovest,2,lega,931775.0
+952,2014-05-25,european,ITC,Nord-Ovest,2,m5s,1463584.0
+953,2014-05-25,european,ITC,Nord-Ovest,2,maie,14622.0
+954,2014-05-25,european,ITC,Nord-Ovest,2,ncd_udc,275629.0
+955,2014-05-25,european,ITC,Nord-Ovest,2,pd,3225622.0
+956,2014-05-25,european,ITC,Nord-Ovest,2,se,52881.0
+957,2014-05-25,european,ITC,Nord-Ovest,2,verdi,80550.0
+958,2014-05-25,european,ITF,Sud,0,eligible_voters,12055675.0
+959,2014-05-25,european,ITF,Sud,1,issued_ballots,6232476.0
+960,2014-05-25,european,ITF,Sud,2,fdi,239188.0
+961,2014-05-25,european,ITF,Sud,2,fi,1279693.0
+962,2014-05-25,european,ITF,Sud,2,idv,56761.0
+963,2014-05-25,european,ITF,Sud,2,lae,239423.0
+964,2014-05-25,european,ITF,Sud,2,lega,43697.0
+965,2014-05-25,european,ITF,Sud,2,m5s,1386609.0
+966,2014-05-25,european,ITF,Sud,2,maie,11613.0
+967,2014-05-25,european,ITF,Sud,2,ncd_udc,378482.0
+968,2014-05-25,european,ITF,Sud,2,pd,2020394.0
+969,2014-05-25,european,ITF,Sud,2,se,62722.0
+970,2014-05-25,european,ITF,Sud,2,verdi,44307.0
+971,2014-05-25,european,ITG,Isole,0,eligible_voters,5727756.0
+972,2014-05-25,european,ITG,Isole,1,issued_ballots,2444557.0
+973,2014-05-25,european,ITG,Isole,2,fdi,75161.0
+974,2014-05-25,european,ITG,Isole,2,fi,455589.0
+975,2014-05-25,european,ITG,Isole,2,idv,18348.0
+976,2014-05-25,european,ITG,Isole,2,lae,84560.0
+977,2014-05-25,european,ITG,Isole,2,lega,22909.0
+978,2014-05-25,european,ITG,Isole,2,m5s,621843.0
+979,2014-05-25,european,ITG,Isole,2,maie,3604.0
+980,2014-05-25,european,ITG,Isole,2,ncd_udc,170767.0
+981,2014-05-25,european,ITG,Isole,2,pd,794386.0
+982,2014-05-25,european,ITG,Isole,2,se,14858.0
+983,2014-05-25,european,ITG,Isole,2,verdi,12783.0
+984,2014-05-25,european,ITH,Nord-Est,0,eligible_voters,9203368.0
+985,2014-05-25,european,ITH,Nord-Est,1,issued_ballots,5933162.0
+986,2014-05-25,european,ITH,Nord-Est,2,fdi,174841.0
+987,2014-05-25,european,ITH,Nord-Est,2,fi,738115.0
+988,2014-05-25,european,ITH,Nord-Est,2,idv,23921.0
+989,2014-05-25,european,ITH,Nord-Est,2,lae,208431.0
+990,2014-05-25,european,ITH,Nord-Est,2,lega,565525.0
+991,2014-05-25,european,ITH,Nord-Est,2,m5s,1079785.0
+992,2014-05-25,european,ITH,Nord-Est,2,maie,10065.0
+993,2014-05-25,european,ITH,Nord-Est,2,ncd_udc,175071.0
+994,2014-05-25,european,ITH,Nord-Est,2,pd,2478199.0
+995,2014-05-25,european,ITH,Nord-Est,2,se,37509.0
+996,2014-05-25,european,ITH,Nord-Est,2,svp,137448.0
+997,2014-05-25,european,ITH,Nord-Est,2,verdi,63684.0
+998,2014-05-25,european,ITI,Centro (IT),0,eligible_voters,9621049.0
+999,2014-05-25,european,ITI,Centro (IT),1,issued_ballots,5945038.0
+1000,2014-05-25,european,ITI,Centro (IT),2,fdi,260867.0
+1001,2014-05-25,european,ITI,Centro (IT),2,fi,840359.0
+1002,2014-05-25,european,ITI,Centro (IT),2,idv,29008.0
+1003,2014-05-25,european,ITI,Centro (IT),2,lae,268213.0
+1004,2014-05-25,european,ITI,Centro (IT),2,lega,122650.0
+1005,2014-05-25,european,ITI,Centro (IT),2,m5s,1241044.0
+1006,2014-05-25,european,ITI,Centro (IT),2,maie,8546.0
+1007,2014-05-25,european,ITI,Centro (IT),2,ncd_udc,199754.0
+1008,2014-05-25,european,ITI,Centro (IT),2,pd,2654260.0
+1009,2014-05-25,european,ITI,Centro (IT),2,se,28187.0
+1010,2014-05-25,european,ITI,Centro (IT),2,verdi,44119.0
+1011,2018-03-04,parliament,ITC,Nord-Ovest,0,eligible_voters,12210895.0
+1012,2018-03-04,parliament,ITC,Nord-Ovest,1,issued_ballots,9262586.0
+1013,2018-03-04,parliament,ITC,Nord-Ovest,2,10vm,12151.0
+1014,2018-03-04,parliament,ITC,Nord-Ovest,2,bnl,702.0
+1015,2018-03-04,parliament,ITC,Nord-Ovest,2,cpi,86004.0
+1016,2018-03-04,parliament,ITC,Nord-Ovest,2,cpl,33915.0
+1017,2018-03-04,parliament,ITC,Nord-Ovest,2,fdi,349691.0
+1018,2018-03-04,parliament,ITC,Nord-Ovest,2,fi,1186957.0
+1019,2018-03-04,parliament,ITC,Nord-Ovest,2,fi_fdi_mnva,0.0
+1020,2018-03-04,parliament,ITC,Nord-Ovest,2,gn,8344.0
+1021,2018-03-04,parliament,ITC,Nord-Ovest,2,iai,26162.0
+1022,2018-03-04,parliament,ITC,Nord-Ovest,2,iei,41565.0
+1023,2018-03-04,parliament,ITC,Nord-Ovest,2,inc,502.0
+1024,2018-03-04,parliament,ITC,Nord-Ovest,2,lega,2244774.0
+1025,2018-03-04,parliament,ITC,Nord-Ovest,2,leu,271092.0
+1026,2018-03-04,parliament,ITC,Nord-Ovest,2,lp,0.0
+1027,2018-03-04,parliament,ITC,Nord-Ovest,2,m5s,2004770.0
+1028,2018-03-04,parliament,ITC,Nord-Ovest,2,nci_udc,77542.0
+1029,2018-03-04,parliament,ITC,Nord-Ovest,2,pap,83004.0
+1030,2018-03-04,parliament,ITC,Nord-Ovest,2,pc,4871.0
+1031,2018-03-04,parliament,ITC,Nord-Ovest,2,pd,1785742.0
+1032,2018-03-04,parliament,ITC,Nord-Ovest,2,pd_uv_uvp_epav,0.0
+1033,2018-03-04,parliament,ITC,Nord-Ovest,2,pdf,50292.0
+1034,2018-03-04,parliament,ITC,Nord-Ovest,2,piueuropa,303256.0
+1035,2018-03-04,parliament,ITC,Nord-Ovest,2,pri_ala,4930.0
+1036,2018-03-04,parliament,ITC,Nord-Ovest,2,psr,9643.0
+1037,2018-03-04,parliament,ITC,Nord-Ovest,2,ptpt,0.0
+1038,2018-03-04,parliament,ITC,Nord-Ovest,2,pvu,12463.0
+1039,2018-03-04,parliament,ITC,Nord-Ovest,2,rciv,0.0
+1040,2018-03-04,parliament,ITC,Nord-Ovest,2,svp_patt,66.0
+1041,2018-03-04,parliament,ITF,Sud,0,eligible_voters,11128477.0
+1042,2018-03-04,parliament,ITF,Sud,1,issued_ballots,7643288.0
+1043,2018-03-04,parliament,ITF,Sud,2,10vm,5965.0
+1044,2018-03-04,parliament,ITF,Sud,2,bnl,993.0
+1045,2018-03-04,parliament,ITF,Sud,2,cpi,46660.0
+1046,2018-03-04,parliament,ITF,Sud,2,cpl,57905.0
+1047,2018-03-04,parliament,ITF,Sud,2,fdi,277346.0
+1048,2018-03-04,parliament,ITF,Sud,2,fi,1293206.0
+1049,2018-03-04,parliament,ITF,Sud,2,iai,31777.0
+1050,2018-03-04,parliament,ITF,Sud,2,iei,51099.0
+1051,2018-03-04,parliament,ITF,Sud,2,lega,446154.0
+1052,2018-03-04,parliament,ITF,Sud,2,leu,219841.0
+1053,2018-03-04,parliament,ITF,Sud,2,lp,2770.0
+1054,2018-03-04,parliament,ITF,Sud,2,m5s,3252922.0
+1055,2018-03-04,parliament,ITF,Sud,2,nci_udc,169435.0
+1056,2018-03-04,parliament,ITF,Sud,2,pap,87323.0
+1057,2018-03-04,parliament,ITF,Sud,2,pc,21099.0
+1058,2018-03-04,parliament,ITF,Sud,2,pd,952766.0
+1059,2018-03-04,parliament,ITF,Sud,2,pdf,38673.0
+1060,2018-03-04,parliament,ITF,Sud,2,piueuropa,94014.0
+1061,2018-03-04,parliament,ITF,Sud,2,pri_ala,4954.0
+1062,2018-03-04,parliament,ITF,Sud,2,psr,5228.0
+1063,2018-03-04,parliament,ITF,Sud,2,pvu,12546.0
+1064,2018-03-04,parliament,ITF,Sud,2,svp_patt,429.0
+1065,2018-03-04,parliament,ITG,Isole,0,eligible_voters,5381901.0
+1066,2018-03-04,parliament,ITG,Isole,1,issued_ballots,3415631.0
+1067,2018-03-04,parliament,ITG,Isole,2,10vm,8.0
+1068,2018-03-04,parliament,ITG,Isole,2,auto,18237.0
+1069,2018-03-04,parliament,ITG,Isole,2,bnl,5.0
+1070,2018-03-04,parliament,ITG,Isole,2,cpi,18710.0
+1071,2018-03-04,parliament,ITG,Isole,2,cpl,14937.0
+1072,2018-03-04,parliament,ITG,Isole,2,fdi,121264.0
+1073,2018-03-04,parliament,ITG,Isole,2,fi,618377.0
+1074,2018-03-04,parliament,ITG,Isole,2,gn,1.0
+1075,2018-03-04,parliament,ITG,Isole,2,iai,9490.0
+1076,2018-03-04,parliament,ITG,Isole,2,iei,13907.0
+1077,2018-03-04,parliament,ITG,Isole,2,lega,214348.0
+1078,2018-03-04,parliament,ITG,Isole,2,leu,90216.0
+1079,2018-03-04,parliament,ITG,Isole,2,lp,2501.0
+1080,2018-03-04,parliament,ITG,Isole,2,m5s,1495034.0
+1081,2018-03-04,parliament,ITG,Isole,2,nci_udc,67692.0
+1082,2018-03-04,parliament,ITG,Isole,2,pap,23633.0
+1083,2018-03-04,parliament,ITG,Isole,2,pc,10613.0
+1084,2018-03-04,parliament,ITG,Isole,2,pd,384667.0
+1085,2018-03-04,parliament,ITG,Isole,2,pdf,28786.0
+1086,2018-03-04,parliament,ITG,Isole,2,piueuropa,42387.0
+1087,2018-03-04,parliament,ITG,Isole,2,pri_ala,3.0
+1088,2018-03-04,parliament,ITG,Isole,2,psr,4.0
+1089,2018-03-04,parliament,ITG,Isole,2,pvu,4539.0
+1090,2018-03-04,parliament,ITH,Nord-Est,0,eligible_voters,8795593.0
+1091,2018-03-04,parliament,ITH,Nord-Est,1,issued_ballots,6840572.0
+1092,2018-03-04,parliament,ITH,Nord-Est,2,10vm,10970.0
+1093,2018-03-04,parliament,ITH,Nord-Est,2,bnl,573.0
+1094,2018-03-04,parliament,ITH,Nord-Est,2,cpi,57885.0
+1095,2018-03-04,parliament,ITH,Nord-Est,2,cpl,34036.0
+1096,2018-03-04,parliament,ITH,Nord-Est,2,fdi,250146.0
+1097,2018-03-04,parliament,ITH,Nord-Est,2,fi,651097.0
+1098,2018-03-04,parliament,ITH,Nord-Est,2,gn,10211.0
+1099,2018-03-04,parliament,ITH,Nord-Est,2,iai,34434.0
+1100,2018-03-04,parliament,ITH,Nord-Est,2,iei,37604.0
+1101,2018-03-04,parliament,ITH,Nord-Est,2,lega,1654935.0
+1102,2018-03-04,parliament,ITH,Nord-Est,2,leu,215241.0
+1103,2018-03-04,parliament,ITH,Nord-Est,2,lp,760.0
+1104,2018-03-04,parliament,ITH,Nord-Est,2,m5s,1570275.0
+1105,2018-03-04,parliament,ITH,Nord-Est,2,mir,676.0
+1106,2018-03-04,parliament,ITH,Nord-Est,2,nci_udc,55242.0
+1107,2018-03-04,parliament,ITH,Nord-Est,2,pap,55862.0
+1108,2018-03-04,parliament,ITH,Nord-Est,2,pc,16190.0
+1109,2018-03-04,parliament,ITH,Nord-Est,2,pd,1298276.0
+1110,2018-03-04,parliament,ITH,Nord-Est,2,pdf,53254.0
+1111,2018-03-04,parliament,ITH,Nord-Est,2,piueuropa,184084.0
+1112,2018-03-04,parliament,ITH,Nord-Est,2,ppa,5871.0
+1113,2018-03-04,parliament,ITH,Nord-Est,2,pri_ala,8282.0
+1114,2018-03-04,parliament,ITH,Nord-Est,2,psr,6630.0
+1115,2018-03-04,parliament,ITH,Nord-Est,2,pvu,13053.0
+1116,2018-03-04,parliament,ITH,Nord-Est,2,siamo,1298.0
+1117,2018-03-04,parliament,ITH,Nord-Est,2,svp_patt,126274.0
+1118,2018-03-04,parliament,ITI,Centro (IT),0,eligible_voters,9088031.0
+1119,2018-03-04,parliament,ITI,Centro (IT),1,issued_ballots,6833191.0
+1120,2018-03-04,parliament,ITI,Centro (IT),2,10vm,4131.0
+1121,2018-03-04,parliament,ITI,Centro (IT),2,bnl,1103.0
+1122,2018-03-04,parliament,ITI,Centro (IT),2,cpi,85475.0
+1123,2018-03-04,parliament,ITI,Centro (IT),2,cpl,27476.0
+1124,2018-03-04,parliament,ITI,Centro (IT),2,fdi,399865.0
+1125,2018-03-04,parliament,ITI,Centro (IT),2,fi,748469.0
+1126,2018-03-04,parliament,ITI,Centro (IT),2,iai,18117.0
+1127,2018-03-04,parliament,ITI,Centro (IT),2,iei,36805.0
+1128,2018-03-04,parliament,ITI,Centro (IT),2,lega,1016059.0
+1129,2018-03-04,parliament,ITI,Centro (IT),2,leu,236323.0
+1130,2018-03-04,parliament,ITI,Centro (IT),2,lp,3057.0
+1131,2018-03-04,parliament,ITI,Centro (IT),2,m5s,1914522.0
+1132,2018-03-04,parliament,ITI,Centro (IT),2,nci_udc,47791.0
+1133,2018-03-04,parliament,ITI,Centro (IT),2,pap,99686.0
+1134,2018-03-04,parliament,ITI,Centro (IT),2,pc,49257.0
+1135,2018-03-04,parliament,ITI,Centro (IT),2,pd,1466781.0
+1136,2018-03-04,parliament,ITI,Centro (IT),2,pdf,35341.0
+1137,2018-03-04,parliament,ITI,Centro (IT),2,piueuropa,179880.0
+1138,2018-03-04,parliament,ITI,Centro (IT),2,pri_ala,697.0
+1139,2018-03-04,parliament,ITI,Centro (IT),2,psr,5633.0
+1140,2018-03-04,parliament,ITI,Centro (IT),2,pvu,2009.0
+1141,2019-05-26,european,ITC,Nord-Ovest,0,eligible_voters,12719310.0
+1142,2019-05-26,european,ITC,Nord-Ovest,1,issued_ballots,8092838.0
+1143,2019-05-26,european,ITC,Nord-Ovest,2,ape,14742.0
+1144,2019-05-26,european,ITC,Nord-Ovest,2,cpi,25456.0
+1145,2019-05-26,european,ITC,Nord-Ovest,2,fdi,442477.0
+1146,2019-05-26,european,ITC,Nord-Ovest,2,fi,688496.0
+1147,2019-05-26,european,ITC,Nord-Ovest,2,fn,13289.0
+1148,2019-05-26,european,ITC,Nord-Ovest,2,lega,3182842.0
+1149,2019-05-26,european,ITC,Nord-Ovest,2,ls,115006.0
+1150,2019-05-26,european,ITC,Nord-Ovest,2,m5s,869492.0
+1151,2019-05-26,european,ITC,Nord-Ovest,2,pa,51012.0
+1152,2019-05-26,european,ITC,Nord-Ovest,2,pc,63992.0
+1153,2019-05-26,european,ITC,Nord-Ovest,2,pd,1835516.0
+1154,2019-05-26,european,ITC,Nord-Ovest,2,pdf,35460.0
+1155,2019-05-26,european,ITC,Nord-Ovest,2,pirata,19789.0
+1156,2019-05-26,european,ITC,Nord-Ovest,2,piue,246134.0
+1157,2019-05-26,european,ITC,Nord-Ovest,2,ppi,25791.0
+1158,2019-05-26,european,ITC,Nord-Ovest,2,verdi,189856.0
+1159,2019-05-26,european,ITF,Sud,0,eligible_voters,12001068.0
+1160,2019-05-26,european,ITF,Sud,1,issued_ballots,5797343.0
+1161,2019-05-26,european,ITF,Sud,2,ape,1130.0
+1162,2019-05-26,european,ITF,Sud,2,cpi,14703.0
+1163,2019-05-26,european,ITF,Sud,2,fdi,414380.0
+1164,2019-05-26,european,ITF,Sud,2,fi,673092.0
+1165,2019-05-26,european,ITF,Sud,2,fn,8310.0
+1166,2019-05-26,european,ITF,Sud,2,lega,1288235.0
+1167,2019-05-26,european,ITF,Sud,2,ls,110912.0
+1168,2019-05-26,european,ITF,Sud,2,m5s,1598674.0
+1169,2019-05-26,european,ITF,Sud,2,pa,32767.0
+1170,2019-05-26,european,ITF,Sud,2,pc,44427.0
+1171,2019-05-26,european,ITF,Sud,2,pd,978954.0
+1172,2019-05-26,european,ITF,Sud,2,pdf,21232.0
+1173,2019-05-26,european,ITF,Sud,2,pirata,9371.0
+1174,2019-05-26,european,ITF,Sud,2,piue,172139.0
+1175,2019-05-26,european,ITF,Sud,2,ppi,25971.0
+1176,2019-05-26,european,ITF,Sud,2,verdi,92452.0
+1177,2019-05-26,european,ITG,Isole,0,eligible_voters,5656631.0
+1178,2019-05-26,european,ITG,Isole,1,issued_ballots,2105860.0
+1179,2019-05-26,european,ITG,Isole,2,ape,827.0
+1180,2019-05-26,european,ITG,Isole,2,cpi,5184.0
+1181,2019-05-26,european,ITG,Isole,2,fdi,147994.0
+1182,2019-05-26,european,ITG,Isole,2,fi,300052.0
+1183,2019-05-26,european,ITG,Isole,2,fn,2391.0
+1184,2019-05-26,european,ITG,Isole,2,lega,457134.0
+1185,2019-05-26,european,ITG,Isole,2,ls,33385.0
+1186,2019-05-26,european,ITG,Isole,2,m5s,606481.0
+1187,2019-05-26,european,ITG,Isole,2,pa,9681.0
+1188,2019-05-26,european,ITG,Isole,2,pc,11472.0
+1189,2019-05-26,european,ITG,Isole,2,pd,375981.0
+1190,2019-05-26,european,ITG,Isole,2,pdf,10857.0
+1191,2019-05-26,european,ITG,Isole,2,pirata,3557.0
+1192,2019-05-26,european,ITG,Isole,2,piue,39588.0
+1193,2019-05-26,european,ITG,Isole,2,ppi,4681.0
+1194,2019-05-26,european,ITG,Isole,2,verdi,26157.0
+1195,2019-05-26,european,ITH,Nord-Est,0,eligible_voters,9336680.0
+1196,2019-05-26,european,ITH,Nord-Est,1,issued_ballots,5968621.0
+1197,2019-05-26,european,ITH,Nord-Est,2,ape,123.0
+1198,2019-05-26,european,ITH,Nord-Est,2,cpi,18015.0
+1199,2019-05-26,european,ITH,Nord-Est,2,fdi,332944.0
+1200,2019-05-26,european,ITH,Nord-Est,2,fi,337926.0
+1201,2019-05-26,european,ITH,Nord-Est,2,fn,10077.0
+1202,2019-05-26,european,ITH,Nord-Est,2,lega,2378959.0
+1203,2019-05-26,european,ITH,Nord-Est,2,ls,83420.0
+1204,2019-05-26,european,ITH,Nord-Est,2,m5s,597490.0
+1205,2019-05-26,european,ITH,Nord-Est,2,pa,34665.0
+1206,2019-05-26,european,ITH,Nord-Est,2,pc,45170.0
+1207,2019-05-26,european,ITH,Nord-Est,2,pd,1379982.0
+1208,2019-05-26,european,ITH,Nord-Est,2,pdf,26810.0
+1209,2019-05-26,european,ITH,Nord-Est,2,pirata,14646.0
+1210,2019-05-26,european,ITH,Nord-Est,2,piue,199923.0
+1211,2019-05-26,european,ITH,Nord-Est,2,ppa,5017.0
+1212,2019-05-26,european,ITH,Nord-Est,2,ppi,11732.0
+1213,2019-05-26,european,ITH,Nord-Est,2,svp,141353.0
+1214,2019-05-26,european,ITH,Nord-Est,2,verdi,182655.0
+1215,2019-05-26,european,ITI,Centro (IT),0,eligible_voters,9587468.0
+1216,2019-05-26,european,ITI,Centro (IT),1,issued_ballots,5688267.0
+1217,2019-05-26,european,ITI,Centro (IT),2,ape,807.0
+1218,2019-05-26,european,ITI,Centro (IT),2,cpi,25366.0
+1219,2019-05-26,european,ITI,Centro (IT),2,fdi,385437.0
+1220,2019-05-26,european,ITI,Centro (IT),2,fi,344899.0
+1221,2019-05-26,european,ITI,Centro (IT),2,fn,6715.0
+1222,2019-05-26,european,ITI,Centro (IT),2,lega,1846468.0
+1223,2019-05-26,european,ITI,Centro (IT),2,ls,122369.0
+1224,2019-05-26,european,ITI,Centro (IT),2,m5s,880390.0
+1225,2019-05-26,european,ITI,Centro (IT),2,pa,31219.0
+1226,2019-05-26,european,ITI,Centro (IT),2,pc,69171.0
+1227,2019-05-26,european,ITI,Centro (IT),2,pd,1479918.0
+1228,2019-05-26,european,ITI,Centro (IT),2,pdf,19516.0
+1229,2019-05-26,european,ITI,Centro (IT),2,pirata,12945.0
+1230,2019-05-26,european,ITI,Centro (IT),2,piue,164980.0
+1231,2019-05-26,european,ITI,Centro (IT),2,ppi,11776.0
+1232,2019-05-26,european,ITI,Centro (IT),2,verdi,118558.0
+1233,2022-09-25,parliament,ITC,Nord-Ovest,0,eligible_voters,12024471.0
+1234,2022-09-25,parliament,ITC,Nord-Ovest,1,issued_ballots,8232995.0
+1235,2022-09-25,parliament,ITC,Nord-Ovest,2,a_iv,718455.0
+1236,2022-09-25,parliament,ITC,Nord-Ovest,2,api,1992.0
+1237,2022-09-25,parliament,ITC,Nord-Ovest,2,avs,297574.0
+1238,2022-09-25,parliament,ITC,Nord-Ovest,2,fdi,2119716.0
+1239,2022-09-25,parliament,ITC,Nord-Ovest,2,fi,591892.0
+1240,2022-09-25,parliament,ITC,Nord-Ovest,2,free,736.0
+1241,2022-09-25,parliament,ITC,Nord-Ovest,2,ic_cd,30739.0
+1242,2022-09-25,parliament,ITC,Nord-Ovest,2,isp,96015.0
+1243,2022-09-25,parliament,ITC,Nord-Ovest,2,italexit,159724.0
+1244,2022-09-25,parliament,ITC,Nord-Ovest,2,lega,933899.0
+1245,2022-09-25,parliament,ITC,Nord-Ovest,2,m5s,660280.0
+1246,2022-09-25,parliament,ITC,Nord-Ovest,2,ndc,5201.0
+1247,2022-09-25,parliament,ITC,Nord-Ovest,2,nm,72684.0
+1248,2022-09-25,parliament,ITC,Nord-Ovest,2,pci,8.0
+1249,2022-09-25,parliament,ITC,Nord-Ovest,2,pd_idp,1484647.0
+1250,2022-09-25,parliament,ITC,Nord-Ovest,2,piueuropa,277091.0
+1251,2022-09-25,parliament,ITC,Nord-Ovest,2,svp_patt,146.0
+1252,2022-09-25,parliament,ITC,Nord-Ovest,2,up,93348.0
+1253,2022-09-25,parliament,ITC,Nord-Ovest,2,vita,51443.0
+1254,2022-09-25,parliament,ITF,Sud,0,eligible_voters,10938060.0
+1255,2022-09-25,parliament,ITF,Sud,1,issued_ballots,6038438.0
+1256,2022-09-25,parliament,ITF,Sud,2,a_iv,289647.0
+1257,2022-09-25,parliament,ITF,Sud,2,api,3490.0
+1258,2022-09-25,parliament,ITF,Sud,2,avs,149688.0
+1259,2022-09-25,parliament,ITF,Sud,2,fdi,1163770.0
+1260,2022-09-25,parliament,ITF,Sud,2,fdp,763.0
+1261,2022-09-25,parliament,ITF,Sud,2,fi,626339.0
+1262,2022-09-25,parliament,ITF,Sud,2,ic_cd,63167.0
+1263,2022-09-25,parliament,ITF,Sud,2,isp,54663.0
+1264,2022-09-25,parliament,ITF,Sud,2,italexit,73832.0
+1265,2022-09-25,parliament,ITF,Sud,2,lega,310124.0
+1266,2022-09-25,parliament,ITF,Sud,2,m5s,1648897.0
+1267,2022-09-25,parliament,ITF,Sud,2,ndc,35881.0
+1268,2022-09-25,parliament,ITF,Sud,2,nm,45921.0
+1269,2022-09-25,parliament,ITF,Sud,2,pa_ucdl_10vm,6481.0
+1270,2022-09-25,parliament,ITF,Sud,2,pci,9884.0
+1271,2022-09-25,parliament,ITF,Sud,2,pd_idp,870704.0
+1272,2022-09-25,parliament,ITF,Sud,2,piueuropa,101139.0
+1273,2022-09-25,parliament,ITF,Sud,2,scn,3449.0
+1274,2022-09-25,parliament,ITF,Sud,2,up,95106.0
+1275,2022-09-25,parliament,ITF,Sud,2,vita,6359.0
+1276,2022-09-25,parliament,ITG,Isole,0,eligible_voters,5266758.0
+1277,2022-09-25,parliament,ITG,Isole,1,issued_ballots,2962739.0
+1278,2022-09-25,parliament,ITG,Isole,2,a_iv,129212.0
+1279,2022-09-25,parliament,ITG,Isole,2,avs,73521.0
+1280,2022-09-25,parliament,ITG,Isole,2,fdi,543258.0
+1281,2022-09-25,parliament,ITG,Isole,2,fi,283364.0
+1282,2022-09-25,parliament,ITG,Isole,2,ic_cd,20947.0
+1283,2022-09-25,parliament,ITG,Isole,2,isp,31473.0
+1284,2022-09-25,parliament,ITG,Isole,2,italexit,50897.0
+1285,2022-09-25,parliament,ITG,Isole,2,lega,144887.0
+1286,2022-09-25,parliament,ITG,Isole,2,m5s,707200.0
+1287,2022-09-25,parliament,ITG,Isole,2,ndc,0.0
+1288,2022-09-25,parliament,ITG,Isole,2,nm,29829.0
+1289,2022-09-25,parliament,ITG,Isole,2,pci,13.0
+1290,2022-09-25,parliament,ITG,Isole,2,pd_idp,356168.0
+1291,2022-09-25,parliament,ITG,Isole,2,piueuropa,48645.0
+1292,2022-09-25,parliament,ITG,Isole,2,scn,203866.0
+1293,2022-09-25,parliament,ITG,Isole,2,up,28176.0
+1294,2022-09-25,parliament,ITG,Isole,2,vita,7541.0
+1295,2022-09-25,parliament,ITH,Nord-Est,0,eligible_voters,8802561.0
+1296,2022-09-25,parliament,ITH,Nord-Est,1,issued_ballots,6166140.0
+1297,2022-09-25,parliament,ITH,Nord-Est,2,a_iv,463686.0
+1298,2022-09-25,parliament,ITH,Nord-Est,2,api,5659.0
+1299,2022-09-25,parliament,ITH,Nord-Est,2,avs,223467.0
+1300,2022-09-25,parliament,ITH,Nord-Est,2,fdi,1629026.0
+1301,2022-09-25,parliament,ITH,Nord-Est,2,fi,355249.0
+1302,2022-09-25,parliament,ITH,Nord-Est,2,ic_cd,20338.0
+1303,2022-09-25,parliament,ITH,Nord-Est,2,isp,76095.0
+1304,2022-09-25,parliament,ITH,Nord-Est,2,italexit,130266.0
+1305,2022-09-25,parliament,ITH,Nord-Est,2,lega,626748.0
+1306,2022-09-25,parliament,ITH,Nord-Est,2,m5s,422048.0
+1307,2022-09-25,parliament,ITH,Nord-Est,2,ndc,2371.0
+1308,2022-09-25,parliament,ITH,Nord-Est,2,nm,70091.0
+1309,2022-09-25,parliament,ITH,Nord-Est,2,pa_ucdl_10vm,13601.0
+1310,2022-09-25,parliament,ITH,Nord-Est,2,pd_idp,1201547.0
+1311,2022-09-25,parliament,ITH,Nord-Est,2,piueuropa,176454.0
+1312,2022-09-25,parliament,ITH,Nord-Est,2,scn,1478.0
+1313,2022-09-25,parliament,ITH,Nord-Est,2,svp_patt,105946.0
+1314,2022-09-25,parliament,ITH,Nord-Est,2,up,64643.0
+1315,2022-09-25,parliament,ITH,Nord-Est,2,vita,96294.0
+1316,2022-09-25,parliament,ITI,Centro (IT),0,eligible_voters,8990106.0
+1317,2022-09-25,parliament,ITI,Centro (IT),1,issued_ballots,6013345.0
+1318,2022-09-25,parliament,ITI,Centro (IT),2,a_iv,464444.0
+1319,2022-09-25,parliament,ITI,Centro (IT),2,api,4673.0
+1320,2022-09-25,parliament,ITI,Centro (IT),2,avs,228669.0
+1321,2022-09-25,parliament,ITI,Centro (IT),2,fdi,1642785.0
+1322,2022-09-25,parliament,ITI,Centro (IT),2,fi,361622.0
+1323,2022-09-25,parliament,ITI,Centro (IT),2,ic_cd,26433.0
+1324,2022-09-25,parliament,ITI,Centro (IT),2,isp,78402.0
+1325,2022-09-25,parliament,ITI,Centro (IT),2,italexit,101746.0
+1326,2022-09-25,parliament,ITI,Centro (IT),2,lega,377318.0
+1327,2022-09-25,parliament,ITI,Centro (IT),2,m5s,739935.0
+1328,2022-09-25,parliament,ITI,Centro (IT),2,ndc,259.0
+1329,2022-09-25,parliament,ITI,Centro (IT),2,nm,28911.0
+1330,2022-09-25,parliament,ITI,Centro (IT),2,pci,13831.0
+1331,2022-09-25,parliament,ITI,Centro (IT),2,pd_idp,1215795.0
+1332,2022-09-25,parliament,ITI,Centro (IT),2,pfc,1304.0
+1333,2022-09-25,parliament,ITI,Centro (IT),2,piueuropa,156543.0
+1334,2022-09-25,parliament,ITI,Centro (IT),2,up,97686.0
+1335,2022-09-25,parliament,ITI,Centro (IT),2,vita,30401.0
+1336,2024-06-09,european,ITC,Nord-Ovest,0,eligible_voters,12849275.0
+1337,2024-06-09,european,ITC,Nord-Ovest,1,issued_ballots,7082647.0
+1338,2024-06-09,european,ITC,Nord-Ovest,2,ap,23472.0
+1339,2024-06-09,european,ITC,Nord-Ovest,2,avs,476933.0
+1340,2024-06-09,european,ITC,Nord-Ovest,2,azione,253436.0
+1341,2024-06-09,european,ITC,Nord-Ovest,2,fdi,2079861.0
+1342,2024-06-09,european,ITC,Nord-Ovest,2,fi_nm_ppe,631617.0
+1343,2024-06-09,european,ITC,Nord-Ovest,2,lega,800776.0
+1344,2024-06-09,european,ITC,Nord-Ovest,2,lib,50338.0
+1345,2024-06-09,european,ITC,Nord-Ovest,2,m5s,453177.0
+1346,2024-06-09,european,ITC,Nord-Ovest,2,pd,1550664.0
+1347,2024-06-09,european,ITC,Nord-Ovest,2,ptd,139553.0
+1348,2024-06-09,european,ITC,Nord-Ovest,2,rv,13196.0
+1349,2024-06-09,european,ITC,Nord-Ovest,2,sue,253497.0
+1350,2024-06-09,european,ITF,Sud,0,eligible_voters,11919628.0
+1351,2024-06-09,european,ITF,Sud,1,issued_ballots,5207776.0
+1352,2024-06-09,european,ITF,Sud,2,ap,17435.0
+1353,2024-06-09,european,ITF,Sud,2,avs,271381.0
+1354,2024-06-09,european,ITF,Sud,2,azione,160255.0
+1355,2024-06-09,european,ITF,Sud,2,fdi,1141130.0
+1356,2024-06-09,european,ITF,Sud,2,fi_nm_ppe,520335.0
+1357,2024-06-09,european,ITF,Sud,2,italexit,29326.0
+1358,2024-06-09,european,ITF,Sud,2,lega,331620.0
+1359,2024-06-09,european,ITF,Sud,2,lib,44907.0
+1360,2024-06-09,european,ITF,Sud,2,m5s,813904.0
+1361,2024-06-09,european,ITF,Sud,2,pd,1174866.0
+1362,2024-06-09,european,ITF,Sud,2,ptd,89853.0
+1363,2024-06-09,european,ITF,Sud,2,rv,388.0
+1364,2024-06-09,european,ITF,Sud,2,sue,237629.0
+1365,2024-06-09,european,ITG,Isole,0,eligible_voters,5591515.0
+1366,2024-06-09,european,ITG,Isole,1,issued_ballots,2110151.0
+1367,2024-06-09,european,ITG,Isole,2,ap,9942.0
+1368,2024-06-09,european,ITG,Isole,2,avs,120391.0
+1369,2024-06-09,european,ITG,Isole,2,azione,29086.0
+1370,2024-06-09,european,ITG,Isole,2,fdi,421698.0
+1371,2024-06-09,european,ITG,Isole,2,fi_nm_ppe,402691.0
+1372,2024-06-09,european,ITG,Isole,2,lega,138801.0
+1373,2024-06-09,european,ITG,Isole,2,lib,117907.0
+1374,2024-06-09,european,ITG,Isole,2,m5s,321270.0
+1375,2024-06-09,european,ITG,Isole,2,pd,331163.0
+1376,2024-06-09,european,ITG,Isole,2,ptd,44279.0
+1377,2024-06-09,european,ITG,Isole,2,rv,310.0
+1378,2024-06-09,european,ITG,Isole,2,sue,42343.0
+1379,2024-06-09,european,ITH,Nord-Est,0,eligible_voters,9546166.0
+1380,2024-06-09,european,ITH,Nord-Est,1,issued_ballots,5148965.0
+1381,2024-06-09,european,ITH,Nord-Est,2,ap,16027.0
+1382,2024-06-09,european,ITH,Nord-Est,2,avs,331922.0
+1383,2024-06-09,european,ITH,Nord-Est,2,azione,186846.0
+1384,2024-06-09,european,ITH,Nord-Est,2,fdi,1573648.0
+1385,2024-06-09,european,ITH,Nord-Est,2,fi_nm_ppe,346299.0
+1386,2024-06-09,european,ITH,Nord-Est,2,lega,502185.0
+1387,2024-06-09,european,ITH,Nord-Est,2,lib,40310.0
+1388,2024-06-09,european,ITH,Nord-Est,2,m5s,281761.0
+1389,2024-06-09,european,ITH,Nord-Est,2,pd,1270855.0
+1390,2024-06-09,european,ITH,Nord-Est,2,ptd,110736.0
+1391,2024-06-09,european,ITH,Nord-Est,2,rv,69.0
+1392,2024-06-09,european,ITH,Nord-Est,2,sue,150420.0
+1393,2024-06-09,european,ITH,Nord-Est,2,svp,120075.0
+1394,2024-06-09,european,ITI,Centro (IT),0,eligible_voters,9624116.0
+1395,2024-06-09,european,ITI,Centro (IT),1,issued_ballots,5052670.0
+1396,2024-06-09,european,ITI,Centro (IT),2,ap,23755.0
+1397,2024-06-09,european,ITI,Centro (IT),2,avs,361979.0
+1398,2024-06-09,european,ITI,Centro (IT),2,azione,149005.0
+1399,2024-06-09,european,ITI,Centro (IT),2,dsp,36037.0
+1400,2024-06-09,european,ITI,Centro (IT),2,fdi,1497027.0
+1401,2024-06-09,european,ITI,Centro (IT),2,fi_nm_ppe,338020.0
+1402,2024-06-09,european,ITI,Centro (IT),2,lega,323104.0
+1403,2024-06-09,european,ITI,Centro (IT),2,lib,31115.0
+1404,2024-06-09,european,ITI,Centro (IT),2,m5s,456388.0
+1405,2024-06-09,european,ITI,Centro (IT),2,pd,1281779.0
+1406,2024-06-09,european,ITI,Centro (IT),2,ptd,129460.0
+1407,2024-06-09,european,ITI,Centro (IT),2,rv,455.0
+1408,2024-06-09,european,ITI,Centro (IT),2,sue,191917.0

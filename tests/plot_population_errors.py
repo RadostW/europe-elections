@@ -132,6 +132,12 @@ if __name__ == "__main__":
     for scenario in scenarios:
 
         election = scenario.values[0]
+
+        # if election["country"] != "Italy":
+        #     continue        
+        # if str(election["election_date"]) != "2008-04-13":
+        #     continue
+
         merged_dataset = test_election_eligible(election, assert_equal=False)
         merged_dataset["error"] = (
             merged_dataset.votes - merged_dataset.persons_20_and_older

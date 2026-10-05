@@ -77,6 +77,12 @@ countries = {
     "italy": {
         "code": "IT",
         "csv": HERE / ".." / "data" / "italy" / "harmonised" / "province" / "italy.csv",
+        "meta": {
+            "path": HERE / ".." / "data" / "italy" / "harmonised" / "province" / "italy_harmonised_codes.csv",
+            "harmonised_code_column": "harmonised_code",
+            "harmonised_name_column": "harmonised_name",
+            "nuts_3_code_column": "nuts_3_code",
+        },
     },
     "france": {
         "code": "FR",
@@ -237,8 +243,8 @@ for country, country_desc in countries.items():
             country_desc["meta"]["harmonised_code_column"]
         ]
         meta_df["harmonised_name"] = meta_df[
-                    country_desc["meta"]["harmonised_name_column"]
-                ]
+            country_desc["meta"]["harmonised_name_column"]
+        ]
 
         smr = meta_df["harmonised_code"].value_counts().reset_index()
         if len(smr[smr["count"] > 1]):
@@ -348,9 +354,12 @@ for country, country_desc in countries.items():
                 "votes",
             ]
 
-            # add nuts_{level}_names from codes            
+            # add nuts_{level}_names from codes
             level_df = election_df.merge(
-                nuts_table[[f"nuts_{level}_code", f"nuts_{level}_name"]].drop_duplicates(), how="left"
+                nuts_table[
+                    [f"nuts_{level}_code", f"nuts_{level}_name"]
+                ].drop_duplicates(),
+                how="left",
             )
             level_df = level_df[columns].sort_values(by=columns)
 
@@ -399,7 +408,7 @@ for country, country_desc in countries.items():
             ]
         ]
 
-    region_data.to_csv(OUTPUT_DIR / f"{country}_region_metadata.csv")    
+    region_data.to_csv(OUTPUT_DIR / f"{country}_region_metadata.csv")
 
     # prepare maps for displaying
     for nuts_level in [3, 2, 1]:
