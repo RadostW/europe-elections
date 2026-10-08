@@ -38,7 +38,7 @@ def read_voting_population(country, election_date):
     df_comp = pd.read_csv(COMPARISON_FILE, index_col=0)
 
     year_raw = float(str(election_date)[:4])
-    year_clip = year_raw if year_raw > 2014 else 2014
+    year_clip = year_raw if year_raw >= 2014 else 2014
     year_clip = year_clip if year_clip < 2026 else 2025
 
     country_code = {
@@ -51,10 +51,38 @@ def read_voting_population(country, election_date):
         "Hungary": "HU",
     }[country]
 
-    return df_comp[
-        (df_comp["year"] == int(year_clip))
-        & (df_comp["nuts_3_code"].str.startswith(country_code))
-    ]
+    mask = df_comp["nuts_3_code"].str.startswith(country_code)
+    df_country = df_comp[mask]
+
+    if year_raw < 2014:
+        # Get 2014 and 2015 values for each NUTS-3 region
+        df_2014 = df_country[df_country["year"] == 2014].set_index("nuts_3_code")
+        df_2015 = df_country[df_country["year"] == 2015].set_index("nuts_3_code")
+
+        # Linear extrapolation:
+        # value(year) = value_2014 + (year - 2014) * (value_2015 - value_2014)
+        voting_population = df_2014.copy()
+        voting_population["year"] = year_raw
+        voting_population["persons_20_and_older"] = (
+            df_2014["persons_20_and_older"]
+            + (year_raw - 2014)
+            * (df_2015["persons_20_and_older"] - df_2014["persons_20_and_older"])
+        )
+
+        voting_population = voting_population.reset_index()
+
+    else:
+        voting_population = df_country[
+            df_country["year"] == int(year_clip)
+        ]
+    
+    nuts_level = 3
+    # drop French remote islands
+    voting_population = voting_population[~voting_population[f"nuts_{nuts_level}_code"].str.startswith("FRY")]
+    # drop Spanish remote islands
+    voting_population = voting_population[~voting_population[f"nuts_{nuts_level}_code"].str.startswith("ES7")]
+    
+    return voting_population
 
 
 def read_election_eligibility(country, election_date, election_type):
@@ -79,10 +107,19 @@ def read_election_eligibility(country, election_date, election_type):
         ["nuts_3_code", "nuts_3_name", "votes"]
     ]
     eligible_voters["year"] = year_raw
+    
+    
+
+    nuts_level = 3
+    # drop French remote islands
+    eligible_voters = eligible_voters[~eligible_voters[f"nuts_{nuts_level}_code"].str.startswith("FRY")]
+    # drop Spanish remote islands
+    eligible_voters = eligible_voters[~eligible_voters[f"nuts_{nuts_level}_code"].str.startswith("ES7")]
 
     return eligible_voters
 
 
+RELATIVE_TOLERANCE = 0.4
 def test_election_eligible(election, assert_equal=True):
 
     expected = read_voting_population(
@@ -110,7 +147,7 @@ def test_election_eligible(election, assert_equal=True):
                 columns={"persons_20_and_older": "eligible_voters"}
             ),
             check_exact=False,
-            rtol=0.50,
+            rtol=RELATIVE_TOLERANCE,
             atol=1000,
         )
 

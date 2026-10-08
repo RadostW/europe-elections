@@ -26,7 +26,7 @@ files = {
     },
     "italy": {
         "csv": "../data/downloads/italy_best_resolution.csv",
-        "topo": "../data/downloads/best_resolution_maps/italy_province.topojson",
+        "topo": "../data/downloads/best_resolution_maps/italy_comune.topojson",
     },
     "spain": {
         "csv": "../data/downloads/spain_best_resolution.csv",
@@ -115,6 +115,7 @@ fig, ax = plt.subplots(
 # fig, ax = plt.subplots(1, 1, figsize=(14, 12))
 # gdf_all["turnout_clip"] = gdf_all["turnout"].clip(0.25, 0.75)
 gdf_all["turnout_clip"] = gdf_all["turnout"].clip(0.2, 0.8)
+gdf_all = gdf_all[gdf_all["turnout_clip"].notna()]
 gdf_all.plot(
     column="turnout_clip",
     ax=ax,
