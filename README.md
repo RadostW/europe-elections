@@ -15,11 +15,11 @@ This repository contains raw data about elections (public domain unless specifie
 | Poland  | 2000-2025  | sejm, president, european  | powiat (380 units, 75k persons)                      | [1]         | [CSV](./data/downloads/poland_best_resolution.csv)  | [Metadata](./data/downloads/poland_region_metatada.csv)  |
 | Germany | 1990-2025  | bundestag, european        | kreis (400 units, 200k persons)                      | [2]         | [CSV](./data/downloads/germany_best_resolution.csv) | [Metadata](./data/downloads/germany_region_metatada.csv) |
 | France  | 1999-2025  | president, european        | departament (approx. NUTS3, 100 units, 680k persons) | [3]         | [CSV](./data/downloads/france_best_resolution.csv)  | [Metadata](./data/downloads/france_region_metatada.csv)  |
-| Italy   | 1996-2025  | camera, european           | comune (7900 units, 7k persons)                      | [4]         | [CSV](./data/downloads/italy_best_resolution.zip)   | [Metadata](./data/downloads/italy_region_metatada.csv)   |
-| Spain   | 1999-2025  | congresso, european        | provincia (approx NUTS3, 51 units, 960k persons)     | [5,6]       | [CSV](./data/downloads/spain_best_resolution.csv)   | [Metadata](./data/downloads/spain_region_metatada.csv)   |
-| Romania | 1992-2025  | house, president, european | NUTS3 (approx. judete, 42 units, 40k persons)        | [7]         | [CSV](./data/downloads/romania_best_resolution.csv) | [Metadata](./data/downloads/romania_region_metatada.csv) |
-| Hungary | 2000-2025  | parliament, european       | telepules (3155 units, 3k persons)                   | [8]         | [CSV](./data/downloads/hungary_best_resolution.csv) | [Metadata](./data/downloads/hungary_region_metatada.csv) |
-| -       | 2014-2025  | population (age groups)    | NUTS3                                                | [9]         |                                                     |                                                          |
+| Italy   | 1996-2025  | camera, european           | comune (7900 units, 7k persons)                      | [4,5]       | [CSV](./data/downloads/italy_best_resolution.zip)   | [Metadata](./data/downloads/italy_region_metatada.csv)   |
+| Spain   | 1999-2025  | congresso, european        | provincia (approx NUTS3, 51 units, 960k persons)     | [6,7]       | [CSV](./data/downloads/spain_best_resolution.csv)   | [Metadata](./data/downloads/spain_region_metatada.csv)   |
+| Romania | 1992-2025  | house, president, european | NUTS3 (approx. judete, 42 units, 40k persons)        | [8]         | [CSV](./data/downloads/romania_best_resolution.csv) | [Metadata](./data/downloads/romania_region_metatada.csv) |
+| Hungary | 2000-2025  | parliament, european       | telepules (3155 units, 3k persons)                   | [9]         | [CSV](./data/downloads/hungary_best_resolution.csv) | [Metadata](./data/downloads/hungary_region_metatada.csv) |
+| -       | 2014-2025  | population (age groups)    | NUTS3                                                | [10]        |                                                     |                                                          |
 
 Approx NUTS3 - Can differ from NUTS3 in case of islands.
 You can use metadata files to aggregate election results at the desired level.
@@ -29,11 +29,12 @@ references:
  - [2] - Own work based on [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/europawahlen/2024/publikationen.html) european results and [BBSR cross tables](https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/umstiegsschluessel/umsteigeschluessel.html)
  - [3] - Aggregation of data available via French public repository [Results by departement](https://www.data.gouv.fr/datasets/donnees-des-elections-agregees/)
  - [4] - Own work based on Italian database [Elezion Istorico](https://elezionistorico.interno.gov.it/eligendo/opendata.php)
- - [5] - Own work based on Ministry of Interior province aggregates [data](https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/)
- - [6] - (EP elections: 1999,2004,2009) Aggregation of data from [EUNED](https://eu-ned.com/datasets/)
- - [7] - Aggregation of data from [Commit Global - Rezultate Vot](https://istoric.rezultatevot.ro/) - CC BY 4.0
- - [8] - Aggregation of data from [valasztas.hu](https://www.valasztas.hu/home) ([see also](https://static.valasztas.hu/dyn/letoltesek/valasztasi_eredmenyek_1990-2024.zip))
- - [9] - Used for quality control. Data: [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_pjangrp3__custom_22957313/default/table)
+ - [5] - Excellent database of Italian geojson files [gugliemo: egojson-italy](https://github.com/guglielmo/geojson-italy/blob/main/geojson/limits_IT_municipalities.geojson) - CC BY
+ - [6] - Own work based on Ministry of Interior province aggregates [data](https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/)
+ - [7] - (EP elections: 1999,2004,2009) Aggregation of data from [EUNED](https://eu-ned.com/datasets/)
+ - [8] - Aggregation of data from [Commit Global - Rezultate Vot](https://istoric.rezultatevot.ro/) - CC BY 4.0
+ - [9] - Aggregation of data from [valasztas.hu](https://www.valasztas.hu/home) ([see also](https://static.valasztas.hu/dyn/letoltesek/valasztasi_eredmenyek_1990-2024.zip))
+ - [10] - Used for quality control. Data: [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_pjangrp3__custom_22957313/default/table)
 
 ## NUTS aggregated downloads
 
@@ -99,6 +100,6 @@ Simply run
 
 All software in this repository is licensed under GPL v 3.0 or later.
 
-Copyright (C) 2025 Radost Waszkiewicz
+Copyright (C) 2025, 2026 Radost Waszkiewicz
 
 Raw datasets are public domain unless stated otherwise. Derived datasets are licensed under CC-BY-SA 4.0, or CC-BY-SA 3.0, or GPL v 3.0 or later, at the users choice.
