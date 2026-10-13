@@ -86,8 +86,10 @@ def read_election_result(country, election_date, election_type):
 
     assert len(results_votes) > 0
 
-    total_votes = results_votes.loc["issued_ballots", "votes"]
     candidates = results_votes[results_votes["type"] == 2]
+    
+    # total_votes = results_votes.loc["issued_ballots", "votes"]
+    total_votes = candidates["votes"].sum()
 
     winner_name = candidates["votes"].idxmax()
     winner_votes = candidates.loc[winner_name, "votes"]
