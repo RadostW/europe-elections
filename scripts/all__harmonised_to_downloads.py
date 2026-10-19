@@ -430,7 +430,7 @@ for country, country_desc in countries.items():
 
         # gdf_ro.to_file(output_geojson, driver="GeoJSON")
 
-        topology = topojson.Topology(gdf_country_nuts, prequantize=1e3)
+        topology = topojson.Topology(gdf_country_nuts, prequantize=1e5)
         topology.to_json(OUTPUT_DIR / f"{country}_nuts_{nuts_level}.topojson")
 
         gdf_country_nuts.to_file(

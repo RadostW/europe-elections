@@ -12,13 +12,13 @@ plt.rcParams.update({"lines.marker": ""})  # no default markers
 
 # --- CONFIG FILES WITH FOLDER PATH ---
 files = {
-    "germany": "../data/downloads/germany.csv",
-    "france": "../data/downloads/france.csv",
-    "italy": "../data/downloads/italy.csv",
-    "spain": "../data/downloads/spain.csv",
-    "poland": "../data/downloads/poland.csv",
-    "romania": "../data/downloads/romania.csv",
-    "hungary": "../data/downloads/hungary.csv",
+    "germany": "../data/downloads/germany_nuts_1.csv",
+    "france": "../data/downloads/france_nuts_1.csv",
+    "italy": "../data/downloads/italy_nuts_1.csv",
+    "spain": "../data/downloads/spain_nuts_1.csv",
+    "poland": "../data/downloads/poland_nuts_1.csv",
+    "romania": "../data/downloads/romania_nuts_1.csv",
+    "hungary": "../data/downloads/hungary_nuts_1.csv",
 }
 
 renames = {
@@ -56,45 +56,102 @@ for country, paths in files.items():
 
 # Plotting ======================
 
-FIG_WIDTH = 7
-FIG_HEIGHT = 5
+# FIG_WIDTH = 7
+# FIG_HEIGHT = 5
 
-fig, ax = plt.subplots(
-    1,
-    1,
-    figsize=(FIG_WIDTH, FIG_HEIGHT),
-    constrained_layout=True,
+# fig, ax = plt.subplots(
+#     1,
+#     1,
+#     figsize=(FIG_WIDTH, FIG_HEIGHT),
+#     constrained_layout=True,
+# )
+
+
+# i = 0
+# j = 0
+
+# yticks = []
+# ytick_labels = []
+
+# for country, coverage in reversed(sorted(meta_dict.items())):
+
+#     for et, dates in reversed(sorted(coverage.items())):
+#         years = np.array([int(date[:4]) for date in dates])
+#         months = np.array([int(date[5:7]) for date in dates])
+#         xlist = years + months / 12
+#         ylist = [i + j] * len(xlist)
+
+#         yticks.append(i + j)        
+#         ytick_labels.append(et)
+
+#         ax.scatter(xlist, ylist, c=f"C{j}",s=30)
+#         i = i + 1
+
+#     yticks.append(i + j)
+#     ytick_labels.append(country.title())
+#     i = i + 1
+
+#     j = j + 1
+
+
+# ax.set_xlim(2000, None)
+# ax.set_yticks(yticks, ytick_labels)
+
+# plt.show()
+
+from collections import defaultdict
+
+# Map election types to letters
+election_codes = {
+    'european': 'e',
+    'parliament': 'l',
+    'president I': 'p',
+    'president II': 'p',
+}
+
+# Map country names to column abbreviations
+country_codes = {
+    'germany': 'DE',
+    'france': 'FR',
+    'italy': 'IT',
+    'spain': 'ES',
+    'poland': 'PL',
+    'romania': 'RO',
+    'hungary': 'HU',
+}
+
+# Collect elections by country and year
+data = defaultdict(lambda: defaultdict(set))
+
+for country, elections in meta_dict.items():
+    code = country_codes[country]
+
+    for election_type, dates in elections.items():
+        letter = election_codes[election_type]
+
+        for date in dates:
+            year = int(date[:4])
+            data[year][code].add(letter)
+
+# Create the DataFrame
+years = range(1992, 2027)
+
+df = pd.DataFrame(
+    {
+        code: {
+            year: '+'.join(sorted(data[year][code]))
+            for year in years
+            if data[year][code]
+        }
+        for code in country_codes.values()
+    }
 )
 
+# Replace missing values with empty strings
+df = df.reindex(years).fillna('')
 
-i = 0
-j = 0
+df.index.name = 'Year'
 
-yticks = []
-ytick_labels = []
+print(df)
 
-for country, coverage in reversed(sorted(meta_dict.items())):
-
-    for et, dates in reversed(sorted(coverage.items())):
-        years = np.array([int(date[:4]) for date in dates])
-        months = np.array([int(date[5:7]) for date in dates])
-        xlist = years + months / 12
-        ylist = [i + j] * len(xlist)
-
-        yticks.append(i + j)        
-        ytick_labels.append(et)
-
-        ax.scatter(xlist, ylist, c=f"C{j}",s=30)
-        i = i + 1
-
-    yticks.append(i + j)
-    ytick_labels.append(country.title())
-    i = i + 1
-
-    j = j + 1
-
-
-ax.set_xlim(2000, None)
-ax.set_yticks(yticks, ytick_labels)
-
-plt.show()
+print({k:{t:len(s) for t,s in v.items()} for k,v in meta_dict.items()})

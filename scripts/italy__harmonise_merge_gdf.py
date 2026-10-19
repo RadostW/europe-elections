@@ -103,6 +103,7 @@ def merge_with_gdf(
 
     merged.loc[merged["island_comune"], "mistake"] = False  # remove false positives
     merged_mistakes = merged[merged.mistake].copy()
+
     merged = merged[~merged.mistake].drop(columns="mistake")
 
     merged = merged[~merged["locality_key"].duplicated()] # drop multi-matched localities
@@ -135,6 +136,8 @@ def merge_with_gdf(
     )
     merged_fuzzy_df = merged_fuzzy_results["df"]
     merged_fuzzy_diagnostics = merged_fuzzy_results["diagnostics"]
+
+    print(merged_fuzzy_diagnostics.iloc[:20])
 
     merged_fuzzy_df["match_method"] = "fuzzy"
 

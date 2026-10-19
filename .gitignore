@@ -3,5 +3,8 @@
 *.pdf
 *.xlsx
 
+# this file is too large to store on github - store .zip instead
+data/downloads/italy_best_resolution.csv
+
 **/__pycache__/
 
